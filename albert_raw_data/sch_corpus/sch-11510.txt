@@ -1,0 +1,39 @@
+Part of the speech...
+Mej ho paab kuv nrhav cov lug Moob rua cov lug nuab hab seb:
+1.  Noun
+2.  Verb
+3.  Pronoun
+4.  Adjective
+5.  Adverb
+6. Preposition
+7. Conjunction
+8. Interjection or exclamation
+Ua mej tsaug nawb = thank you very much.
+7.
+
+Zoo le tsi muaj leejtwg pum losyog tsi muaj leejtwg teb le.  Ca kuv ho
+muab qhov kws kuv tshawb, nrhav, hab pum ntawd tuaj lu rua huv nuav
+saibseb puas raug le moob tej ncaujlug, lubneej, hab kevxaav.
+Nyeem, twm, hab caab rua tej soblug nraagqaab nuav:
+Lug Moob	                Lug English	Lug Pevtxwv
+Npe	                Noun	                Tsev, npua, ntoo
+Ua	                Verb	                Moog, noj, nyobtsawg
+Npe Hloovchaw	Pronoun	                Koj, kuv, puab, nwg
+Hastxug	                Adjective	                Dlaaj, luj, ntev
+Pavtxug	                Adverb	                Maajmaam
+Txawbrua	                Preposition	Ntawd, sau
+Txuasntxiv	                Conjunction	Hab, tamsis
+Suabqw	                Interjection	                Hwb!
+
+Zoo le tsi muaj leejtwg teb, pum, losyog sau txuasntxiv rua.  Ca kuv
+ho muab tej kws kuv moog tshawb, nrhav, hab pum ntawd tuaj txawb ntxiv
+rua huv nuav.
+Lug Moob	Lug English	Lug Pevtxwv
+Npe	Noun	Tsev, npua, ntoo
+Ua	Verb	Moog, noj, nyobtsawg
+Npe Hloovchaw	Pronoun	Koj, kuv, puab, nwg
+Hastxug	Adjective	Dlaaj, luj, ntev
+Pavtxug	Adverb	Maajmaam
+Txawbrua	Preposition	Ntawd, sau
+Txuasntxiv	Conjunction	Hab, tamsis
+Suabqw	Interjection	Hwb!

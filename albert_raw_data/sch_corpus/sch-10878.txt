@@ -1,0 +1,81 @@
+hais lub zero hauv lus hmoob yog hais li cas? hais number yog hais li cas?
+
+ntxaiv/zauv
+
+zero/oval = qaum
+
+Hais lub zero hauv lus hmoob yog hais li cas? hais number yog hais li
+cas?
+Tus zauv ntxais. Yog koj xav paub txog hmoob li zauv koj mus saib, sau
+tseg thiab tau rau ntawm hmoobwiki
+http://hmongportal.com/wiki/index.php?title=Zauv
+Uatsaug
+LOM
+
+Lus hmoob Xov Tshoj...  = YAJ NTSHIS
+Lus hmoob Tuam tshoj  =  Lub Qe, lub qai
+NUMBER = XAM PHAJ
+
+Nres and all,
+Raws le kuv xaav mas lu lug "Xaamphaj" nuav txhais has tas
+"calculation" nua laiv...
+ms
+
+MS
+yog los mas...calculation or accounting...los tau thiab.
+
+PY LOM,
+Raws li kuv mus saib hauv koj qhov link, kuv pom li nram no:
+"
+0 	1 	2 	3 	4 	5 	6 	7 	8 	9
+Ntxaiv 	Ib 	Ob 	Peb 	Plaub 	Tsib 	Rau 	Xya 	Yim 	Cuaj
+10 	20 	30 	40 	50 	60 	70 	80 	90 	100
+Kaum 	Neesnkaum 	Pebcaug 	Plaubcaug 	Tsibcaug 	Raucaum 	Xyacaum
+Yimcaum 	Cuajcaum 	Ibpuas
+1,000 	1,000,000 	1,000,000,000 	1,000,000,000,000 	1,000^5 	1,000^6
+1,000^7 	1,000^8 	1,000^9 	1,000^10
+Ibtxhiab 	Ibvam 	Ibjuab 	Ibroob 	Ibtwd 	Ibneed 	Ibtawd 	Ibcuad 	Ibked
+Ibtad
+"
+Lwm yam kuj yog lawm thiab tabsis kuv tsis tshua meej pem txog thaum
+suav nto vam rov saud lawm. Kuv pom tus sau no sau yuam kev me ntsis
+lawm. Ua ntej kuv yuav muab kho, cia kuv nug seb peb feem coob to taub
+li cas tso. Raws li qhov kuv nco tau thaum peb kawm ntawv Hmoob nyob
+Vibnais mas peb suav li no: (Hmoob suav li Thaib & Nplog suav)
+cua = ones
+caum = tens
+pua = hundreds
+txheeb = thousands
+liab = ten thousands
+vam = hundred thousands
+ntsuab = millions
+roob = ten millions
+tw = hundred millions
+hneev = billions
+taw = ten billions
+zuav = hundred billions
+kem = trillions
+tad = ten trillions
+Nej leej twb nco meej los yog muaj phau ntawv no thov pab qhia seb li
+kuv nco tau puas yuam kev. Yog yuav kev qhov twb los pab kho rau.
+HL
+
+PY LOMTED,
+Qhov koj hais los yeej tsis tau xam hais tias tsis yog. Qhov kuv hais
+los yeej tsis tau txhais hais tias yog qhov yog lawm. Txawm li cas los
+peb yuav tsum xyuas qhov kom tseeb xwb.  Lub sijhawm uas lawv tsim cov
+lus no yog nyog rau Thaib teb, yog li ntawd lawv thiaj suav li Nplog
+thiab Thaib suav. Koj puas tau hnov Hmoob, Nplog thiab Thaib nyiam siv
+ib mwmn (10,000), ib xemn (100,000)? Hos qhov uas Hmoob ib txwm siv,
+tsis hais ua ntej los tom qab lawv tsim tau cov kev suav no mas Hmoob
+yeej suav li Miskas suav thiab xwb (kaum txhiab = 10,000, ib puas
+txhiab = 100,000).
+Sim mus saib qhov qub lus no seb lwm tus ho hais li cas thiab.
+http://groups.google.com/group/soc.culture.hmong/browse_thread/thread/bf7fa24dc95df336/9a6326e144f70810?hl=en&lnk=gst&q=cua+caum+pua+txheeb#9a6326e144f70810
+Vam hais tias lwm leej lwm tus yuav tuaj faib lawv li tswvyim ntxiv.
+HL
+
+Uatsaug HL rau qhov reference, kuv jeeg tias tsoom hmoob sawvdaws yuav
+muab kevkoomtes thiab lauj lawv lub sijhawm sau lawm tej tswvyim tseg
+cia thiab yuav los mus txhau qhov jeeb rau peb sawvdaws tau siv.
+LOMTED

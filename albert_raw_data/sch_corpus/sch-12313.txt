@@ -1,0 +1,26 @@
+Cov npoj yaig sawvdaws, kuv pheej hnov nej ib cov pheej niaj hnub hais
+tias peb Hmoob TSEEM TSIS tau ciaj haiv, tsis tau muaj haiv los yog
+tsis tau yog haiv no es kuv yuav ua ib niag neeg ruam nug nej hais
+tias thov nej sim DEFINE lo lus "ciaj haiv los yog muaj haiv" no rau
+peb seb txhais li cas.   Yog ua cas tam sim no Hmoob thiaj tsis tau
+ciaj/muaj haiv.  Yuav tsum txog qhov zoo li cas es thiaj hais tau tias
+hais tias, Hmoob "ciaj/muaj haiv" lawm no mas (e.g. Hmoob yuav tsum
+muaj teb chaws, muaj bordary, muaj Hmoob government, txhua txhua tus
+Hmoob yuav tsum los nyob koom zej koom zos rau 1 lub teb chaws xwb
+los, Hmoob yuav tsum ya tau mus saum hli los, tshuav dab tsi thiab los
+tsis yog tej no).
+Thov define/list raws li nram qab no.  Hmoob yuav tsum muaj li nram
+qab no mas thiaj hais tau hais tias Hmoob ciaj/muaj haiv:
+1.
+2.
+3.
+etc..
+Ua tsaug.
+
+Kwvtij Hmoob,
+Peb Hmoob yeej tsis tau yog ib haivneeg, peb tsuas yog ib tsavneeg
+nyob hauv ib lub tebchaws xwb.  Yuav ciaj tau haiv mas yog thaum peb
+muaj ib daim av rau peb tswj peb yog peb own government peb thiaj yog
+haiv.  Yog peb sis muaj li no ces peb yeej tseem ciaj tsis tau tau
+haiv.
+Chia
