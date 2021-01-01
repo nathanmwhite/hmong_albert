@@ -1,0 +1,12 @@
+yog peb paub tias next week tom ntej no  Chance of precipitation yog li nram no :
+MONDAY -- Chance of precipitation =25%
+TUESDAY -- Chance of precipitation=20%
+WEDNESDAY -- Chance of precipitation= 35%
+THURSDAY -- Chance of precipitation= 15%
+FRIDAY -- Chance of precipitation= 50%
+SATURDAY -- Chance of precipitation= 30%
+SUNDAY  -- Chance of precipitation= 25%
+QUESTION : what is the Chance of precipitation for the whole week next week ?
+yooj8 os yom . mus xuas hlwb tsoo kom tau qhov answer .
+
+tus keej math li kuv tseem npeeg tsis tau li  thiab vim ziooli tshaj 100% lawm ntsis sub . :(
