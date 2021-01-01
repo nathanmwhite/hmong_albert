@@ -1,0 +1,76 @@
+hawm ib tsoom npoj yaig txhua tus,
+nej pom peb kev sib tham hauv sch no zoo li cas lawm (nce qib los poob
+qib) xwb?  tam li kuv soj ntsuam los tau 2 lub xyoos no mas peb yeej
+nce qib siab (deb) kawg li lawm.  yog peb kev sib tham hauv sch no zoo
+li no mus xwb, kuv tseeg hais tias ntshe hmoob yuav laj/kaw (lock)
+tsis tau hmoob lub qhov rooj li lawm (hmoob rooj kawg paim).
+hauv qab no yog kuv muab txheeb sua (analyze) sau raws li qhov kuv pom
+peb kev sib tham hauv sch no:
+1.  hmoob sib ntxub zog tuaj lawm.
+2.  hmoob pom kev deb zog qub ntxiv lawm.
+3.  hmoob muaj peev xwm hais tau txhua yam li hmoob xav hais lawm.
+4.  hmoob sib hwm zog qub ntxiv lawm.
+5.  hmoob txawj sib cav zog qub ntxiv lawm.
+6.  hmoob txawj thim xav zog qub ntxiv lawm.
+7.  hmoob rub siab ti/nqaim zog tuaj lawm.
+8.  hmoob txawj zais siab zog qub lawm.
+9.  hmoob txawj cuab ntse zog tuaj lawm.
+10.  hmoob txawj lim yiam zog lawm.
+seb tsuav no nej mam ntxiv rau...
+neohmong
+
+neohmong,
+koj nqai lus thib 10 hais tias "hmoob txawj lim yaim zog tuaj lawm" no
+es kuv tsi to taub xyov koj hais dab tsi naj? puas yog koj hais tias
+hmoob txawj sib yaim zog tuaj lawm no? hehehehehehe...
+ms
+
+neohmong,
+your so-called "anlysis" does not make logical sense.  how do "hmong
+sib hwm zog qub ntxiv lawm," when "hmong sib ntxub zog tuaj lawm"?
+how do "hmoob txawj thim xav zog qub ntxiv lawm," when "hmoob rub siab
+ti/nqaim zog tuaj lawm?"  you have not anlyzed anything.  you
+baiscally made a bunch of statements that have little support.
+txais
+
+neohmong,
+rooj tsis paim los tsuav rwj paim xwb los mas.
+ntuj yeej yuav tshau zuj zus os yawg. koj saib zab hais tias twg ruam
+ces thaum kawg ua zab qhev no ces charlie thiab nkauj nyiag twb yaum
+kiag peter phiab mus zwm zab lawm ne pos yog maj? it is
+unbelievable...tej neeg muaj peev xwm li charlie txawm nyoo mus ua zab
+qhev lawm tiag tiag...no kuv kuj surprise loj kawg li.
+tseemyeej.
+
+tus phooj ywg neohmong,
+kuv xav tias koj yuav kev lawm vim koj siv (generalized) lo lus
+"hmoob" no.
+ob peb tug nyuag me nyuam yaus tuaj mus sib txeeb qhob noom noj nyob
+rau hauv sch no xwb txhob muab piv rau peb hais neeg hmoob.  peb hmoob
+xuam coob yeej yog neeg zoo thiab yeej txawj sib hlub heev.
+-cha.
+
+oops!
+tij laug hmoobsib, sau yuam kev lawm...tsis yog "lim yiam" hos yog
+"lim hiam" koj paub qhov kuv hais lawm.  koj mam li pab kho rau.
+tseemyeej, txawm tsis yog li kuv hais "rooj paim" los yeej yog "rwj
+paim" li koj hais lawm.  tab sis kuv yeej tsom ntsoov hais lo "hmoob
+rooj paim" ntag od.  vim muaj peb ib txhia tsis tau paub lo lub "rooj
+paim" meej nad.
+txais, tej zaum koj hais yog lawm instead of "analyze" i should use
+the word summarize vim kuv los siv lo lus hmoob "txheeb sua".  qhov
+kuv muab tso rov quav qees mas vim peb kev sib tham yeej los ntws mus
+li tiag ned.  li cas los puas chawj, nej mam li nrog kuv txheeb kom
+meej meej seb mus li lawm tiag.
+cha, kuv yeem los tsis yuam kev kiag li nawd.  koj saib kom meej meej
+od, kuv tsis tau hais lo "haiv hmoob" tiam sis, qhov tseeb, kuv sau lo
+"hmoob" no tiag mad.
+ua tsaug,
+neohmong
+
+nej sim saib seb ib tug ph.d qhov analysis es yog zoo li no xwb puas
+tsim nws tau nws qhov ph.d mas. hais lus zoo li ib tug me nyuam yaus
+ruam ruam xwb.
+yog ib tug ph.d es zoo li no xwb kuv xav tias nws yog ib tug ph.d uas
+ruam tshaj plaws nyob qab ntuj no lawm.
+amen
