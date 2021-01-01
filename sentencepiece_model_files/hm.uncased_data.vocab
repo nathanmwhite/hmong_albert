@@ -1,6 +1,9 @@
 <unk>	0
 <s>	0
 </s>	0
+[CLS]	0
+[SEP]	0
+[MASK]	0
 .	-3.31997
 ,	-3.59032
 ▁yog	-3.9735
@@ -49995,6 +49998,3 @@ sbsasbr	-17.1991
 rvcn	-17.1997
 oumtri	-17.2
 ▁scrutinize	-17.2001
-gdhvh	-17.2004
-gujrgu	-17.2005
-bioperforma	-17.2006
