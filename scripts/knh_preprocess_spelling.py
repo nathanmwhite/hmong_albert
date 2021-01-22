@@ -1,7 +1,35 @@
+#!/usr/bin/python
+
+# Othographic preprocessing script for Hmong ALBERT project
+# specific to Kawm Ntawv Hmoob (Cha 1994) text
+# Copyright (c) 2021 Hmong Medical Corpus Project
+# Author : Nathan M. White <nathan.white1@my.jcu.edu.au>
+"""
+This file contains a script that normalizes text
+following a rule-based replacement methodology.
+It is specific to the files derived from the book
+"Kawm Ntawv Hmoob" by Gary Tua Cha, which contains two
+features that require normalization:
+1) A special orthography inconsistent with other text data, and
+2) Errors caused by the OCR process.
+The script found here corrects these.
+"""
+
 import os
 import re
 import sys
 
+# Copyright notice
+__copyright__ = "Copyright (c) 2021 Hmong Medical Corpus Project"
+
+# project_url
+__url__ = "https://corpus.ap-southeast-2.elasticbeanstalk.com/hminterface"
+
+# author
+__author__ = "Nathan M. White"
+__author_email__ = "nathan.white1@my.jcu.edu.au"
+
+# central function of script
 def process_text(filename, cased=False):
     replacement_pairs = [(' lb', ' Ib'),
                          ('(?<=[aeiowhH])rn(?=[.,!? ])', 'm'),
