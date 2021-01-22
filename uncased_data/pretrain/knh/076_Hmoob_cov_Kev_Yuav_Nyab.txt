@@ -25,8 +25,8 @@ lawm. txawm nws kam thiab tsis kam los cia li kwv mus yuav poj niam xwb,
 thiab txog thaum tuaj ua tshoob lawm ces tus ntxhais niam thiab txiv yeej
 yuav tsis hais dab tsi li lawm. kev sib yuav li no nws kuj nrov rau teb chaws
 thiab yog hais tias tus ntxhais ntawd muaj hluas nraug zoo mas kuj ua rau tus
-hluas jib kev nyuaj siab mus lawm ntus.
-cov uas sib yuav nyuaj siab kom kawg gaus rau tus ntxhais mas yog tus
+hluas ntsib kev nyuaj siab mus lawm ntus.
+cov uas sib yuav nyuaj siab kom kawg nkaus rau tus ntxhais mas yog tus
 tub tuaj nqes tsev hais yuav tus ntxhais. niam thiab txiv txawm tsis kam muab
 tus ntxhais rau lawv yuav los tus tub, lawv muab nyiaj tus tus niam tus txiv
 ntau ntau, ces thaum kawg niam txiv thiab kwv tij kawg yuav tau muab tus
@@ -52,6 +52,6 @@ txoj kev yuav poj lag tub se uas yog tuaj nqes tsev hais niaj hnub no kuj
 tseem muaj thiab tab sis muaj tsawg lawm thiab muaj nyob rau tej pawg neeg
 lawm xwb. cov hmoob coob lawv tsis siv lawm, vim lawv tau paub thiab pom
 tias muaj ntau zau nws muaj teeb meem rau lawv lawm, thiab tsis tas li
-ntawd, cov tub ntxhais niaj hnub nim no, lawv txawj je dua cov thaum ub
+ntawd, cov tub ntxhais niaj hnub nim no, lawv txawj ntse dua cov thaum ub
 lawm. lawv tsis kam ces tsis kam xwb. nws yog lawv lub neej cia lawv tus
 kheej los mus txiav txim siab rau lawv.

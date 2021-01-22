@@ -3,49 +3,49 @@ poj ntxoo no kuj muaj ntau tsav ntau yam li tej tib neeg. tus uas kuv
 yuav muab hais qhia pub rau nej no mas yog ib tug poj ntxoog uas neeg tuag
 mus ua.
 nws twb yog tau muaj ze li plaub caug tawm xyoo los lawm uas muaj ib
-tug hluas hmoob hawj be hu ua tswv yeeb tau mus yuav tau nws tus poj
-niam los. gawv ob niam txiv ntawd txoj kev sib hlub kuj zoo heev. yog li no,
-nws kuj ua rau neeg teb chaws kuj jhaw gawv txoj kev sib hlub, sib pab, thiab
+tug hluas hmoob hawj npe hu ua tswv yeeb tau mus yuav tau nws tus poj
+niam los. nkawv ob niam txiv ntawd txoj kev sib hlub kuj zoo heev. yog li no,
+nws kuj ua rau neeg teb chaws kuj ntshaw nkawv txoj kev sib hlub, sib pab, thiab
 kev ua niam txiv. vim yog txoj kev sib hlub no muab ua tau zoo dhau hwv
-lawm, neej los jhaw thiab dab los jhaw txog gawv. gawv los mus ua tau txij
-gawm tau txwm gaus ob xyoos, thiab gawv nyuam qhuav yug tau gawv thawj
-tug mi nyuam xwb. leej niam cia li tau mob thiab kho kawg gaus siab li
+lawm, neej los ntshaw thiab dab los ntshaw txog nkawv. nkawv los mus ua tau txij
+gawm tau txwm nkaus ob xyoos, thiab nkawv nyuam qhuav yug tau nkawv thawj
+tug mi nyuam xwb. leej niam cia li tau mob thiab kho kawg nkaus siab li
 hmoob nyob toj siab tej txuj ci los kuj kho tsis zoo. thaum kawg ntawd leej
 niam thiaj tau tso neej sab tseg thiab thiaj li mus dua dab sab lawm.
 ib txij li thaum leej niam twb tuag, thiab nws twb tau ob peb lub hlis
 tom qab no lawm, leej txiv yeej tseem quaj hu leej niam rau txhua txhia txoj
 ke. ib hnub twg nws mus xyuas nws pom niam lub ntxa ob peb zaug tsis tsaus
-ntuj. nws zoo yam gaus ib tug neeg vwm. tsis tas li ntawd, nws tseem tseg
+ntuj. nws zoo yam nkaus ib tug neeg vwm. tsis tas li ntawd, nws tseem tseg
 tau tus mi nyuam mos rau tus txiv. tus mi nyuam quaj thaum twg tus txiv
 nrog tus mi nyuam quaj thaum ntawd. kev nyuaj siab thiab kev tsaus ntuj
-nyob rau ntawm tus txiv kuj tsis paub tias yuavmuaj txog baum li cas, tab sis
+nyob rau ntawm tus txiv kuj tsis paub tias yuavmuaj txog npaum li cas, tab sis
 nws tau mus dhia qab tsuas ob zaug thaum nws poj niam tseem tuag dai ncuv
 rau pem hauv plag. yog cov kwv tij thiab niam thiab txiv mus caum tau thiab
 muaj coj rov qab los lawm xwb.
-nws twb yog tau txwm gaus ib xyoos uas nws poj niam tau ncaim nws
+nws twb yog tau txwm nkaus ib xyoos uas nws poj niam tau ncaim nws
 lawm; nws thiaj li tau mus pib ua dua ib lub neej tshiab. lub neej tshiab ntawd
 kuj yog tsuas zoo li lub teb lub chaw thiab xwb. nws yeej pauv tsis tau lub neej
-uas tau lov jis tas los lawm. tsis tas li ntawd, tus niam tshiab los kuj tsis tshua
+uas tau lov ntsis tas los lawm. tsis tas li ntawd, tus niam tshiab los kuj tsis tshua
 hlub tus mi nyuam ua tus niam hlob tau tso tseg rau leej txiv tu ntawd thiab.
-nws yog tau peb xyoo txwm gaus, hmo ntawd leej txiv tau ntaus ib zag
+nws yog tau peb xyoo txwm nkaus, hmo ntawd leej txiv tau ntaus ib zag
 bau suav pom tus nws niam hlob uas ib txij li nws tau tas sim neej lawm leej
-txiv yeej tsis tau ua ib zaug bau suav pom nws li. tas li ntawd, los tau muaj li
+txiv yeej tsis tau ua ib zaug npau suav pom nws li. tas li ntawd, los tau muaj li
 ob peb hnub tom qab no ntxiv, lawv cov niam txiv tub thiaj li tau mus ua teb
-rau nram teb. thaum los noj su ntawd muaj ib tug noog daiv ghob ya los
+rau nram teb. thaum los noj su ntawd muaj ib tug noog daiv nkhob ya los
 tsaws rau pem luag teb, leej txiv tau nqa rab phom mus nyas tua. nws tua tus
 noog poob nthav rau tod thiab nws thiaj li maub cov hav nqeeb thiab muas
 txhov ntawd tsuag mus txog ntua tod. u a li cas pom plaub noog poob cuag li
-cas rau ntawd thiab zoo gaus li dab tsi muab tus noog cab dua tom ub lawm
+cas rau ntawd thiab zoo nkaus li dab tsi muab tus noog cab dua tom ub lawm
 ua rau nws pom plaub poob zom zaws dua tod lawm. nws thiaj li caum
 ceev nrooj thiab xav tau tias tsam yog tus noog tsis tuag xwb. nws mus kiag ob
 peb ruam kev thiab thiaj li pom nroj co cuag li cas dua tod lawm. nws
 caum ob
-peb ruam ntxiv, thiab nws thiaj li pom kiag tus noog. ua li cas zoo gaus li yog
+peb ruam ntxiv, thiab nws thiaj li pom kiag tus noog. ua li cas zoo nkaus li yog
 ib tug dab tsi luag tus noog, tsis yog tus noog tsis tau tuag. nws xav zoj tau tias
 tsam yog tsov puam los sis puas plis tseeb nws tus noog. nws thiaj li muab
-kiag rab jis phom taw kiag mus rau tod thiab mus kiag ob peb ruam ntxiv saib
+kiag rab ntsis phom taw kiag mus rau tod thiab mus kiag ob peb ruam ntxiv saib
 seb puas pom tus tsiaj dab tsi; ua li cas tsis pom ib tug tsiaj dab tsi cab tus noog
-ntawd li. thaum no lawm, nws kuj pooh siab nthav thiab jhai; nws thiaj li tua
+ntawd li. thaum no lawm, nws kuj poob siab nthav thiab ntshai; nws thiaj li tua
 ib phom mus lawm tod, cem, thiab nto ob peb suab. nws thiaj li khaws thiab
 nqa tus noog los dua tom tsev teb tom no lawm.
 tau ob peb hmos tom qab ntxiv xwb, ua li cas thaum nws mus
@@ -53,17 +53,17 @@ muab kiag lub chaw pw rau hauv tsaj, nws yeej hnov ib tug dab tsi los tsuam
 los sis puas laum nws. thaum pib ntawd mas tos hnov xwb twb tsuam lawm.
 ua ntev mus ntev tuaj lawm, leej txiv yeej hnov los mus nee tus ntaiv
 ntawm tus laj kab xov ncig lawv lub tsev sab nraud. tsis tas li ntawd, nws
-tseem los chwv tej tw nqeeb vov tsev thiab phab ja tsev nrov cuag li cas tas
+tseem los chwv tej tw nqeeb vov tsev thiab phab ntsa tsev nrov cuag li cas tas
 nws mam li los rau ntawm leej txiv. thaum los heev li no lawm, nws tsis yog
 los tsuam nws lawm xwb. nws yeej los nrog kiag leej txiv pw, thiab pw kiag
 ntawm nws ib sab. pw tas hmo ntawd tag kis mus xyuas mas yeej pom plaub
 zeeg cuag li cas rau ntawm lub chaw tus ntawd tau los mus pw hmo ntawd.
 tus no los heev dhau hwv lawm, lawv thiaj tau mus nrhiav neeb tuaj
-mus ua juam xyuas. lawv cov txiv neeb tau tuaj ua neeb ntau tus tau hais tias
+mus ua ntsuam xyuas. lawv cov txiv neeb tau tuaj ua neeb ntau tus tau hais tias
 yog nws tus poj niam hlob rov qab los xwb. nws rov los vim rau qhov hais
-tias thaum gawv ua neej nyob, gawv txoj kev niam txiv tau muab ua rau teb
-chaws jhaw dhau hwv lawm, thiab nws txawm tau mus dua dab sab lawm los
-nws tseem nco joov. nws nco dhau nws mus tsis tau nrog dab; yog li no,
+tias thaum nkawv ua neej nyob, nkawv txoj kev niam txiv tau muab ua rau teb
+chaws ntshaw dhau hwv lawm, thiab nws txawm tau mus dua dab sab lawm los
+nws tseem nco ntsoov. nws nco dhau nws mus tsis tau nrog dab; yog li no,
 thaum kawg nws ntxooj tsis tau dab, nws thiaj li rov qab los ntxooj nws tus
 txiv.
 ntxiv mus ntawd, ib txij li nws tus poj niam hlob tau ua poj ntxoog rov
@@ -76,15 +76,15 @@ teb cuag li cas. tsis tas li ntawd, txij ntua li thaum tus poj ntxoog no los yuj
 nws lawm, nws yeej nrog nws poj niam yau pw tsis tau li. yog hais tias nws
 yuav nrog nws poj niam yau pw, nws nce mus kiag rau saum nws poj niam
 yau sab saud mas tus poj ntxoog ntawd yeej tuav kiag leej txiv tus qau. vim
-yog muaj li no lawm, gawv ob niam txiv kuj siv zog ua neeb thiab nrhiav
-tshuaj los tiv thaiv thiab kem tus dab poj ntxoog no kom kawg gaus hmoob
+yog muaj li no lawm, nkawv ob niam txiv kuj siv zog ua neeb thiab nrhiav
+tshuaj los tiv thaiv thiab kem tus dab poj ntxoog no kom kawg nkaus hmoob
 tej txuj ci.
 thaum uas tau siv hmoob tej txuj ci tas thiab yeej pab tsis tau li lawm,
 leej txiv thov kom tus dab poj ntxoog no tsis txhob los ntxooj nws. thov kom
 nws kav tsij mus lawm yav tom ntej, yav tas los lawm twb tag lawm. yog tus
 dab poj ntxoog ntawd yuav nyiaj txiag li cas los nws mam li muab rau. thaum
 nws tau thov tas li no tau ob peb hmos tom qab ntxiv nws thiaj li rov qab ua
-zoj ib bau suav pom nws tus poj niam hlob. nws poj niam hlob los hais rau
+zoj ib npau suav pom nws tus poj niam hlob. nws poj niam hlob los hais rau
 nws tias, "tswv yeeb, ua li cas koj tsis txhob thov kom kuv mus lawm yav
 tom ntej. thaum kuv yuav mus ntawd, koj yeej quaj hu kuv tas hnub tas
 hmo. yog li no, kuv thiaj mus ntxooj tsis taus dab. kuv twb mus sim ntxooj
@@ -102,7 +102,7 @@ pw rawv rau tom lub qhov rooj tag rau sab nraum zoov. cuag li ntuj pab
 thiab, hmo ntawd nws ib tug txiv dev ho nee mus pw rau saum lub cooj qaib
 rau ntawm cov zes qaib. tus poj ntxoog thiaj nee hlo yuav mus lawm saum
 cov zes qaib thiab yuav mus muab cov qe qaib kov ua si. thaum nws nee hlo
-ntawd, tus txiv dev saud thiaj jiab gaus niag poj ntxoog. tus pw pem qhov
+ntawd, tus txiv dev saud thiaj ntsiab nkaus niag poj ntxoog. tus pw pem qhov
 rooj no thiaj li ho sawv tsees mus thiab. tus poj ntxoog ntawd quaj nrov les
 uas lawv yeej tsis tau muaj neeg hnov dua ib lub suab tsiaj yuav quaj nrov li
 ntawd dua li. thaum niag poj ntxoog twb muab ob tug dev ntawd pus mus ze
@@ -110,7 +110,7 @@ rau tom ntug zos lawm, cov dev hauv lub zos no mam li tuaj txog thiab tuaj
 pab tom. leej txiv thiaj li tau sawv mus txhob cov dev kom muab tom kom
 tuag xwb xwb li, vim rau qhov hais tias tus no siab yeej phem heev. thaum
 cov dev tau muab nws tom tuag thiab cov neeg zej zos tuaj xyuas tas. tuag ib
-tug tsis loj, loj zog tus miv xwb. lub jej muag yuav zoo li miv thiab ho yuav
+tug tsis loj, loj zog tus miv xwb. lub ntsej muag yuav zoo li miv thiab ho yuav
 zoo li neeg thiab nws ce plaub dub tsem tsaws thiab mos mos li. lawv thiaj
 muab hlua los khis cab los rau tom tiaj plawv zos no. lawv ua twb zoo saib, ua
 li cas ib pliag yog tug maum tib pliag yog tug txiv.
@@ -122,29 +122,29 @@ thiab lawv muab cab cab pov khawv; lawv thiaj li tau muab coj mus khuam
 rau tim ib tsob pos daj nyob ntawm lawv ntug zos.
 thaum nws niam tais tuaj txog lawm, lawv thiaj li coj niam tais mus
 xyuas thiab yuav muab hlais los ua tshuaj. hom no mas kuj yog ib yam tshuaj
-zoo kawg gaus. tsis tas li ntawd los, niam tais kuj yog ib tug laus thiab paub
+zoo kawg nkaus. tsis tas li ntawd los, niam tais kuj yog ib tug laus thiab paub
 tshuaj hmoob kawg. thaum lawv mus txog tim qhov chaw lawb tau coj mus
 khuam cia, ua li cas tsis pom lawm. pom txoj hlua lawm xwb. niam tais thiaj
 cem ib los tias, "vauv e, nej ces tsis tsim txhiaj li lau." lawv thiaj li rov qab los
 lawm.
 tau cuaj xyoos tom qab no ntxiv, uas yog lub caij hlawv teb tas thiab
-yuav mus muab blej cog. cov niam txiv tub tau mus cog blej rau nram teb
+yuav mus muab nplej cog. cov niam txiv tub tau mus cog nplej rau nram teb
 bleg. nyob rau tom lawv daim plawv teb sawv ib tug tsab ntoos qhuav rau tod.
 nws muaj ib tug poj sib txaig los nteg tau ib zeg qe rau hauv lub qhov ntoo
 ntawm tus tsab ntoos ntawd. leej txiv txua tau ib rab hneev nti mus cuab tus
 poj noog ntawd. thaum tshaj ntuj kub kub lawm thiab lawv tau los mus so
 haus dej tso mam li rov qab mus ua teb dua. tus poj noog tau ya los mus
 puag nws zes qe, thiab nws thiaj li mag rab hneev nti. thaum mag lawm, leej
-txiv thiaj li khiav juj mus txog ntua rau ntawm hauv paus tsab ntoo. ua li cas
+txiv thiaj li khiav ntsuj mus txog ntua rau ntawm hauv paus tsab ntoo. ua li cas
 leej twg twb muab tus poj sib txaig ntawd dua ua nws plaub ya cuag li cas thiab
 muab poj noog cuam rau hauv pem teb thiab muab rab hneev nti lov ua ob
 ya. nws rov loo los txog ntua rau tom tsev teb no thiab thiaj tham qhia rau
-nws poj niam. yog li no, gawv thiaj li mus xyuas tus poj noog. sij hawm
+nws poj niam. yog li no, nkawv thiaj li mus xyuas tus poj noog. sij hawm
 ntawd leej txiv yeej xav kiag tau thiab poob siab nthav tias, "jhe yog tus poj
 ntxoo ntawd rov qab los lawm xwb xwb li ntag. thiab nws xav tau tias zaum
-no jhe nws yuav tsis dim li."
+no ntshe nws yuav tsis dim li."
 tau tsis ntev hnub thiab hli tom qab no ntxiv, ua li cas leej txiv thiaj li
-rov qab hnov zoo yam gaus li qhov qub thauv. thaum los kiag rau saum txaj
+rov qab hnov zoo yam nkaus li qhov qub thauv. thaum los kiag rau saum txaj
 lawm mas tseem haj yam ua heev tshaj dua li yav thaum ub lawm thiab: nws
 muab kiag ib sab tes los tuav kiag leej txiv tus qau thiab muab kiag ib mus tiag
 kiag nws tob hau ua nws lub hauv ncoo. nws yeej ua li no ib hmos kaj ntug
@@ -154,9 +154,9 @@ tsis tas li ntawd, tus niam yau mas yeej lam cem tsis tau leej txiv thiab
 tus niam hlob tus mi nyuam li. y og cem leej txiv thaum twg tas mas ib tsam
 leej txiv yeej pib mob tuaj. yog cem tus tub tas mas, tus niam yau ntawd mus
 ris dej los sis puas ris taws txog tom tej kev mas yeej txawb tej niag lub pob zeb
-luaj nrig tuaj yuav luag yuav luag raug nws thiab pooh nrov poog rau ntawm
+luaj nrig tuaj yuav luag yuav luag raug nws thiab poob nrov poog rau ntawm
 nws ib sab.
 nws tau los ua li no ntev tau muaj ze kaum tawm lub xyoo. nws yog
-tsis ntev tom qab lub teb blog pooh rau blog liab tes; tus tswv yeeb hawj no
+tsis ntev tom qab lub teb nplog poob rau nplog liab tes; tus tswv yeeb hawj no
 tau tas sim neej lawm. lawv yeej paub tseeb tias yog nws poj niam hlob los tos
 nws xwb no.

@@ -1,10 +1,10 @@
 txoj dab neeg tso tshwm sun nyob rau thaum lub caij twg?
-xauv thiab zuam gawv twb tsis tau sib jib dua li viin li cas xauv ho mus pab zuam?
-zuam xav yog vim li cas nws thiaj li muab nws tus ntxhais hlob mus pauj xauv tej kev txiaj jim?
-xauv thiab maiv ciab gawv yog ob tug neeg zoo li cas?
-gawv yuav tau tso peb tsawg xyoo ntxiv gawv niam thiab txiv mam li rov qab tuaj xyuas gawv dua?
-viin li thaum zuam tuaj thov xauv mus pab nws, zuam tsis kam gag los lawm hauv tsev?
-koj xav yog hais tias xauv muab roj thiab jev rau nws poj niam noj no nws yuav ua li cas?
-xauv thiab maiv ciab gawv lub neej puas txom nyem?
-vim li cas leej txiv thiab niam gawv nqa ib lub pob zeb juab tuaj rau xauv thiab maiv ciab gawv xwb?
+xauv thiab zuam nkawv twb tsis tau sib ntsib dua li vlin li cas xauv ho mus pab zuam?
+zuam xav yog vim li cas nws thiaj li muab nws tus ntxhais hlob mus pauj xauv tej kev txiaj ntsim?
+xauv thiab maiv ciab nkawv yog ob tug neeg zoo li cas?
+gawv yuav tau tso peb tsawg xyoo ntxiv nkawv niam thiab txiv mam li rov qab tuaj xyuas nkawv dua?
+vlin li thaum zuam tuaj thov xauv mus pab nws, zuam tsis kam nkag los lawm hauv tsev?
+koj xav yog hais tias xauv muab roj thiab ntsev rau nws poj niam noj no nws yuav ua li cas?
+xauv thiab maiv ciab nkawv lub neej puas txom nyem?
+vim li cas leej txiv thiab niam nkawv nqa ib lub pob zeb ntsuab tuaj rau xauv thiab maiv ciab nkawv xwb?
 txoj dab neeg tshwm sim nyob rau thaj tsam li xyoo twg?
