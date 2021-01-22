@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # Casing script for Hmong ALBERT project
-# Copyright (c) 2020-2021 Hmong Medical Corpus Project
+# Copyright (c) 2021 Hmong Medical Corpus Project
 # Author : Nathan M. White <nathan.white1@my.jcu.edu.au>
 """
 This file contains the script that generates
@@ -16,7 +16,7 @@ import re
 logging.basicConfig(level=logging.INFO)
 
 # Copyright notice
-__copyright__ = "Copyright (c) 2020-2021 Hmong Medical Corpus Project"
+__copyright__ = "Copyright (c) 2021 Hmong Medical Corpus Project"
 
 # project_url
 __url__ = "https://corpus.ap-southeast-2.elasticbeanstalk.com/hminterface"
