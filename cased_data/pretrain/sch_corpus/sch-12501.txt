@@ -1,0 +1,137 @@
+T24gVGh1cnNkYXksIEF1Z3VzdCAyLCAyMDEyIDEwOjI1OjE0IFBNIFVUQy01LCBYYXZ6b28gd3Jv
+dGU6DQo+IE9uIEF1ZyAyLCA5OjQ4wqBhbSwgWWFqIFRzaGFqIEtvb2IgPHlhanRzaGFqay4uLkBn
+bWFpbC5jb20+IHdyb3RlOg0KPiA+IE1yLiBZb25nIOC7geC6peC6sCDgupfgu4ngurLguqfgu4Tg
+uoLgu4jguqHgurfgupQs4LqV4Lqy4Lqh4LqX4Lq14Lqq4Lqb4Lqb4Lql4Lqy4Lqn4LuE4LqU4LuJ
+4Lqj4Lqw4Lqa4Lq44LuE4Lqn4LuJ4Lqi4Lq54LuI4LuD4LqZ4LqB4Lq74LqU4Lud4Lqy4LqN4Lqn
+4LuI4Lqy4Lqb4Lqw4LqK4Lqy4LqK4Lq74LqZ4LuA4Lqb4Lqx4LqZ4LuA4LqI4Lq74LuJ4LqyLCDg
+u4HgupXgu4jgu4DguqvgurHgupngu4TgupTgu4nguqfgu4jgurIg4LqX4Lq44LqB4Lqh4Lq34LuJ
+4LqZ4Lq14LuJ4Lqb4Lqw4LqK4Lqy4LqK4Lq74LqZ4Lql4Lqy4Lqn4Lqa4LuN4LuI4Lqh4Lq14Lqq
+4Lq04LqU4LuD4LqZ4LqB4Lqy4LqZ4Lqb4Lqy4LqB4LuA4Lqn4Lq74LuJ4Lqy4LqV4Lqy4Lqh4LqX
+4Lq14Lqn4LuI4Lqy4LqZ4Lq14LuJ4LqZ4Lqx4LuJ4LqZ4LuA4Lql4Lq34LqNIOC7geC6oeC7iOC6
+meC6q+C6jeC6seC6h+C7geC6l+C7iT8g4Lqc4Lq54LuJ4LuD4LqU4Lqb4Lqy4LqB4LuA4Lqn4Lq7
+4LuJ4Lqy4Lqr4Lql4Lqy4LqN4Lqc4Lq54LuJIOC6meC6seC7ieC6meC6nOC6tOC6lOC6leC7jeC7
+iOC6geC6u+C6lOC7neC6suC6jeC7geC6peC6sOC6meC6sOC7guC6jeC6muC6suC6jeC6guC6reC6
+h+C6o+C6seC6liDguoTgurfguorgurTgu4HguqHgu4jgupnguqfgu4jgurLgupbgurfguoHguprg
+u43gu4g/DQo+ID4NCj4gPiBZVEsNCj4gDQo+IE1yLiBZb25nIENoYW50aGFsYW5nc3ksDQo+IA0K
+PiBZb3VyIHJlc3BvbnNlIHRvIE1yLiBZYWogVHNoYWogS29vYiBpcyBhcHByZWNpYXRlZC4gSSB2
+aXNpdGVkIG15IEhtb25nLw0KPiBMYW8gZnJpZW5kcyBpbiBMYW9zIDIwMDMsIDIwMDQsIDIwMDcs
+IDIwMDksIDIwMTEgaGF2ZSBub3Qgc2Vlbg0KPiBwYXNhc29vbiBwZW4gdGlhby4NCj4gDQo+IFgg
+Wg0KDQp0aGUgYW5zd2VyIGlzIHRvbyBFWiBpIGZvciBvbmUgaXMgbm90IHRoZSBscGRyIGJ1dCBp
+IGNhbiBwaWNrb3V0IHNvbWUgdGhpbmcgcmVsYXRlZCB0byB0aGF0IHBocmFzZS4gaXQgc2ltcGx5
+IG1lYW4gY2l0aXplbi9ub3JtYWwgcGVvcGxlIGFyZSB0aGUgbG9yZC9ydWxlcnMuDQoNCi0tbG9v
+ayBhdCB0aGUgbHBkciBydWxlcnMvcG9saXRidXJvIHdobyBpcyBoYXMgdGhlIHJveWFsIGJsb29k
+LWxpbmUuIGl0IHNpbXBseSBtZWFuIHRoYXQgdGhvc2Ugcm95YWwva2luZy9xdWVlbiBvZiBwcmUg
+MTk3NSB3aWxsIG5vIGxvbmdlciBiZSB0aGUgcnVsZXIgYW5kIGl0IGlzIHRydWUgdGhlIExhbyBy
+b3lhbCBibG9vZC1saW5lIGFyZSBmYXIgYXdheSBpbiBGcmFuY2UgYW5kIGFyZSBubyBsb25nZXIg
+dGhlIHJ1bGVyIGluIGxwZHIuIHRoYXQgaXMgdGhlIG5vcm1hbC9jaXRpemVucyBvZiBwcmUgMTk3
+NSBhcmUgdGhlIGxvcmRzIHJ1bGVycyBhdCB0aGUgbW9tZW50Lg0KDQotLSBqdXN0IHRoZSBzYW1l
+IHdpbGwgYmUgdHJ1ZSBzb29uLiB0aGUgY3VycmVudCBydWxlcnMvcG9saXRidXJvIHdpbGwgYmUg
+a2ljayBvdXQgc29vbiBieSB0aGUgY2l0aXplbnMgZm9yIGFsbCBvZiB0aG9zZSBraWxsaW5ncy4N
+Cg0KLS0gdGhlIGp1bmdsZSBwZW9wbGUvY2FvZmEgd2VyZSBiZWluZyBraWNrIGFuZCBraWxsIGFy
+b3VuZCB0aGUgbW91bnRhaW4gZm9yIGEgbG9uZyB0aW1lLiBpdCBpcyBzb29uIGdvaW5nIHRvIGJl
+IHRoZSByZXZlcnNlIHdoZXJlIHRoZSBscGRyIHdpbGwgYmUga2ljay9raWxsIGFuZCBodW50IGFy
+b3VuZCB0aGUgbW91bnRhaW5zIHVubGVzcyB0aGV5IGRlY2lkZSB0byBmbGVlIHRoZSBjb3VudHJ5
+IHNvb25lciB0aGFuIHRoYXQgY2hhbmNlIGNvbWVzIGludG8gZWZmZWN0LiBndWVzcyB3aG8gYXJl
+IHRoZSBodW50ZXJzIHRoaXMgdGltZS4gdGhleSBhcmUgbm9uZSBvZiB0aGUgVmlldC1hcm15IG5v
+ciB0aGUgbHBkciBzb2xkaWVycyBidXQgdGhlIGNhb2ZhIGFuZCB0aGVpciBkZXNjZW5kYW50cy4N
+Cm92ZXIgdGhlIGxhc3QgMzArIHllYXJzIHRoZSBscGRyIHBsYXllZCB3aXRoIGNhb2ZhIHdpdGgg
+Z3Vucy9ib21iIGFuZCBwb2lzb25zLiB3aGF0IGlzIGEgZ29vZCByZXR1cm4gb24gaW52ZXN0bWVu
+dCBmb3IgbHBkci4gaSBzYXkgbmVlZGxlcyBlYWNoIG9mIHVzIGNpdGl6ZW5zIGhvbGQgYSBuZWVk
+bGUuIGp1c3QgbGluZXVwIHRob3NlIGtpbGxlcnMgYXQgdGhlIHN0cmVldC9qdW5nbGUgb3Igd2hl
+cmUgYXBwcm9wcmlhdGUuIGhhdmUgdGhlIGNpdGl6ZW5zL3ZpY3RpbXMvZGVzY2VuZGFudHMgd2Fs
+ayBjbG9zZSBlbm91Z2ggdG8gcG9rZSB0aGVpciBuZWVkbGVzIHRvIG9uZSBvZiB0aGUga2lsbGVy
+cy4gc2luY2UgZWFjaCBjaXRpemVuIG9ubHkgaGF2ZSBvbmUgbmVlZGxlIHNvIG9ubHkgb25lIG5l
+ZWRsZSBpcyBhbGxvdyBwZXIgY2l0aXplbi4gb2YgdGhvc2Uga2lsbGVycyB3aG8gZ2V0IG1vcmUg
+b3IgbGVzcyBuZWVkbGVzIGlzIGFsbCB0byB0aGVpciBsdWNrLg0KDQo=
+
+T24gVGh1cnNkYXksIEF1Z3VzdCAyLCAyMDEyIDk6NDg6MDggQU0gVVRDLTUsIFlhaiBUc2hhaiBL
+b29iIHdyb3RlOg0KPiBNci4gWW9uZyDgu4HguqXgurAg4LqX4LuJ4Lqy4Lqn4LuE4LqC4LuI4Lqh
+4Lq34LqULOC6leC6suC6oeC6l+C6teC6quC6m+C6m+C6peC6suC6p+C7hOC6lOC7ieC6o+C6sOC6
+muC6uOC7hOC6p+C7ieC6ouC6ueC7iOC7g+C6meC6geC6u+C6lOC7neC6suC6jeC6p+C7iOC6suC6
+m+C6sOC6iuC6suC6iuC6u+C6meC7gOC6m+C6seC6meC7gOC6iOC6u+C7ieC6siwg4LuB4LqV4LuI
+4LuA4Lqr4Lqx4LqZ4LuE4LqU4LuJ4Lqn4LuI4LqyIOC6l+C6uOC6geC6oeC6t+C7ieC6meC6teC7
+ieC6m+C6sOC6iuC6suC6iuC6u+C6meC6peC6suC6p+C6muC7jeC7iOC6oeC6teC6quC6tOC6lOC7
+g+C6meC6geC6suC6meC6m+C6suC6geC7gOC6p+C6u+C7ieC6suC6leC6suC6oeC6l+C6teC6p+C7
+iOC6suC6meC6teC7ieC6meC6seC7ieC6meC7gOC6peC6t+C6jSDgu4HguqHgu4jgupnguqvguo3g
+urHguofgu4Hgupfgu4k/IOC6nOC6ueC7ieC7g+C6lOC6m+C6suC6geC7gOC6p+C6u+C7ieC6suC6
+q+C6peC6suC6jeC6nOC6ueC7iSDgupngurHgu4ngupngupzgurTgupTgupXgu43gu4jguoHgurvg
+upTgu53gurLguo3gu4HguqXgurDgupngurDgu4Lguo3guprgurLguo3guoLguq3guofguqPgurHg
+upYg4LqE4Lq34LqK4Lq04LuB4Lqh4LuI4LqZ4Lqn4LuI4Lqy4LqW4Lq34LqB4Lqa4LuN4LuIPw0K
+PiANCj4gWVRLDQoNCmtvc21pc25pdiB4dWIgcWhpYSB1YSBudGVqIHRpYXMgaG1vb2IgeXVhdiBz
+YXcgbG9zIHlvZyB0dXMgdGhhd2ogdHNpcyBudGV2IHRvbSBxYWIga29zbWlzbml2IHR4ZWViIHRh
+dSBsdWIgdGViIGNoYXdzLiBjb3YgcGVqIHhlZW0gbnlvYiBwdWFnIHBlbSByb29iIGxpIGhtb29i
+IHl1YXYgc2F3diBsb3MgY29qLiB0c2FtIG5vIGtvc21pc25pdiB0YXUgbHViIHRlYiBjaGF3cyBs
+YXdtIGNlcyBwYXViIHpvbyB0aWFzIGhtb29iIHl1YXYgc2F3diBsb3MgY29qIGxwZHIgdGhpYWog
+cmhpYXYga2V2IHR1YSBobW9vYiBrb20gaG1vb2IgdHhob2Igc2F3diB0YXVzIGtvbSBsYXd2IHRh
+dSB1YSBub20gbnRldiBtdXMgbnR4aXYuIHR4YXdtIGxpIGNhcyBsb3MgbGF3diBsdWIgc2lqIGhh
+d20gdGFzIGxhd3Yga2F3bSBtdXMuIG5lamogcHVhcyB0YXUgcG9tIGhtb29iIGRhaW0gVkRPIHph
+aiBrdWF2IG5waGF1IHRvaiByb29iIGhhdXYgcGUgdGltIGJsb2cgbmEuIGNvdiB6YWoga29taXNu
+aXYgbG9zIHR3YiBtYWcgdHNoZW0gdGF3bSB1YSBudGVqIHNhaSBzYWkgbm8gY2VzIHlvZyBjb3Yg
+bmVlZyBrb3NtaXNuaXYgbnRhZyBtYXMuIG1hbSBzYWliIHNlYiBvdi4gbHVzIHNhdWIgaGFpcyBt
+YXMgeXVhdiB5b2cgc2FpIHNhaSBsdWIgeHlvbyBubyBsYXdtIHN1YiBudGFnIGhvcy4gbmVqIHRp
+YXMgc2F1YiB2d20ga29tIHR4aG9iIG50c2VlZyBubyBsb3MgbXVhaiB0ZWogeWFtIHNhdWIgaGFp
+cyBrdWogbGVlaiBrYXdnIGxpIHRoaWFiIHRpYWcuIHRoYXVtIG55b2IgdGltIHViIHNhdWIgdGlh
+cyBndnAgeXVhdiBzd2Igcm9nIGhtb29iIHl1YXYga2hpYXYgbXVzIGhsYSBuaWFtIGRlaiBsb2og
+bG9qIGhtb29iIHl1YXYgcGxvaiB5dWF2IHR1YWcgY29vYiBjb29iIHJhdSBucmFtIGRlai4gaG1v
+b2IgeXVhdiBtdXMgbnlvYiBjb29iIGNvb2IgdWEga2UuIDEwIHlpbSBtdXMgbnlvYiB1YSBpYiB0
+c2UuIHRzaXMgbXVhaiBuZWVnIG50c2VlZyBraWFnLiB0b20gcWFiIG5vIGhtb29iIGxvcyBueW9i
+IGNvdiB6b3MgdGhvaiBuYW0gbGkgdmlibmFpcy4gaWIgbHViIGFzcWFzIDEwIGhvb2IgMTAgeWlt
+IGxvcyBueW9iIGliIHRzZS4gc2F1YiB0aWFzIHl1YXYgbXVhaiA0IGx1YiByaGF3diBkZWogbG9q
+IHJhdSA0IGNlZyBrYXVtIHRzZXYuIGhtb29iIHl1YXYgbnlvYiBkYXdiIGhhdXMgZGVqIG50YXdt
+IDQgbHViIHJoYXd2IGRlaiBsb2ogbG9qIHRvIHFhYiBubyBjZXMgdHhvZyBzaWogaGF3bSBobW9v
+YiBraGlhdi4gcGViIGxvcyBueW9iIHZpYm5haXMgdHhvZyAxOTg3IDQgbHViIHJoYXd2IGRlaiBu
+dGF3bSBwZWIgbHViIGFzcWFzIHRvIHFhYiB0YXMuIHBlYiBsdWIgdHNldiBhc3FhcyBjaWEgbGkg
+c2F1IG5yYXMgbHVzIHVhIG5wZSBtdXMgdHhhd3YgdGViIGNoYXdzLiAyIHh1diBtdWFqIG5wZSBt
+dXMgbWVza2FzIHh3YiBwZWIgbHViIHRzZXYgYXNxYXMgbmtoYXMgbnJpZy4gdHNodWF2IHlpbSBw
+dWF2IG55b2IgdHNpcyBzb3YgYXNxYXMgbGkgbGF3bSBjaWEgbGkgdWEgc2lhYiBraGlhdiBtdXMg
+dWEgbmVlZyB0aGFpYiBwdWFnIHBlbSBuYW4gbGF3bS4NCmxlZWogdHdnIHRzaXMgbnRzZWVnIHNh
+dWIgbG9zIHlvZyBud3MgdHVzIGtoZWVqIGtldiB0eGlhdiB0eGltIHNpYWIuIGhvcyBrdXYgY2Vz
+IG50c2VlZyB0YXMgbG9zIHpvbyBsaSB0c2lzIHlvZy4gdHNpcyBudHNlZWcga2lhZyBpYiBxaG92
+IGxpIGxvcyBtdWFqIHRlaiB5YW0ga3V2IHRzaXMgbnRzZWVnIHRzaXMgdGF1LiB2aW0gbXVhaiB0
+ZWogemF1bSB0ZWogbmlhZyBsdXMgdndtIHVhIGt1diB6YXVtIHR4aG9zIGNhdWcgbnR1YSBxdWFq
+IHBvcyBtdWFnIGhhaXMgdGlhcyB1YSBjYXMgeXVhdiAgdndtIG5jYWogdWEgbHVhaiBsaS4gcHcg
+dHdiIGthaiBudHVnIG1hbSB2d20uIHRzaW0gZGhlZXYgbnJ1YWIgbnBhdSBzdWF2L3Z3bSBsb3Mg
+cWhpYiBraWFnIGNvbXB1dGVyIHNhaWIgdWEgY2FzIGx1cyB2d20gbXVhYiB0c2VlYiBsYXdtIHRp
+YWcgdGhhdW0gbnR1aiB0c2lzIHRhdSBrYWouIGt1diBoYW0gdHNpIHR4aG9zIGNhdWcgbnR1YSBx
+dWFqIHBvcyBtdWFnIHZpbSB0aWFzIHRlaiB5YW0gem9vIHVhIGNhcyB0c2lzIHZ3bSBwb20uIHl1
+YXYgdndtIHBvbSB0ZWogeWFtIHR4b20gbnllbSB1YSBsdWFqIGxvcyB0c2VlbSB0aWFzIG11YWog
+dHNlZWIgbGF3bSB0aGlhYiB0aWFnIG5vIG5hLiBudHNoZSB5b2cgdHVzIHRzaXMgdHhhd2ogIGhs
+dWIga2h3diB4aW0gaG1vb2IgeHdiIHRoaWFqIHRzaXMgbmNvIHR1IHNpYWIuIGhvcyB0dXMgem9v
+IGxpIGt1diB0aGlhYiBwYWIgcGFiIGhtb29iIGxvcyBsYXdtIG50ZXYgY2VzIHR3YiB0c2lzIHlv
+ZyBxdWFqIHh3Yi4ga2F3ZyBjaWEgbGkgdHhob3MgY2F1ZyBudGF3bSB0YXcgdHhhaiBudGF3bSBs
+dWIgY29tcHV0ZXIgaWIgc2FiIHRoYXVtIHNhd3YgbG9zIG55ZWVtIGNvbXB1dGVyIHhjb3YgeHdt
+IHVhcyBwb20gdGlhcyB5YW0ga3V2IHZ3bSBwb20gdGFna2lzIG50YXdkICBtdWFqIHRzZWViIHRp
+YWcgdGlhZyBsYXdtIHNhZC4NCg==
+
+On Saturday , August 4 , 2012 11 : 12 : 10 PM UTC - 5 , idonotknow ¨pheej hmooเอาหัวชนหัวชนฝาเพื่อเจาะรู ¨ wrote :
+idonotknow ,
+Ntsheeg tias muaj li koj hais lawm , ua cas los zaum no Chaofa Hmoob yuav los nyog zwm txwv ntag .
+txawm li cas los lawv lub sij hawm tas lawv kawm mus . nejj puas tau pom hmoob daim VDO zaj kuav nphau toj roob hauv pe tim blog na . cov zaj komisniv los twb mag tshem tawm ua ntej sai sai no ces yog cov neeg kosmisniv ntag mas .
+Yog Hmoob txhob ntshaw ntshaw ua tus loj es tsi txhob sib txeeb li niaj hnub no ces Hmoob yeej yuav tau xwb xwb ntag ov .
+Qhov nyuaj zog ces yog cov uas paub lus meskas me ntsis mas xij sib txeeb ua tus thawj tas zog li , koj twb pom toas WHPC SIB TXEEB SIB TXEEB CES NIM NO TSI MUAJ NEEG LI LAWM TSUAS TSHUAV LI 20 - 30 NYUAG LEEJ LAWM XWB CES  lub zog ntaug lawm , txoj cai muaj los tsi muaj lub zog lawm ces ua mus nyuaj zog lawm ntag ov .
+Lwm pab los tib yam nkaus li , ib yam li pab 411 los zoo li , pab poj koob yawm ntxwj los zoo li , Paj Kaub Muas qhab nab los zoo li , ua nab tuag tsi tus siav xwb es pab txhawj laus . Yuav kom tau mas tag nrho suav daws los koom ua ke mas thiaj tau noj ov .
+YTK
+Mr . Yong ແລະ ທ້າວໄຂ່ມືດ,ຕາມທີສປປລາວໄດ້ຣະບຸໄວ້ຢູ່ໃນກົດໝາຍວ່າປະຊາຊົນເປັນເຈົ້າ, ແຕ່ເຫັນໄດ້ວ່າ ທຸກມື້ນີ້ປະຊາຊົນລາວບໍ່ມີສິດໃນການປາກເວົ້າຕາມທີວ່ານີ້ນັ້ນເລືຍ ແມ່ນຫຍັງແທ້? ຜູ້ໃດປາກເວົ້າຫລາຍຜູ້ ນັ້ນຜິດຕໍ່ກົດໝາຍແລະນະໂຍບາຍຂອງຣັຖ ຄືຊິແມ່ນວ່າຖືກບໍ່?
+YTK
+kosmisniv xub qhia ua ntej tias hmoob yuav saw los yog tus thawj tsis ntev tom qab kosmisniv txeeb tau lub teb chaws . cov pej xeem nyob puag pem roob li hmoob yuav sawv los coj . tsam no kosmisniv tau lub teb chaws lawm ces paub zoo tias hmoob yuav sawv los coj lpdr thiaj rhiav kev tua hmoob kom hmoob txhob sawv taus kom lawv tau ua nom ntev mus ntxiv . txawm li cas los lawv lub sij hawm tas lawv kawm mus . nejj puas tau pom hmoob daim VDO zaj kuav nphau toj roob hauv pe tim blog na . cov zaj komisniv los twb mag tshem tawm ua ntej sai sai no ces yog cov neeg kosmisniv ntag mas . mam saib seb ov . lus saub hais mas yuav yog sai sai lub xyoo no lawm sub ntag hos . nej tias saub vwm kom txhob ntseeg no los muaj tej yam saub hais kuj leej kawg li thiab tiag . thaum nyob tim ub saub tias gvp yuav swb rog hmoob yuav khiav mus hla niam dej loj loj hmoob yuav ploj yuav tuag coob coob rau nram dej . hmoob yuav mus nyob coob coob ua ke . 10 yim mus nyob ua ib tse . tsis muaj neeg ntseeg kiag . tom qab no hmoob los nyob cov zos thoj nam li vibnais . ib lub asqas 10 hoob 10 yim los nyob ib tse . saub tias yuav muaj 4 lub rhawv dej loj rau 4 ceg kaum tsev . hmoob yuav nyob dawb haus dej ntawm 4 lub rhawv dej loj loj to qab no ces txog sij hawm hmoob khiav . peb los nyob vibnais txog 1987 4 lub rhawv dej ntawm peb lub asqas to qab tas . peb lub tsev asqas cia li sau nras lus ua npe mus txawv teb chaws . 2 xuv muaj npe mus meskas xwb peb lub tsev asqas nkhas nrig . tshuav yim puav nyob tsis sov asqas li lawm cia li ua siab khiav mus ua neeg thaib puag pem nan lawm .
+leej twg tsis ntseeg saub los yog nws tus kheej kev txiav txim siab . hos kuv ces ntseeg tas los zoo li tsis yog . tsis ntseeg kiag ib qhov li los muaj tej yam kuv tsis ntseeg tsis tau . vim muaj tej zaum tej niag lus vwm ua kuv zaum txhos caug ntua quaj pos muag hais tias ua cas yuav  vwm ncaj ua luaj li . pw twb kaj ntug mam vwm . tsim dheev nruab npau suav/vwm los qhib kiag computer saib ua cas lus vwm muab tseeb lawm tiag thaum ntuj tsis tau kaj . kuv ham tsi txhos caug ntua quaj pos muag vim tias tej yam zoo ua cas tsis vwm pom . yuav vwm pom tej yam txom nyem ua luaj los tseem tias muaj tseeb lawm thiab tiag no na . ntshe yog tus tsis txawj  hlub khwv xim hmoob xwb thiaj tsis nco tu siab . hos tus zoo li kuv thiab pab pab hmoob los lawm ntev ces twb tsis yog quaj xwb . kawg cia li txhos caug ntawm taw txaj ntawm lub computer ib sab thaum sawv los nyeem computer xcov xwm uas pom tias yam kuv vwm pom tagkis ntawd  muaj tseeb tiag tiag lawm sad .
+
+raws kev vwm hais mas tias hmoob yeej koom los ua ib lub organization tsis yooj8 kiag li . twb txog thaum kawg hmoob tseem ua ob pab mus tua nyablaj tsuas yog ob pab ntawd koom tua nyablaj xwb hos nyias tseem muaj nyias ib tug coj . tsis kam los koom siv ib tug coj yuav ua ob pab nyias muaj nyias tus thawj . lub sij hawm hmoob ua ob pab nyias muaj nyias thawj coj tabsis ho kam sib koom mus tua nyABLAJ txog tiaj rhawv zeb mas tswv ntuj yuav tso neeg los cheem rog rau pem tiaj rhawv zeb . tus los cheem rog cheem tau zaum ntawd vim tswv ntuj muab fwj fuaj rau nws los tsa tau cov tub rog tuag coob coob  zaum ntawd ces ob tug thawj coj hmoob thiab ib tug thawj coj nyablaj thiaj ua siab swb tsis tua ntxiv lawm . thaum ntawd mas hmoob thiaj sawd rov los ua ib lub teb chaws thiab vam meej mus lawm txhiab txhiab xyoo . lub ntiaj teb peb nyob no mas tseem tshuav teeb meem ntau lkawm yav tom ntej uas tsis yog neeg tseem tawm tabsis raws li kev vwm hais mas tswv ntuj twb npaj tau neeg yuav los pab neeg ntiaj teb kom txhua yam muaj sia nyob lub ntiaj teb no tsis pub ploj ib txoj sia vim luag yog tus tseem lub ntiaj teb thiab txhua yam muaj sia nyob ntiaj teb cestswv ntuj yeej hlub cov muaj sia thiab xav kom txhob ploj/tuag kiag li . ib yam li meskas tej movie star trek thiab the 5th elements . yuav muaj tus los cawm thaum txog hnub kawg .
+hmoob mas yeej yuav sib sau sib koom nyuaj kawg tabsis hmoob mag caij tsuj ploj/tuag los lawm ntau txhiab txhiab  xyoo . raws lus vwm mas tswv ntuj laj hnov hmoob quaj cem lub ntuj daim av heev lawm nws yuav xa tej tus neeg los cawm hmoob . thaum yuav kawg mas yog hmoob tsis kam koom thawj coj tabsis koom ua ke mus ntau/tua kom nyablaj thim tawm daim av blog . nyablaj yuav mus kev hmoob , blog , co , thiab daum mus pab nyablaj vim daim av yog nyablaj tswj . cov neeg tsis kam mus ces nyablaj yuav muab nws tsev neeg tua kom tas yog nws kam nrog  nyablaj  mus ces nyablaj tso nws tsev neeg dim . xav mus xav los cov raug sau mus koom nyablaj tias yog nws mus ces tuag yog nws ib leeg nws tsev neeg dim yog nws tsis mus tuag tas nrho no ces kuj yeem cia nws mus tuag ib leeg tsuas lwm tus hauv nws tsev neeg dim thiab ciaj . ob tog hmoob ho mus thov kom hmoob , blog , co , thiab daum pab ib yam . zaum no cov neeg nyob daim av blog khib khib qhov nyablaj tuaj caij tsuj ces txawm kam nrog hmoob mus tua nyablaj thiab . ib tse neeg uas muaj ib tug txiv thiab ib tug tub los ib leeg mus tuaj ib pab not by  wellingness but by force . thaum mus txog tom tshav rog ces tus twg hnav hom khaub ncaws yeeb ncuab rau tyus tog ces qhib pom rau xwb . qhov tas yog cov txheeb ze sib tua tuag coob dhau . tswv ntuj tswv teb uas tsim lub ntiaj teb thiab co muaj sia  mas yeej muaj ib txoj natural law tsis pub tus niam los tus txiv muab nws tej menyuam tua . tsis pub tej tub ki tua tej niam tej txiv . kom tus niam thiab tus txiv mas tsuas muaj cawm cov menyuam kom ciaj . kev sib tua nrog nyajlaj zaum no uas muab ib tse neeg faib ob tog sib tua no TXHAUM NTUJ txoj natural law no LOJ HWEEV LAWM . tswv ntuj laj hnov laj pom dhau mas nws thiaj tso ib tug los cawm thiab cheem rog .
+sawv daws yeej hnov cov lus saub lus vwm li kuv hnov lawm . tus yuav ntseeg los yeej ntseeg nyog tus tsis ntseeg los yog nyias lub siab nyias xaiv nyias .
+
+Mr . Yong ແລະ ທ້າວໄຂ່ມືດ,ຕາມທີສປປລາວໄດ້ຣະບຸໄວ້ຢູ່ໃນກົດໝາຍວ່າປະຊາຊົນເປັນເຈົ້າ, ແຕ່ເຫັນໄດ້ວ່າ ທຸກມື້ນີ້ປະຊາຊົນລາວບໍ່ມີສິດໃນການປາກເວົ້າຕາມທີວ່ານີ້ນັ້ນເລືຍ ແມ່ນຫຍັງແທ້? ຜູ້ໃດປາກເວົ້າຫລາຍຜູ້ ນັ້ນຜິດຕໍ່ກົດໝາຍແລະນະໂຍບາຍຂອງຣັຖ ຄືຊິແມ່ນວ່າຖືກບໍ່?
+Xeeb ,
+Raws le saib koj tej lug nuav yeej muaj tseeb , thaum puab ua plaub ntug sib dlu ntawd kuv tseem nyob Colorado , kuv nyob txug xyoo 1986 lub 8 hli ntuj kuv le tsiv tawm huv Colorado lawm .
+Moob Colorado sis tawg sis ntxub yog vim sis txeeb Koom Hum .  Lis Cai , Lis Xeeb , Lis Hais , Lis Nyiaj puab tuab xeem Moob Lis muaj peevxwm xub nrog cov : Tsaab , Hawj , Lauj , Muas , Thoj , Vaaj , Vwj , Xyooj , hab Yaaj .
+Lu caij nuav tes cov Xeem Lis yeej txawj ntawv aaskiv coob dlua , tes yog Moob hum xeeb tes leej twg paub tshaaj tes cas tug hov ua mas yuav zoo dlua le kws suav dlawg sis txeeb , ua ua txug kawg poob moog rua nyaablaaj Vietnamese tes suav dlawg ua yoov ntxuav teg .
+Yog has tas kuv yog Yaaj Cib , koj yog Yaaj Cib tug opposite .  Koj puag kaam cas kuv yeej ?  Koj puas kaam tsaas teg rua kuv ?  Yog koj yog Yaaj Cib , kuv yog Yaaj Cib tug opposite , kuv pum tas pejxeem nyam koj coob , kuv twb ua lug ntev lawm , kuv yuav tau zaam kev cas koj ua .  Kuv yeej txaus sab txhawb koj hab ca koj ua .  Txhob muab koj Dhlov toj .
+Kuv le mas yog leej twg ua raug hab yog lawm tes kuv yeej cas tug ntawd ua moog , rua qhov cas nwg ua txuj dlej num txhaj le ruaj khov , koj tej lug sau nuav yeej yog lug lawm , tsi xob ua le thaum ub Hawj Neeb ua num rua Paaj Kaub Hawj , Hawj Neeb taab tom moog " Tiv tuaj " tau Asmeskas yuav paab Moob Chaofa nua tes muab ib yawm hu ua Tooj Choj Hawj cas le txeeb ua , hab Tooj Choj Hawj has tas Hawj Neeb mas yog MoobSib/Ntsuab lawm mas yuav tsum cas Tooj Choj Hawj ua xwb , rua qhov Tooj Choj Hawj yog Hmoob dawb ua tawv nkawv yuav ua xwb xwb nua tes Hawj Neeb txhaj Saab Laaj rua cov kwv tij ces suav dlawg tas yog has le tes cas rua Tooj Choj ua es koj Zaam kev rua yawm nua tes Hawj Neeb quaj ib pluag ua kua muag poob dlawb fog .
+Hawj neeb muab tso tseg rua Tooj Choj tes Tooj Choj tsi paub txuj num le lawm sov yuav ua tog twg tuaj txhaj yuav raug rua tug dlej num tes cas le ntsag ua tsis tau dlej num rua Paaj Kaub Hawj . Moob lub neej yeej zoo le has nuav taag le .
+YTK
+YTK
+Yawm Tshaj .
+Moob qhov cuv uam teg yog kev sib tawg , Moob txhaj tsis muaj teb muaj chaws nrug luag nyob , tsis tau num tau tswv nrug luag ua .  Moob Colorado sis tawg sis ntxub yog vim sis txeeb Koom Hum .  Lis Cai , Lis Xeeb , Lis Hais , Lis Nyiaj puab tuab xeem Moob Lis muaj peevxwm xub nrog cov : Tsaab , Hawj , Lauj , Muas , Thoj , Vaaj , Vwj , Xyooj , hab Yaaj .  Puab has tas puab txawj , puab ua num ua tswv , hab puab yog cov xub tuaj poob Colorado .  Thawj kawg Moob Colorado txhaj tawg tug yuav tsis moog hos twg los muaj .
+Yawm Tshaj , Koj puas paub leej twg yog tug tso tsheb nrau Yaaj Cib thaus 1982 ?  Yaaj Cib yog tug txawj ntawv , yog tug paub lug English zoo , yog tug pejxeem hwm , hab yog tug kawm ntawv sab .
+Yog has tas kuv yog Yaaj Cib , koj yog Yaaj Cib tug opposite .  Koj puag kaam cas kuv yeej ?  Koj puas kaam tsaas teg rua kuv ?  Yog koj yog Yaaj Cib , kuv yog Yaaj Cib tug opposite , kuv pum tas pejxeem nyam koj coob , kuv twb ua lug ntev lawm , kuv yuav tau zaam kev cas koj ua .  Kuv yeej txaus sab txhawb koj hab ca koj ua .  Txhob muab koj Dhlov toj .
+Xeeb

@@ -13,6 +13,8 @@ features that require normalization:
 1) A special orthography inconsistent with other text data, and
 2) Errors caused by the OCR process.
 The script found here corrects these.
+Note that the script is designed to run on preprocessed cased
+or uncased data.
 """
 
 import os
