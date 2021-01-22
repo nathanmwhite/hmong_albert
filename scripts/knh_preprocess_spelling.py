@@ -31,6 +31,17 @@ __author_email__ = "nathan.white1@my.jcu.edu.au"
 
 # central function of script
 def process_text(filename, cased=False):
+    """
+    Replaces content of file with normalized text.
+    @param filename : name of file to edit
+    @param cased : boolean specifying whether output should be cased
+    """
+    # test 'cased' data type
+    if type(cased) != bool:
+        raise TypeError("Parameter 'cased' should be a boolean." + \
+                        "Current data type: " + str(type(cased)))
+
+    # specify original form and replacement as regex sequences
     replacement_pairs = [(' lb', ' Ib'),
                          ('(?<=[aeiowhH])rn(?=[.,!? ])', 'm'),
                          ('rnlaug', 'mlaug'),
@@ -49,9 +60,13 @@ def process_text(filename, cased=False):
                          (' nhy', ' hny'),
                          (' Nhy', ' Hny')]
 
+    # access file
     f = open(filename, 'r+')
     input_ = f.readlines()
     output = []
+
+    # replace content per line in the file and
+    # per replacement pair
     for line in input_:
         line_out = line
         for item in replacement_pairs:
@@ -65,17 +80,24 @@ def process_text(filename, cased=False):
     f.write(''.join(output))
     f.close()
 
+
 if __name__ == '__main__':
+    # try to load in case value
     try:
         cased_val = sys.argv[1]
     except IndexError:
         print('Need to specify case value: -c or -u')
+
+    # set 'cased' boolean
     if cased_val == '-c':
         cased = True
     elif cased_val == '-u':
         cased = False
     else:
         raise ValueError('Case value not valid: ' + cased_val)
+
+    # check for correct current folder and 
+    # call process_text on each file
     if os.path.basename(os.getcwd()) == 'knh':
         filenames = os.listdir()
         for file in filenames:
