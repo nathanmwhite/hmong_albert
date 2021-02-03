@@ -44,7 +44,11 @@ def generate_bpe(data_loc):
     # trains the model
 	spm.SentencePieceTrainer.train(input=file_list,
 								   model_prefix='hm.' + data_loc,
-								   control_symbols=['[PAD]', '[UNK]', '[CLS]', '[SEP]', '[MASK]'],
+								   control_symbols=['[CLS]', '[SEP]', '[MASK]'],
+
+unk_piece='[UNK]',
+
+pad_piece='[PAD]',
 								   vocab_size=50000,
 								   user_defined_symbols=[])
 								
