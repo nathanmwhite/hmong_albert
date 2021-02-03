@@ -30,11 +30,11 @@
 # Note also that this bash script is designed to run on
 # a SLURM scheduler.
 
-module load gnu7/7.2.0
-module load cuda/9.2.148.1
+module load cuda/10.0.130
+module load gnu7
+module load openmpi3
 module load anaconda/3.6
-module load mvapich2
-module load pmix/1.2.3
+source activate /opt/ohpc/pub/apps/tensorflow_1.13
 
 # Install ALBERT requirements
 export ALBERT_PATH=../albert
@@ -69,7 +69,7 @@ fi
 # Cased data : generate for sequence lengths 128 and 512
 export CASED_PRETRAIN_IN_PATH=./cased_data/pretrain
 
-srun -n2 --mpi=pmi2 python3.8 create_pretraining_data \
+srun -n2 --mpi=pmix_v2 python3 create_pretraining_data \
 	--input_file=$CASED_PRETRAIN_IN_PATH/sch_corpus/*.*,\
                      $CASED_PRETRAIN_IN_PATH/knh/*.*,\
                      $CASED_PRETRAIN_IN_PATH/med_like/childsupCA/*.*,\
