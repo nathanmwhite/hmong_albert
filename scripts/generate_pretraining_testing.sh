@@ -69,7 +69,9 @@ fi
 # Cased data : generate for sequence lengths 128 and 512
 export CASED_PRETRAIN_IN_PATH=./cased_data/pretrain
 
-srun -n2 --mpi=pmix_v2 python3 create_pretraining_data \
+export PYTHONPATH=/scratch/jcu/nwhite/
+
+srun -n2 --mpi=pmix_v2 python3 -m albert.create_pretraining_data \
 	--input_file=$CASED_PRETRAIN_IN_PATH/sch_corpus/*.*,\
                      $CASED_PRETRAIN_IN_PATH/knh/*.*,\
                      $CASED_PRETRAIN_IN_PATH/med_like/childsupCA/*.*,\
