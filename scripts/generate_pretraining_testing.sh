@@ -39,7 +39,7 @@ source activate /opt/ohpc/pub/apps/tensorflow_1.13
 # Install ALBERT requirements
 export ALBERT_PATH=../albert
 
-pip install -r $ALBERT_PATH/requirements.txt
+pip install --user -r $ALBERT_PATH/requirements.txt
 
 # Define sequence lengths and max predictions variables
 export SHORT_SEQ=128
