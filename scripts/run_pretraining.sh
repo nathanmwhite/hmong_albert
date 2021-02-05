@@ -1,11 +1,10 @@
 #!/bin/bash
-#SBATCH -N 2
 #SBATCH --job-name=hmong_albert_pretrain
-#SBATCH -n 8
+#SBATCH -n 4
 #SBATCH -c 1
-#SBATCH --mem=100000
+#SBATCH --mem=50000
 #SBATCH --partition=gpu
-#SBATCH --gres=gpu:tesla-smx2:8
+#SBATCH --gres=gpu:tesla-smx2:4
 #SBATCH -e pretraining_error.txt
 
 # run_pretraining.sh
