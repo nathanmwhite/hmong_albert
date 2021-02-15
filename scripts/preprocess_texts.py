@@ -447,14 +447,21 @@ def split_sentences(paras_in):
                 if len(remaining_line) > pos and current == '.':
                     while True:
                         _prev = remaining_line[pos-2]
-                        # TODO: logic currently fails here: pos continues until out of remaining_line
-                        _next = remaining_line[pos]
+                        # if the next position raises an exception, then end of string and no split found
+                        try:
+                            _next = remaining_line[pos]
+                        except IndexError:
+                            found = None
+                            break
                         # logic here assumes that digit + period + digit is not to be split upon
                         if _prev in string.digits and _next in string.digits:
                             found = re.search(re_to_match, remaining_line[pos:])
                             if found == None: # if None, then there is no remaining relevant punctuation
                                 break
                             pos = found.span()[1] + pos
+                            first_test = True
+                        else:
+                            first_test = False
                         # TODO: check if superseded by email address simplification above
                         at_pos_prev = re.search('[A-Za-z0-9]{1,}@[A-Za-z0-9] ?\.$', remaining_line[:pos])
                         at_pos_next = re.search('^[A-Za-z0-9\. ]{1,}@', remaining_line[pos:])
@@ -463,7 +470,11 @@ def split_sentences(paras_in):
                             if found == None:
                                 break
                             pos = found.span()[1] + pos
-                        else: # this position is not a decimal point, so treat as regular punctuation
+                            second_test = True
+                        else:
+                            second_test = False
+                        # this position is not a decimal point, so treat as regular punctuation
+                        if not (first_test or second_test):
                             break
             # add if found is None in any case, as there is no remaining relevant punctuation
             if found == None:
