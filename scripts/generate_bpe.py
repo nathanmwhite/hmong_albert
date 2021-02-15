@@ -49,10 +49,11 @@ def generate_bpe(data_loc):
 unk_piece='[UNK]',
 
 pad_piece='[PAD]',
-								   vocab_size=50000,
+
+vocab_size=50000,
 								   user_defined_symbols=[])
 								
 if __name__ == '__main__':
     # generate byte-pair encodings on both uncased and cased data
     generate_bpe('uncased_data')
-    generate_bpe('cased_data')								
+    generate_bpe('cased_data')
