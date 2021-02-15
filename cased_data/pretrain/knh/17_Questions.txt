@@ -2,13 +2,13 @@ Txhais cov zaj lus hauv qab no ua lus Askiv .
 
 Tag kis no kuv pom ib tug dab .
 
-Koj puas paub nws lub be hu ua li cas ?
+Koj puas paub nws lub npe hu ua li cas ?
 
 Leej twg paub hais lus Suav ?
 
 Vim li cas nws muab nws tus nees muag ?
 
-Kuv pog muaj rau tus vaub kib juab .
+Kuv pog muaj rau tus vaub kib ntsuab .
 
 Peb niam tais laus laus lawm .
 
@@ -16,15 +16,15 @@ Kab puas zoo siab ?
 
 Kuv xav mus ua si peb qaum teb lub caij sov no .
 
-Pug ta ib tug jaum tom kuv sab ko taw xis .
+Pug ta ib tug ntsaum tom kuv sab ko taw xis .
 
 Koj puas tau pom dua ib tug qav kaws ?
 
 See tus nus yau mus ua loj leeb lawm .
 
-Kuv xis fawm kawg gaus .
+Kuv xis fawm kawg nkaus .
 
-Wb sib jib dua rau tag kis .
+Wb sib ntsib dua rau tag kis .
 
 Tam sim no nws twb no no lawm .
 
@@ -42,4 +42,4 @@ Lub hub no yog leej twg lub ?
 
 Kuv paub zoo tias koj dag kuv xwb .
 
-Tam sim no jes , cws , thiab qwj yeeg kim kawg .
+Tam sim no ntses , cws , thiab qwj yeeg kim kawg .
