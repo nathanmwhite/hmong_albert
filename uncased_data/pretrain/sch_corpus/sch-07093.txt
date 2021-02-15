@@ -1,51 +1,36 @@
 puas muaj leej tws experienced txog qhov nov thiab?
+
 vim licas hmoob thiaj hu ua rog tsuam?
-vim licas thiaj li muaj
 
-correction! tsog tsis yog rog :)
+vim licas thiaj li muaj correction!
+tsog tsis yog rog:) hmoobxeev, kuv twb yuav luag teb koj hais tias yog "rog" no tiag mas ntshe yog tim yog nws rog heev dhau heev lawm es thaum los tsuam thiaj tshem tsis tau nws tawm ntawm tus raug tsuam xwb.
 
-hmoobxeev,
-kuv twb yuav luag teb koj hais tias yog "rog" no tiag mas ntshe yog
-tim yog nws rog heev dhau heev lawm es thaum los tsuam thiaj tshem
-tsis tau nws tawm ntawm tus raug tsuam xwb.
 yog tsog no ces cia rau lwm tus uas paub txog zaj no mam los teb koj.
+
 kuv los kuj xav paub thiab.
-yias
 
-hmoob xeev,
-tsog = tsog tsuag = dab
-tsog tsuam ces yog dab tsuam. cov laus ib txwm ntseeg hais tias yog
-tsog tsuam. tab sis peb txeej niam no ib txhia tsis ntseeg li ntawd
-lawm. raws li kuv xav mas nws tsuas yog yus nyob rau nruab nrab ntawm
-kev tsaug zog thiab kev tsim, thiaj ua rau yus feeb tsis meej es nws
-thiaj li zoo li ntawd xwb. yus lub siab xav tau, lub pob ntseg hnov
-lus, tab sis lub hlwb saib (body control) tseem tsaug zog, thiaj ua
-rau yus xav hais tias muaj dab los tsuam yus es yus thiaj nti tsis
-taus.
-tsuas yog kuv kev ntsuam thiab kev sav xwb,
-hl
+yias hmoob xeev, tsog = tsog tsuag = dab tsog tsuam ces yog dab tsuam.
+cov laus ib txwm ntseeg hais tias yog tsog tsuam.
+tab sis peb txeej niam no ib txhia tsis ntseeg li ntawd lawm.
+raws li kuv xav mas nws tsuas yog yus nyob rau nruab nrab ntawm kev tsaug zog thiab kev tsim, thiaj ua rau yus feeb tsis meej es nws thiaj li zoo li ntawd xwb.
+yus lub siab xav tau, lub pob ntseg hnov lus, tab sis lub hlwb saib (body control) tseem tsaug zog, thiaj ua rau yus xav hais tias muaj dab los tsuam yus es yus thiaj nti tsis taus.
 
-tsog ces yog dab poj ntxoog los mas hmoobxeev awd. yog koj raug tsog
-tsuam ib zaug lawm ces nws yuav niaj hnub los sis nyob nyob zoo caij
-zoo nyoog ces yuav rov los xyuas koj dua xwb. ib qhov theory hais txog
-ntawm peb cov hmoob tsaug tsaug zog ib tsam es pheej nrog kev tsaug
-zog lawm ncaj ces tej zaum twb yog raug tsog muab tsuam tuag no nas.
-vim thaum tsog tsuam kiag mas yus yeej nti los nti tsis tau, ua pa los
-ua tsis tau, zoo li txoj sia mas me zus me zus lawm tiag tiag li. dhau
-ntawd es yog tsis muaj ib tug pw ze hnov thiab tsa yus ces yog tseem
-pheej tsuag yus tas zog thiab ces ib pliag ntxiv ces kawg ncaim xwb
-tiag.
+tsuas yog kuv kev ntsuam thiab kev sav xwb, hl tsog ces yog dab poj ntxoog los mas hmoobxeev awd.
+yog koj raug tsog tsuam ib zaug lawm ces nws yuav niaj hnub los sis nyob nyob zoo caij zoo nyoog ces yuav rov los xyuas koj dua xwb.
+ib qhov theory hais txog ntawm peb cov hmoob tsaug tsaug zog ib tsam es pheej nrog kev tsaug zog lawm ncaj ces tej zaum twb yog raug tsog muab tsuam tuag no nas.
 
-raws le kuv to taub mas peb txheej laug ntseeg muaj puas tsaav yaam
-dlaab. ib hom ces yog dlaab tsog. tsog kuj muaj ntau hom, ib yaam le
-tsog zaaj, tsog tsuv, tsog haav av le ntawd...dlaab tsog mas yog yus
-tug lujloog hum ces tug dlaab ntawd pheej lug looj/nas yug thaus yus
-pw tsaug zug lawd. tej thaud nwg yuav ua tus hluas nkauj (yog tas koj
-yog txiv neej) los yog ua ib tug hluas nraug, yog tas koj yog quaspuj
-(female), lug ntxag koj. cov kws muaj xaab yeeb tsog le nuav mas puab
-pav puab txuj kev tau ntxag tsog mas tseem zoo nyob tshaj ntxag noob
-neej hab. tej hom tsog ces lug muab yug laum, muab yug nas kuas yug
-yuav tuag, yuav tuag xwb. yog tas tsi ua neeb khu ces tug dlaab tsog
-ntawd yuav coj yug moog ntaag. thaus ntawd ces yug yuav tuag.  le nuav
-xwb puas paab tau koj?
+vim thaum tsog tsuam kiag mas yus yeej nti los nti tsis tau, ua pa los ua tsis tau, zoo li txoj sia mas me zus me zus lawm tiag tiag li.
+dhau ntawd es yog tsis muaj ib tug pw ze hnov thiab tsa yus ces yog tseem pheej tsuag yus tas zog thiab ces ib pliag ntxiv ces kawg ncaim xwb tiag.
+
+raws le kuv to taub mas peb txheej laug ntseeg muaj puas tsaav yaam dlaab.
+ib hom ces yog dlaab tsog.
+tsog kuj muaj ntau hom, ib yaam le tsog zaaj, tsog tsuv, tsog haav av le ntawd...
+dlaab tsog mas yog yus tug lujloog hum ces tug dlaab ntawd pheej lug looj/nas yug thaus yus pw tsaug zug lawd.
+tej thaud nwg yuav ua tus hluas nkauj (yog tas koj yog txiv neej) los yog ua ib tug hluas nraug, yog tas koj yog quaspuj (female), lug ntxag koj.
+cov kws muaj xaab yeeb tsog le nuav mas puab pav puab txuj kev tau ntxag tsog mas tseem zoo nyob tshaj ntxag noob neej hab.
+tej hom tsog ces lug muab yug laum, muab yug nas kuas yug yuav tuag, yuav tuag xwb.
+yog tas tsi ua neeb khu ces tug dlaab tsog ntawd yuav coj yug moog ntaag.
+thaus ntawd ces yug yuav tuag.
+le nuav xwb puas paab tau koj?
+
 ms

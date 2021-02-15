@@ -1,23 +1,16 @@
-le caag los xij peem, cov hmoob ntawd
-yuav raug caum moog rua cam teb, tsis pub moog hlaa tsuam tob ( dan )
-vim tas tseem fwv nplog yeej tsis kaam leeg tas cov hmoob ntawd yog
-neeg nplog hab tsis yog nplog luag hauj lwm yuav saib xyuas cov neeg
-ntawd lawm.
-tej zag kuv tsis to taub lus hmoob zoo los ua le caag koj nqaaj lug
-nuav tsis make sense rua kuv le " le caag los xij peem, cov hmoob ntawd
-yuav raug caum moog rua cam teb, tsis pub moog hlaa tsuam tob ( dan )".
-lo lug "tsuam tob" puas yog koj hais rab nyej los yog ntxiab? "dan" yog
-txhais le caag? puag yog tsaab xov xwm nuav has tas puab yuav tsis muab
-moob xa moog rua nplogteb, tsuas yog xa mug nyob ze pem ciam teb xwb?
+le caag los xij peem, cov hmoob ntawd yuav raug caum moog rua cam teb, tsis pub moog hlaa tsuam tob (dan) vim tas tseem fwv nplog yeej tsis kaam leeg tas cov hmoob ntawd yog neeg nplog hab tsis yog nplog luag hauj lwm yuav saib xyuas cov neeg ntawd lawm.
 
-dan = tsuam tob = check point.  dan zoo le yog lug thaib hab lug nplog
-sub.  tsuam tob yog qub lug xwb los yog lug tshab?
+tej zag kuv tsis to taub lus hmoob zoo los ua le caag koj nqaaj lug nuav tsis make sense rua kuv le " le caag los xij peem, cov hmoob ntawd yuav raug caum moog rua cam teb, tsis pub moog hlaa tsuam tob (dan)".
 
-tsuam tob puas yog tus pa tav kev ntawm qhov check point mas? tam li
-kuv imagine xwb mas nws yuav zoo li rab txiab uas muaj ib qhov sensor
-ntsuas tib neeg txoj kev txhaum, kev lim hiam, yog leej twg muaj kev
-txhaum ces thaum los hla rab tsuam tob ces sensor yuav txhom tau, yog
-thaum txhom tau lawm ces tus ntawd yuav mag txiav. kuv tsuas hnov luag
-piv txoj lug txog tsuam tob sab nruab yeeb xwb tsis paub tias zoo li
-cas tiag. tej zaum tij laug yaj thoj yuav paub tias rab tsuam tob zoo
-li cas tiag.
+lo lug "tsuam tob" puas yog koj hais rab nyej los yog ntxiab? "
+dan" yog txhais le caag?
+puag yog tsaab xov xwm nuav has tas puab yuav tsis muab moob xa moog rua nplogteb, tsuas yog xa mug nyob ze pem ciam teb xwb?
+
+dan = tsuam tob = check point.
+dan zoo le yog lug thaib hab lug nplog sub.
+tsuam tob yog qub lug xwb los yog lug tshab?
+
+tsuam tob puas yog tus pa tav kev ntawm qhov check point mas?
+tam li kuv imagine xwb mas nws yuav zoo li rab txiab uas muaj ib qhov sensor ntsuas tib neeg txoj kev txhaum, kev lim hiam, yog leej twg muaj kev txhaum ces thaum los hla rab tsuam tob ces sensor yuav txhom tau, yog thaum txhom tau lawm ces tus ntawd yuav mag txiav.
+kuv tsuas hnov luag piv txoj lug txog tsuam tob sab nruab yeeb xwb tsis paub tias zoo li cas tiag.
+tej zaum tij laug yaj thoj yuav paub tias rab tsuam tob zoo li cas tiag.

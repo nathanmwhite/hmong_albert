@@ -1,6 +1,3 @@
-teevlis=lytek=listeeb,
-nyuag plis cebmuag yaim nblos commie(viet-lpdr) thiab buadawb tsis tau txaus,
-tibnyuag ntseeb xwb cav xyuam devplhu txiaua ntau tus mojzeej sibkws ualuaj,
-ntsis tib phoov hmoovpias rau ces kubcaws cuag liabhlawv xwb!
-txiyawg txhib ntajhmoob pleev quaqaib dub ntawmno nad,
-ktt
+teevlis=lytek=listeeb, nyuag plis cebmuag yaim nblos commie(viet-lpdr) thiab buadawb tsis tau txaus, tibnyuag ntseeb xwb cav xyuam devplhu txiaua ntau tus mojzeej sibkws ualuaj, ntsis tib phoov hmoovpias rau ces kubcaws cuag liabhlawv xwb!
+
+txiyawg txhib ntajhmoob pleev quaqaib dub ntawmno nad, ktt

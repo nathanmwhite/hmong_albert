@@ -1,72 +1,62 @@
-tijlaug vue, dablaugpaajnruag,
-peb sawv daws nrog tu siab thaum hnov txog tias peb ib tug tub tsim
-txiaj tau tas simneej lawm. txoj kev tuag, tsis muaj neeg xav tau tabsi
-yog ib yam tsis muaj neeg khiav dhau.
-peb txoj sia zoo yam lub clock uas ticking each every day. thaum peb
-caw moo tseg, txog caij ces nws yuav nrov.
-kuv hnov ib zaj dabneeg hais txog ib tug txiv ntxawm,( tsis paub txiv
-ntxawm hmoob los txiv ntxawm nplog los lwm haivneeg) cog lus tseg rau
-txoj kev tuag tias, "cia kuv mus ua lub neej nyob ntiaj teb. kuv yuav
-mus ua ib tug kws tu tsiaj txhu. thov koj txhob rawm los tos kuv  sai
-sai". ces txoj kev tuag thiab tus txiv ntxawm ntawd agreed to set up ib
-lub date ntev kawg nkaus.
-ua cas tus txiv ntxawm ntawd los tu nyuj twm puv tiaj, nws tseem rau
-rau siab mus pub nyuj twm thiab zoo siab hais tias nws tej tsiaj txhu
-coob heev. ua cas tos hnov xwb txoj kev tuag txawm siv los khob khob
-nws nrob qaum hais tias, "txog wb caij mus lawm, koj npaj tau lawm
-lod?" tus txiv ntxawm ntawd hais rau nws tias, "ua cas koj yuav maj los
-ua luaj? kuv tej tsiaj txhu tseem coob ua luaj, kuv tsis tau npaj nrog
-koj mus".
-txoj kev tuag hais rau nws hais tias, "koj twb nrog kuv sib cog lus
-tseg hais tias, txog caij kuv mam los tos koj no ne. koj sim mus saib
-saib ma, txog caij wb mus lawm tiag". tus txiv ntxawm mus saib hais
-daim iav, (lub crystal ball), ua cas nws twb laus laus, plaubhau dawb
-paug, nrig pas lawm xwb. ces nws thiaj ua ib siab nrog txoj kev tuag
-mus lawm, tso pojniam menyuam, xeejleej xeeb ntxwv thiab tej tsiaj txhu
-tseg cia tom qab.
-peb txhua tus yeej tau nrog txoj kev tuag cog lus tseg. yog thaum txog
-caij, ces peb ib tug yuav cheem tsis tau ib tug.
-nkauj nyiag
+tijlaug vue, dablaugpaajnruag, peb sawv daws nrog tu siab thaum hnov txog tias peb ib tug tub tsim txiaj tau tas simneej lawm.
+txoj kev tuag, tsis muaj neeg xav tau tabsi yog ib yam tsis muaj neeg khiav dhau.
 
-ms,
-xub thawj koj tsis qhia qhov tseeb kuv thiaj tsis paub. tom qab no, kuv
-mam rov los nyeem no thiaj paub tias yog phoojywg vwjthoj nkawd tus
-tub. lub moo ploj tuag yeej tsis muaj tug xav hnov thiab xav paub, tab
-sis zam tsis tau lawm ces yuav tau tshaj kom sawv daws nrog hnov thiab
-nrog hlub.
-phoojwg vwjthoj thiab nyaaj rwm peb yeej ib txwm sib paub thiab sib pab
-ntev los lawm. kuv tseem nco thaum kuv tus cousin lwm lis poob dej es
-nws yog tus mus muab los. tseem nco thaum nkawd 2 niam txiv sib yua los
-txog nkawd mus australia tib si. muaj ib xyoo peb sib ntsib nyob
-merced, ca.
+peb txoj sia zoo yam lub clock uas ticking each every day.
+thaum peb caw moo tseg, txog caij ces nws yuav nrov.
+
+kuv hnov ib zaj dabneeg hais txog ib tug txiv ntxawm,(tsis paub txiv ntxawm hmoob los txiv ntxawm nplog los lwm haivneeg) cog lus tseg rau txoj kev tuag tias, "cia kuv mus ua lub neej nyob ntiaj teb.
+kuv yuav mus ua ib tug kws tu tsiaj txhu.
+thov koj txhob rawm los tos kuv sai sai".
+ces txoj kev tuag thiab tus txiv ntxawm ntawd agreed to set up ib lub date ntev kawg nkaus.
+
+ua cas tus txiv ntxawm ntawd los tu nyuj twm puv tiaj, nws tseem rau rau siab mus pub nyuj twm thiab zoo siab hais tias nws tej tsiaj txhu coob heev.
+ua cas tos hnov xwb txoj kev tuag txawm siv los khob khob nws nrob qaum hais tias, "txog wb caij mus lawm, koj npaj tau lawm lod?"
+tus txiv ntxawm ntawd hais rau nws tias, "ua cas koj yuav maj los ua luaj?
+kuv tej tsiaj txhu tseem coob ua luaj, kuv tsis tau npaj nrog koj mus".
+
+txoj kev tuag hais rau nws hais tias, "koj twb nrog kuv sib cog lus tseg hais tias, txog caij kuv mam los tos koj no ne.
+koj sim mus saib saib ma, txog caij wb mus lawm tiag".
+tus txiv ntxawm mus saib hais daim iav, (lub crystal ball), ua cas nws twb laus laus, plaubhau dawb paug, nrig pas lawm xwb.
+ces nws thiaj ua ib siab nrog txoj kev tuag mus lawm, tso pojniam menyuam, xeejleej xeeb ntxwv thiab tej tsiaj txhu tseg cia tom qab.
+
+peb txhua tus yeej tau nrog txoj kev tuag cog lus tseg.
+yog thaum txog caij, ces peb ib tug yuav cheem tsis tau ib tug.
+
+nkauj nyiag ms, xub thawj koj tsis qhia qhov tseeb kuv thiaj tsis paub.
+tom qab no, kuv mam rov los nyeem no thiaj paub tias yog phoojywg vwjthoj nkawd tus tub.
+lub moo ploj tuag yeej tsis muaj tug xav hnov thiab xav paub, tab sis zam tsis tau lawm ces yuav tau tshaj kom sawv daws nrog hnov thiab nrog hlub.
+
+phoojwg vwjthoj thiab nyaaj rwm peb yeej ib txwm sib paub thiab sib pab ntev los lawm.
+kuv tseem nco thaum kuv tus cousin lwm lis poob dej es nws yog tus mus muab los.
+tseem nco thaum nkawd 2 niam txiv sib yua los txog nkawd mus australia tib si.
+muaj ib xyoo peb sib ntsib nyob merced, ca.
+
 thov xa kev hlub tshua txog nkawd tus tub.
+
 tseemyeej.
 
-phoojywg,
-nrog koj tusiab uas koj ib tug txheebze tau tso sawvdaws tseg.  kuv
-niam nyuamqhuav tso kuv tseg tau ob lub xyoos cia lub hlis dhau los
-lawd, 2 hlis tim 25 kuv txiv los tau tso kuv tseg ib yamnkaus thiab,
-tabsis qhov txawv yog nkawv puavleej lauslaus lawm.  you know that
-people caes and please don't give up.  it give me a lot of thoughts
-when i fell no buffer around me.  whether i am ready or not wind will
-blow me from any direction now.
-remember that muaj kaj ces yuavtsum muaj tsaus xwb tsis muaj leejtwg
-yuav dhia dhau.  bible tau hais tias, "tibneeg yog vajtswv muab av
-puab, txog hnub kawg nws yuav rov mus ua av."  ua siab loj thiab tswj
-yus tuskheej.  txawm kuv ib hnub quaj ob peb pluag los cav tuag tsis
-tau li'os.
-nrog koj tusiab heev,
-kuamem iab
+phoojywg, nrog koj tusiab uas koj ib tug txheebze tau tso sawvdaws tseg.
+kuv niam nyuamqhuav tso kuv tseg tau ob lub xyoos cia lub hlis dhau los lawd, 2 hlis tim 25 kuv txiv los tau tso kuv tseg ib yamnkaus thiab, tabsis qhov txawv yog nkawv puavleej lauslaus lawm.
+you know that people caes and please don't give up.
+it give me a lot of thoughts when i fell no buffer around me.
+whether i am ready or not wind will blow me from any direction now.
 
-moobsib,
-koj tsis muaj lub txim dab tsi.  kuv ua koj tsaug uas koj tau muab tso
-rau peb paub txog.  thaum hnov hais tias yog tub vwj tus tub no mas lub
-kua muag ntog lam puag hauv plawv tuaj.  txoj kev ploj tuag no ces peb
-txhua tus tau ntsib yuav luag txhua.  nws yog ib yam tu siab tshaj
-plaws.  tus tub txoj kev tso peb sawv daws tseg zaum no yog ib yam zoo
-li npau suab xwb.  ib sij huam ces li zoo li lawm.
+remember that muaj kaj ces yuavtsum muaj tsaus xwb tsis muaj leejtwg yuav dhia dhau.
+bible tau hais tias, "tibneeg yog vajtswv muab av puab, txog hnub kawg nws yuav rov mus ua av."
+ua siab loj thiab tswj yus tuskheej.
+txawm kuv ib hnub quaj ob peb pluag los cav tuag tsis tau li'os.
+
+nrog koj tusiab heev, kuamem iab moobsib, koj tsis muaj lub txim dab tsi.
+kuv ua koj tsaug uas koj tau muab tso rau peb paub txog.
+thaum hnov hais tias yog tub vwj tus tub no mas lub kua muag ntog lam puag hauv plawv tuaj.
+txoj kev ploj tuag no ces peb txhua tus tau ntsib yuav luag txhua.
+nws yog ib yam tu siab tshaj plaws.
+tus tub txoj kev tso peb sawv daws tseg zaum no yog ib yam zoo li npau suab xwb.
+ib sij huam ces li zoo li lawm.
+
 txawm li cas los koj nrog rau cov nyob ram pem koj ua siab loj thiab.
-lub kua muag los ib txhia los ho xav txog cov tseem ua neej nyob thiab
-es thiaj tsis tu-u siab nawb mog.  nws tsis yog ib yam peb thiv thaiv
-tau.
+
+lub kua muag los ib txhia los ho xav txog cov tseem ua neej nyob thiab es thiaj tsis tu-u siab nawb mog.
+nws tsis yog ib yam peb thiv thaiv tau.
+
 txawjvamyias

@@ -1,94 +1,80 @@
-cov npoj yaig schlers,
-yog zoo li yam txhiam laj txhiam xws es muab lub vab tshaus tshau tau
-no nej xav tias yuav tshau tau zoo li cas?
-piv txwv, puas yuav tsim nyog muab tshau li sau nram no kom meej tias
-qhov twg yog tsoos tsho thiab txoj twg yog dab qhuas?:
-1. noj tsiab (cultural)
-2. noj peb caug (religious)
-3. hmoob (nplog) kev cai ua npas xis khi tes (cultural)
-4. ua neeb (cultural)...thaj neeb yog tus txiv/niam neeb daim ntawv
-pov thawj ua neeb xwb (display of her/his certifiable certificate to
-conduct shamanistic rituals)
-yog yam twg muaj lo lus "laig" no thiab yog ua los yog teev thiab cib
-fim rau sab dab qhua...
+cov npoj yaig schlers, yog zoo li yam txhiam laj txhiam xws es muab lub vab tshaus tshau tau no nej xav tias yuav tshau tau zoo li cas?
+
+piv txwv, puas yuav tsim nyog muab tshau li sau nram no kom meej tias qhov twg yog tsoos tsho thiab txoj twg yog dab qhuas?
+: 1. noj tsiab (cultural) 2. noj peb caug (religious) 3. hmoob (nplog) kev cai ua npas xis khi tes (cultural) 4. ua neeb (cultural)...
+thaj neeb yog tus txiv/niam neeb daim ntawv pov thawj ua neeb xwb (display of her/his certifiable certificate to conduct shamanistic rituals) yog yam twg muaj lo lus "laig" no thiab yog ua los yog teev thiab cib fim rau sab dab qhua...
+
 lam tham pem li no xwb seb nej li kev xam pom muaj li cas, thiab?
 
 vuag, ua neeb nam yog cultural hos...
 
-phooj ywg tzianeng vang,
-hais txog hmong culture thiab hmong religion, hmong tsis muaj dab tsi
-yuav los claim tau hais tias yam no yog siv rau txoj kev no li os.
-raws li kuv investigate, hmoob puj hmoob yawm yeej tsis siv lo lug
-"laig" ua neej li os. hmoob lub neej thaum hmoob tseem muaj nqaij toog
-txhav hlau, nqaij zeb txhav tsua, hmoob tsuas paub hawm tus tswv thiab
-hmoob tsuas paub kev lom zem xwb. hmoob tsis paub laig leej twg li
-nas. raws li kuv xav, hmoob kev hawm tus tswv yog hmong religion.
-hmong kev noj tsiab/noj peb caug yog kev txais hwj chim ntawm hmoob
-tus vaj kav hmoob. hmoob tsis muaj kev cai npas xim khi tes. kev cai
-npa xim khi tes yog hmoob kawm ntawm nplog los thaum hmoob ua rog
-vietnam xwb. kev ua neeb tsis yog hmong culture tabsis yog ib txoj kev
-lub ntuj pub rau hmoob cawm hmoob txoj sia seb hmoob puas yuav muaj
-hmo tos tau hmoob tus cawm seej rov qab los cawm hmoob xwb. yog li
-hmoob tus cawm seej yog leej twg nab? twb yog yaj saub siv yis ne! dab
-neeg twb hais tias vim yog hmoob xav tuag, hmoob tawm tsam nws es nws
-thiaj khiav rov qab qaum ntuj lawm no los sav puas yog mas? nyuj dab,
-dab roog, npua tais tsis yog hmoob puj hmoob yawm txoj kev taug. kev
-ua pag ua xau li niaj hnub no hmoob ua tsis yog hmoob puj hmoob yawm
-txoj kev taug. zaj taw kev twb qhia peb tseeb lawm hais tias txoj kev
-ua pag ua xau yog ntxwg nyoog txoj. hmoob puj hmoob yawm txoj yog txoj
-kev nqaij toog txhav hlau, nqaij zeb txhav tsua, nyob tsis txawj ploj
-tsis txawj tuag. yog li, kuv classify hais tias txoj kev ntseeg txoj
-kev nqaij toog txhav hlau, nqaij zeb txhav tsua yog hmong religion.
+phooj ywg tzianeng vang, hais txog hmong culture thiab hmong religion, hmong tsis muaj dab tsi yuav los claim tau hais tias yam no yog siv rau txoj kev no li os.
+
+raws li kuv investigate, hmoob puj hmoob yawm yeej tsis siv lo lug "laig" ua neej li os.
+hmoob lub neej thaum hmoob tseem muaj nqaij toog txhav hlau, nqaij zeb txhav tsua, hmoob tsuas paub hawm tus tswv thiab hmoob tsuas paub kev lom zem xwb.
+hmoob tsis paub laig leej twg li nas.
+raws li kuv xav, hmoob kev hawm tus tswv yog hmong religion.
+
+hmong kev noj tsiab/noj peb caug yog kev txais hwj chim ntawm hmoob tus vaj kav hmoob.
+hmoob tsis muaj kev cai npas xim khi tes.
+kev cai npa xim khi tes yog hmoob kawm ntawm nplog los thaum hmoob ua rog vietnam xwb.
+kev ua neeb tsis yog hmong culture tabsis yog ib txoj kev lub ntuj pub rau hmoob cawm hmoob txoj sia seb hmoob puas yuav muaj hmo tos tau hmoob tus cawm seej rov qab los cawm hmoob xwb.
+yog li hmoob tus cawm seej yog leej twg nab?
+twb yog yaj saub siv yis ne!
+dab neeg twb hais tias vim yog hmoob xav tuag, hmoob tawm tsam nws es nws thiaj khiav rov qab qaum ntuj lawm no los sav puas yog mas?
+nyuj dab, dab roog, npua tais tsis yog hmoob puj hmoob yawm txoj kev taug.
+kev ua pag ua xau li niaj hnub no hmoob ua tsis yog hmoob puj hmoob yawm txoj kev taug.
+zaj taw kev twb qhia peb tseeb lawm hais tias txoj kev ua pag ua xau yog ntxwg nyoog txoj.
+hmoob puj hmoob yawm txoj yog txoj kev nqaij toog txhav hlau, nqaij zeb txhav tsua, nyob tsis txawj ploj tsis txawj tuag.
+yog li, kuv classify hais tias txoj kev ntseeg txoj kev nqaij toog txhav hlau, nqaij zeb txhav tsua yog hmong religion.
+
 lwm yam yog hmong culture lawm xwb.
-moj them
 
-py txiabneeb,
-kuv pom koj txhais ob lo lus uas kuv xav hais tias ntshe ib nyuag yuam
-kev zog lawm.
-tam li kuv ib txwm siv mas yog li no:
-kabliskevcai mas thiaj txhais hais tias culture.
-piv txwv:
-tsujsuadluag yog ib tug neeg uas paub hmoob kabliskevcai zoo. nws paub
-hmoob kev ua tshoob ua kos, kev noj tsiab, noj peb caug, kev pam tuag,
-kev tshuab nqeej ntaus nruas, paub zooj tshoob txiv xaiv, paub hais
-kwv txhiab lus taum, thiab tseem paub tshuab raj tshuab ncas tibsi.
-tsoos tsho hmoob thiab lus hmoob yog ob yam tseem ceeb tshajplaws nyob
-rau hauv hmoob kabliskevcai. yog tsis muaj ob yam no ces hmoob tsis
-tsheej hmoob lawm.
+moj them py txiabneeb, kuv pom koj txhais ob lo lus uas kuv xav hais tias ntshe ib nyuag yuam kev zog lawm.
+
+tam li kuv ib txwm siv mas yog li no: kabliskevcai mas thiaj txhais hais tias culture.
+
+piv txwv: tsujsuadluag yog ib tug neeg uas paub hmoob kabliskevcai zoo.
+nws paub hmoob kev ua tshoob ua kos, kev noj tsiab, noj peb caug, kev pam tuag, kev tshuab nqeej ntaus nruas, paub zooj tshoob txiv xaiv, paub hais kwv txhiab lus taum, thiab tseem paub tshuab raj tshuab ncas tibsi.
+
+tsoos tsho hmoob thiab lus hmoob yog ob yam tseem ceeb tshajplaws nyob rau hauv hmoob kabliskevcai.
+yog tsis muaj ob yam no ces hmoob tsis tsheej hmoob lawm.
+
 kevcaidabqhuas mas thiaj txhais hais tias religion.
-pivtxwv:
-kwvtij yog ib tug uas paub hmoob kevcaidabqhuas zoo. nws yog tus coj
-dab nyob rau hauv lawv tsev neeg thiab tseem txawj neeb, txawj khawv
-koob, txawj hu plig, txawj saib yaig, txawj siab neeb, thiab tseem
-txawj tiam neeb tibsi.
-py tsuj & kwvtij, thov txim uas kuv siv neb ob lub npe ua piv txwv.
-qho tseeb tiag kuv yeej ntseeg hais tias neb yog ob tug uas paub txog
-zaj no zoo tiag thiab.
-yog kuv ho yuam kev qhov twg los peb sib cog kho rau nawb,
-hl
 
-hl,
-txawj yog li es thiaj faj lus rau sch no...ua tsaug rau koj li kev
-qhia...
+pivtxwv: kwvtij yog ib tug uas paub hmoob kevcaidabqhuas zoo.
+nws yog tus coj dab nyob rau hauv lawv tsev neeg thiab tseem txawj neeb, txawj khawv koob, txawj hu plig, txawj saib yaig, txawj siab neeb, thiab tseem txawj tiam neeb tibsi.
+
+py tsuj & kwvtij, thov txim uas kuv siv neb ob lub npe ua piv txwv.
+
+qho tseeb tiag kuv yeej ntseeg hais tias neb yog ob tug uas paub txog zaj no zoo tiag thiab.
+
+yog kuv ho yuam kev qhov twg los peb sib cog kho rau nawb, hl hl, txawj yog li es thiaj faj lus rau sch no...
+ua tsaug rau koj li kev qhia...
+
 education is priceless...
-thov yeej meem txuas ntxiv kev tshau peb hmoob li kab lis kev cai
-thiab kev cai dab qhua kom thiaj yuav paub muab cai muab faib qhia tus
-kheej rau tej mej yes, thiab...
+
+thov yeej meem txuas ntxiv kev tshau peb hmoob li kab lis kev cai thiab kev cai dab qhua kom thiaj yuav paub muab cai muab faib qhia tus kheej rau tej mej yes, thiab...
+
 ua tsaug ntau!
 
 mojthem..
-1.  zaj taw kev twb qhia peb tseeb lawm hais tias txoj kev
-ua pag ua xau yog ntxwg nyoog txoj.
-thov qhia mentsis seb yog koj txhais li cas tiag?  vim kuv paub mas,
-cov zaj qhuab ke has no reference at all to being "ntxwj nyoob li".
-however, muaj ib co kws mas hais tias "koj yuav mus thov ntawv noj
-ntawv hau pem ntxwj nyoog"...muaj ib cov mas tias "pem yawm saub".
-temsis either way, zoo li 2 qhov no twb tsi tau tias cov no yog ntxwj
-nyoob li.  or am i missing something?
-2.  hmoob puj hmoob yawm txoj yog txoj
-kev nqaij toog txhav hlau, nqaij zeb txhav tsua, nyob tsis txawj ploj
-tsis txawj tuag. yog li, kuv classify hais tias txoj kev ntseeg txoj
-kev nqaij toog txhav hlau, nqaij zeb txhav tsua yog hmong religion.
-based on the definition of "religion", zoo li #2 ntawd tsi fit what a
-relgion is...please explain further.
+
+1. zaj taw kev twb qhia peb tseeb lawm hais tias txoj kev ua pag ua xau yog ntxwg nyoog txoj.
+
+thov qhia mentsis seb yog koj txhais li cas tiag?
+vim kuv paub mas, cov zaj qhuab ke has no reference at all to being "ntxwj nyoob li".
+
+however, muaj ib co kws mas hais tias "koj yuav mus thov ntawv noj ntawv hau pem ntxwj nyoog"...
+muaj ib cov mas tias "pem yawm saub".
+
+temsis either way, zoo li 2 qhov no twb tsi tau tias cov no yog ntxwj nyoob li.
+or am i missing something?
+
+2. hmoob puj hmoob yawm txoj yog txoj kev nqaij toog txhav hlau, nqaij zeb txhav tsua, nyob tsis txawj ploj tsis txawj tuag.
+yog li, kuv classify hais tias txoj kev ntseeg txoj kev nqaij toog txhav hlau, nqaij zeb txhav tsua yog hmong religion.
+
+based on the definition of "religion", zoo li #2 ntawd tsi fit what a relgion is...
+please explain further.
+
 yaweh

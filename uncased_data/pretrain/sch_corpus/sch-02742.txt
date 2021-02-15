@@ -1,143 +1,103 @@
-cov phooj ywg schlers,
-thov nej sim qhia thiab seb yog yuav muab ib lub "title" rau ib tug
-tib neeg txawj ua paj ntaub tshaj no yuav muab hu li cas thiab ho
-yuav
-muab ntau npaum cas yam txuj ua paj ntaub los sib tw thiaj yuav muab
-tau tus tshaj lij ntawm kev ua paj ntaub hmoob?
-tam li kuv xam pom ces yog li nram no; piv txwv:
-1. muab rau (6) hom ntaub: ntaub daj, dawb, dub, liab, paj taub
-(orange) thiab ntsuab; yuav tsum siv kom tag nrho 6 hom no los ua ib
-daim paj ntaub;
-2. muab plaub (4) hom xov: dawb, dub, liab thiab ntsuab; yuav tsum siv
-kom tag nrho cov xov no;
-3. muab ib rab txiab thiab ib rab koob xwb; yog koob lov lawm ces tag
-li lawm xwb;
-4. xaiv ob peb hom qauv paj ntaub: roob thaiv ua ntug, qwj, noob, taw,
-ntxhw los yog lwm hom mam xaiv rau; yuav tsum siv cov qauv xaiv tau
-cia li no xwb; thiab
-5. tus twg siv nqe 1 - 4 no coj los xaws tau daim paj ntaub tiav log
-thiab tau zoo tshaj ces yog tus yeej.
-tag nrho nqe 1 - 5 no yuav tsum pub xws li ib (1) teev kiag xwb yuav
-tsum kom xaws tiav hlo rau cov saib xyuas (judge) los saib.
+cov phooj ywg schlers, thov nej sim qhia thiab seb yog yuav muab ib lub "title" rau ib tug tib neeg txawj ua paj ntaub tshaj no yuav muab hu li cas thiab ho yuav muab ntau npaum cas yam txuj ua paj ntaub los sib tw thiaj yuav muab tau tus tshaj lij ntawm kev ua paj ntaub hmoob?
+
+tam li kuv xam pom ces yog li nram no; piv txwv: 1. muab rau (6) hom ntaub: ntaub daj, dawb, dub, liab, paj taub (orange) thiab ntsuab; yuav tsum siv kom tag nrho 6 hom no los ua ib daim paj ntaub; 2. muab plaub (4) hom xov: dawb, dub, liab thiab ntsuab; yuav tsum siv kom tag nrho cov xov no; 3. muab ib rab txiab thiab ib rab koob xwb; yog koob lov lawm ces tag li lawm xwb; 4. xaiv ob peb hom qauv paj ntaub: roob thaiv ua ntug, qwj, noob, taw, ntxhw los yog lwm hom mam xaiv rau; yuav tsum siv cov qauv xaiv tau cia li no xwb; thiab 5. tus twg siv nqe 1 - 4 no coj los xaws tau daim paj ntaub tiav log thiab tau zoo tshaj ces yog tus yeej.
+
+tag nrho nqe 1 - 5 no yuav tsum pub xws li ib (1) teev kiag xwb yuav tsum kom xaws tiav hlo rau cov saib xyuas (judge) los saib.
+
 saib seb nej ho xam pom li cas ntxiv?
-ua tsaug,
--txiabneeb
 
-py txiabneeb,
-sib tw ua npaj ntau tw siv kuj yog ib qho kev txhawb txhim hmoob
-kablis kevcai (culture). yog nej ua tau tej no mas nws yeej yog ib qho
-zoo kawg. tabsis kuv txhawj hais tias lawv yuav ua tsis tiav nyob rau
-ib teev ntawd. kev ua paj ntaub mas tam li kuv pom tej pojniam ua ses
-siv sij hawm tsheej week mus rau tsheej hli mam tau ib daim tiag log
-nawb. yog ua ob peb rauv los sib piv seb leej twg ua ceev thiab zoo
-nkauj xwb mas tej zaum yuav tau thiab.
-raws li poj ua cia yawm ua tseg, pojniam hmoob yog tsav ua paj ntaub
-tw siv. yog li ntawd, lub title no yuav tsum hu kom phim rau pojniam.
-kuv lam ti npe li no seb nej ho xav li cas:
-ntxhais pajnrhia
-ntxhais pajnrhiantaub
-ntxhais pajrhia
-ntxhais pajrhiavrhia
-"paj" los ntawm paj ntaub.
+ua tsaug, -txiabneeb py txiabneeb, sib tw ua npaj ntau tw siv kuj yog ib qho kev txhawb txhim hmoob kablis kevcai (culture).
+yog nej ua tau tej no mas nws yeej yog ib qho zoo kawg.
+tabsis kuv txhawj hais tias lawv yuav ua tsis tiav nyob rau ib teev ntawd.
+kev ua paj ntaub mas tam li kuv pom tej pojniam ua ses siv sij hawm tsheej week mus rau tsheej hli mam tau ib daim tiag log nawb.
+yog ua ob peb rauv los sib piv seb leej twg ua ceev thiab zoo nkauj xwb mas tej zaum yuav tau thiab.
+
+raws li poj ua cia yawm ua tseg, pojniam hmoob yog tsav ua paj ntaub tw siv.
+yog li ntawd, lub title no yuav tsum hu kom phim rau pojniam.
+
+kuv lam ti npe li no seb nej ho xav li cas: ntxhais pajnrhia ntxhais pajnrhiantaub ntxhais pajrhia ntxhais pajrhiavrhia "paj" los ntawm paj ntaub.
+
 "nrhia" los ntawm kev nrhia paj ntaub.
-"rhia" lo ntawm lo lus qub qub nyob hauv zaj dab neeg nuj nplhiav
-thiab ntxawm"plaiv plaim rhiav rhia = paj ntaub".
-hl
 
-hl--
-kuv xav li koj hais xav thiab...yog yov ua kom peb haivneeg hmoob no
-kaws tau peb lub neej tseg tiag tiag mas.  txhob muab coj los tso li
-tzianeeb hais-- yuav tsum ua rau txhua lub zos, kom lawv xaiv lawv li
-best pajntau...at least 5 different pieces li tzianeeb hais no
-ntag...tuaj mus rau ib qhov chaw.  yog leej twg yeej, peb yuav tsum
-muab reward rau, xws li yog tsawg kawg kiag twb yog ze li ntawm 2 mus
-rau 3 phav dollars.  qhov no, yog tsim rov los ua kom peb hmoob li
-pojniam rov sivzog kaws lawv cov txujci no nyob tseg rau peb tsevneeg
-hmoob rau lub neej pemsuab.  hos yog tsua yog tus enter lawm xwb ces
-yeej rau me me nqi tes...qhov no, yog ib qhov uas yuav tsum determine
-thaum lub caij ntawd.  vim tej celebration loj loj li july 4th thiab
-wisconsin summer fest ntawd, ua uas tau nyiaj ntau.  tsimnyog peb yuav
-tsum nrhiav tej no los ua kom peb txhob plam peb lub neejhmoob.
-born2behmong
+"rhia" lo ntawm lo lus qub qub nyob hauv zaj dab neeg nuj nplhiav thiab ntxawm"plaiv plaim rhiav rhia = paj ntaub".
 
------------
-txiab neeb,
-kuv saib mas koj yog ib tug neeg nyiam ceev, khaws txuj ci hmoob kawg.
+hl hl-- kuv xav li koj hais xav thiab...
+yog yov ua kom peb haivneeg hmoob no kaws tau peb lub neej tseg tiag tiag mas.
+txhob muab coj los tso li tzianeeb hais-- yuav tsum ua rau txhua lub zos, kom lawv xaiv lawv li best pajntau...
+at least 5 different pieces li tzianeeb hais no ntag...
+tuaj mus rau ib qhov chaw.
+yog leej twg yeej, peb yuav tsum muab reward rau, xws li yog tsawg kawg kiag twb yog ze li ntawm 2 mus rau 3 phav dollars.
+qhov no, yog tsim rov los ua kom peb hmoob li pojniam rov sivzog kaws lawv cov txujci no nyob tseg rau peb tsevneeg hmoob rau lub neej pemsuab.
+hos yog tsua yog tus enter lawm xwb ces yeej rau me me nqi tes...
+qhov no, yog ib qhov uas yuav tsum determine thaum lub caij ntawd.
+vim tej celebration loj loj li july 4th thiab wisconsin summer fest ntawd, ua uas tau nyiaj ntau.
+tsimnyog peb yuav tsum nrhiav tej no los ua kom peb txhob plam peb lub neejhmoob.
+
+born2behmong ----------- txiab neeb, kuv saib mas koj yog ib tug neeg nyiam ceev, khaws txuj ci hmoob kawg.
+
 kuv thov qhuav thiab txhawb koj lub zog mus li.
-tiam sis hais txog koj qhov twv ua paj ntaub saum no na, mas kuv tsis
-ok nrog koj qhov tias " muab 1 teev xwb, tseev kom ua taug 1 daim paj
-ntaub tiav log " . zoo li koj tsis tau paub txog tias 1 daim paj ntaub
-tseem tseem, nws ua nyuaj npaum li cas . ( ???!!!).
-1 daim paj ntaub yog dab tsi ???????? 1 daim tseem paj ntaub tiag yog
-art. thaum koj  ua 1 qhov art, tsis yog ua tsuag tsuag....li qaib
-rhaub kab xwb.  daim tseem paj ntaub ' art" , yus siv caij siv nyoog
-yam tsis xam, siv tag yus lub siab lub ntsws yam tsis suav. daim paj
-ntaub nws thiaj zoo nkauj, muab kab muaj kev, zoo zaj zim, tawg paj
-paug.
-yog yuav hais txog 3 hmoob paj ntaub xwb mas kuv kuj yog 1 tug mob
-siab, ceev, tsim ntau yam kawg....
+
+tiam sis hais txog koj qhov twv ua paj ntaub saum no na, mas kuv tsis ok nrog koj qhov tias " muab 1 teev xwb, tseev kom ua taug 1 daim paj ntaub tiav log ".
+zoo li koj tsis tau paub txog tias 1 daim paj ntaub tseem tseem, nws ua nyuaj npaum li cas.
+(???!!!)
+.
+
+1 daim paj ntaub yog dab tsi????????
+1 daim tseem paj ntaub tiag yog art.
+thaum koj ua 1 qhov art, tsis yog ua tsuag tsuag....
+li qaib rhaub kab xwb.
+daim tseem paj ntaub ' art", yus siv caij siv nyoog yam tsis xam, siv tag yus lub siab lub ntsws yam tsis suav.
+daim paj ntaub nws thiaj zoo nkauj, muab kab muaj kev, zoo zaj zim, tawg paj paug.
+
+yog yuav hais txog 3 hmoob paj ntaub xwb mas kuv kuj yog 1 tug mob siab, ceev, tsim ntau yam kawg....
+
 kws paj ntaub.
 
-cov phooj ywg schlers,
-txawm yog ib leeg xam pom ntawm ntug cub xwb thiaj tau muab tshaj nrog
-nej ntaus tswv yim. nej hais yog lawm nawb. tsuas xav paub tias nej
-xam pom li cas xwb. thaum tsim tsa tau kiag lawm yuav tsis yog kuv li
-kev xam pom xwb. yuav yog tag nrho cov ua niam ua txiv, ua tij ua viv
-thiab tej phooj ywg muaj laj lim thoob tsib to nrog txog peb hmoob li
-kev rhia paj rhais ntaub li nej hais tuaj nrog tsim mas thiaj yuav
-yog.
-cov tswv yim kuv hais thiab tau muab sau tuaj no tsuas yog sau ua piv
-txwv coj peb kev sib tawm tswv yim xwb thov txhob rawm muab xam tias
-yog kiag tswv yim lawm no.
-yog li nej ho muaj tswv yim li cas ntxiv los thov muab qhia tuaj nawb.
-ua tsaug,
--txiabneeb
+cov phooj ywg schlers, txawm yog ib leeg xam pom ntawm ntug cub xwb thiaj tau muab tshaj nrog nej ntaus tswv yim.
+nej hais yog lawm nawb.
+tsuas xav paub tias nej xam pom li cas xwb.
+thaum tsim tsa tau kiag lawm yuav tsis yog kuv li kev xam pom xwb.
+yuav yog tag nrho cov ua niam ua txiv, ua tij ua viv thiab tej phooj ywg muaj laj lim thoob tsib to nrog txog peb hmoob li kev rhia paj rhais ntaub li nej hais tuaj nrog tsim mas thiaj yuav yog.
 
-tzianeng vang,
-yog koj yuav nrhiav the kind of local champ or classroom champ xwb ces
-ua li koj hais kuj siv nyog lawm. tabsis yog koj yuav nrhiav tus tshaj
-lij tiag-g li koj hais mas tsis yooj yim li nawb.
-in that case, all of the contestants have to have the same
-originality. those colors may be fine for the southern group but won't
-be o.k for the northern group. ex. people from x.khouang like navy
-blue (xiav doog) while the l.prabangers prefer only light blue (xiav
-dawbmuag).
-we were from different regions of laos, if i were you, i would provide
-all kind of colors and fabrics.
-koob muaj 3 hom, xws li koob pajntaub, koob ntxiv, thiab koob npubhau
-(tawmlaug), nyias muaj nyias chaw siv. looks like you're talking about
-"pajntaub txiav" yog li no mas siv ib rab tsis yoojyim, vim tias koob
-pajntaub me heev. yog xav tau tus tshaj lij tiag-g mas koj yuav tsum
-provide enough material rau lawv ov.
-koj sau tsis meej, tabsis yam li ib hom pajntaub mas muaj qauv cia
-lawm, hos ib hom mas yog lam kwv yees xaws(pajntaub tsiaj) xwb pos
-yog . is it "roob thaiv ua ntug" yog ib qho qauv scenery tshiab? this
-kind of pajntaub are more likely leaning toward politic or historic.
-in order to determine who really is the hmong pajntaub champ, you need
-to find hmong pajntaub experts to judge them, not you or me.
-those kinds of pajntaub can't be done by an hour. it may take days or
-weeks.
+cov tswv yim kuv hais thiab tau muab sau tuaj no tsuas yog sau ua piv txwv coj peb kev sib tawm tswv yim xwb thov txhob rawm muab xam tias yog kiag tswv yim lawm no.
+
+yog li nej ho muaj tswv yim li cas ntxiv los thov muab qhia tuaj nawb.
+
+ua tsaug, -txiabneeb tzianeng vang, yog koj yuav nrhiav the kind of local champ or classroom champ xwb ces ua li koj hais kuj siv nyog lawm.
+tabsis yog koj yuav nrhiav tus tshaj lij tiag-g li koj hais mas tsis yooj yim li nawb.
+
+in that case, all of the contestants have to have the same originality.
+those colors may be fine for the southern group but won't be o.
+k for the northern group.
+ex.
+people from x.
+khouang like navy blue (xiav doog) while the l.
+prabangers prefer only light blue (xiav dawbmuag).
+
+we were from different regions of laos, if i were you, i would provide all kind of colors and fabrics.
+
+koob muaj 3 hom, xws li koob pajntaub, koob ntxiv, thiab koob npubhau (tawmlaug), nyias muaj nyias chaw siv.
+looks like you're talking about "pajntaub txiav" yog li no mas siv ib rab tsis yoojyim, vim tias koob pajntaub me heev.
+yog xav tau tus tshaj lij tiag-g mas koj yuav tsum provide enough material rau lawv ov.
+
+koj sau tsis meej, tabsis yam li ib hom pajntaub mas muaj qauv cia lawm, hos ib hom mas yog lam kwv yees xaws(pajntaub tsiaj) xwb pos yog.
+is it "roob thaiv ua ntug" yog ib qho qauv scenery tshiab?
+this kind of pajntaub are more likely leaning toward politic or historic.
+
+in order to determine who really is the hmong pajntaub champ, you need to find hmong pajntaub experts to judge them, not you or me.
+
+those kinds of pajntaub can't be done by an hour.
+it may take days or weeks.
+
 tseemyeej.
 
-dab laug & schlers,
-yeej yog li nej hais nawb. ib daim paj ntaub no yeej yuav siv ntau hom
-kob, xov thiab koob thiab yeej yuav muab sij hawm tshaj li 1 teev mas
-thiaj yuav xaws tau daim paj ntaub tsim nyog; tiam sis thov tias nov
-yog kev los soj ntsuam kev: 1. txawj txiav, 2. txawj xaws, 3. txawj
-muab nws li ntaub, xov & koob coj los xaws, thiab 4. xaws tau ceev
-npaum cas; tiam sis thov nco tias tej no yog kev xam pom ntawm kuv tus
-tsis txawj xaws paj ntaub xwb. yuav yog muab mus tau ces yeej yuav yog
-cov kws txawj paj ntaub tuaj zaum ua ke tawm tswv yim mas thiaj yuav
-mus tau nawb. lawv thiaj yuav yog cov tuaj xaiv tsa kom tau tias tus
-hmoob kws 1.) txawj xaws paj ntaub tau zoo, 2.) txawj txiav cov qauv
-paj ntaub heev, 3.) muaj ntaub mauj xov tsawg thiab ntau npaum cas los
-nws muaj tswv yim muab los sib dhos txiav xaws ua tau ib daim paj
-ntaub, thiab 4.) nws xaws tau sai tshaj lwm leej lwm tus...
-thov nco ntsoov tias tej no yog tswv yim piv txwv coj peb kev sib tham
-hauv internet no xwb thov txhob muab xam tias twb yog li lub niam tswv
-yim kiag lawm no nawb.
-kuv thiab peb cov tsis txawj ua paj ntaub ces yog cov los leg tej dej
-num hu sawv daws thiab pab mus khwv nyiaj los tsa lub koom txoos ua
-koob tsheej nco qhuas txog peb hmoob txuj ua paj ntaub xwb...
-ua tsaug,
--txiabneeb
+dab laug & schlers, yeej yog li nej hais nawb.
+ib daim paj ntaub no yeej yuav siv ntau hom kob, xov thiab koob thiab yeej yuav muab sij hawm tshaj li 1 teev mas thiaj yuav xaws tau daim paj ntaub tsim nyog; tiam sis thov tias nov yog kev los soj ntsuam kev: 1. txawj txiav, 2. txawj xaws, 3. txawj muab nws li ntaub, xov & koob coj los xaws, thiab 4. xaws tau ceev npaum cas; tiam sis thov nco tias tej no yog kev xam pom ntawm kuv tus tsis txawj xaws paj ntaub xwb.
+yuav yog muab mus tau ces yeej yuav yog cov kws txawj paj ntaub tuaj zaum ua ke tawm tswv yim mas thiaj yuav mus tau nawb.
+lawv thiaj yuav yog cov tuaj xaiv tsa kom tau tias tus hmoob kws 1.) txawj xaws paj ntaub tau zoo, 2.) txawj txiav cov qauv paj ntaub heev, 3.) muaj ntaub mauj xov tsawg thiab ntau npaum cas los nws muaj tswv yim muab los sib dhos txiav xaws ua tau ib daim paj ntaub, thiab 4.) nws xaws tau sai tshaj lwm leej lwm tus...
+
+thov nco ntsoov tias tej no yog tswv yim piv txwv coj peb kev sib tham hauv internet no xwb thov txhob muab xam tias twb yog li lub niam tswv yim kiag lawm no nawb.
+
+kuv thiab peb cov tsis txawj ua paj ntaub ces yog cov los leg tej dej num hu sawv daws thiab pab mus khwv nyiaj los tsa lub koom txoos ua koob tsheej nco qhuas txog peb hmoob txuj ua paj ntaub xwb...
+
+ua tsaug, -txiabneeb

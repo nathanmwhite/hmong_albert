@@ -1,5 +1,5 @@
 please, translate into hmong.
-preface:
-introduction: ( lus ntawv qhia lus qhib thawj )
-lest.
+
+preface: introduction: (lus ntawv qhia lus qhib thawj) lest.
+
 pestol

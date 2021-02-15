@@ -1,14 +1,19 @@
-ib zag qeej
-roob nrws tsaus ntuj
-tuag noom xees, tuag noom xees.
+ib zag qeej roob nrws tsaus ntuj tuag noom xees, tuag noom xees.
+
 yuav tsaus ntuj tuaj ntawm rooj, yuav tsaus zuag tuaj ntawm i.
-ntxhais nkauj mim yuav tsaug zog, yuav ncoj tiab yuav qaws zev yuav
-mus pw lub txaj txim txaj txaid toj.
-ntxhais nkauj laug yuav tsaug zog, yuav ncoj tiab yuav qaws hauv, yuav mus
-pw lub txaj txiv txaj txaid taug.
-ntxhais nkauj mim yuav mus pw ib ntuj tsim ntuj nrab hmo.
-ntxhais nkauj laug yuav mus pw ib ntuj tsim ntuj hnub qub.
-ntxhais nkauj mim yuav tseem dheev ib ntuj txiag txias pes ziav.
-ntxhais nkauj laug yuav tseem dheev ib oov txiag txias pes ziav.
-ntxhais nkauj mim yuav mus tsa nkawm txiv qeej sawv dhia qeej.
-ntxhais nkauj laug yuav mus tsa nkawm txiv nruas sawv dhia nruas.
+
+ntxhais gauj mim yuav tsaug zog, yuav ncoj tiab yuav qaws zev yuav mus pw lub txaj txim txaj txaid toj.
+
+ntxhais gauj laug yuav tsaug zog, yuav ncoj tiab yuav qaws hauv, yuav mus pw lub txaj txiv txaj txaid taug.
+
+ntxhais gauj mim yuav mus pw ib ntuj tsim ntuj nrab hmo.
+
+ntxhais gauj laug yuav mus pw ib ntuj tsim ntuj hnub qub.
+
+ntxhais gauj mim yuav tseem dheev ib ntuj txiag txias pes ziav.
+
+ntxhais gauj laug yuav tseem dheev ib oov txiag txias pes ziav.
+
+ntxhais gauj mim yuav mus tsa gawm txiv qeej sawv dhia qeej.
+
+ntxhais gauj laug yuav mus tsa gawm txiv nruas sawv dhia nruas.

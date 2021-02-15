@@ -1,7 +1,5 @@
-ua cas kuv muab mloog mus mloog los, mas tus yuav hais li cas txog
-hmoob qhov origin los muaj li.  lispov, cov neeg uas nej pheej caw caw
-tuaj hais lus ne, ua li koj pom tias leejtwg thiaj hais yog los yog
-hais raug peb coj hmoob li keebkwm tiag?  ua ua tsam no, kuv yeej rov
-tsis paub li lawm thiab laiv, hais tias hmoob yog pib li cas los.  nej
-xav li cas txog cov suav uas pheej tuaj piav txog hmoob no.  ib leeg
-tuaj hais ib yam li.
+ua cas kuv muab mloog mus mloog los, mas tus yuav hais li cas txog hmoob qhov origin los muaj li.
+lispov, cov neeg uas nej pheej caw caw tuaj hais lus ne, ua li koj pom tias leejtwg thiaj hais yog los yog hais raug peb coj hmoob li keebkwm tiag?
+ua ua tsam no, kuv yeej rov tsis paub li lawm thiab laiv, hais tias hmoob yog pib li cas los.
+nej xav li cas txog cov suav uas pheej tuaj piav txog hmoob no.
+ib leeg tuaj hais ib yam li.

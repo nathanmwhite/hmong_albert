@@ -1,140 +1,92 @@
-txog txhua tus npoj yaig,
-hais tshooj ntxiv rau qhov wty thiab ceeb nkawv tau tham tawm ntawd,
-kuv hnov hais tias neohome tab tom sawb sim pib sau nyiaj ntawm niam
-txiv pej xeem hmoob thoob usa kom tau $1 phlom (million) los npaj tseg
-tau tso lawv tus thawj pwm tsav (phub npanxakang xung xud qhoom
-neohome paud poid kub xaj lao).  lawv tau sib ntxhi hais tias yawg as
-cas vaj txiab twb raug $500,000.00 txhiab mus them pw nkauj (bail),
-yog li ntawd, yog tseem raug rau yawg thawj pwm tsav neohome mas ntshe
-yuav raug li ntawm $1 phlom (million) thiaj yuav bail tau tawm.
-kuv xav tias, txawm peb ib txhia tsis yog tim xyoob (member) rau
-neohome los xij yog tias lawv tuaj sau txog peb no los ho thov pab
-thiab nawb vim hais tias zaum no yog thawj thawj zaug thiab yog zaum
-kawg uas lawv yuav sau kom ntau tshaj txhuas zaus dhau los.  qhov kuv
-nqua hu kom peb pab mas tsis yog li cas, qhov tseeb ces tom qab lawv
-lub rooj sib sab laj tag, kuv ib tug txiv ntxawm los nroo nroo tias
-yog sau $1 million mas ntshe lawv cov members yuav them tsis taus li.
-xyov nej xav li cas?  ntawm kuv, yog xav txog txoj kev neohome dag kom
-hmoob mus ua kubxaj ces tsis tsim nyog pab li, tab sis yog xav tias
-luag yog ib tug laus neeg ntawd yus tsev hmoob no ces yuav tau pab
-luag thaum luag tau kev tw thiab.
-neohmong
+txog txhua tus npoj yaig, hais tshooj ntxiv rau qhov wty thiab ceeb nkawv tau tham tawm ntawd, kuv hnov hais tias neohome tab tom sawb sim pib sau nyiaj ntawm niam txiv pej xeem hmoob thoob usa kom tau $1 phlom (million) los npaj tseg tau tso lawv tus thawj pwm tsav (phub npanxakang xung xud qhoom neohome paud poid kub xaj lao).
+lawv tau sib ntxhi hais tias yawg as cas vaj txiab twb raug $500,000.00 txhiab mus them pw nkauj (bail), yog li ntawd, yog tseem raug rau yawg thawj pwm tsav neohome mas ntshe yuav raug li ntawm $1 phlom (million) thiaj yuav bail tau tawm.
 
-rau sawv daws txhua leej,
-lam hais tshooj ntxiv rau qhov wty thiab ceeb nkawv tau tham tawm
-ntawd, kuv kuj hnov tias neohome tau tsa muaj ib lub rooj sab laj yog
-tham hais txog kev sau kom tau $1 million npaj tseg tau tso yawg tuam
-thawj pwm tsav (phub npasakang xung xud qhoom neohome paud poid sat
-lao) vim neohome ntshai tias ntshe yuav zam tsis dhau tib tug teeb
-meem uas raug rau tub tsab thiab vaj txhiab nkawv lawd.  vim tias yawg
-tub tsab raug $30,000.00 txhiab hos yawg vaj txiab raug $500,000.00
-txhiab mus them nqi qhov taub (bail), yog li ntawd, yog tseem yog kiag
-luag tus laus thiab ntshe yuav tshaj 2 3 npaug thiaj li tso tau luag
-tawm.  qhov loj tshaj mas, tsis xav kom luag tus laus lub koob raug
-txim ncha nrov mus thoob ntuj kiag li, yog li ntawd, neohome cov tim
-xyoob (members) yuav tau sau kom tau $1 phlom (million) tseg mas thiaj
-li yuav tso siab (yog tsis raug los tseg, yog raug mas yuav tsum tso
-kom tau luag within 24 hours).
-seb nej leej ho hnov txawv li cas no thov share thiab, tsam kuv ho
-yuam kev.
-neohmong
+kuv xav tias, txawm peb ib txhia tsis yog tim xyoob (member) rau neohome los xij yog tias lawv tuaj sau txog peb no los ho thov pab thiab nawb vim hais tias zaum no yog thawj thawj zaug thiab yog zaum kawg uas lawv yuav sau kom ntau tshaj txhuas zaus dhau los.
+qhov kuv nqua hu kom peb pab mas tsis yog li cas, qhov tseeb ces tom qab lawv lub rooj sib sab laj tag, kuv ib tug txiv ntxawm los nroo nroo tias yog sau $1 million mas ntshe lawv cov members yuav them tsis taus li.
 
-thaub ceeb,
-puas yog li koj hais mad? yawg general chue vang tab tom los txog
-thaib teb no yog los ua neohom teg num. yawg hais tias lub 7 hli tim
-10 no lawv sab laj sau nyiaj nyob orange county, ca. tsi ntev ces lawv
-yuav xa nyiaj los pab peb cov kubxaj no laiv.
-fajkhaum
+xyov nej xav li cas?
+ntawm kuv, yog xav txog txoj kev neohome dag kom hmoob mus ua kubxaj ces tsis tsim nyog pab li, tab sis yog xav tias luag yog ib tug laus neeg ntawd yus tsev hmoob no ces yuav tau pab luag thaum luag tau kev tw thiab.
 
-neohmong,
-puas yog koj hais tias yawm tuam thawj neohom raug plaub lawm no lov?
-yog tias muaj tseeb le nej hnov tiag mas ntshai peb hmoob lub koob
-yuav nrov thoob ntuj tiag laus. yawm laug hos lub txim yog txim dab
-tsi, puas ygo related rau nws txoj kev ua kas moos? ua yog tias yawg
-laug hos zam dhau lub txim no lawm, no es leej twg yuav khaws cov
-nyiaj 1 million nyiaj ntawd mas?
+neohmong rau sawv daws txhua leej, lam hais tshooj ntxiv rau qhov wty thiab ceeb nkawv tau tham tawm ntawd, kuv kuj hnov tias neohome tau tsa muaj ib lub rooj sab laj yog tham hais txog kev sau kom tau $1 million npaj tseg tau tso yawg tuam thawj pwm tsav (phub npasakang xung xud qhoom neohome paud poid sat lao) vim neohome ntshai tias ntshe yuav zam tsis dhau tib tug teeb meem uas raug rau tub tsab thiab vaj txhiab nkawv lawd.
+vim tias yawg tub tsab raug $30,000.00 txhiab hos yawg vaj txiab raug $500,000.00 txhiab mus them nqi qhov taub (bail), yog li ntawd, yog tseem yog kiag luag tus laus thiab ntshe yuav tshaj 2 3 npaug thiaj li tso tau luag tawm.
+qhov loj tshaj mas, tsis xav kom luag tus laus lub koob raug txim ncha nrov mus thoob ntuj kiag li, yog li ntawd, neohome cov tim xyoob (members) yuav tau sau kom tau $1 phlom (million) tseg mas thiaj li yuav tso siab (yog tsis raug los tseg, yog raug mas yuav tsum tso kom tau luag within 24 hours).
 
-vim licas peb cov hmoob thawjcoj pheej muab tej cov lus no coj los
-tham li no rau ntiajteb luag thiab thuam peb haiv neeg hmoob?  kuv twb
-xav hais tias peb twb yuav pab txhawj thiab hlub cov tibneeg uas zoo
-li no no es peb ho tseem luag thiab txhawb kom luag hajyam puas mus
-thiab ua ib qhov uas tsis zoo rau peb haiv neeg hmoob sawvdaws thiab?
-peb yuav tsum xav kom zoo zoo tso peb mam li hais lus tawm nawb, cov
-phoojywg sawvdaws.
---brandon
+seb nej leej ho hnov txawv li cas no thov share thiab, tsam kuv ho yuam kev.
 
-xejthim,
-kuv tsis tau txhais li koj hais.  kuv tsuas yog hnov hais tias lawv
-(neohome) sib sab laj li ntawd xwb.  yog wty thiab ceeb nkawv tsis
-tham tawm ces kuv yeej tsis tham thiab, tab sis nkawv twb qhib lus
-lawm ces kuv thiaj li loos ntxiv nkawv qab xwb.  cov lus koj noog kuv
-hauv qab no los, kuv yeej pheej tseem noog kuv tus kheej quj qees
-thiab tiag.  koj xav yog tim nreej twg ne yuam?  kuv tsis to taub li
-tiag.
-neohmong
+neohmong thaub ceeb, puas yog li koj hais mad?
+yawg general chue vang tab tom los txog thaib teb no yog los ua neohom teg num.
+yawg hais tias lub 7 hli tim 10 no lawv sab laj sau nyiaj nyob orange county, ca.
+tsi ntev ces lawv yuav xa nyiaj los pab peb cov kubxaj no laiv.
 
-brandon,
-tsis txhob rawm tu siab. yog peb xav kom tsob zaub hmoob loj taus, peb
-yuav tsum tsis txhob kaw tej yam uas yuav poison tsob zaub ntawd. peb
-hmoob tsob zaub tau raug poisoned los tau ntau txhiab xyoo lawm. lub
-sijhawm no peb yuav tsum hloov cov laus tej paj lug hais tias, "hmoob
-tshuaj hmoob rhaub, suav tshuaj suav rhaub." peb yuav tsum be strong
-and prepared to accept that, ultimately, we will lose something to
-gain something. let us critically analyse what we will lose to what we
-will gain. if, in the long run, what we will gain outweighs what we
-will lose, we will have no choice but to let evolution take its toll.
-wty
+fajkhaum neohmong, puas yog koj hais tias yawm tuam thawj neohom raug plaub lawm no lov?
 
-he he he, nej muab tham tshaj dhau lawm. ntawm 1 million nyiaj ntawd
-yog lawv yuav sau los rau fajkhaum yuav mov rau hmoob thojnam tawg rog
-noj xwb. nej tsi ntseeg los verify tau. tam sim no general vang chue
-twb los txog thaib teb los daws hmoob tej teeb meem lawm.
-txhob mus hais lwm yam ntau ntau. nej ib leeg pab yug ib tug tub rog
-li mov xwb ces peb mus tua nplogliab. tau tebchaws nej mam los kav
-xwb. nej cov ntawm ko ntshaw ob yam xwb. ib yog ntshaw nom, ob ces yog
-ntshaw pojniam xwb. tej no peb mam prepare rau nej.
-fajkhaum
+yog tias muaj tseeb le nej hnov tiag mas ntshai peb hmoob lub koob yuav nrov thoob ntuj tiag laus.
+yawm laug hos lub txim yog txim dab tsi, puas ygo related rau nws txoj kev ua kas moos?
+ua yog tias yawg laug hos zam dhau lub txim no lawm, no es leej twg yuav khaws cov nyiaj 1 million nyiaj ntawd mas?
 
-he he he, nej muab tham tshaj dhau lawm. ntawm 1 million nyiaj ntawd
-yog lawv yuav sau los rau fajkhaum yuav mov rau hmoob thojnam tawg rog
-noj xwb. nej tsi ntseeg los verify tau. tam sim no general vang chue
-twb los txog thaib teb los daws hmoob tej teeb meem lawm.
-txhob mus hais lwm yam ntau ntau. nej ib leeg pab yug ib tug tub rog
-li mov xwb ces peb mus tua nplogliab. tau tebchaws nej mam los kav
-xwb. nej cov ntawm ko ntshaw ob yam xwb. ib yog ntshaw nom, ob ces yog
-ntshaw pojniam xwb. tej no peb mam prepare rau nej.
-fajkhaum
+vim licas peb cov hmoob thawjcoj pheej muab tej cov lus no coj los tham li no rau ntiajteb luag thiab thuam peb haiv neeg hmoob?
+kuv twb xav hais tias peb twb yuav pab txhawj thiab hlub cov tibneeg uas zoo li no no es peb ho tseem luag thiab txhawb kom luag hajyam puas mus thiab ua ib qhov uas tsis zoo rau peb haiv neeg hmoob sawvdaws thiab?
 
-hmoob ib txwm hais tias txiv kaus tas ces tub kaus ntxiv, tamsim no
-ces txiv paub lawm hais tias txiv kaus tas tub yuav tsi tau kaus ntxiv
-lawm, yog li ntawd txiv thiaj li kaus kom ntau thaum tas txiv lawm los
-ho tshuav txaus tub noj ntxiv thiab......
+peb yuav tsum xav kom zoo zoo tso peb mam li hais lus tawm nawb, cov phoojywg sawvdaws.
+
+--brandon xejthim, kuv tsis tau txhais li koj hais.
+kuv tsuas yog hnov hais tias lawv (neohome) sib sab laj li ntawd xwb.
+yog wty thiab ceeb nkawv tsis tham tawm ces kuv yeej tsis tham thiab, tab sis nkawv twb qhib lus lawm ces kuv thiaj li loos ntxiv nkawv qab xwb.
+cov lus koj noog kuv hauv qab no los, kuv yeej pheej tseem noog kuv tus kheej quj qees thiab tiag.
+koj xav yog tim nreej twg ne yuam?
+kuv tsis to taub li tiag.
+
+neohmong brandon, tsis txhob rawm tu siab.
+yog peb xav kom tsob zaub hmoob loj taus, peb yuav tsum tsis txhob kaw tej yam uas yuav poison tsob zaub ntawd.
+peb hmoob tsob zaub tau raug poisoned los tau ntau txhiab xyoo lawm.
+lub sijhawm no peb yuav tsum hloov cov laus tej paj lug hais tias, "hmoob tshuaj hmoob rhaub, suav tshuaj suav rhaub."
+peb yuav tsum be strong and prepared to accept that, ultimately, we will lose something to gain something.
+let us critically analyse what we will lose to what we will gain.
+if, in the long run, what we will gain outweighs what we will lose, we will have no choice but to let evolution take its toll.
+
+wty he he he, nej muab tham tshaj dhau lawm.
+ntawm 1 million nyiaj ntawd yog lawv yuav sau los rau fajkhaum yuav mov rau hmoob thojnam tawg rog noj xwb.
+nej tsi ntseeg los verify tau.
+tam sim no general vang chue twb los txog thaib teb los daws hmoob tej teeb meem lawm.
+
+txhob mus hais lwm yam ntau ntau.
+nej ib leeg pab yug ib tug tub rog li mov xwb ces peb mus tua nplogliab.
+tau tebchaws nej mam los kav xwb.
+nej cov ntawm ko ntshaw ob yam xwb.
+ib yog ntshaw nom, ob ces yog ntshaw pojniam xwb.
+tej no peb mam prepare rau nej.
+
+fajkhaum he he he, nej muab tham tshaj dhau lawm.
+ntawm 1 million nyiaj ntawd yog lawv yuav sau los rau fajkhaum yuav mov rau hmoob thojnam tawg rog noj xwb.
+nej tsi ntseeg los verify tau.
+tam sim no general vang chue twb los txog thaib teb los daws hmoob tej teeb meem lawm.
+
+txhob mus hais lwm yam ntau ntau.
+nej ib leeg pab yug ib tug tub rog li mov xwb ces peb mus tua nplogliab.
+tau tebchaws nej mam los kav xwb.
+nej cov ntawm ko ntshaw ob yam xwb.
+ib yog ntshaw nom, ob ces yog ntshaw pojniam xwb.
+tej no peb mam prepare rau nej.
+
+fajkhaum hmoob ib txwm hais tias txiv kaus tas ces tub kaus ntxiv, tamsim no ces txiv paub lawm hais tias txiv kaus tas tub yuav tsi tau kaus ntxiv lawm, yog li ntawd txiv thiaj li kaus kom ntau thaum tas txiv lawm los ho tshuav txaus tub noj ntxiv thiab......
+
 i believe time will tell.
 
 if you agree then there should be no further arguement over it.
-but, maybe it might be a good thing to have poison and
-protect from what? the poison thorns around it only protect the growth
-of its roots and it will eventually kill the whole.
-the proverb only serves for the short run purpose. in the long run it
-will further destroy the integrity of the hmong people. that political
-corruption is the real hmong cancer disease that destroys our internal
-system every day. if we don't seek for an operation when the disease
-is still curable, sooner or later when it spreads through our system
-we hmong will vanish.
-vim licas peb hmoob pheej rhuav peb tus kheej rau ntiajteb luag
-tus phooj ywg, cas koj yuav hais li koj nas. txawm yog peb hmoob pheej
-ignore tsis kam hais tawm tej issue lim hiam qias neeg, uas cov thawj
-coj niaj hnub ua no es hmoob lub neej txij puag thaum ntuj tsim hmoob
-los poob rau daim av no thiaj li tseem zoo li qub ntag. koj puas pom
-niaj hnub no luag neeg american ua li cas nab? luag neeg american mas
-yog tus nom tus tswv twg ua ib yam dab tsi tsis yog lawm los sis ua
-txhaum mas luag yeej tsis ntshai txaj muag rau ntiaj teb kiag li, luag
-yeej muab nws lub qee coj los thuav ntxaws ntxaws kom tag ntag. piv
-txwv li niaj hnub no cov nom tswv mekas tseem niaj hnub tshawb bush
-lawv cov intellegence iab liam tias iraq muaj piles of chemical
-weapons es lawv thiaj li ua rog rau saddam no nas. koj puas xav tias
-yog hmoob no ntshai hmoob yuav muab npog twj ywm cia no? ua li tus
-npawg wty hais, peb yuav tau pauv peb tus cuj pwm zais tej kev phem
-no. yog hnub twg peb ua tau li luag lwm haiv lawm peb thiaj li yuav
-paub coj ncaj rau peb tsob hmoob thiab peb lub neej thiaj li yuav vam
-meej.
+
+but, maybe it might be a good thing to have poison and protect from what?
+the poison thorns around it only protect the growth of its roots and it will eventually kill the whole.
+
+the proverb only serves for the short run purpose.
+in the long run it will further destroy the integrity of the hmong people.
+that political corruption is the real hmong cancer disease that destroys our internal system every day.
+if we don't seek for an operation when the disease is still curable, sooner or later when it spreads through our system we hmong will vanish.
+
+vim licas peb hmoob pheej rhuav peb tus kheej rau ntiajteb luag tus phooj ywg, cas koj yuav hais li koj nas.
+txawm yog peb hmoob pheej ignore tsis kam hais tawm tej issue lim hiam qias neeg, uas cov thawj coj niaj hnub ua no es hmoob lub neej txij puag thaum ntuj tsim hmoob los poob rau daim av no thiaj li tseem zoo li qub ntag.
+koj puas pom niaj hnub no luag neeg american ua li cas nab?
+luag neeg american mas yog tus nom tus tswv twg ua ib yam dab tsi tsis yog lawm los sis ua txhaum mas luag yeej tsis ntshai txaj muag rau ntiaj teb kiag li, luag yeej muab nws lub qee coj los thuav ntxaws ntxaws kom tag ntag.
+piv txwv li niaj hnub no cov nom tswv mekas tseem niaj hnub tshawb bush lawv cov intellegence iab liam tias iraq muaj piles of chemical weapons es lawv thiaj li ua rog rau saddam no nas.
+koj puas xav tias yog hmoob no ntshai hmoob yuav muab npog twj ywm cia no?
+ua li tus npawg wty hais, peb yuav tau pauv peb tus cuj pwm zais tej kev phem no.
+yog hnub twg peb ua tau li luag lwm haiv lawm peb thiaj li yuav paub coj ncaj rau peb tsob hmoob thiab peb lub neej thiaj li yuav vam meej.

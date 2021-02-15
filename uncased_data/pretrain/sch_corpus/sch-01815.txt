@@ -1,324 +1,268 @@
-cov puj hab cov yawm,
-thov mej paab nrhav cov lug nuav saibseb peb tej lug moob / hmoob muaj
-ntau npaum le caag.  kuv nrhav tau npaum le nuav lawm.
-prefix:
-1. ib => ibtxhis
-2. kev => kevcai
-3. kws => kwstshuaj
-4. nruab => nruabdlej
-5. sis => sis-aim
-6. ua => uacaag
-7. yuav => yuavlug
-suffix:
-1. le => maamle
-2. qaab => dlhauqaab
-3. tseg => ceevtseg
-kuv muab ib lulug sau ua pevtxwv rua ntawd xwb.  ntxiv kuas taag tej
-lug kws mej paub ntawd.  pevtxwv le: ibtxhis, ibplag, ibtsaam le tej
-ntawd.
+cov puj hab cov yawm, thov mej paab nrhav cov lug nuav saibseb peb tej lug moob / hmoob muaj ntau npaum le caag.
+kuv nrhav tau npaum le nuav lawm.
 
-peb siv meskas tug qauv, tamsis ibnraab (half) losyog ib nraab (one
-half) txhajle txhajle muaj kuab xwb (has meaning).  ib yeej nyob tau
-nwg ibleeg (alone) losyog ib leeg (one person).  thaus muab siv moog
-rua lulug untej rua ntawm ib lulug twg, nwg dlhau moog ua lulug pib
-ntawm ib lulug kws tsi muab kuab.  tamsis lulug ib ntawd coj lulug tsi
-muaj kuab ntawd dlhau lug ua ib lulug kws "sawv, txaav, losyog
-faabtawgntso."
-kuv qhov kuab lug, "thaus muaj lulug ib nyob uantej rua ntawm ib lulug
-twg losyog kaav tomxib nrug rua lulug ntawd kuas tsaa teg num sawv,
-txaav, losyog faabtawgntso.  pevtxwv le, ibtxha tuabneeg nyam haslug
-xwb, tamsis sauntawv ces puab ho tsi nyam lawm."
-lulug "ib" yeej nyob nwg tau ib leeg hab muaj kuab.  tamsis lulug "txh
-a" tsi muaj kuab (losyog peb tsi paub sov nwg txhais lecaag).  thaus
-muab lulug "ib lug ntxiv rua peg hauvntej le "ibtxha" ces peb paub
-hastas nwg tsi yog txhuatug, tamsi ob-peb leeg, qhotug, losyog ib
-nraab ted xwb.  thaus peb paub hastas "ibtxha" muaj kuab lawm (has
-meaning) lawm ces ib kuj siv tau le lulug nyob uantej ntawm ib lulug
-twg.
-saib cov lug huvqaab nuav:
-ibkuag -- what is kuag?
+prefix: 1. ib => ibtxhis 2. kev => kevcai 3. kws => kwstshuaj 4. nruab => nruabdlej 5. sis => sis-aim 6. ua => uacaag 7. yuav => yuavlug suffix: 1. le => maamle 2. qaab => dlhauqaab 3. tseg => ceevtseg kuv muab ib lulug sau ua pevtxwv rua ntawd xwb.
+ntxiv kuas taag tej lug kws mej paub ntawd.
+pevtxwv le: ibtxhis, ibplag, ibtsaam le tej ntawd.
+
+peb siv meskas tug qauv, tamsis ibnraab (half) losyog ib nraab (one half) txhajle txhajle muaj kuab xwb (has meaning).
+ib yeej nyob tau nwg ibleeg (alone) losyog ib leeg (one person).
+thaus muab siv moog rua lulug untej rua ntawm ib lulug twg, nwg dlhau moog ua lulug pib ntawm ib lulug kws tsi muab kuab.
+tamsis lulug ib ntawd coj lulug tsi muaj kuab ntawd dlhau lug ua ib lulug kws "sawv, txaav, losyog faabtawgntso."
+
+kuv qhov kuab lug, "thaus muaj lulug ib nyob uantej rua ntawm ib lulug twg losyog kaav tomxib nrug rua lulug ntawd kuas tsaa teg num sawv, txaav, losyog faabtawgntso.
+pevtxwv le, ibtxha tuabneeg nyam haslug xwb, tamsis sauntawv ces puab ho tsi nyam lawm."
+
+lulug "ib" yeej nyob nwg tau ib leeg hab muaj kuab.
+tamsis lulug "txh a" tsi muaj kuab (losyog peb tsi paub sov nwg txhais lecaag).
+thaus muab lulug "ib lug ntxiv rua peg hauvntej le "ibtxha" ces peb paub hastas nwg tsi yog txhuatug, tamsi ob-peb leeg, qhotug, losyog ib nraab ted xwb.
+thaus peb paub hastas "ibtxha" muaj kuab lawm (has meaning) lawm ces ib kuj siv tau le lulug nyob uantej ntawm ib lulug twg.
+
+saib cov lug huvqaab nuav: ibkuag -- what is kuag?
+
 ibnraab -- half or one half (compound or prefix?)
 ibntsiv -- what is ntsiv?
+
 ibplag -- what is plag?
+
 ibqho -- what is qho?
+
 ibtsaam -- what is tsaam (profit?)
 ibtsaug -- what is tsaug (one porcupine)?
+
 ibtxha -- what is txha?
+
 ibtxhis -- what is txhis?
+
 ibtxwm -- what is txwm (pair, full, or complete)?
+
 ibzag - what is zag (time)?
-thaus muaj lulug ib nyob uantej ntawm lulug ntawd lawm, nwg muaj ib
-lub tshab lug xwb.  yog nwg muaj ib lub ntsab lug ces "ib" siv ua
-prefix los yeej tau.
 
-lawv le kuv taug lug moob hab muab tig lug ua ntawv sau txug rua theem
-nuav ces moob yeej tsi muaj tej lug (qauv ntawv -- a true prefix or
-suffix) le meskas le.  qhov kws nyob ze losyog zoo yuavluag thooj ces
-yog lulug kws siv nyob tomntej tomqaab rua ntawm ib lulug twg. dlhau
-ntawd nwg kuj tshwm moog rua thau lulug tshaj le kuv tau sau lug
-ntawd.
-koj yuav suav hastas nwg yog ob lulug sistxuas kws tawm dlua lwm lub
-ntsab lug los kuj yog.  koj yuav siv hastas lug nyob uantej uaqaab los
-kuj yog hab, ruaqhov peb qev tug qauv lug ntawm meskas le lug teeb peb
-cov lug.  thaus kws nwg muaj zoo le ntawd ntau-ntau lawm ces nwg kuj
-zoo yuav thooj le prefix hab suffix.  ntau zag lub suab ob yeej tsi
-muaj kuab (has no meaning); qhozag lub suab ob kuj muaj kuab hab.
-txhawmyog le ntawd los cov lug nyob uantej uaqaab ntawd yeej muaj lub
-ntsab lug txawv dlua le muab ob lulug kws muaj kuab lug lu uake kuas
-tau ib lulug tshab.  tejzag lulug tshab ntawd tsuas ua kuam muaj tuab
-lub kuab lug xwb.  tejzag nwg kuj has kuas ob lub kuab lug ntawd meej
-dlua xwb.
-pevtxwv le, zoo-sab, chimsab, qaabsab, txaussab, mobsab, ca-sab, absab
-le tej ntawd.
+thaus muaj lulug ib nyob uantej ntawm lulug ntawd lawm, nwg muaj ib lub tshab lug xwb.
+yog nwg muaj ib lub ntsab lug ces "ib" siv ua prefix los yeej tau.
 
-ab yad! leejtwg yuav has le caag los yeej tau rua lub caijnyoog
-taamsim nuav.  saib moog saib lug, look go look come, los yeej yog tej
-kws peb pum hab paub nyob rua ntawd xwb.  koj yuav xaav moog xaav lug
-(look go look come) los yeej kawg tej ntawd.
-has txug lulug losyog tej qauv ntawv nyob tomqaab ntawm ib lulug ntawd
-ces peb yeej tsi muaj le hab.  cov lug (zog, dlua, tshaaj) ntawd, yog
-saib le meskas le tuaj rua ntawm moob ces yog lug sispev le koj has
-losyog txhawb lulug kws nyob uantej ntawd kuas muajceem tuaj xwb.
-pevtxwv le, thau u kuv sau ntawv moob txhaav heev; nwgnuav kuv sau
-ntawv moob zoozog tuaj lawm.  zoozog, ceevzog, nrawmzog, qaabzog,
-hauvzog, ruajzog le tej ntawd, lulug "zog" kuj siv tau lug ua lulug
-uaqaab (suffix) tamsis tsi tseeb npaum le meskas le (not a true
-suffix).
-muab lulug "zog" lug sau le ntu lug pav txug (adverb) ces nwg txhawb
-lulug zoo ntawd kuas muajceem tuaj.  pevtxwv le, nwgnuav kuv zoo-sab
-zog tuaj lawm.  zog qha txug hastas kuv zoo-sab npaum le caag.
+lawv le kuv taug lug moob hab muab tig lug ua ntawv sau txug rua theem nuav ces moob yeej tsi muaj tej lug (qauv ntawv -- a true prefix or suffix) le meskas le.
+qhov kws nyob ze losyog zoo yuavluag thooj ces yog lulug kws siv nyob tomntej tomqaab rua ntawm ib lulug twg.
+dlhau ntawd nwg kuj tshwm moog rua thau lulug tshaj le kuv tau sau lug ntawd.
+
+koj yuav suav hastas nwg yog ob lulug sistxuas kws tawm dlua lwm lub ntsab lug los kuj yog.
+koj yuav siv hastas lug nyob uantej uaqaab los kuj yog hab, ruaqhov peb qev tug qauv lug ntawm meskas le lug teeb peb cov lug.
+thaus kws nwg muaj zoo le ntawd ntau-ntau lawm ces nwg kuj zoo yuav thooj le prefix hab suffix.
+ntau zag lub suab ob yeej tsi muaj kuab (has no meaning); qhozag lub suab ob kuj muaj kuab hab.
+
+txhawmyog le ntawd los cov lug nyob uantej uaqaab ntawd yeej muaj lub ntsab lug txawv dlua le muab ob lulug kws muaj kuab lug lu uake kuas tau ib lulug tshab.
+tejzag lulug tshab ntawd tsuas ua kuam muaj tuab lub kuab lug xwb.
+tejzag nwg kuj has kuas ob lub kuab lug ntawd meej dlua xwb.
+
+pevtxwv le, zoo-sab, chimsab, qaabsab, txaussab, mobsab, ca-sab, absab le tej ntawd.
+
+ab yad!
+leejtwg yuav has le caag los yeej tau rua lub caijnyoog taamsim nuav.
+saib moog saib lug, look go look come, los yeej yog tej kws peb pum hab paub nyob rua ntawd xwb.
+koj yuav xaav moog xaav lug (look go look come) los yeej kawg tej ntawd.
+
+has txug lulug losyog tej qauv ntawv nyob tomqaab ntawm ib lulug ntawd ces peb yeej tsi muaj le hab.
+cov lug (zog, dlua, tshaaj) ntawd, yog saib le meskas le tuaj rua ntawm moob ces yog lug sispev le koj has losyog txhawb lulug kws nyob uantej ntawd kuas muajceem tuaj xwb.
+
+pevtxwv le, thau u kuv sau ntawv moob txhaav heev; nwgnuav kuv sau ntawv moob zoozog tuaj lawm.
+zoozog, ceevzog, nrawmzog, qaabzog, hauvzog, ruajzog le tej ntawd, lulug "zog" kuj siv tau lug ua lulug uaqaab (suffix) tamsis tsi tseeb npaum le meskas le (not a true suffix).
+
+muab lulug "zog" lug sau le ntu lug pav txug (adverb) ces nwg txhawb lulug zoo ntawd kuas muajceem tuaj.
+pevtxwv le, nwgnuav kuv zoo-sab zog tuaj lawm.
+zog qha txug hastas kuv zoo-sab npaum le caag.
+
 nwgnuav kuv sauntawv moob meejdlua hab muaj kuab dlua le qub lawm.
-meejdlua, muajdlua, hasdlua, hab yogdlua nyaj yuav yog lulug npuab rua
-tomqaab (suffix) yog hastas peb sau sislu le ntawd.  sob lug "muaj
-kuab dlua" sau puas tau "muaj kuabdlua"?  sau le ntawd los yeej tau
-hab.  tamsis, lulug kuab lug quas "muaj hab dlua" lawm.  kuabdlua ho
-yog dlaabtsi lawm hab?
-lub ntsab lug (main point) ces peb yeej tsi muaj tej lug losyog tej
-qauv ntawv le meskas le nyob rua tomqaab rua ntawm ib lulug twg.  qhov
-kws peb muaj yog lulug (a word) kws pheej muaj ntau-ntau (kubsab,
-chimsab, zoo-sab) ntawd xwb.  chimdlua, sabdlua, zoodlua muaj lub
-ntsab lug qha tuaj hastas, nwg yog lug sispev ntau dlua le lug nyob
-uaqaab yog saib tom hauvntej moog (literally or straight forward).
-yog saib tomqaab tuaj ces lulug "dlua" ntawd kuj yog lug npuabqaab
-(suffix) lawm hab.  tamsis, nwg kuj tsi meej (not a true suffix) le
-meskas le.
-kuv tu-sab (regret) hastas koj twm, nyeem, losyog xaav txug ntau yaam
-ntawd cov lug kws kuv sau ntawd.  ntxhuvsab (messy heart => sad) nyaj
-yuav has losyog qha meej dlua.  kuv yeej pum lub haavzoov hab, tamsis
-nwg faabdlau es kuv txhajle saib cov ntoo xwb.  thaus koj pum ntoo
-lawm, koj txhajle paub hastas nwg muaj ntoo luj, ntoo miv, ntoo yag,
-ntoo nkhaus, ntoo sab, ntoo qeg le tej ntawd.  yog koj paub hastas
-muaj ntoo ces nwg le muaj haavzoov.
-yog tsi muaj ntoo, nwg ho muaj dlaabtsi?  taj zeb suabpuam (plane rock
-dry place).
 
-kuv saib mas koj yeej nyam cov lug ntawd hab.  qhov kws koj tsi nyam
-yog kuv muab tsi tau puavpheej (evidence losyog fact) tuaj rua koj
-saib.
-tej lug kws kuv has ntawd yog tej lug kws has tuaj dlaabrug hab hos
-hastas hab.  qhov tuaj dlaabrug yog qhov kws koj khaws tau tej ntsab
-lug ntawd (txawm yog nwg muaj kuab hab tsi muaj los nwg yeej ua rua
-koj xaav mivntsiv quav txug tej lug ntawd hab).  qhov hastas ces phaum
-mivnyuas yau nwgnuav yeej totaub peb tej lug moob (literally) hab xaav
-ncaaj le lulug ntawd.  qhov ntawd yog cov ntoo kws miv hab khaus
-tamsis ho xaav saib hab.
-tog kuv sau ntawd lentawd los yeej vim yog xaav nrhav lub tswv 0 (tsi
-yog tswv8 hab tswv9) ntawd tuaj.
-hastxug koj qhov lug noog kws koj pheej hastas kuv tsi quavntsej
-(ignored) ntawd, kuv pum hastas tsuas muaj adjective modify noun xwb.
-kuv kuv tsi paub hastas noun modify adjective.  dlhau ntawd "we’ve got
-ntoo luj [prefix], ntoo miv [suffix], ntoo yag,
-ntoo nkhaus [masculine and feminine identifier" le koj has ntawd ces
-kuv ho tsi paub lawm.  kuv tsi paub hastas, ntoo luj ua tau prefix
-huas ntoo miv ua tau suffix.  ntoo nkaus ho dlhau moog ua masculine
-hab feminine lawm.
-koj tej lug noog ntawd yeej zoo lawm, tamsis qho yaam ces yeej kawg le
-koj hab kuv pum losyog thaam rua huv nuav xwb.  dlhau ntawd ces tsi
-paub sov yuav moog muab, khawb taub, ntawm leejtwg lug le.  yo le
-ntawd, kuv txhaj le tsi muaj tej kuab (fact) lug txheem tej lug
-ntawd.  tej kws peb sau hab thaam huv nuav ces yog tej kuab lug hab
-tej phuavpheej kws lug txheem peb cov lug kws txawb tsi muaj chaw hab
-siv tsi moog tsi lug rua qhovtwg le.
-kuv qhov fact finding ces yog sau hab thaam tej lug txaus luag, tuaj
-quasrug, hab khawb taub kws ua rua tej tug tuabneeg npautawg.  dlhau
-ntawd ces kuv maamle muaj tej lug ntawd zuaj, cais, quas, losyog kev
-saibseb qhov twg zoo siv hab nyob rua huv nruabnraab.  tej ntawd ces
-yog tej nyuas dlog-dlig kws tsi tseemceeb le tej kws ua rua koj
-xeebtxhob ib ce rua ntawm nuav ntaag.  thaus nrhav tau lub tswv 0 (lub
-= article) le koj has ntawd ces maam le tsim evidence losyog puavpheej
-(fact) tuaj.  taamsis nuav ces yeej poob moog le tej laug has, ntsab
-twg los twb tsi muaj dlaabtsi lug rua yug tuav ntawm ob txhais teg.
-yog zoo le ntawd lawm, ces kuv yuav ua le caag muab tau puavpheej
-(fact) lug rua koj saib?
+meejdlua, muajdlua, hasdlua, hab yogdlua nyaj yuav yog lulug npuab rua tomqaab (suffix) yog hastas peb sau sislu le ntawd.
+sob lug "muaj kuab dlua" sau puas tau "muaj kuabdlua"?
+sau le ntawd los yeej tau hab.
+tamsis, lulug kuab lug quas "muaj hab dlua" lawm.
+kuabdlua ho yog dlaabtsi lawm hab?
 
-hahaha! yawm hmong-lao, koj yeej yog ib tug cog caag tub hab nyom tsi
-laam tawm yoojyim le hab laiv.
-ca kuv dlawj koj tug caag hastas lulug "ciali" yog verb (ntu lug ua),
-lawv le kuv totaub ces nwg yog lulug txhawb losyog pav txug (adverb)
-xwb.  nwg paab losyog pav txug ntu lug ua (verb).
-txawm yog le ntawd los ntau yaam lug yeej muaj kuab hab tsi muaj
-kuab.  tej lug ntawd yeej yog compound words hab.  tej lulug kuj yog
-muaj tuabntwg es txhajle muab coj lub xaav saibseb nwg puas siv tau
-lug ua lulug "uantej uaqaab" ntawd xwb.
-lawv le kuv xaav hab muaj le koj has ces ob lulug twg nyob tau nwg ib
-leeg ces yeej tsi yog lug uantej uaqaab tamsis yog lug sistxuas xwb.
-lulug kws yuav siv tau uantej hab uaqaab ces yuavtsum yog ib lub suab
-ntawm lulug ntawd tsi muaj kuab (one syllable has no meaning), es
-lulug nyob uantej uaqaab ntawd tsaa sawv kuas muaj kuab (has meaning).
-txhaab koj tej lug tuaj es peb txhajle paub hastas peb cuaj leeg puas
-yuav muaj cuaj zaaj tswv9 le pebmoob ibtxwm has, "cuaj zag zoo ib zag
-phem ces txhuayaam puavleej phem."
+lub ntsab lug (main point) ces peb yeej tsi muaj tej lug losyog tej qauv ntawv le meskas le nyob rua tomqaab rua ntawm ib lulug twg.
+qhov kws peb muaj yog lulug (a word) kws pheej muaj ntau-ntau (kubsab, chimsab, zoo-sab) ntawd xwb.
+chimdlua, sabdlua, zoodlua muaj lub ntsab lug qha tuaj hastas, nwg yog lug sispev ntau dlua le lug nyob uaqaab yog saib tom hauvntej moog (literally or straight forward).
 
-kuv paub hastas cov tuabneeg tuaj huv nuav yeej yog cov laug.  feem
-ntau suavdlawg yeej paub lug moob txaus siv hab siv moog rua tswv8
-tswv9 xwb.  tsawg tug txhajle nrhav moog rua tswv7, 6, 5, 4, 3, 2, 0,
-hab 0.  cov kwsnyeem (reader) losyog audience huv nuav yeej paub tej
-lug tso dlaag tso luag ntawd.  puab yeej nov hab pum nyob rua huv puab
-lub tsev hab nyob rua huv puab tej zog.  dlhau ntawd, nwg kuj yog ib
-qho kes sim (test) saibseb peb suavdlawg tsi quavntsej txug tej ntawd
-losyog nwg meemtxom (bother) peb ibtxha tuabneeg hab.  tejtug ces cale
-ua le tej laug has, "ntuj kawg xubzeb, teb kawg xubntoo" ces kaavlam.
-tej tug kuj meemtxom npaum le koj; tej tug kug kawm, luag, hab sim
-saib suavdlawg xaav, txaav, hab fee moog rua seem twg xwb.
-has txug suffix ces koj cov lug le rhuv hab plawg yeej siv nyog lawm
-vim hastas nwg nyob tsi taug nwg ib leeg.  tsi taag le ntawd, nwg
-txhawb kuas ib lulug twg has meej losyog muajceem tuaj xwb.
-thaus has txug tej nuav, kuv paub has tas peb muaj lug nyob "uaqaab =
-suffix).  huas qauv ntawv (characters) le meskas le ces peb tsi muaj.
-lulug rhuv hab plawg ntawd yeej los muaj tsawg-tsawg xwb.  feem ntau
-rhuv ces txuas moog rua tej kob dlaaj ntau.  plawg ces ho txuas moog
-rua yaam kws txawj yaa, dlim, losyog ntxuaj tis ted.
-lawv le peb thaam hab paub ces peb muaj:
-1. prefix yog "sis, sib"
-2. suffix yog "rhuv (ntsuv), plawg"
-tej kws kuv sau lug sautoj ntawd yeej poob moog rua lug sistxuas ntau
-lawm.  qho lu kuv siv tau moog rua tej lug uantej uaqaab hab.  qho lus
-kuj yuav siv tsi tau.
+yog saib tomqaab tuaj ces lulug "dlua" ntawd kuj yog lug npuabqaab (suffix) lawm hab.
+tamsis, nwg kuj tsi meej (not a true suffix) le meskas le.
+
+kuv tu-sab (regret) hastas koj twm, nyeem, losyog xaav txug ntau yaam ntawd cov lug kws kuv sau ntawd.
+ntxhuvsab (messy heart => sad) nyaj yuav has losyog qha meej dlua.
+kuv yeej pum lub haavzoov hab, tamsis nwg faabdlau es kuv txhajle saib cov ntoo xwb.
+thaus koj pum ntoo lawm, koj txhajle paub hastas nwg muaj ntoo luj, ntoo miv, ntoo yag, ntoo nkhaus, ntoo sab, ntoo qeg le tej ntawd.
+yog koj paub hastas muaj ntoo ces nwg le muaj haavzoov.
+
+yog tsi muaj ntoo, nwg ho muaj dlaabtsi?
+taj zeb suabpuam (plane rock dry place).
+
+kuv saib mas koj yeej nyam cov lug ntawd hab.
+qhov kws koj tsi nyam yog kuv muab tsi tau puavpheej (evidence losyog fact) tuaj rua koj saib.
+
+tej lug kws kuv has ntawd yog tej lug kws has tuaj dlaabrug hab hos hastas hab.
+qhov tuaj dlaabrug yog qhov kws koj khaws tau tej ntsab lug ntawd (txawm yog nwg muaj kuab hab tsi muaj los nwg yeej ua rua koj xaav mivntsiv quav txug tej lug ntawd hab).
+qhov hastas ces phaum mivnyuas yau nwgnuav yeej totaub peb tej lug moob (literally) hab xaav ncaaj le lulug ntawd.
+qhov ntawd yog cov ntoo kws miv hab khaus tamsis ho xaav saib hab.
+
+tog kuv sau ntawd lentawd los yeej vim yog xaav nrhav lub tswv 0 (tsi yog tswv8 hab tswv9) ntawd tuaj.
+
+hastxug koj qhov lug noog kws koj pheej hastas kuv tsi quavntsej (ignored) ntawd, kuv pum hastas tsuas muaj adjective modify noun xwb.
+
+kuv kuv tsi paub hastas noun modify adjective.
+dlhau ntawd "we’ve got ntoo luj [prefix], ntoo miv [suffix], ntoo yag, ntoo nkhaus [masculine and feminine identifier" le koj has ntawd ces kuv ho tsi paub lawm.
+kuv tsi paub hastas, ntoo luj ua tau prefix huas ntoo miv ua tau suffix.
+ntoo nkaus ho dlhau moog ua masculine hab feminine lawm.
+
+koj tej lug noog ntawd yeej zoo lawm, tamsis qho yaam ces yeej kawg le koj hab kuv pum losyog thaam rua huv nuav xwb.
+dlhau ntawd ces tsi paub sov yuav moog muab, khawb taub, ntawm leejtwg lug le.
+yo le ntawd, kuv txhaj le tsi muaj tej kuab (fact) lug txheem tej lug ntawd.
+tej kws peb sau hab thaam huv nuav ces yog tej kuab lug hab tej phuavpheej kws lug txheem peb cov lug kws txawb tsi muaj chaw hab siv tsi moog tsi lug rua qhovtwg le.
+
+kuv qhov fact finding ces yog sau hab thaam tej lug txaus luag, tuaj quasrug, hab khawb taub kws ua rua tej tug tuabneeg npautawg.
+dlhau ntawd ces kuv maamle muaj tej lug ntawd zuaj, cais, quas, losyog kev saibseb qhov twg zoo siv hab nyob rua huv nruabnraab.
+tej ntawd ces yog tej nyuas dlog-dlig kws tsi tseemceeb le tej kws ua rua koj xeebtxhob ib ce rua ntawm nuav ntaag.
+thaus nrhav tau lub tswv 0 (lub = article) le koj has ntawd ces maam le tsim evidence losyog puavpheej (fact) tuaj.
+taamsis nuav ces yeej poob moog le tej laug has, ntsab twg los twb tsi muaj dlaabtsi lug rua yug tuav ntawm ob txhais teg.
+
+yog zoo le ntawd lawm, ces kuv yuav ua le caag muab tau puavpheej (fact) lug rua koj saib?
+
+hahaha!
+yawm hmong-lao, koj yeej yog ib tug cog caag tub hab nyom tsi laam tawm yoojyim le hab laiv.
+
+ca kuv dlawj koj tug caag hastas lulug "ciali" yog verb (ntu lug ua), lawv le kuv totaub ces nwg yog lulug txhawb losyog pav txug (adverb) xwb.
+nwg paab losyog pav txug ntu lug ua (verb).
+
+txawm yog le ntawd los ntau yaam lug yeej muaj kuab hab tsi muaj kuab.
+tej lug ntawd yeej yog compound words hab.
+tej lulug kuj yog muaj tuabntwg es txhajle muab coj lub xaav saibseb nwg puas siv tau lug ua lulug "uantej uaqaab" ntawd xwb.
+
+lawv le kuv xaav hab muaj le koj has ces ob lulug twg nyob tau nwg ib leeg ces yeej tsi yog lug uantej uaqaab tamsis yog lug sistxuas xwb.
+
+lulug kws yuav siv tau uantej hab uaqaab ces yuavtsum yog ib lub suab ntawm lulug ntawd tsi muaj kuab (one syllable has no meaning), es lulug nyob uantej uaqaab ntawd tsaa sawv kuas muaj kuab (has meaning).
+
+txhaab koj tej lug tuaj es peb txhajle paub hastas peb cuaj leeg puas yuav muaj cuaj zaaj tswv9 le pebmoob ibtxwm has, "cuaj zag zoo ib zag phem ces txhuayaam puavleej phem."
+
+kuv paub hastas cov tuabneeg tuaj huv nuav yeej yog cov laug.
+feem ntau suavdlawg yeej paub lug moob txaus siv hab siv moog rua tswv8 tswv9 xwb.
+tsawg tug txhajle nrhav moog rua tswv7, 6, 5, 4, 3, 2, 0, hab 0.
+cov kwsnyeem (reader) losyog audience huv nuav yeej paub tej lug tso dlaag tso luag ntawd.
+puab yeej nov hab pum nyob rua huv puab lub tsev hab nyob rua huv puab tej zog.
+dlhau ntawd, nwg kuj yog ib qho kes sim (test) saibseb peb suavdlawg tsi quavntsej txug tej ntawd losyog nwg meemtxom (bother) peb ibtxha tuabneeg hab.
+tejtug ces cale ua le tej laug has, "ntuj kawg xubzeb, teb kawg xubntoo" ces kaavlam.
+
+tej tug kuj meemtxom npaum le koj; tej tug kug kawm, luag, hab sim saib suavdlawg xaav, txaav, hab fee moog rua seem twg xwb.
+
+has txug suffix ces koj cov lug le rhuv hab plawg yeej siv nyog lawm vim hastas nwg nyob tsi taug nwg ib leeg.
+tsi taag le ntawd, nwg txhawb kuas ib lulug twg has meej losyog muajceem tuaj xwb.
+
+thaus has txug tej nuav, kuv paub has tas peb muaj lug nyob "uaqaab = suffix).
+huas qauv ntawv (characters) le meskas le ces peb tsi muaj.
+
+lulug rhuv hab plawg ntawd yeej los muaj tsawg-tsawg xwb.
+feem ntau rhuv ces txuas moog rua tej kob dlaaj ntau.
+plawg ces ho txuas moog rua yaam kws txawj yaa, dlim, losyog ntxuaj tis ted.
+
+lawv le peb thaam hab paub ces peb muaj: 1. prefix yog "sis, sib" 2. suffix yog "rhuv (ntsuv), plawg" tej kws kuv sau lug sautoj ntawd yeej poob moog rua lug sistxuas ntau lawm.
+qho lu kuv siv tau moog rua tej lug uantej uaqaab hab.
+qho lus kuj yuav siv tsi tau.
+
 ca-sab hastas koj yuav totaub zoo lawm.
 
-py tony,
-uatsaug uas koj qhuas kuv os. kuv tsuas lam hais raws li qhov kuv
-ntseeg thiab xav tau xwb; muaj tej qho kuj yog, tej qho kuj yuam kev
-thiab.
-hais txog lo lus "cale" mas kuv ho xav hais tias yog helping verb li
-lo "yuav, maam, maamle, etc.." tabsis yog muab xav li koj xav los nws
-kuj yog thiab. vim li no es peb thiaj yuav tau coj tuaj sibpab kho
-thiab sibpab tawm tswvyim ntag.
-ca moog: ca is a verb, and moog is also a verb. "kuv ca moog" is short
-for "kuv ca nwg moog."
-le moog: le is an auxilary verb, and moog is a verb. muab nyaj rua kuv
-tsaiv koj le moog. le is short for maamle.
+py tony, uatsaug uas koj qhuas kuv os.
+kuv tsuas lam hais raws li qhov kuv ntseeg thiab xav tau xwb; muaj tej qho kuj yog, tej qho kuj yuam kev thiab.
+
+hais txog lo lus "cale" mas kuv ho xav hais tias yog helping verb li lo "yuav, maam, maamle, etc.."
+tabsis yog muab xav li koj xav los nws kuj yog thiab.
+vim li no es peb thiaj yuav tau coj tuaj sibpab kho thiab sibpab tawm tswvyim ntag.
+
+ca moog: ca is a verb, and moog is also a verb. "
+kuv ca moog" is short for "kuv ca nwg moog."
+
+le moog: le is an auxilary verb, and moog is a verb.
+muab nyaj rua kuv tsaiv koj le moog.
+le is short for maamle.
+
 le ca moog: nwg twb them nyaj lawm kuv le ca moog.
-ca le moog or cale moog: nwg twb them nyaj ua koj tug lawm, koj cale
-(kaagtsij, yimmeem, yuavtsum) nkaag moog.
+
+ca le moog or cale moog: nwg twb them nyaj ua koj tug lawm, koj cale (kaagtsij, yimmeem, yuavtsum) nkaag moog.
+
 le as an adverb: kuv them nyaj lawm kuas nwg tsi pub kuv nkag moog le.
+
 le as possive pronoun: nuav yog kuv le, tod yog koj le.
-koj ho xav li cas xwb,
-hl
 
-phoojywg moob lajleeb thiab tony,
-yuav kom peb kev txhim kho mus tau zoo mas peb ib tug tsis txhob pheej
-thuam ib tug xwb; peb yuav tau hais kiag yus txoj kev xav thiab txoj
-kev paub tawm los rau lwm tus tau xav thiab saib seb yog los tsis yog
-ntag.
-rws li kuv xav, cov lus ploog, nkaus, nrhuv, nrho etc... no yog adverb
-tag tibsi. adverb yog lo lus los txhabtxhais (modify) lo verb,
-adjective lossis other adverb.
-liabploog tsis yog compound word, yuav tsum sau ua liab ploog no thiaj
-li yog. lo lus "ploog" uas yog adverb no los txhabtxhais (modify) lo
-lus "liab" uas yog adjective kom muaj kuab zog tuaj xwb. the same for
-dlaaj nrhuv, xav lug, dlub ncab etc....
-liab plwb ploog: lo lus "plwb" no los yog adverb los txhab rau los
-ploog no kom muaj kuab zog tuaj.
-daj rhwb rhuv,xiav lwb lus, dub ncwb nciab, dawb pwb paug etc...: same
-as above.
-hl
+koj ho xav li cas xwb, hl phoojywg moob lajleeb thiab tony, yuav kom peb kev txhim kho mus tau zoo mas peb ib tug tsis txhob pheej thuam ib tug xwb; peb yuav tau hais kiag yus txoj kev xav thiab txoj kev paub tawm los rau lwm tus tau xav thiab saib seb yog los tsis yog ntag.
 
-tony,
-the expression "saib moog saib lug" may be interpreted as "look go
-look come", but, surely not "xaav moog xaav lug". even though, both
-expressions are considered jokes or insults.  reading along your
-topics, we can find many other words are also not appropriately
-interpreted by you. if you are really serious about your so called
-dictionary, you should avoid such poor interpretation, it sounds
-"suabpuam" does not mean "dry place" but it plainly means "sand", suab
-means tiny piece of, therefore, taj zeb suabpuam does not mean "plane
-rock dry place". i never heard "taj zeb suabpuam", but people prefer
-to say:"taj suabpuam" or "taj suabzeb". taj suabpuam can be wet or
-dried land.
-kuv xav tias, lus hmoob tseem tshua tej yam muaj ntsiablus tob heev,
-yog koj xav kom koj tus tesnum khiav zoo mas, koj yuav tau sov ib ntus
-tso mam rov mus nyeem yam koj sau cia lawm. thaum koj rov mus nyeem
-dua, koj yuav pom tias tshuav ntau yam koj tseem tshawbfawb tsis tau
-ntxaws. it's called aging.
+rws li kuv xav, cov lus ploog, nkaus, nrhuv, nrho etc...
+no yog adverb tag tibsi.
+adverb yog lo lus los txhabtxhais (modify) lo verb, adjective lossis other adverb.
+
+liabploog tsis yog compound word, yuav tsum sau ua liab ploog no thiaj li yog.
+lo lus "ploog" uas yog adverb no los txhabtxhais (modify) lo lus "liab" uas yog adjective kom muaj kuab zog tuaj xwb.
+the same for dlaaj nrhuv, xav lug, dlub ncab etc....
+
+liab plwb ploog: lo lus "plwb" no los yog adverb los txhab rau los ploog no kom muaj kuab zog tuaj.
+
+daj rhwb rhuv,xiav lwb lus, dub ncwb nciab, dawb pwb paug etc...
+: same as above.
+
+hl tony, the expression "saib moog saib lug" may be interpreted as "look go look come", but, surely not "xaav moog xaav lug".
+even though, both expressions are considered jokes or insults.
+reading along your topics, we can find many other words are also not appropriately interpreted by you.
+if you are really serious about your so called dictionary, you should avoid such poor interpretation, it sounds "suabpuam" does not mean "dry place" but it plainly means "sand", suab means tiny piece of, therefore, taj zeb suabpuam does not mean "plane rock dry place".
+i never heard "taj zeb suabpuam", but people prefer to say:"taj suabpuam" or "taj suabzeb".
+taj suabpuam can be wet or dried land.
+
+kuv xav tias, lus hmoob tseem tshua tej yam muaj ntsiablus tob heev, yog koj xav kom koj tus tesnum khiav zoo mas, koj yuav tau sov ib ntus tso mam rov mus nyeem yam koj sau cia lawm.
+thaum koj rov mus nyeem dua, koj yuav pom tias tshuav ntau yam koj tseem tshawbfawb tsis tau ntxaws.
+it's called aging.
+
 tseemyeej.
 
-tseemyeej,
-ain' t that the truth?
-sob lug xaav moog xaav lug ntawd sau yuamkev rua saib moog saib lug
-lawm xwb os.
-ntu txhais lug ncaajnraim ntawd ces tsi rau ntau los yeej rau mivntsiv
-hab.  nwg tsuas qha hastas, peb poob losyog nyob rua ntu neej kws tsi
-pauv sov yuav moog rua tom hauvntej, nyob tuabywb, losyog tim rovqaab.
-tej lug txhais ntawd tsi yog thuam losyog txhais yaam ruam-ruam,
-tamsis nthuav tawm lub laajxeeb kws ib tug tuabneeg raug puavkev es
-nrhav tsi tau kev tawm ces txhajle siv tej lug ntawd (an avoidance
-expression).
-txhais lub kuab lug tag ces yeej yog le koj has ntawd.  thaus has lub
-kuab lug tseeb tuaj ces tsi muaj leejtwg tuaj nrug peb nyeem, twm,
-losyog saib lawm.  thaus muaj tej yaam txaus luag, khuab qhovmuag,
-losyog khuab sab le ntawd ces nwg nqug tau tuabneeg tuaj nyeem, twg,
-losyog pov qho lulug tuaj rua huv nuav hab.
-has moog has lug, yog tsi muaj tej nyuas lug ntawd khuab koj qhovmuag
-hab nrawv koj lub sab ces koj yuav tsi laam pov lu puav lug tuaj rua
-huv nuav.
-moob tej lug yeej muaj ntau hab nyob tub moog rua huv nruabthab,
-nruablaajxeeb, nruabrog kws tsi muaj leejtwg xaav nthuav tawm tuaj rua
-suavdlawg paub.  tug xaav paub ces khawb taub le tej nuav, tshawb lug
-ntawm nwg tugkheej, losyog moog nrhav rua ntawm tej tuabneeg paub
-qaabhau.
-has txug lug lug "suabpuam" yeej txhais moog le koj has.  ntawd yog
-txavkev lawv le lub neej hab tej kws tuabneeg pum ntawm qhovmuag lug
-xwb.  qhov tseeb tag losyog lub hauvpaug lug losyog caag lug, suab
-nyaj peb paub lawm, tamsis "puam" ho yog dlaabtsi?  lulug ntawv chiv
-qhovtwg lug losyog dlaabtsi tshoov tuabneeg tis losyog hu lulug ntawd
-hastas xuabseb (sand)?
-has txug tej nuav ces peb yeej los kwvyees (educated guess or assume)
-ntau xwb.  yog tsi muaj lu caag lug lug txheem ces lub ntsab lug
-txhais ntawd yeej los tsi tseeb tuabyaam.  nwg tsuas yog zoo noog
-losyog zoo nkauj dlua le lulug txhais ncaaj le kuv muab sau dlhau lug
-ntawd.
+tseemyeej, ain' t that the truth?
 
-kuv xaav hastas peb tsi muaj qauv taug es koj has ib zaaj losy yeej
-yog le koj has.  kuv has ib zaaj los yeej yog le kuv has.  lwm has ib
-zaaj los yeej yog le lwm has hab.
-qhov kws yuav paab tau peb ces yuas tsum muaj qauv es peb siv tug qauv
-ntawd ces peb txhajle paub tej lug moog, ncua, losyog thaubqaab le tej
-ntawd.  yog peb tsi muaj qauv ces peb peb leeg has los yeej yog taag
-le hab.
-lawv le kuv tshawb pum yog peb yuav kawm, khawm, hab siv yim ntu lug
-kws yog peb qhev ntawm meskas ntawd lug.  kuv muab tis ua:
-1. npe = noun
-2. ua = verb
-3. npe hloov = pronoun
-4. has txug = adjective
-5. pav txug = adverb
-6. txawb = preposition
-7. txuas = conjunction
-8. suab qw = exclamation
-muab yim ntu nuav lug saib, peb khuab ntau heev rua theem txawb
-(preposition) ntawd.  txiv rua ntawd yog peb lug khuab rua ntu has
-txug hab pav txug ntawd.  zoo le peb ntu lug ntawd yog tej kws peb
-thaam tsi moog tsi lug.  qhov ntawd yog peb zuas lug ntau kuas txaus
-le peb lub sab nyam losyog xaav.  pev xaav hastas, has lug ntau
-txhajle le taag lug.  qhov tseeb, yog peb paub cais, quas, hab teeb
-tej lug ntawd lawm ces haslug txhajle yog has taag lug.
+sob lug xaav moog xaav lug ntawd sau yuamkev rua saib moog saib lug lawm xwb os.
 
-tony,
-you seem to intentionally flip-flop things for an unclear purpose. if
-you mistakenly wrote:" saib moog saib lug, look go look come" yuam kev
-ua: "xaav moog xaav lug /think go think come " lawm ces tshuav tsis
-ntev koj yuav vwm laiv...hahaha...
-raws li kuv xav mas, yam li koj lub cev ntajntsug lam yug los zooli
-hmoob xwb, koj lub siab thiab lolus txia ua lwm haiv neeg lawm.
+ntu txhais lug ncaajnraim ntawd ces tsi rau ntau los yeej rau mivntsiv hab.
+nwg tsuas qha hastas, peb poob losyog nyob rua ntu neej kws tsi pauv sov yuav moog rua tom hauvntej, nyob tuabywb, losyog tim rovqaab.
+
+tej lug txhais ntawd tsi yog thuam losyog txhais yaam ruam-ruam, tamsis nthuav tawm lub laajxeeb kws ib tug tuabneeg raug puavkev es nrhav tsi tau kev tawm ces txhajle siv tej lug ntawd (an avoidance expression).
+
+txhais lub kuab lug tag ces yeej yog le koj has ntawd.
+thaus has lub kuab lug tseeb tuaj ces tsi muaj leejtwg tuaj nrug peb nyeem, twm, losyog saib lawm.
+thaus muaj tej yaam txaus luag, khuab qhovmuag, losyog khuab sab le ntawd ces nwg nqug tau tuabneeg tuaj nyeem, twg, losyog pov qho lulug tuaj rua huv nuav hab.
+
+has moog has lug, yog tsi muaj tej nyuas lug ntawd khuab koj qhovmuag hab nrawv koj lub sab ces koj yuav tsi laam pov lu puav lug tuaj rua huv nuav.
+
+moob tej lug yeej muaj ntau hab nyob tub moog rua huv nruabthab, nruablaajxeeb, nruabrog kws tsi muaj leejtwg xaav nthuav tawm tuaj rua suavdlawg paub.
+tug xaav paub ces khawb taub le tej nuav, tshawb lug ntawm nwg tugkheej, losyog moog nrhav rua ntawm tej tuabneeg paub qaabhau.
+
+has txug lug lug "suabpuam" yeej txhais moog le koj has.
+ntawd yog txavkev lawv le lub neej hab tej kws tuabneeg pum ntawm qhovmuag lug xwb.
+qhov tseeb tag losyog lub hauvpaug lug losyog caag lug, suab nyaj peb paub lawm, tamsis "puam" ho yog dlaabtsi?
+lulug ntawv chiv qhovtwg lug losyog dlaabtsi tshoov tuabneeg tis losyog hu lulug ntawd hastas xuabseb (sand)?
+
+has txug tej nuav ces peb yeej los kwvyees (educated guess or assume) ntau xwb.
+yog tsi muaj lu caag lug lug txheem ces lub ntsab lug txhais ntawd yeej los tsi tseeb tuabyaam.
+nwg tsuas yog zoo noog losyog zoo nkauj dlua le lulug txhais ncaaj le kuv muab sau dlhau lug ntawd.
+
+kuv xaav hastas peb tsi muaj qauv taug es koj has ib zaaj losy yeej yog le koj has.
+kuv has ib zaaj los yeej yog le kuv has.
+lwm has ib zaaj los yeej yog le lwm has hab.
+
+qhov kws yuav paab tau peb ces yuas tsum muaj qauv es peb siv tug qauv ntawd ces peb txhajle paub tej lug moog, ncua, losyog thaubqaab le tej ntawd.
+yog peb tsi muaj qauv ces peb peb leeg has los yeej yog taag le hab.
+
+lawv le kuv tshawb pum yog peb yuav kawm, khawm, hab siv yim ntu lug kws yog peb qhev ntawm meskas ntawd lug.
+kuv muab tis ua: 1. npe = noun 2. ua = verb 3. npe hloov = pronoun 4. has txug = adjective 5. pav txug = adverb 6. txawb = preposition 7. txuas = conjunction 8. suab qw = exclamation muab yim ntu nuav lug saib, peb khuab ntau heev rua theem txawb (preposition) ntawd.
+txiv rua ntawd yog peb lug khuab rua ntu has txug hab pav txug ntawd.
+zoo le peb ntu lug ntawd yog tej kws peb thaam tsi moog tsi lug.
+qhov ntawd yog peb zuas lug ntau kuas txaus le peb lub sab nyam losyog xaav.
+pev xaav hastas, has lug ntau txhajle le taag lug.
+qhov tseeb, yog peb paub cais, quas, hab teeb tej lug ntawd lawm ces haslug txhajle yog has taag lug.
+
+tony, you seem to intentionally flip-flop things for an unclear purpose.
+if you mistakenly wrote:" saib moog saib lug, look go look come" yuam kev ua: "xaav moog xaav lug /think go think come " lawm ces tshuav tsis ntev koj yuav vwm laiv...
+hahaha...
+
+raws li kuv xav mas, yam li koj lub cev ntajntsug lam yug los zooli hmoob xwb, koj lub siab thiab lolus txia ua lwm haiv neeg lawm.
+
 tseemyeej.

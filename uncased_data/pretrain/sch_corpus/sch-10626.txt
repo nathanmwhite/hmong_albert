@@ -1,58 +1,46 @@
-cov py,
-thaum hnov txog luag lwm tsav neeg cov lus tu noob xwb ces mob yus lub
-siab tej niag zaj. qhov mob yus siab no vim twb xam pom hais tias muaj
-ib hnub tom ntej no ces yus tsav me hmoob lub npe thiab cov lus yuav
-ploj mus tibyam li cov uas yus pom no ntag. zoo hmoov uas hnub no yus
-tseem tsis tau nyob rau hauv daim list of language extinction los yog
-hauv dim endangered list, tabsis txhawj nraim hais tias hnub ntawd
-yuav los txog ib hnub twg yog sawvdaws tsis sibpab tuav thiab txuag
-cia tiag tiag.
-http://en.wikipedia.org/wiki/list_of_endangered_languages_in_asia
-http://news.mongabay.com/2007/0215-language.html
-yuav ua li cas lus hmoob tiaj tsis ploj?
-thov kom peb txhua leej txhia tus nyias ua nyias tes haujlwm pab txuag
-kom tau hmoob lub npe thiab cov lus nyob rau daim luaj pua no kom ntev
-npaum li ntev tau. qhov peb yuav sib pab txuag tau ces yuav tsum yog
-peb hais peb lus tom vaj tom tsev kom ntau npaum li ntau tau. peb
-nyias qhia nyias tej me tub me nyuam kom txawj hais peb hom lus ua
-ntej tshajplaws uas lawv yuav mus kawm luag lwm haiv lus. peb sib pab
-sau kom muaj ntaub ntawv, dabneeg etc...kom ntau li ntau tau rau tej
-me tub me nyuam tau nyeem. peb yuav tsum nrhiav ntau lub tswvyim los
-pab txhawj nqa txoj kev hais lus thiab nyeem ntawv hmoob.
-kevcaidabqhuas yog ib txoj ncauj kev uas yuav tuav tau peb hmoob tej
-lus thiab ntaub ntawv. tsis hais kev cai tshiab, los kev cia qub, yeej
-muaj nuj nqis txog kev khaws yus cov lus thiab ntaub ntawv tseg.
-tabsis yuav tsum yog yus cov ua niam ua txiv, ua pog ua yawg sib pab
-txuag tiag tiag. txaus txwv los txwv, txaus qhia los qhia, txaus qhuas
-los qhaus, txaus yuam los yuam ntag mas peb tej xeebleej xeebntxwv
-thiaj li yuav tsis poob peb cov lus.
-kabliskevcai los yeej yog ib txoj ncauj kev khaws hmoob lus thiab. kev
-ua tshoob ua kos, kev ntees ploj ntees tuag, kev noj tsiab peb caug,
-kev koom txoos, kev nquam paj nquam nruas etc....
-kev lomzem los yeej yog ib txoj ncauj kev khaws thiab ceev hmoob tej
-lus. piv txwv li kev ua yeeb yaj kiab, txhais yeeb yaj kiab, hu nkauj,
-hais kwv txhiaj, hais paj ntsha lus taum, hais pajhuam etc...
-tshua dabtsi no nej pab ntxiv rau,
-hl
+cov py, thaum hnov txog luag lwm tsav neeg cov lus tu noob xwb ces mob yus lub siab tej niag zaj.
+qhov mob yus siab no vim twb xam pom hais tias muaj ib hnub tom ntej no ces yus tsav me hmoob lub npe thiab cov lus yuav ploj mus tibyam li cov uas yus pom no ntag.
+zoo hmoov uas hnub no yus tseem tsis tau nyob rau hauv daim list of language extinction los yog hauv dim endangered list, tabsis txhawj nraim hais tias hnub ntawd yuav los txog ib hnub twg yog sawvdaws tsis sibpab tuav thiab txuag cia tiag tiag.
 
-just because hmong is not on the list of endangered language list does
-not mean the language is safe from extinction.
-kuv tau nyeem ib daig report tsis ntev dhau los no tau hais tias: in
-1990, 70 percent of hmong in china spoke hmong in their homes.  in
-2000, only 30 percent of hmong in china spoke hmong in their homes.  i
-wonder what the stats would be for 2010.
+http://www.website.net/wiki/list_of_endangered_languages_in_asia http://www.website.netl yuav ua li cas lus hmoob tiaj tsis ploj?
+
+thov kom peb txhua leej txhia tus nyias ua nyias tes haujlwm pab txuag kom tau hmoob lub npe thiab cov lus nyob rau daim luaj pua no kom ntev npaum li ntev tau.
+qhov peb yuav sib pab txuag tau ces yuav tsum yog peb hais peb lus tom vaj tom tsev kom ntau npaum li ntau tau.
+peb nyias qhia nyias tej me tub me nyuam kom txawj hais peb hom lus ua ntej tshajplaws uas lawv yuav mus kawm luag lwm haiv lus.
+peb sib pab sau kom muaj ntaub ntawv, dabneeg etc...
+kom ntau li ntau tau rau tej me tub me nyuam tau nyeem.
+peb yuav tsum nrhiav ntau lub tswvyim los pab txhawj nqa txoj kev hais lus thiab nyeem ntawv hmoob.
+
+kevcaidabqhuas yog ib txoj ncauj kev uas yuav tuav tau peb hmoob tej lus thiab ntaub ntawv.
+tsis hais kev cai tshiab, los kev cia qub, yeej muaj nuj nqis txog kev khaws yus cov lus thiab ntaub ntawv tseg.
+
+tabsis yuav tsum yog yus cov ua niam ua txiv, ua pog ua yawg sib pab txuag tiag tiag.
+txaus txwv los txwv, txaus qhia los qhia, txaus qhuas los qhaus, txaus yuam los yuam ntag mas peb tej xeebleej xeebntxwv thiaj li yuav tsis poob peb cov lus.
+
+kabliskevcai los yeej yog ib txoj ncauj kev khaws hmoob lus thiab.
+kev ua tshoob ua kos, kev ntees ploj ntees tuag, kev noj tsiab peb caug, kev koom txoos, kev nquam paj nquam nruas etc....
+
+kev lomzem los yeej yog ib txoj ncauj kev khaws thiab ceev hmoob tej lus.
+piv txwv li kev ua yeeb yaj kiab, txhais yeeb yaj kiab, hu nkauj, hais kwv txhiaj, hais paj ntsha lus taum, hais pajhuam etc...
+
+tshua dabtsi no nej pab ntxiv rau, hl just because hmong is not on the list of endangered language list does not mean the language is safe from extinction.
+
+kuv tau nyeem ib daig report tsis ntev dhau los no tau hais tias: in 1990, 70 percent of hmong in china spoke hmong in their homes.
+in 2000, only 30 percent of hmong in china spoke hmong in their homes.
+i wonder what the stats would be for 2010.
+
 kuv xav tias cov statistics ntawd "are not too far from the truth".
-nyob rau lub tebchaws usa no los kuv twb pom ntau tsev tibneeg hmoob
-yeej siv lus askiv sib tham nyob hauv lawv tej vajtse nkaus lawm xwb.
 
-neb poobsiab txog tej no dabtsi naj, tzianeng lawv cov ntawd "thoob
-ntuj no" twb yuav nrov thoob rau hmoob nyob rau hauv lub qab ntuj no.
-yog li, txawm nws yuav ua npaum li cas los, peb yeej tseem tshuav peb
-cov hmoob nyob pem roob--cov lus yeej tsi poob tag li os mog.
-qhov tseem ceeb ces peb sibsaus nyiaj coj mus txhawb cov no kom lawv
-zoo thiab paub ntawv hmoob ntxiv xwb mas mog os.  kab li kev cai los
-neb txhob poobsiab, txawm cov nyob txawv tebchaw no txias tag lawm
-los--tseem tshuav cov hmoob ib txwm nyob tojroob hauvpes...peb txoj
-kablikevcai yeej nyob ruaj nrees li qub nawb mog.
-we need to establish a place for those people to carry on our ......!
+nyob rau lub tebchaws usa no los kuv twb pom ntau tsev tibneeg hmoob yeej siv lus askiv sib tham nyob hauv lawv tej vajtse nkaus lawm xwb.
+
+neb poobsiab txog tej no dabtsi naj, tzianeng lawv cov ntawd "thoob ntuj no" twb yuav nrov thoob rau hmoob nyob rau hauv lub qab ntuj no.
+
+yog li, txawm nws yuav ua npaum li cas los, peb yeej tseem tshuav peb cov hmoob nyob pem roob--cov lus yeej tsi poob tag li os mog.
+
+qhov tseem ceeb ces peb sibsaus nyiaj coj mus txhawb cov no kom lawv zoo thiab paub ntawv hmoob ntxiv xwb mas mog os.
+kab li kev cai los neb txhob poobsiab, txawm cov nyob txawv tebchaw no txias tag lawm los--tseem tshuav cov hmoob ib txwm nyob tojroob hauvpes...
+peb txoj kablikevcai yeej nyob ruaj nrees li qub nawb mog.
+
+we need to establish a place for those people to carry on our......!
+
 born

@@ -1,108 +1,94 @@
-muaj ib txhia tibneeg ua lub neej nyob rau ntiaj teb no mas maj kom
-sijhawm dhau mus kawg.  muaj ib txhia ho xav kom lub sij hawm muaj
-ntev ntev rau lawv.  rau koj, koj xav li cas?
-peb niaj hnub ua haujlwm mas ib txhia tib neeg ntxub monday tshaj
-plaws li...sawv daws mas xav kom twb txog friday lawm xwb.  kuv hais
-rau lawv tias nej puas paub tias ib hnub dhau mus lawm ces txhais tau
-tias nej tshuav tsawg lawm ib hnub nyob rau lub ntiaj teb no, yog li
-ntawd es ua li cas nej sij yuav maj kom sij hawm dhau mus tsuag tsuag
-kom txog friday ua dabtsi?
-thaum nug lawv li ntawd, lawv mam li rov qab xav dua.  niaj hnub no
-lawv pom kuv mas lawv yeej tsis kab hais tias, "ua li cas es tsis
-txawj txog friday li" no rau kuv li lawm...vim lawv paub tias lawv lub
-sijhawm tsawg lawm zuj zus.
+muaj ib txhia tibneeg ua lub neej nyob rau ntiaj teb no mas maj kom sijhawm dhau mus kawg.
+muaj ib txhia ho xav kom lub sij hawm muaj ntev ntev rau lawv.
+rau koj, koj xav li cas?
 
-py vimhlub,
-cov uas maj maj kom txog friday ces kuv yog ib tug ntag. tabsis tsis
-yog kuv xav kom sij hawm dhau mus sai sai, kuas yog xav kom txog caij
-tau so sai sai xwb. qhov tseeb yog xav kom yus tsis nco qab hlias xwb
-twb txog lub caij tau uasi lom lom zem lossis txog lub caij tau mus
-nrog yus tej pojniam menyuam nyob ua ke xwb.
-kuv tsis paub txog lwm tus, tabsis kuv mas lub caij lub nyoog yeej luv
-rau kuv heev thiab. tos nco xwb twb tag lawm ib hlis, tos pod xwb twb
-tag lawm ib xyoos. cov uas pheej hais tias uasi (kov khauspivtawm, ua
-phaib, nuv ntses, yos havzoov, tham hluasnkauj etc...) laug caij laug
-nyoog (kill time) no mas yog lam hais lawm xwb. qhov tseeb tsis yog ua
-laug caijnyoog, tabsis yog ua kom yus tau txais kev lomzem xwb.
-ntawm kuv tus kheej, tos lub sijhawm luv luv rau kuv los yog vim nram
-haujlwm, yus muaj hauj lwm npau to tos yus, tom tsev los tshuav
-haujlwm npau to tos yus, dhau li ntawd haj tseem muaj kev lomzem sov
-siab npo tos yus thiab. yeebvim li no es yus lub sijhawm thiaj li dhia
-ceev ua luaj. txawm li ntawd los kuv ho tsis nco qab txhawj txog hais
-tias yus lub ncaij nyoog nyob rau ntiaj teb tsawg lawm zuj zus.
-hl
+peb niaj hnub ua haujlwm mas ib txhia tib neeg ntxub monday tshaj plaws li...
+sawv daws mas xav kom twb txog friday lawm xwb.
+kuv hais rau lawv tias nej puas paub tias ib hnub dhau mus lawm ces txhais tau tias nej tshuav tsawg lawm ib hnub nyob rau lub ntiaj teb no, yog li ntawd es ua li cas nej sij yuav maj kom sij hawm dhau mus tsuag tsuag kom txog friday ua dabtsi?
 
-ob yawg npawg, muab saib los sijhawm yeej dhau mus lawm tiag tiag li.
-tos nco xwb ua cas me nyuam twb loj tag, tus mus yuav txiv los muaj
-tus yuav pojniam lawm los muaj.  lub tsev loj zuj zus tuaj vim neeg
-tawm tsev coob zuj zus lawm tshuav yus ob niag laus lawm xwb.  muab
-tej duab thaum ub los saib ua cas yus tseem hluas thiab zoo nkauj zoo
-nraug kawg li.  mus tsom iav los ua cas twb tsis tshua tau luag lawm,
-thiab plaub hau txawm siv dawb lawm ntau kawg li.  ab...xav xav mas
-cav tsis xav laus kiag thiab tiag.  xav kom yus hluas tas li xwb.  yog
-kuv muaj power mas kuv yuav tsis pub kuv laus kiag li.  tabsis twb
-tsis niam muaj power dabtsi kiag li ces kawg yuav laus zuj zus xwb
-tiag ob tus npawg...  yog yus tus me meb thaub tseem hlub hlub thiab
-ces kuj xav ua neeg thiab tabsis yog tsis sib hlub mas lub neej yav
-laus tseem dhuav siab tshaj yav hluas nawb.
+thaum nug lawv li ntawd, lawv mam li rov qab xav dua.
+niaj hnub no lawv pom kuv mas lawv yeej tsis kab hais tias, "ua li cas es tsis txawj txog friday li" no rau kuv li lawm...
+vim lawv paub tias lawv lub sijhawm tsawg lawm zuj zus.
 
-cov phooj yawg-- nyob rau ntawm kuv mas, yog muab hais txog xyoo no
-ces lub sij hawm yeej mus ceev kawg kiag li.  1 sij huam xwb twb tag 1
-xyoos lawm.  tab sis yog muab hais rau hli no ces lub december txog
-rau lub march mas ntev rau kuv tshaj plaws li.  yeej xav kom dhau mus
-tsuag tsuag xwb.  qhov no yeej vim yog tsis nyiam snow thiab txoj kev
-nplua nplua, thiab no no.  ho dua li cov hli april mus txog rau
-november mas zoo nkaus li ya xwb.  koj saib tam sim no kuv mas yeej
-tsis xav kom lub 8 hli no txawj tag kiag li vim twb yuav rov qab txog
-rau december ces twb yuav pom snow lawm.  ho hais txog days of week no
-ces monday txog friday mas zoo li kuj ntev ntev kawg li rau kuv li
-thiab vim yus laus lawm ces nkees nkees ua hauj lwm lawm.  tab sis
-saturday & sunday mas zoo li ya xwb.  xyov nej zoo li cas, tab sis rau
-kuv mas hnub monday txog friday mas kuv tseem sawv lig lig mam mus
-work.  tab sis hnub saturday & sunday mas kuv yeej sawv 5:00am txhua
-txhua hnub li xwb.  yeej pw tsis tsaug zog li lawm vim yus lub siab
-pheej xav hais tias tsam lub sij hawm tag lawm tsis txaus nyob li no
-rau qhov 2 hnub no mas yus muaj hauj lwm ntau tshaj, xws li yuav los
-tu vaj tu tsev, nrog yus poj niam me nyuam nyob tham, mus taj laj, mus
-noj mus haus tom tej kwv tij neej tsa, etc...
+py vimhlub, cov uas maj maj kom txog friday ces kuv yog ib tug ntag.
+tabsis tsis yog kuv xav kom sij hawm dhau mus sai sai, kuas yog xav kom txog caij tau so sai sai xwb.
+qhov tseeb yog xav kom yus tsis nco qab hlias xwb twb txog lub caij tau uasi lom lom zem lossis txog lub caij tau mus nrog yus tej pojniam menyuam nyob ua ke xwb.
 
-npawg k,
-hais txog kev lwj siab rau lub neej laus...
-kuv muaj ib tug niam hlob uas kuv tus txiv hlob twb tso nws tseg tshaj
-li 40 xyoo lawm.  nws niaj hnub seev rau kuv tias yog ua li cas es nws
-tsis txawj tuag li?  nws twb seev li ntawd tau ze 20 lub xyoo no
-lawv.  thaum nws tau hnov moo tias luag tej tuag no mas nws cav quaj
-quaj thiab nws hais tias ua li cas es luaj tej txawj tuag, es ua li
-cas tus tuag ntawd tsis yog nws?  ua rau kuv kuj tsis pom qab teb nws
-li cas li.  kuv tsuas hais rau nws tias kom nws tsis txhob xav li
-ntawd vim tseem tshauv peb cov me nyuam coob ua neej nyob tseem yuav
-hlub nws thiab tseem yuav vam nws txoj kev hlub peb no xwb.  tus niam
-hlob ntawm yeej muaj 4-5 leej tub hlub hlub nws kawg.  tej ntxhais
-vauv los yeej hlub hlub nws ib yam.  tabsis tsis paub tias xyov yog ua
-li cas nws thiaj li xav li ntawd.  ntshe yog nws nco nco peb txiv
-hlob... nws mas laj to txog nws lub sijhawm kawg li.
+kuv tsis paub txog lwm tus, tabsis kuv mas lub caij lub nyoog yeej luv rau kuv heev thiab.
+tos nco xwb twb tag lawm ib hlis, tos pod xwb twb tag lawm ib xyoos.
+cov uas pheej hais tias uasi (kov khauspivtawm, ua phaib, nuv ntses, yos havzoov, tham hluasnkauj etc...)
+laug caij laug nyoog (kill time) no mas yog lam hais lawm xwb.
+qhov tseeb tsis yog ua laug caijnyoog, tabsis yog ua kom yus tau txais kev lomzem xwb.
 
-twb yog nws kawg, after all these years!  nws yeej tsim txiaj kawg nws
-thiaj tsis mus yuav txiv.  txhawb nws lub zog kom nws ua siab ntev
-thiab xav rau ntawm tej menyuam.  neeg sib hlub ces tuag lawm los
-thiaj kam nyob ib leeg li ntawd.  cov tsis sib hlub ces twb tsis tau
-tuag twb mus yos ua ntej lawm tiag.
+ntawm kuv tus kheej, tos lub sijhawm luv luv rau kuv los yog vim nram haujlwm, yus muaj hauj lwm npau to tos yus, tom tsev los tshuav haujlwm npau to tos yus, dhau li ntawd haj tseem muaj kev lomzem sov siab npo tos yus thiab.
+yeebvim li no es yus lub sijhawm thiaj li dhia ceev ua luaj.
+txawm li ntawd los kuv ho tsis nco qab txhawj txog hais tias yus lub ncaij nyoog nyob rau ntiaj teb tsawg lawm zuj zus.
+
+hl ob yawg npawg, muab saib los sijhawm yeej dhau mus lawm tiag tiag li.
+
+tos nco xwb ua cas me nyuam twb loj tag, tus mus yuav txiv los muaj tus yuav pojniam lawm los muaj.
+lub tsev loj zuj zus tuaj vim neeg tawm tsev coob zuj zus lawm tshuav yus ob niag laus lawm xwb.
+muab tej duab thaum ub los saib ua cas yus tseem hluas thiab zoo nkauj zoo nraug kawg li.
+mus tsom iav los ua cas twb tsis tshua tau luag lawm, thiab plaub hau txawm siv dawb lawm ntau kawg li.
+ab...
+xav xav mas cav tsis xav laus kiag thiab tiag.
+xav kom yus hluas tas li xwb.
+yog kuv muaj power mas kuv yuav tsis pub kuv laus kiag li.
+tabsis twb tsis niam muaj power dabtsi kiag li ces kawg yuav laus zuj zus xwb tiag ob tus npawg...
+yog yus tus me meb thaub tseem hlub hlub thiab ces kuj xav ua neeg thiab tabsis yog tsis sib hlub mas lub neej yav laus tseem dhuav siab tshaj yav hluas nawb.
+
+cov phooj yawg-- nyob rau ntawm kuv mas, yog muab hais txog xyoo no ces lub sij hawm yeej mus ceev kawg kiag li.
+1 sij huam xwb twb tag 1 xyoos lawm.
+tab sis yog muab hais rau hli no ces lub december txog rau lub march mas ntev rau kuv tshaj plaws li.
+yeej xav kom dhau mus tsuag tsuag xwb.
+qhov no yeej vim yog tsis nyiam snow thiab txoj kev nplua nplua, thiab no no.
+ho dua li cov hli april mus txog rau november mas zoo nkaus li ya xwb.
+koj saib tam sim no kuv mas yeej tsis xav kom lub 8 hli no txawj tag kiag li vim twb yuav rov qab txog rau december ces twb yuav pom snow lawm.
+ho hais txog days of week no ces monday txog friday mas zoo li kuj ntev ntev kawg li rau kuv li thiab vim yus laus lawm ces nkees nkees ua hauj lwm lawm.
+tab sis saturday & sunday mas zoo li ya xwb.
+xyov nej zoo li cas, tab sis rau kuv mas hnub monday txog friday mas kuv tseem sawv lig lig mam mus work.
+tab sis hnub saturday & sunday mas kuv yeej sawv 5:00am txhua txhua hnub li xwb.
+yeej pw tsis tsaug zog li lawm vim yus lub siab pheej xav hais tias tsam lub sij hawm tag lawm tsis txaus nyob li no rau qhov 2 hnub no mas yus muaj hauj lwm ntau tshaj, xws li yuav los tu vaj tu tsev, nrog yus poj niam me nyuam nyob tham, mus taj laj, mus noj mus haus tom tej kwv tij neej tsa, etc...
+
+npawg k, hais txog kev lwj siab rau lub neej laus...
+
+kuv muaj ib tug niam hlob uas kuv tus txiv hlob twb tso nws tseg tshaj li 40 xyoo lawm.
+nws niaj hnub seev rau kuv tias yog ua li cas es nws tsis txawj tuag li?
+nws twb seev li ntawd tau ze 20 lub xyoo no lawv.
+thaum nws tau hnov moo tias luag tej tuag no mas nws cav quaj quaj thiab nws hais tias ua li cas es luaj tej txawj tuag, es ua li cas tus tuag ntawd tsis yog nws?
+ua rau kuv kuj tsis pom qab teb nws li cas li.
+kuv tsuas hais rau nws tias kom nws tsis txhob xav li ntawd vim tseem tshauv peb cov me nyuam coob ua neej nyob tseem yuav hlub nws thiab tseem yuav vam nws txoj kev hlub peb no xwb.
+tus niam hlob ntawm yeej muaj 4-5 leej tub hlub hlub nws kawg.
+tej ntxhais vauv los yeej hlub hlub nws ib yam.
+tabsis tsis paub tias xyov yog ua li cas nws thiaj li xav li ntawd.
+ntshe yog nws nco nco peb txiv hlob...
+nws mas laj to txog nws lub sijhawm kawg li.
+
+twb yog nws kawg, after all these years!
+nws yeej tsim txiaj kawg nws thiaj tsis mus yuav txiv.
+txhawb nws lub zog kom nws ua siab ntev thiab xav rau ntawm tej menyuam.
+neeg sib hlub ces tuag lawm los thiaj kam nyob ib leeg li ntawd.
+cov tsis sib hlub ces twb tsis tau tuag twb mus yos ua ntej lawm tiag.
 
 kuv li mas kuv ho tsi question txog lubcaij mus ceev, qeeb los sai...
-kuv li mas xyov yog vim li cas lub niag caij ntawd pheej tsi txaus rau
-kuv siv kiag li.  tsi ntev pib lub 10 hli ntuj nov xwb ces twb rov pom
-hmoob pib noj 30 qab teb ti qaum teb dua. ua li npawg k-thoj hais, yog
-rub tau no xav muab lub sihawm rub kom nres me ntsis. tsi li ces pheej
-muaj ntsis tau foo plaubhau lawm.
+
+kuv li mas xyov yog vim li cas lub niag caij ntawd pheej tsi txaus rau kuv siv kiag li.
+tsi ntev pib lub 10 hli ntuj nov xwb ces twb rov pom hmoob pib noj 30 qab teb ti qaum teb dua.
+ua li npawg k-thoj hais, yog rub tau no xav muab lub sihawm rub kom nres me ntsis.
+tsi li ces pheej muaj ntsis tau foo plaubhau lawm.
 
 txog friday lawm laud...
-hnub no yog friday, august 21, 2009.  rau ib txhia neeg ces kuj yog
-"pay day" thiab.  ua li nes, hnub no zoo dua nag hmo los zoo dua tag
-kis?
-hnub no dhau lawm ces peb yuav tsis pom hnub no ib zaug ntxiv li lawm
-os sawv daws.  yog li, tsis txhob cia hnub no nkim mus.
-hnub no yog hnub no.  hnub no tsis yog hnub npaj rau tag kis.  tag kis
-nws muaj nws hnub lawm... los xyov puas tseem yuav pom tag kis thiab
-vim peb nyiam muaj nyias txoj hmoo.  yog li, siv nej lub sij hawm hnub
-no rau tej yam kom tsim nyog rau nej nawb.
+
+hnub no yog friday, august 21, 2009. rau ib txhia neeg ces kuj yog "pay day" thiab.
+ua li nes, hnub no zoo dua nag hmo los zoo dua tag kis?
+
+hnub no dhau lawm ces peb yuav tsis pom hnub no ib zaug ntxiv li lawm os sawv daws.
+yog li, tsis txhob cia hnub no nkim mus.
+
+hnub no yog hnub no.
+hnub no tsis yog hnub npaj rau tag kis.
+tag kis nws muaj nws hnub lawm...
+los xyov puas tseem yuav pom tag kis thiab vim peb nyiam muaj nyias txoj hmoo.
+yog li, siv nej lub sij hawm hnub no rau tej yam kom tsim nyog rau nej nawb.
+
 vimhlub nej heev li os.

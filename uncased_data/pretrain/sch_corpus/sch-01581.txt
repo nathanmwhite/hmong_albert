@@ -1,411 +1,296 @@
-ytk,
-kuv yog ib tug neeg ua tsis txawj xaiv tej lus zoo hais tshaj plaws,
-tabsis los lus "ntxub" no yeej tsis tau muaj dua hlo li nyob rau kuv
-tej lus hais thiab tej lus sau.  kuv xav tias tej lus no ntshe yuav
-yog cov neeg txhiab vam txawj txhiab vam ntse thiaj txawj siv.  piv
-rau li kum thiab paj xyoob nkawv tej kwv txhiaj.
+ytk, kuv yog ib tug neeg ua tsis txawj xaiv tej lus zoo hais tshaj plaws, tabsis los lus "ntxub" no yeej tsis tau muaj dua hlo li nyob rau kuv tej lus hais thiab tej lus sau.
+kuv xav tias tej lus no ntshe yuav yog cov neeg txhiab vam txawj txhiab vam ntse thiaj txawj siv.
+piv rau li kum thiab paj xyoob nkawv tej kwv txhiaj.
+
 ytk, qhov kuv xav hais yog qhov koj siv tus "/".
-1.  yog siv rau li either/or thiab and/or
-2. hmong/mong uas txhais tau hais tias ob pab neeg no yog ib pab neeg
-(this sense is still very ambiguous).
-3. yog siv rau fraction los sis  division
-yog li no:
-hmong/mong= tsis yog hmoob ces yog moob, hmoob thiab moob lossis hmoob
-losyog moob xwb;
-los yog hmoob/moob yog tib pawg neeg no, hmong/mong = ? (neeg dabtsi);
-los yog 10/2=5; 1/2=.5; es hmong/mong = ?, thiab mong/hmong = ?
-kuv tus neeg ruam no mas xav li n o xwb.
-txawjxab
 
-txawj xab, thiab ytk,
-hmong/mong (hmoob) or mhong  tag nrog tej no los yeej yog hmoob ib yam
-xwb. luag tsua sau ua tus ntawv xwb....vim hais tias tu niam ntawv "h"
-no nyob rau
-nws tsis tawm suab. thaum ub cov western people sau tsis tau hmoob no
-ces lawv xub sau ua hmong no lawm xwb...
-ib yam li vaj =vaaj,  nyob ntawm tus neeg nws hais los lus tawm los
-xwb. meaning ces yog tib qhov xwb. yog yuav muab hais los mam
-nplog cov lus thiab thaib, suav cov lus ma tseem txawv deb peb hmoob
-li....
-neb yeej paub hais tias ...nplog hais tias " pai sai = pai seur or pai
-keuleur = ( where are you going)"
-suav hais tias " wo = gao  = ( i) "
-nws zoo li no xwb tsis tag yuav sib cav lawm puas yog.  tseem muaj ib
-cov hmoob (meo) nyob suav teb peb twb tsis paub lawv cov lus li thiab
-na.
-kuv ntsib ob tub ntxhais hmoob (meo) tuaj china tuaj kawm ntawv nyob
-university of chicago, lawv hais tias lawv yog meo (hmoob) tabsi lawm
-hais lus kuv tsis paub ib qhov li na, los lawv yeej yog hmoob ib yam.
-tabsi lawv hais  ib ob (1, 2....9) cuaj ces hais ib yam li peb.
+1. yog siv rau li either/or thiab and/or 2. hmong/mong uas txhais tau hais tias ob pab neeg no yog ib pab neeg (this sense is still very ambiguous).
+
+3. yog siv rau fraction los sis division yog li no: hmong/mong= tsis yog hmoob ces yog moob, hmoob thiab moob lossis hmoob losyog moob xwb; los yog hmoob/moob yog tib pawg neeg no, hmong/mong =?
+(neeg dabtsi); los yog 10/2=5; 1/2=.
+5; es hmong/mong =?
+, thiab mong/hmong =?
+
+kuv tus neeg ruam no mas xav li no xwb.
+
+txawjxab txawj xab, thiab ytk, hmong/mong (hmoob) or mhong tag nrog tej no los yeej yog hmoob ib yam xwb.
+luag tsua sau ua tus ntawv xwb....
+vim hais tias tu niam ntawv "h" no nyob rau nws tsis tawm suab.
+thaum ub cov western people sau tsis tau hmoob no ces lawv xub sau ua hmong no lawm xwb...
+
+ib yam li vaj =vaaj, nyob ntawm tus neeg nws hais los lus tawm los xwb.
+meaning ces yog tib qhov xwb.
+yog yuav muab hais los mam nplog cov lus thiab thaib, suav cov lus ma tseem txawv deb peb hmoob li....
+
+neb yeej paub hais tias...
+nplog hais tias " pai sai = pai seur or pai keuleur = (where are you going)" suav hais tias " wo = gao = (i) " nws zoo li no xwb tsis tag yuav sib cav lawm puas yog.
+tseem muaj ib cov hmoob (meo) nyob suav teb peb twb tsis paub lawv cov lus li thiab na.
+
+kuv ntsib ob tub ntxhais hmoob (meo) tuaj china tuaj kawm ntawv nyob university of chicago, lawv hais tias lawv yog meo (hmoob) tabsi lawm hais lus kuv tsis paub ib qhov li na, los lawv yeej yog hmoob ib yam.
+
+tabsi lawv hais ib ob (1, 2....
+9) cuaj ces hais ib yam li peb.
+
 ok...
-hmoob
 
-tzexa,
-peb hais lus ces thaum twg peb sau lo lus tsis nyiam pab pawg neeg twg
-los sawv daws yeej paub, nyob li koj cov sob lus hauv qab no yog ntau
-nqis li cas no koj rov nyeem dua saib yog hais li cas...
-kuv ntseeg tias ntau tus hauv sch no yuav paub koj cov lus no yog
-txhais li cas lawm.
-lo lus ntxub yeej tsis muaj neeg sau tawm kiag li ntawd tab sis cov
-ntiab lus txhais mus li ntawd lawm, sawv daws twb txawj txawj hais
-tias "discriminate ntxub ntxaug" kuv xav kom peb txhua tus yuav tau
-paub txog tias hmoob yog tib tug xwb.
-hais txog cov cim li koj sau saum no mas kuv tsi yog neeg kawm txog
-cov tawv dawb tej cim kuv tsis paub li nawb, koj twb yog tus kawm
-thiab paub lawm ces koj kuj qhia rau kuv paub tias yog sau li cas
-thiaj siv tau lub cim ntawd rau lo lus no, rau kuv thiab ib txhia uas
-tsi tau paub zoo tau kawm txog lub cim kom paub siv. tsis tag yuav coj
-los challenge txog cov cim no.
-kuv yog ib tug neeg yug loj hlob hauv hmoob tsev neeg, kuv tsuas paub
-txog hmoob li kev hais lus thiab tej kab lis kev cai qho me ntsis xwb,
-tiam sis yog leej twg xav paub tias hmoob caj ce s ncau yog li cas rau
-li cas no mas yuav tau kawm hmoob cov kab lis kev cai xws li nram no
-mas thiaj paub qhov tseeb tias peb ncau ntawm pab twg los tiag tiag.
-raws li peb ob peb tug tau muab tshawb fawb los li cov keeb kwm hais
-lus li nram no...
-1). yog peb piav txog zaj dabneeg ntuj tsim teb raug, peb txhua tus
-yuav hais lub suab tawm tias puj saub thiab yawm saub nkawd no.
-2). yog peb los hais txog zaj tshoob peb txhua tus yuav hais lo lus
-seev lub suab tias puj saub yuas puj saub thiaj tias puj zag.
-3).  yog peb tham txog dab neeg sub tuam txheej thaum ub peb hais lub
-suab tias puj sub thiab yawm sub nkawd.
-4).   yog thaum peb ho los piav txog kev paiv qeej peb yuav paiv hais
-tais puj qas niam, yawm qas txiv, thiab hais tias tus lauv us no
-yog li no kuv yuav muab 3 hom hmoob lub suab los sau saib seb 4 yam
-uas hmoob ib txwm paub saum hais txuam leej twg cov lus rau hauv li
-nram no
-1). hmoob dawb hu ua pog thiab yawg
-2  hmoob lees hu ua pug thab yawm
-3). moob sib hu ua puj hab yawm
-yog muab saib raws li 3 pab hmoob no lub suab ces moob sib lub suab
-yog lub uas thooj 4 qhov keeb kwm zaj haiv loj uas hmoob niaj hnub siv
-saum lawm, hmoob dawb thiab hmoob lees yog ncau los ntawm moob sib
-los. thiab qhov no qhia tau tias peb yog tib pab hmoob xwb, tsis muaj
-12-15 pab hmoob li ib txhia xav. yog peb yuav hais lub suab tiag ces
-moob sib lub suab yog father thiab mother ntawm peb 8 lub suab uas
-hais lus sib paub zoo zoo ntawd lawm nawb kwv tij sawv daws.
-ytk
+hmoob tzexa, peb hais lus ces thaum twg peb sau lo lus tsis nyiam pab pawg neeg twg los sawv daws yeej paub, nyob li koj cov sob lus hauv qab no yog ntau nqis li cas no koj rov nyeem dua saib yog hais li cas...
 
-txawjxab,
-tog luas muaj lus lug hastas "txawj hab ntse" nua kuas yeej yog luas
-pum lawm txhaj siv tau lug ntuag tuabneeg.  kuv saib koj cov lug kws
-tuaj sau nuav mas koj yeej los yog kawm txawj lawm hab tabsi koj
-tshuav qhov "ntse."  tug tuabneeg ntse mas tsis taag qha le los saib
-kag xwb yeej paub lawm hastas lus twg yog lus twg hab yaam twg dlho
-rua yaam twg.
-tug kws txawj xwb mas yuav tsum muaj tug qha quas nqeeg mas txhaj
-totaub.
-ioj hastas koj ib txwm tsi tau sau lo yog muaj dlua lu lug "ntxub"
-nyob rua koj cov lug has los yog lus sau.  well......puas yog koj
-tabtom rov qab muab koj tus kheej ruav rau peb ntsia?
-tsis tau hais dua es tub niam qhuav sau tas, tsis tau sau dua es niam
-qhuav sau tuaj nug tas no ho yog ab tsi?
+kuv ntseeg tias ntau tus hauv sch no yuav paub koj cov lus no yog txhais li cas lawm.
+
+lo lus ntxub yeej tsis muaj neeg sau tawm kiag li ntawd tab sis cov ntiab lus txhais mus li ntawd lawm, sawv daws twb txawj txawj hais tias "discriminate ntxub ntxaug" kuv xav kom peb txhua tus yuav tau paub txog tias hmoob yog tib tug xwb.
+
+hais txog cov cim li koj sau saum no mas kuv tsi yog neeg kawm txog cov tawv dawb tej cim kuv tsis paub li nawb, koj twb yog tus kawm thiab paub lawm ces koj kuj qhia rau kuv paub tias yog sau li cas thiaj siv tau lub cim ntawd rau lo lus no, rau kuv thiab ib txhia uas tsi tau paub zoo tau kawm txog lub cim kom paub siv.
+tsis tag yuav coj los challenge txog cov cim no.
+
+kuv yog ib tug neeg yug loj hlob hauv hmoob tsev neeg, kuv tsuas paub txog hmoob li kev hais lus thiab tej kab lis kev cai qho me ntsis xwb, tiam sis yog leej twg xav paub tias hmoob caj ce s ncau yog li cas rau li cas no mas yuav tau kawm hmoob cov kab lis kev cai xws li nram no mas thiaj paub qhov tseeb tias peb ncau ntawm pab twg los tiag tiag.
+
+raws li peb ob peb tug tau muab tshawb fawb los li cov keeb kwm hais lus li nram no...
+
+1).
+yog peb piav txog zaj dabneeg ntuj tsim teb raug, peb txhua tus yuav hais lub suab tawm tias puj saub thiab yawm saub nkawd no.
+
+2).
+yog peb los hais txog zaj tshoob peb txhua tus yuav hais lo lus seev lub suab tias puj saub yuas puj saub thiaj tias puj zag.
+
+3).
+yog peb tham txog dab neeg sub tuam txheej thaum ub peb hais lub suab tias puj sub thiab yawm sub nkawd.
+
+4).
+yog thaum peb ho los piav txog kev paiv qeej peb yuav paiv hais tais puj qas niam, yawm qas txiv, thiab hais tias tus lauv us no yog li no kuv yuav muab 3 hom hmoob lub suab los sau saib seb 4 yam uas hmoob ib txwm paub saum hais txuam leej twg cov lus rau hauv li nram no 1).
+hmoob dawb hu ua pog thiab yawg 2 hmoob lees hu ua pug thab yawm 3).
+moob sib hu ua puj hab yawm yog muab saib raws li 3 pab hmoob no lub suab ces moob sib lub suab yog lub uas thooj 4 qhov keeb kwm zaj haiv loj uas hmoob niaj hnub siv saum lawm, hmoob dawb thiab hmoob lees yog ncau los ntawm moob sib los.
+thiab qhov no qhia tau tias peb yog tib pab hmoob xwb, tsis muaj 12-15 pab hmoob li ib txhia xav.
+yog peb yuav hais lub suab tiag ces moob sib lub suab yog father thiab mother ntawm peb 8 lub suab uas hais lus sib paub zoo zoo ntawd lawm nawb kwv tij sawv daws.
+
+ytk txawjxab, tog luas muaj lus lug hastas "txawj hab ntse" nua kuas yeej yog luas pum lawm txhaj siv tau lug ntuag tuabneeg.
+kuv saib koj cov lug kws tuaj sau nuav mas koj yeej los yog kawm txawj lawm hab tabsi koj tshuav qhov "ntse."
+tug tuabneeg ntse mas tsis taag qha le los saib kag xwb yeej paub lawm hastas lus twg yog lus twg hab yaam twg dlho rua yaam twg.
+
+tug kws txawj xwb mas yuav tsum muaj tug qha quas nqeeg mas txhaj totaub.
+
+ioj hastas koj ib txwm tsi tau sau lo yog muaj dlua lu lug "ntxub" nyob rua koj cov lug has los yog lus sau.
+well......
+puas yog koj tabtom rov qab muab koj tus kheej ruav rau peb ntsia?
+
+tsis tau hais dua es tub niam qhuav sau tas, tsis tau sau dua es niam qhuav sau tuaj nug tas no ho yog ab tsi?
+
 tsi txhob lam ua ib niag neeg "ruam tsab ntse" li ko mog.
-koj puas paub yawg hlob niam qhuav tuag tas es tub tsis tau muab coj
-mus fau na yuav?  le the man rest in peace mog.  txoj kev cais pab
-cais pawg is a "childish" game.
-thaum noj pebcaug minnesota, yawg loj los lus nug cov ntxhais nkauj
-ntsuab nug tias "yuav ua ca hmoob thiaj yuav txawj sib hlub thiab sib
-koom siab ua ib pab ib pawg."
-cov ntxhais nkauj ntsuab tsis muaj tus teb tau ob los lus no vic ob
-los lus nug no required action not words.
+
+koj puas paub yawg hlob niam qhuav tuag tas es tub tsis tau muab coj mus fau na yuav?
+le the man rest in peace mog.
+txoj kev cais pab cais pawg is a "childish" game.
+
+thaum noj pebcaug minnesota, yawg loj los lus nug cov ntxhais nkauj ntsuab nug tias "yuav ua ca hmoob thiaj yuav txawj sib hlub thiab sib koom siab ua ib pab ib pawg."
+
+cov ntxhais nkauj ntsuab tsis muaj tus teb tau ob los lus no vic ob los lus nug no required action not words.
+
 neeg laus lawm hais lus hais kom tseemceeb thiaj muaj neeg fwm nawb.
-txoj kev siv cav txog hmoob dawb hab moobleeg caam los yeej tsi muaj
-leejtwg yeej.  yaam kws tsi muaj coj lug caam yog "hmoob ntsuab thiab
-hmong blue."
-hmoob dawb thiab moob leeg yeej ib txwm muaj nyob puag civ muaj moob
-chiv lug lawm.
+
+txoj kev siv cav txog hmoob dawb hab moobleeg caam los yeej tsi muaj leejtwg yeej.
+yaam kws tsi muaj coj lug caam yog "hmoob ntsuab thiab hmong blue."
+
+hmoob dawb thiab moob leeg yeej ib txwm muaj nyob puag civ muaj moob chiv lug lawm.
+
 let the issue rest in peace with the general.
-noogdlej
 
-hmoob,
-ntawm kuv mas kuv yeej to taub txog hmoob txhua pab tias sawv daws
-puav leej yog hmoob, tab sis muaj ib cov nyob hauv no thiab cov tsis
-nyob hauv no tseem muaj kev ntxub ntxaug kev hais lus sib txawv, yog
-li ntawd kuv thiaj tau muab tej yam li no coj los hais kom peb hmoob
-paub hmoob zoo me ntsis dua qub ntxiv.
-qhov koj tsis paub ntawd yog lawv hais sis heev lawm, muaj ntau lo lus
-mas thiaj txawv hlo yus cov lus, muaj tej cov lus ces yog hais tau lub
-suab sis mus ib qho lawm, tab sis yus mloog zoo zoo ces tseem yog lus
-hmoob. ob tus ntxhais koj ntsib no tej zaum yog hmoob hunnan, kaim
-tsawb, koungxi tej li ntawd lawm.
-hais txog hmoob mas kuv xav kom hmoob coj li tsav neeg jews thaum ua
-lawv nrhiav lawv cov neeg uas ploj lawm mas tab txawm tus neeg tsis
-zoo li lawv lawm los tsuav yog tseem hais tau lo puav lus txuam lawv
-cov lus jews ces lawv yeej lees tias yog lawv cov neeg.
-hmoob li twb hais lus yeej paub zoo zoo lawm los tseem ntxub ntxaug
-loj, tsis tag rau kev hais lus xwb tseem yog cov tsoos tsho hnav, thaj
-chaw nyob tib si nrog. xyov ua cas hmoob yuav muaj cov ntshav zoo li
-ntawd.
-ytk
+noogdlej hmoob, ntawm kuv mas kuv yeej to taub txog hmoob txhua pab tias sawv daws puav leej yog hmoob, tab sis muaj ib cov nyob hauv no thiab cov tsis nyob hauv no tseem muaj kev ntxub ntxaug kev hais lus sib txawv, yog li ntawd kuv thiaj tau muab tej yam li no coj los hais kom peb hmoob paub hmoob zoo me ntsis dua qub ntxiv.
 
-ytk,
-yog koj tsis paub tias kus cim "/" siv ua dab tsi ces kuj txhob siv.
-kuv qhia rau koj hais tias hmong/mong no txhais hais tias yog hmong
-ces tsis yog mong; yog mong ces tsis yog hmong no na.  koj puas paub
-hais tias 1/2 no yeej tsis yog 1 thiab yeej tsis yog 2 no na.
-hmoob,
-koj hais yog lawm.  cia kuv ntxiv me ntsis rau thiab.  paisxaim thiab
-paisxawm no twb sau ib yam nev, tsis yog lov?  ua li hmong thiab mong
-no puas sau ib yam?  wo thiab go no twb sau ib yam thiab nev.
-noogdlej,
-koj has lug le koj yog ib tug member hauv mong federeation hab.  nub
-nuav kuv tsi tau yog has moobdlawb hab moobleeg.  kuv has rau ytk tas
-nwg siv tug cim "/" tsis yog lawm vim lu lug nuav tso kev dlaav rau
-suavdlawg sis caav. thaus siv tus cim nuav, leej twg yuav txhais le
-caag los yeej tau.  koj txawm has lug dlhau lawm los tsi ua caag.  twb
-yog v im koj txuj kev hlub moob xwb.
-koj saib mam, kuv tsi tau has tas kuv yog neeg ntse.  kuv has, "kuv
-tus neeg ruam no mas xav li n o xwb."
-koj has, "thaum noj pebcaug minnesota, yawg loj los lus nug cov
-ntxhais nkauj
-ntsuab nug tias "yuav ua ca hmoob thiaj yuav txawj sib hlub thiab sib
-koom siab ua ib pab ib pawg."".
-nqai nug nuav, yuav le koj has.  required action. tsib xyoos tom ntej
-nuav kuv mam qha sawvdlawg puab hab koj yuav tau ua lawv le kuv qha
-ov.  thaus nuav mas tag nrho sawvdlawg tsis sis sau lug ua tuab paab
-tuabneeg lawm xwb.  txhob maaj tuag ov.  nyob tog nawj.
-txawjxaab
+qhov koj tsis paub ntawd yog lawv hais sis heev lawm, muaj ntau lo lus mas thiaj txawv hlo yus cov lus, muaj tej cov lus ces yog hais tau lub suab sis mus ib qho lawm, tab sis yus mloog zoo zoo ces tseem yog lus hmoob.
+ob tus ntxhais koj ntsib no tej zaum yog hmoob hunnan, kaim tsawb, koungxi tej li ntawd lawm.
 
-txawjxab aws.....
-kuv ntshai koj tsi tau tawm tswvyim taag tuaj khoo moob es mob hlwb
-tuag ua ntej lawm xwb os.  tej tswv8 quav-v dlev tim haavzoov le koj
-xaav nuav  tsi taag pav le os.  tsuas yog koj quaspuj txhaj kaam siv
-xwb os.  moob tsi siv.
-yog koj tsis nkaag sab kuv cov lug teb ces moog ntxuav muag kuam huv-v
-es rov moog nyeem koj cov ncauj lug tsuav maam rov tuaj nrug kuv caav
-nawb.  saib kag koj lub topic xwb tub paub lawm hastas koj muaj
-npaasham tswj koj quaspuj mivnyuas tom tsev lawm ua caag tseem khaav
-hastas yuav sau cai lug khoo moob kuam nrug koj so quav hab.
+hais txog hmoob mas kuv xav kom hmoob coj li tsav neeg jews thaum ua lawv nrhiav lawv cov neeg uas ploj lawm mas tab txawm tus neeg tsis zoo li lawv lawm los tsuav yog tseem hais tau lo puav lus txuam lawv cov lus jews ces lawv yeej lees tias yog lawv cov neeg.
+
+hmoob li twb hais lus yeej paub zoo zoo lawm los tseem ntxub ntxaug loj, tsis tag rau kev hais lus xwb tseem yog cov tsoos tsho hnav, thaj chaw nyob tib si nrog.
+xyov ua cas hmoob yuav muaj cov ntshav zoo li ntawd.
+
+ytk ytk, yog koj tsis paub tias kus cim "/" siv ua dab tsi ces kuj txhob siv.
+
+kuv qhia rau koj hais tias hmong/mong no txhais hais tias yog hmong ces tsis yog mong; yog mong ces tsis yog hmong no na.
+koj puas paub hais tias 1/2 no yeej tsis yog 1 thiab yeej tsis yog 2 no na.
+
+hmoob, koj hais yog lawm.
+cia kuv ntxiv me ntsis rau thiab.
+paisxaim thiab paisxawm no twb sau ib yam nev, tsis yog lov?
+ua li hmong thiab mong no puas sau ib yam?
+wo thiab go no twb sau ib yam thiab nev.
+
+noogdlej, koj has lug le koj yog ib tug member hauv mong federeation hab.
+nub nuav kuv tsi tau yog has moobdlawb hab moobleeg.
+kuv has rau ytk tas nwg siv tug cim "/" tsis yog lawm vim lu lug nuav tso kev dlaav rau suavdlawg sis caav.
+thaus siv tus cim nuav, leej twg yuav txhais le caag los yeej tau.
+koj txawm has lug dlhau lawm los tsi ua caag.
+twb yog v im koj txuj kev hlub moob xwb.
+
+koj saib mam, kuv tsi tau has tas kuv yog neeg ntse.
+kuv has, "kuv tus neeg ruam no mas xav li no xwb."
+
+koj has, "thaum noj pebcaug minnesota, yawg loj los lus nug cov ntxhais nkauj ntsuab nug tias "yuav ua ca hmoob thiaj yuav txawj sib hlub thiab sib koom siab ua ib pab ib pawg."
+".
+
+nqai nug nuav, yuav le koj has.
+required action.
+tsib xyoos tom ntej nuav kuv mam qha sawvdlawg puab hab koj yuav tau ua lawv le kuv qha ov.
+thaus nuav mas tag nrho sawvdlawg tsis sis sau lug ua tuab paab tuabneeg lawm xwb.
+txhob maaj tuag ov.
+nyob tog nawj.
+
+txawjxaab txawjxab aws.....
+
+kuv ntshai koj tsi tau tawm tswvyim taag tuaj khoo moob es mob hlwb tuag ua ntej lawm xwb os.
+tej tswv8 quav-v dlev tim haavzoov le koj xaav nuav tsi taag pav le os.
+tsuas yog koj quaspuj txhaj kaam siv xwb os.
+moob tsi siv.
+
+yog koj tsis nkaag sab kuv cov lug teb ces moog ntxuav muag kuam huv-v es rov moog nyeem koj cov ncauj lug tsuav maam rov tuaj nrug kuv caav nawb.
+saib kag koj lub topic xwb tub paub lawm hastas koj muaj npaasham tswj koj quaspuj mivnyuas tom tsev lawm ua caag tseem khaav hastas yuav sau cai lug khoo moob kuam nrug koj so quav hab.
+
 yog tsi txawj ces moog kawm, yog tsi ntse ces moog noog taabfaab.
-noogdlej
 
-eh..miv noogdlej aws,
-sob chim chim os, tej nyav tes peb moob muab lug sib tham laug nub
-xwb, kuas sob vwm xwb.... yam le zag nua tsis zoo le zag u lawm niv!
-koj tsis cool le lawm.  puas yog cov nam tsuv tum hov pheej txawb pob
-zeb rua koj lub tsev tsis so le.....he he he
+noogdlej eh..
+miv noogdlej aws, sob chim chim os, tej nyav tes peb moob muab lug sib tham laug nub xwb, kuas sob vwm xwb....
+yam le zag nua tsis zoo le zag u lawm niv!
 
-ytk, noogdlej, txawjx....etc
-qhov peb los hais txog tias zoo peb twb yog hmoob (meo), hnav tsoos
-tshos los zoo ib yam, tsuas yog pattern modern zog rau ib tiam dhau ib
-tiam lawv xwb. qhov hmoob tseem sib sau tsis tau, thiab hmoob tseem
-sib sib tshum ces yog muaj nplua nuj tsis tau txaus, txawj tsis tau
-txaus, rau tsim txom tsis tau txaus, tseem ntsaws ntsaws ua tuj loj,
-tsis muaj kev coj noj coj ua kom standard (ua tsis muaj protocol),
-etc... yog li no hmoob thiaj raug lwm haiv neeg dag tau hmoob rov sib
-tua....example pom tseeb tseeb uas nej yeej paub tag, ib yam li vue
-khue rau nplog liab xa tuaj spy
-gvp lawv cov hauj lwm qab rooj, thiab dag vwj mais rov mus rau nplog
-liab hlais. qhov no ib yam li hais tias vue khue no nws ntshaws nyiaj,
-ntshaws lub npe, ....nws tsis xav txog nws haiv neeg yuav muaj kev
-puas tsuaj li cas tom qab..thiab nws los yeej ntse tsis txaus thiab.
-ib qhov example thiab, ib yam li ly teng, nws kuj xav tias nws cheem
-cov hmoob tau rau tebchaws laos, ces nplog liab yuav cia nws ua ib tug
-loj, los nws twb raug hlais caj dab lawm thiab.
-ib yam li npuag tsoov lis, raug kuam vue lawm mus ntev los tua tag
-lawm thiab...yog zoo li no, thaum peb yuav txawj tsis txawj yuav ntse
-tsis ntse, peb hmoob rov sib tua peb tua tag lawm, ces tsis muaj tus
-los coj peb hmoob, vim leej twg los xav tias kuv ua nws tua kiag ces
-kuv lub npe yua nrov, yuav tau tus loj, yog li thaum peb cov neeg
-tseem ceeb tuag tag lawm ces peb rov txom nyem. lwm haiv neeg yuav
-ntshais peb yog peb yuav tsum muaj cov neeg noj tau hais tau coob coob
-nyob ua ke....
-thaum yawg fai dang loblia yao thiab lyfong, los txog gvp, zoov zuag,
-xaiv suav, cher pao, paj kao, lis lo lawv lub caij nyoog los ib yam
-nkauj. yog nej ua zoo los analyze txog hmoob tej kev tuav tsav hmoob
-lub neej ces yeej ua ntuv zus tuaj txog rau usa no los ib yam.
-ib qhov example tshwm sim nyob hauv hmoob community niaj hnub no nyob
-usa no los ib yam thiab. hmoob nyiam nyiam tsa tej koos haum hmoob los
-pab hmoob nyob rau community hmoob, tabsi cov koos haum no nws muaj
-cov services zoo ib yam, vim lawv pheej los sib txeeb...yog li no, peb
-hmoob yuav tsheej ib haiv tseem tshuav ntev ntev nawb.
-cov hmoob nyob hauv laos los ib yam, muaj ib cov hmoob faiv dang thiab
-thao tou yang tog, ces lawv siv power los caij tsuj cov hmoob uas gvp
-tso tseg uas khiav tsis tau taw txawv tebchaws. yog lawv muaj tub muaj
-ntxhais sib nyiam raug ces yeej txwv tsis pub sib yuav.... kuv tsuas
-hais qhov me me li no, tseem tshua lawm. muaj ib cov hmoob ces nws twb
-tsis kam hais lus hmoob lawm, nws ntshais tsam nplog paub tias nws yog
-hmoob thiab.
-kuv xav hais tias, yog peb txiv gvp lub funeral no, es hmoob cia li
-hais tias cov tuaj tua lub nteev no mas tsis hais xeem twg li los yeej
-ua tau cuab tsav, tsis tas hais tias yuav yog hmoob vaj thiaj ua tau.
-txij hnub gvp lub nteev no tag ces peb hmoob cia li ua kiag raws li
-nws lub ntees lawv xwb, ces yuav los ib qhov uas peb hmoob pib los ua
-kev
-thiab ua tsis phiv qhuas neeb li tau laus hais.
-txawj li cas los peb cov phooj ywg tuaj sib tham nyob hauv sch no,
-sawdaws yeej muaj lub siab hlub hmoob thiab muaj txoj kev npau suav
-kom hmoob ciaj haiv, ces peb yuav tau ua siab loj thiab ho ua lub siab
-zoo, siab dav, yus yuav tau ua yus tus kheej tus coj thiab xyaum qhov
-zoo, coj ncaj, coj tog, txhob mus yuav kev rau lwm txoj kev uas yuav
-los muaj kev tsim txom rau yus haiv neeg hmoob xwb ces zoo.
-ok..sib ntsib dua.
-hmoob
+koj tsis cool le lawm.
+puas yog cov nam tsuv tum hov pheej txawb pob zeb rua koj lub tsev tsis so le.....
+he he he ytk, noogdlej, txawjx....
+etc qhov peb los hais txog tias zoo peb twb yog hmoob (meo), hnav tsoos tshos los zoo ib yam, tsuas yog pattern modern zog rau ib tiam dhau ib tiam lawv xwb.
+qhov hmoob tseem sib sau tsis tau, thiab hmoob tseem sib sib tshum ces yog muaj nplua nuj tsis tau txaus, txawj tsis tau txaus, rau tsim txom tsis tau txaus, tseem ntsaws ntsaws ua tuj loj, tsis muaj kev coj noj coj ua kom standard (ua tsis muaj protocol), etc...
+yog li no hmoob thiaj raug lwm haiv neeg dag tau hmoob rov sib tua....
+example pom tseeb tseeb uas nej yeej paub tag, ib yam li vue khue rau nplog liab xa tuaj spy gvp lawv cov hauj lwm qab rooj, thiab dag vwj mais rov mus rau nplog liab hlais.
+qhov no ib yam li hais tias vue khue no nws ntshaws nyiaj, ntshaws lub npe,....
+nws tsis xav txog nws haiv neeg yuav muaj kev puas tsuaj li cas tom qab..
+thiab nws los yeej ntse tsis txaus thiab.
 
-cwj es....
-tej no tsi chim, tsuas tuaj nrog nej tham pem xwb.  yuav hais txog kev
-chim mas thaum lawv tuaj hais txog nej cov hmoob vwj tej kev txhaum
-cais es koj ntshav paus cuag koj yuav tuag mas thiaj yog kev chim.
-has txug moob dlawb moob leeg xwb es chim ua dlaab tsi mas lov?  tsuas
-yog mej cov moob dlawb txhais ntshai ntshai peb cov moob leeg es ib
-sij tuaj quaj luj leg ib zag hastas yuav ua le caag lub npe mong/moob
-txhaj tuag es tseg lub npe hmong/hmoob nuav lug nyob ua moob xwb nua.
-peb cov moob leeg tsi xaav teb los mej pheej quaj quaj le es laam cev
-kuatxob tuaj ntxag xwb.
-noogdlej
+ib qhov example thiab, ib yam li ly teng, nws kuj xav tias nws cheem cov hmoob tau rau tebchaws laos, ces nplog liab yuav cia nws ua ib tug loj, los nws twb raug hlais caj dab lawm thiab.
 
-miv noogdlej aw,
-nyuj ua nyuj thauj neeg ua neeg tsig.  cov nam kws moob vwj kws has
-hov tes puab ua kas mia xwb mas.  kuv tsis xaav le caag le os.
-kuv tsev neeg los yeej yog muaj moob leeg nyob rau huv hab.  kuv tes
-taam sim nuav, lug tsua  2011 nuav, kuv repent ua neeg zoo lawm.  kuv
-tsuas ncaws cov communists xwb.  cov thaub vwm tes kuv tsuas saib puab
-sib tshe tsua kuv noog lawm xwb.
-tshuav le 4 hlis lawm swb bliaj teb nuav tub yuav tawg lawm, tsaws le
-family radio has, may 21,2011 tes, peb tub yuav maag hlawv es peb
-tseem sib caav taag zug has tas moob hab hmoob tsis yog ib haiv neeg
-nuas...kuv mas paab puab tu sab heev.. yog lub bliaj teb nua tsis tawg
-tag rau thaum 5-21-2011 nuav, kuv maam le lug rub kuas tau moob, hmu,
-miao, hmoob lug ua ib paab nawb.  sob poob sab, ua sab luj luj ov!!!
+ib yam li npuag tsoov lis, raug kuam vue lawm mus ntev los tua tag lawm thiab...
+yog zoo li no, thaum peb yuav txawj tsis txawj yuav ntse tsis ntse, peb hmoob rov sib tua peb tua tag lawm, ces tsis muaj tus los coj peb hmoob, vim leej twg los xav tias kuv ua nws tua kiag ces kuv lub npe yua nrov, yuav tau tus loj, yog li thaum peb cov neeg tseem ceeb tuag tag lawm ces peb rov txom nyem.
+lwm haiv neeg yuav ntshais peb yog peb yuav tsum muaj cov neeg noj tau hais tau coob coob nyob ua ke....
 
-hmoob,
-qhov loj cs yeej muaj li koj hais los saum los mas, hmoob li ces yog
-muaj 3 yam loj uas hmoob tsis txawj los xav ua heev mas, ntshaw ua
-nom, ntshaw nyiaj, ntshaw lub meej mom, thiab kev ntxub ntxaug.
-ntawm kuv mas kuv xav kom peb txhua tus, txhua xeem neeg, txhua pab
-neeg hais lus sib txawv qho lo lus ntawd, ib leeg hais lus saib taus
-ib leeg, ib pab hais lus saib tau ib xwb ces tau lawm, peb txhua tus
-yuav tsum paub txog tias cov uas tseem coj kev cai dab qhuas qub ces
-cov ntawd tsis hais pab twg pawg twg sawv daws puav leej siv tib rab
-qeej thiab tib lub nruas los pam thaum tuag xwb, qhob no yog qhov
-tseeb uas peb yog tib pab neeg.
-nej li xyov zoo li cas nawb, ntawm kuv tus kheej mas yam hmoob twg los
-kuv yeej qog hais lawv cov lus thau tag nrho, tsuas tshwj pab neeg uas
-kuv tsis tau ntsib tsis tau tham xwb, hu ua hmoob cov suab xwb ces kuv
-yeej qog lawv qab tau tib si. kuv tsi tau cais ib pab pawg neeg li ib
-txhia neeg uas kuv pom sau ntawv los sis tshav yaj ntawg nraus lwm pab
-neeg rau tom yag kev yag ncua yav ntuj thaum los muaj coob.
-tzaxa,
-qhov uas noogdlej, tuaj txua lus txog qhov no mas tej zaum noogdlej
-kuj xav kom peb yog hmoob ib yam xwb ib leeg saib taug ib leeg, sub
-thiaj koom tau ua ib pab neeg xwb, lo lus twg hais tau nyhav zog lawm
-los lo ntawd yog los uas yus khaws nco tau ruaj ruaj tsis txhob hais
-tej yam rau yus ib leeg yuav, yuav tau hais lus cover tag nrho peb
-tsob hmoob.
-kuv yog miao mas kuv xav kom cov "hmoob dawb thiab hmoob leeg" yuav
-tau sib saib taus, koj saib kuv rau roj, kuv saib koj rau ntsev, yog
-yuav muab hais qhov tseeb tshaj ces hmoob dawb thiab hmoob leeg mas
-tseem yog tib tsev neeg rau qhov tias tus txiv neej hmoob dawb thiab
-hmoob lees hnav rig cuam nkhib taug ris luv luv tib yam, hu hmoob ua
-hmoob tib yam nkaus. tus uas hais lus txawv ntau zog thiab hnav txawv
-dua ces yog moob sib, moob sib mas hnav lub hlw ris ntev ntev suab yi
-puag nram ko taw,  nws hu hmoob ua moob no, mas moob sib thiaj yog tu
-hnav tsoos, hais lus txawv ntau ntawm hmoob dawb thiab hmoob lees.
-luag cov neeg uas paub txog neeg hais lus, sau ntawv thiab lwm yam mas
-koj sau ntawv txawv zog me ntsis xwb luag yeej paub tias koj hais ov
-lus ntau nqi mus li cas lawm.
-saib seb nej leej twg tseem tshuav kev tsi txaus siab rau hoob
-dawbthiab hmoob lees, ces tham tau mus ntxiv, kuv twb yog ntshai tsam
-sawv daws tsis paub hmoob muaj pes tsawg pab pawg hais lus txawv lo
-puav lus, kuv thiaj muab teeb tau 8 pab hmoob uas hais lus sib paub
-zoo zoo ntawd rau peb sawv daws nrog paub txog. tzaxa koj twb sau koj
-cov ntawv mas xws li koj twb tau nrog ntau hom hmoob tham thiab txuas
-lus lawm, ua cas koj ho tsis paub ntawm tus hmoob dawb thiab hmoob
-lees zoo, koj tseem hu moob sib ua hmoob lees tag zog li thiab.  hmoob
-lees nws muaj nws, moob sib nws muaj nws, ob pab no los txawv ib yam
-li hmoob dawb thiab tsis yog ib pab neeg, tab sis thaum moob sib qhia
-moob sib rau hmoob dawb ces hmoob dawb tsis paub tias yog hmoob dab
-tsi lawm ces, moob sib li piv txwv tias yog hmoob lees kom hmoob dawb
-paub xwb, mas yog li no qhov tseeb ces nyias muaj txawv nyias kev hnab
-tsoo tsho hais lus qho me ntsis.
-peb yuav tau xyuam xim sau ntawv cav pem ntawm lub npe hmoob, los sis
-khuang pem.
-ytk
+thaum yawg fai dang loblia yao thiab lyfong, los txog gvp, zoov zuag, xaiv suav, cher pao, paj kao, lis lo lawv lub caij nyoog los ib yam nkauj.
+yog nej ua zoo los analyze txog hmoob tej kev tuav tsav hmoob lub neej ces yeej ua ntuv zus tuaj txog rau usa no los ib yam.
 
-bawg cwjmem,
-tsi xob laam zig-g kuv nyuas muam noogdlej os. tej quaspuj, ntxhais
-moob, nwgnuav ntse heev lawm nawb luas tog thaum tau caij xwb ce peb
-cov txiv neej ntsejmuag dlaaj taag xwb os. zoo rua peb tuaj has huv
-nuav xwb yog peb tseem has nyob rua ib lub public luj-j mas tshe peb
-tsi pum qaab zai peb le lawm os.
-yog koj ntse ce kawg koj muab luslug kws nplajteb yuav kawg tsua may
-21, 2011 nuav lug has rua kuv nyuas muam noogdlej es kom taag lub
-topic nuav xwb. amen rua koj nawb.
-mt
+ib qhov example tshwm sim nyob hauv hmoob community niaj hnub no nyob usa no los ib yam thiab.
+hmoob nyiam nyiam tsa tej koos haum hmoob los pab hmoob nyob rau community hmoob, tabsi cov koos haum no nws muaj cov services zoo ib yam, vim lawv pheej los sib txeeb...
+yog li no, peb hmoob yuav tsheej ib haiv tseem tshuav ntev ntev nawb.
 
-bawg mt,
-yog lawm, lub blaj teb nuav tub yuav tawg tag es peb tub tsis paub has
-tas hmoob, moob, hmu, miao..etc puas yog tuab tug.
-kuv xaav mas yawm nuav yog : hmoob + hmub + moob + miao  laiv !!!
-http://www.youtube.com/watch?v=7zhugotmw14&feature=related
-http://www.youtube.com/watch?v=up4tfel8_wa&feature=related
-http://www.youtube.com/watch?v=a5svt2imsuu&feature=related
+cov hmoob nyob hauv laos los ib yam, muaj ib cov hmoob faiv dang thiab thao tou yang tog, ces lawv siv power los caij tsuj cov hmoob uas gvp tso tseg uas khiav tsis tau taw txawv tebchaws.
+yog lawv muaj tub muaj ntxhais sib nyiam raug ces yeej txwv tsis pub sib yuav....
+kuv tsuas hais qhov me me li no, tseem tshua lawm.
+muaj ib cov hmoob ces nws twb tsis kam hais lus hmoob lawm, nws ntshais tsam nplog paub tias nws yog hmoob thiab.
 
-phoojywg noogdlej,
-tsis muaj leej twg xav kom ib lub suab hais lus twg ploj li os. nco
-ntsoov hais tias koj txawm yuav hu koj ua moob, kuv txawm yuav hu kuv
-ua hmoob los wb yeej yog tib haiv neeg xwb od! tsis tag li ntawd los,
-kuv thiab txhua txhua leej yeej tsis denied hais tias peb tej poj koob
-yawm txwv puag thaum ub yeej hais lub suab lus moob leeg. nws tsuas
-yog peb hloov pauv raws raws lub teb lub chaw thiab raws lub caij lub
-nyoog lawm xwb.
-cov phoojywg sawvdaws,
-lub caij no tsis yog lub caij raub peb los sib ciav sib cais, nws yog
-lub caij uas peb yuav tau los sib pab tawm tswvyim seb yuav ua zaj twg
-tsav twg es peb cov lus moob thiab txhua lub suab lus thiaj li nyob
-tau mus kom ntev npaum li ntev tau xwb. xyov nej puas nrog kuv txhawj,
-tabsis kuv yeej txhawj heev, vim tamsij no kuv muaj ib co xeeb ntxwv
-uas yuav tsum need interpreter mas thiaj communicate tau nrog hmoob.
-we are all from the same root,
-hl
+kuv xav hais tias, yog peb txiv gvp lub funeral no, es hmoob cia li hais tias cov tuaj tua lub nteev no mas tsis hais xeem twg li los yeej ua tau cuab tsav, tsis tas hais tias yuav yog hmoob vaj thiaj ua tau.
 
-mloog qhov no tag, peb li rov los tham duas nawb:
-http://www.youtube.com/watch?v=sqhijcaxsgk&feature=related
+txij hnub gvp lub nteev no tag ces peb hmoob cia li ua kiag raws li nws lub ntees lawv xwb, ces yuav los ib qhov uas peb hmoob pib los ua kev thiab ua tsis phiv qhuas neeb li tau laus hais.
 
-has yoojyim tamsis ua nyuab.  qhov nyuab ntawd yog qhov kws peb tsi
-tig lug kawm kuas paub ob hom lug (moobleeg hab hmoobdlawb).  qhov
-yoojyim yog qhov kws "kuv nyam has kuv hom xwb".
-sau tuab tug ntawv, nyag has nyag hom lug.  kub twb pum moobleeg nyeem
-ntawv moobdlawb ua lug moobleeg lawm.  nwg dlaig heev.  moobdlawb
-nyeem ntawv moobleeg lug ua moobdlawb los kuj dlaig tuabyaam.
+txawj li cas los peb cov phooj ywg tuaj sib tham nyob hauv sch no, sawdaws yeej muaj lub siab hlub hmoob thiab muaj txoj kev npau suav kom hmoob ciaj haiv, ces peb yuav tau ua siab loj thiab ho ua lub siab zoo, siab dav, yus yuav tau ua yus tus kheej tus coj thiab xyaum qhov zoo, coj ncaj, coj tog, txhob mus yuav kev rau lwm txoj kev uas yuav los muaj kev tsim txom rau yus haiv neeg hmoob xwb ces zoo.
+
+ok..
+sib ntsib dua.
+
+hmoob cwj es....
+
+tej no tsi chim, tsuas tuaj nrog nej tham pem xwb.
+yuav hais txog kev chim mas thaum lawv tuaj hais txog nej cov hmoob vwj tej kev txhaum cais es koj ntshav paus cuag koj yuav tuag mas thiaj yog kev chim.
+
+has txug moob dlawb moob leeg xwb es chim ua dlaab tsi mas lov?
+tsuas yog mej cov moob dlawb txhais ntshai ntshai peb cov moob leeg es ib sij tuaj quaj luj leg ib zag hastas yuav ua le caag lub npe mong/moob txhaj tuag es tseg lub npe hmong/hmoob nuav lug nyob ua moob xwb nua.
+
+peb cov moob leeg tsi xaav teb los mej pheej quaj quaj le es laam cev kuatxob tuaj ntxag xwb.
+
+noogdlej miv noogdlej aw, nyuj ua nyuj thauj neeg ua neeg tsig.
+cov nam kws moob vwj kws has hov tes puab ua kas mia xwb mas.
+kuv tsis xaav le caag le os.
+
+kuv tsev neeg los yeej yog muaj moob leeg nyob rau huv hab.
+kuv tes taam sim nuav, lug tsua 2011 nuav, kuv repent ua neeg zoo lawm.
+kuv tsuas ncaws cov communists xwb.
+cov thaub vwm tes kuv tsuas saib puab sib tshe tsua kuv noog lawm xwb.
+
+tshuav le 4 hlis lawm swb bliaj teb nuav tub yuav tawg lawm, tsaws le family radio has, may 21,2011 tes, peb tub yuav maag hlawv es peb tseem sib caav taag zug has tas moob hab hmoob tsis yog ib haiv neeg nuas...
+kuv mas paab puab tu sab heev..
+yog lub bliaj teb nua tsis tawg tag rau thaum 5-21-2011 nuav, kuv maam le lug rub kuas tau moob, hmu, miao, hmoob lug ua ib paab nawb.
+sob poob sab, ua sab luj luj ov!!!
+
+hmoob, qhov loj cs yeej muaj li koj hais los saum los mas, hmoob li ces yog muaj 3 yam loj uas hmoob tsis txawj los xav ua heev mas, ntshaw ua nom, ntshaw nyiaj, ntshaw lub meej mom, thiab kev ntxub ntxaug.
+
+ntawm kuv mas kuv xav kom peb txhua tus, txhua xeem neeg, txhua pab neeg hais lus sib txawv qho lo lus ntawd, ib leeg hais lus saib taus ib leeg, ib pab hais lus saib tau ib xwb ces tau lawm, peb txhua tus yuav tsum paub txog tias cov uas tseem coj kev cai dab qhuas qub ces cov ntawd tsis hais pab twg pawg twg sawv daws puav leej siv tib rab qeej thiab tib lub nruas los pam thaum tuag xwb, qhob no yog qhov tseeb uas peb yog tib pab neeg.
+
+nej li xyov zoo li cas nawb, ntawm kuv tus kheej mas yam hmoob twg los kuv yeej qog hais lawv cov lus thau tag nrho, tsuas tshwj pab neeg uas kuv tsis tau ntsib tsis tau tham xwb, hu ua hmoob cov suab xwb ces kuv yeej qog lawv qab tau tib si.
+kuv tsi tau cais ib pab pawg neeg li ib txhia neeg uas kuv pom sau ntawv los sis tshav yaj ntawg nraus lwm pab neeg rau tom yag kev yag ncua yav ntuj thaum los muaj coob.
+
+tzaxa, qhov uas noogdlej, tuaj txua lus txog qhov no mas tej zaum noogdlej kuj xav kom peb yog hmoob ib yam xwb ib leeg saib taug ib leeg, sub thiaj koom tau ua ib pab neeg xwb, lo lus twg hais tau nyhav zog lawm los lo ntawd yog los uas yus khaws nco tau ruaj ruaj tsis txhob hais tej yam rau yus ib leeg yuav, yuav tau hais lus cover tag nrho peb tsob hmoob.
+
+kuv yog miao mas kuv xav kom cov "hmoob dawb thiab hmoob leeg" yuav tau sib saib taus, koj saib kuv rau roj, kuv saib koj rau ntsev, yog yuav muab hais qhov tseeb tshaj ces hmoob dawb thiab hmoob leeg mas tseem yog tib tsev neeg rau qhov tias tus txiv neej hmoob dawb thiab hmoob lees hnav rig cuam nkhib taug ris luv luv tib yam, hu hmoob ua hmoob tib yam nkaus.
+tus uas hais lus txawv ntau zog thiab hnav txawv dua ces yog moob sib, moob sib mas hnav lub hlw ris ntev ntev suab yi puag nram ko taw, nws hu hmoob ua moob no, mas moob sib thiaj yog tu hnav tsoos, hais lus txawv ntau ntawm hmoob dawb thiab hmoob lees.
+
+luag cov neeg uas paub txog neeg hais lus, sau ntawv thiab lwm yam mas koj sau ntawv txawv zog me ntsis xwb luag yeej paub tias koj hais ov lus ntau nqi mus li cas lawm.
+
+saib seb nej leej twg tseem tshuav kev tsi txaus siab rau hoob dawbthiab hmoob lees, ces tham tau mus ntxiv, kuv twb yog ntshai tsam sawv daws tsis paub hmoob muaj pes tsawg pab pawg hais lus txawv lo puav lus, kuv thiaj muab teeb tau 8 pab hmoob uas hais lus sib paub zoo zoo ntawd rau peb sawv daws nrog paub txog.
+tzaxa koj twb sau koj cov ntawv mas xws li koj twb tau nrog ntau hom hmoob tham thiab txuas lus lawm, ua cas koj ho tsis paub ntawm tus hmoob dawb thiab hmoob lees zoo, koj tseem hu moob sib ua hmoob lees tag zog li thiab.
+hmoob lees nws muaj nws, moob sib nws muaj nws, ob pab no los txawv ib yam li hmoob dawb thiab tsis yog ib pab neeg, tab sis thaum moob sib qhia moob sib rau hmoob dawb ces hmoob dawb tsis paub tias yog hmoob dab tsi lawm ces, moob sib li piv txwv tias yog hmoob lees kom hmoob dawb paub xwb, mas yog li no qhov tseeb ces nyias muaj txawv nyias kev hnab tsoo tsho hais lus qho me ntsis.
+
+peb yuav tau xyuam xim sau ntawv cav pem ntawm lub npe hmoob, los sis khuang pem.
+
+ytk bawg cwjmem, tsi xob laam zig-g kuv nyuas muam noogdlej os.
+tej quaspuj, ntxhais moob, nwgnuav ntse heev lawm nawb luas tog thaum tau caij xwb ce peb cov txiv neej ntsejmuag dlaaj taag xwb os.
+zoo rua peb tuaj has huv nuav xwb yog peb tseem has nyob rua ib lub public luj-j mas tshe peb tsi pum qaab zai peb le lawm os.
+
+yog koj ntse ce kawg koj muab luslug kws nplajteb yuav kawg tsua may 21, 2011 nuav lug has rua kuv nyuas muam noogdlej es kom taag lub topic nuav xwb.
+amen rua koj nawb.
+
+mt bawg mt, yog lawm, lub blaj teb nuav tub yuav tawg tag es peb tub tsis paub has tas hmoob, moob, hmu, miao..
+etc puas yog tuab tug.
+
+kuv xaav mas yawm nuav yog: hmoob + hmub + moob + miao laiv!!!
+
+http://www.website.net/watch?
+v=7zhugotmw14&feature=related http://www.website.net/watch?
+v=up4tfel8_wa&feature=related http://www.website.net/watch?
+v=a5svt2imsuu&feature=related phoojywg noogdlej, tsis muaj leej twg xav kom ib lub suab hais lus twg ploj li os.
+nco ntsoov hais tias koj txawm yuav hu koj ua moob, kuv txawm yuav hu kuv ua hmoob los wb yeej yog tib haiv neeg xwb od!
+tsis tag li ntawd los, kuv thiab txhua txhua leej yeej tsis denied hais tias peb tej poj koob yawm txwv puag thaum ub yeej hais lub suab lus moob leeg.
+nws tsuas yog peb hloov pauv raws raws lub teb lub chaw thiab raws lub caij lub nyoog lawm xwb.
+
+cov phoojywg sawvdaws, lub caij no tsis yog lub caij raub peb los sib ciav sib cais, nws yog lub caij uas peb yuav tau los sib pab tawm tswvyim seb yuav ua zaj twg tsav twg es peb cov lus moob thiab txhua lub suab lus thiaj li nyob tau mus kom ntev npaum li ntev tau xwb.
+xyov nej puas nrog kuv txhawj, tabsis kuv yeej txhawj heev, vim tamsij no kuv muaj ib co xeeb ntxwv uas yuav tsum need interpreter mas thiaj communicate tau nrog hmoob.
+
+we are all from the same root, hl mloog qhov no tag, peb li rov los tham duas nawb: http://www.website.net/watch?
+v=sqhijcaxsgk&feature=related has yoojyim tamsis ua nyuab.
+qhov nyuab ntawd yog qhov kws peb tsi tig lug kawm kuas paub ob hom lug (moobleeg hab hmoobdlawb).
+qhov yoojyim yog qhov kws "kuv nyam has kuv hom xwb".
+
+sau tuab tug ntawv, nyag has nyag hom lug.
+kub twb pum moobleeg nyeem ntawv moobdlawb ua lug moobleeg lawm.
+nwg dlaig heev.
+moobdlawb nyeem ntawv moobleeg lug ua moobdlawb los kuj dlaig tuabyaam.
+
 moob yeej nyaj ua tuab teg moog dle lub txiv noj xwb (qhov yoojyim).
-moob yeej tsi kaam cog lub noob, ywg dlej, hab tog kuas tawg paaj le
-(qhov ntawd yog qhov nyuab).
-ua npau-suav xwb es tsi ua num ces peb moob yeej moog tsi txug rua
-qhov twg le.
 
-py ytk,
-koj yeej yog ib tug uas mob siab txog moob, xav kom moob tsis txhob
-sib tawg. tabsis vim koj qhov thread uas muaj lub ncauj lug hais tias
-"ntxub lub suab hmoob uas txawv yus lub suab" no ua rau phoojywg
-txawjxab ntsawv siab; nws thiaj tau pib lub topic no. yeeb vim niaj
-hnub no peb yeej tsis muaj ib leej tus twg pheej tseem sib ntxub li
-koj xav tau. koj lub topic no yuav ua rau sawvdaws xav hais tias yeej
-tseem muaj cov neeg ntxub ntxub lwm hom neeg uas hais suab lus txawv
-mas koj thiaj hais tau li ntawd, ces haj yam yuav ua rau peb muaj txoj
-kev sib txias siab. yog cov kwvtij hmoob suav (hmu) pom koj qhov
-thread no ces lawv yuav tu siab twj ywm rau peb cov kwvtij hmoob nyob
-sab no lawm.
-kawg no, kuv xav kom peb txhua leej, yog yuav hais dabtsi, peb yuav
-tau xav tom ntej tom qab tso. thiab tsis tas li ntawd, peb yuav tau
-tsis txhob lam tau lam hais, yog hais tej yom sensitive isssue li no
-tawm, yuav tsum attached nrog pov thawj tim khawv. peb yuav tau ua li
-no mas peb cov lus sib tham thiaj tsis rais mus ua kev tu siab dub
-muag.
-tej laus niaj txhis piv txoj lug hais tias "ntxhais txawg txawj yuam
-rauv, tub txawg txawj yuam lus", yog li ntawd peb ib tug txawm tau
-hais yuam kev ib lo lawm los thov sawvdaws sib zam mog. kuv tus kheej
-los yeej tau hais lus yuam kev ntau zaus lawm, los thov nej zam lub
-txim pub thiab. cia peb muab tej kev sib cavpem uas yuav tsis muaj yam
-zoo ntxiv rau peb haiv neeg no tso tseg mus nawb.
-hl
+moob yeej tsi kaam cog lub noob, ywg dlej, hab tog kuas tawg paaj le (qhov ntawd yog qhov nyuab).
 
-born aws....
-nub kws yawg luj tuaj has lug huv nuav suabnoog wb twb moog koom hab
-nev.  thaum puab muab lub koob thaij moog tsom-m rua cov kws tuaj huv
-twb pum suabnoog wb hab ne.
-nub ntawd yawg luj yeej has tau lug zoo kawg txug moob txuj kev kws
-yuav txhimkhu txog moob lawm yaav tom ntej.  it was an honor to be in
-the same room and heard his speech.
+ua npau-suav xwb es tsi ua num ces peb moob yeej moog tsi txug rua qhov twg le.
+
+py ytk, koj yeej yog ib tug uas mob siab txog moob, xav kom moob tsis txhob sib tawg.
+tabsis vim koj qhov thread uas muaj lub ncauj lug hais tias "ntxub lub suab hmoob uas txawv yus lub suab" no ua rau phoojywg txawjxab ntsawv siab; nws thiaj tau pib lub topic no.
+yeeb vim niaj hnub no peb yeej tsis muaj ib leej tus twg pheej tseem sib ntxub li koj xav tau.
+koj lub topic no yuav ua rau sawvdaws xav hais tias yeej tseem muaj cov neeg ntxub ntxub lwm hom neeg uas hais suab lus txawv mas koj thiaj hais tau li ntawd, ces haj yam yuav ua rau peb muaj txoj kev sib txias siab.
+yog cov kwvtij hmoob suav (hmu) pom koj qhov thread no ces lawv yuav tu siab twj ywm rau peb cov kwvtij hmoob nyob sab no lawm.
+
+kawg no, kuv xav kom peb txhua leej, yog yuav hais dabtsi, peb yuav tau xav tom ntej tom qab tso.
+thiab tsis tas li ntawd, peb yuav tau tsis txhob lam tau lam hais, yog hais tej yom sensitive isssue li no tawm, yuav tsum attached nrog pov thawj tim khawv.
+peb yuav tau ua li no mas peb cov lus sib tham thiaj tsis rais mus ua kev tu siab dub muag.
+
+tej laus niaj txhis piv txoj lug hais tias "ntxhais txawg txawj yuam rauv, tub txawg txawj yuam lus", yog li ntawd peb ib tug txawm tau hais yuam kev ib lo lawm los thov sawvdaws sib zam mog.
+kuv tus kheej los yeej tau hais lus yuam kev ntau zaus lawm, los thov nej zam lub txim pub thiab.
+cia peb muab tej kev sib cavpem uas yuav tsis muaj yam zoo ntxiv rau peb haiv neeg no tso tseg mus nawb.
+
+hl born aws....
+
+nub kws yawg luj tuaj has lug huv nuav suabnoog wb twb moog koom hab nev.
+thaum puab muab lub koob thaij moog tsom-m rua cov kws tuaj huv twb pum suabnoog wb hab ne.
+
+nub ntawd yawg luj yeej has tau lug zoo kawg txug moob txuj kev kws yuav txhimkhu txog moob lawm yaav tom ntej.
+it was an honor to be in the same room and heard his speech.
+
 noogdlej

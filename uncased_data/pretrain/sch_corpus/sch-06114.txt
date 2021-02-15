@@ -1,122 +1,118 @@
 pov haum thiab koob hmoo yog dab tsi tiag?
-hmoob pheej hais tias yog koj muaj koob hmoo zoo los yog khaws tau tej
-yam pov haum zoo, koj lub neej yuav zoo, yuav muaj nyiaj muaj kub thiab
-yuav muaj noj muaj haus mus tsis tag tsis kawg. ua li koj xav ne "pov
-haum thiab koob hmoov" yog dab tsi tiag?
-yog koj tseem tsis tau paub meej txog pov haum los yog koob hmoov no,
-koj nyeem 2 cases nram qab no, tej zaum nws yuav qhia tau rau koj paub
-tias nkawv yog dab tsi.
-case 1:
-muaj ib hnub muaj 2 tug niam laus niam hluas mus ua teb los txog nram
-kev.  nkawv txawv los ntsib ib tug yawg suav tuaj muag khoom.  tus yawg
-suav nug nkawv tias, "nej puas xav yuav khoom, ris tsho rau nej tej
-me nyuam."  2 tug txawm teb tias, "wb tsis yuav, tab sis txom txom
-nyem li yog koj muaj pov haum no wb xav yuav seb lub neej puas zoo."
-yawg suav txawm teb tias, "muaj kawg."  yawg suav muab kiag tau 2
-lub mam khauv lauv (2 dices) los rau nkawv.  yawg suav hais rau nkawv
-tias, "2 lub no ntag laus pov haum os.  nej yuav mus txog tsev, nej
-muab pov rau hauv lub phiab yog tus leb twg qhib tuaj rau sab sauv ces
-xyoo ntawd nej yuav khwv tau npaum li ntawv choj nyiaj ntag."  2 tug
-tsis paub.  2 tug kuj xav tias yog pov haum tiag.  2 tug kuj tau yuav,
-1 lub dice yog raug 5 kim nyiaj npib thaum ub.  kawv coj los txog tsev.
-nkawv coj los qhia rau nkawv 2 tug txiv.  tus niam laus tus txiv yog
-ib tug neeg npab npab nauj thiab xwb nws kuj zoo siab tias lub dice no
-yog lub pov haum tiag.  nkawv muab lub dice ntawd coj loov mus pov rau
-hauv ib lub phiab txawm tig kiag tus leb 2 tuaj rau sab sauv.  xyoov
-ntawd nkawv 2 leej rau siab ntso khwv ib xyoos xaus nkaus, nkawv coj
-nkawv cov yeeb mus pauv tau 2 choj nyiaj tiag.  ho tus niam hluas ces
-coj los qhia rau nws tus txiv.  nws tsis txiv tsis yog ib tug neeg npab
-nauj.  nws paub tias lub dice ntawd yog lub niag mam khauv lauv xwb.
-nws txawm muaj nws tus pojniam ces tias, "lub no ces yog lub niag mam
-khauv lauv xwb.  yog coj los rau hauv tsev ces yuav pluag, yuav kug,
-thiab yuav kob huav xwb ntag los mas."  nkawv sib ceg tag li no xwb
-ua cas tsis ntev tom qab nkawv lub tsev ci li kub nyhiab ua rau me
-nyiaj txiag, ris tsho thiab tej khoom vaj khoom tsev kub nyhiab tag.
-case 2:
-muaj ib hnub muaj 2 nkawv niam txiv, yog niam hluas txiv hluas thiab
-niam laus txiv laus thiab.  lawv txawm mus nram nroog los txog rau hauv
-ib lub vav hauj sam.  lawv txawm los saib tes ntawm tus yawg hauj sam.
-yawg hauj zam xub saib tus niam hluas thiab txiv hluas tag ces nws hais
-rau nkawv hais tias, "neb mas tsis muaj hmoo kiag nawb.  nej yuav
-tsum tau khuv tiag tiag mas nej thiaj yuav tau noj tau haus thiab thiaj
-yuav muaj nyiaj muaj kub."  tag li no ces yawg hauj sam ho saib tus
-niam laus thiab txiv laus nkawv.  saib tag ces hauj zam txawm hais rau
-nkawv tias, "neb mas muaj hmoo zoo kawg kaus.  neb mas tsis khwv los
-yeej muaj nyiaj muaj kub thiab yeej tau noj tau haus li lawm."
-saib tag ces lawv txawm los mus tsev lawm.  tus niam hluas thiab txiv
-hluas ces nkawv los txog tsev nkawv rau siab ntso mus khwv vim hauj sam
-tau hais li ntawv rau nkawv lawm.  3 xyoos tom qab xwb nkawv lub neej
-xws luag, muaj nyiaj muaj kub thiab noj tsis tag haus tsis nqig.  ho
-tus niam laus thiab tus txiv laus ces nkawv kuj ntseeg li tus hauj sam
-hais thiab.  nkawv zoo zoo siab.  nkawv ci li tsis mus khwv li.  3
-xyoos tom qab nkawv lub neej poob qab, nyob tsis muaj noj muaj haus,
-tsuas niaj hnub mus thov noj thov haus rau tej txheeb ze thiab zej zog
-xwb.
-yog peb saib 2 cases no tag lawm, peb yuav paub hais tias pov haum
-thiab koob hmoo yog dab tsi lawm?
+
+hmoob pheej hais tias yog koj muaj koob hmoo zoo los yog khaws tau tej yam pov haum zoo, koj lub neej yuav zoo, yuav muaj nyiaj muaj kub thiab yuav muaj noj muaj haus mus tsis tag tsis kawg.
+ua li koj xav ne "pov haum thiab koob hmoov" yog dab tsi tiag?
+
+yog koj tseem tsis tau paub meej txog pov haum los yog koob hmoov no, koj nyeem 2 cases nram qab no, tej zaum nws yuav qhia tau rau koj paub tias nkawv yog dab tsi.
+
+case 1: muaj ib hnub muaj 2 tug niam laus niam hluas mus ua teb los txog nram kev.
+nkawv txawv los ntsib ib tug yawg suav tuaj muag khoom.
+tus yawg suav nug nkawv tias, "nej puas xav yuav khoom, ris tsho rau nej tej me nyuam."
+2 tug txawm teb tias, "wb tsis yuav, tab sis txom txom nyem li yog koj muaj pov haum no wb xav yuav seb lub neej puas zoo."
+
+yawg suav txawm teb tias, "muaj kawg."
+yawg suav muab kiag tau 2 lub mam khauv lauv (2 dices) los rau nkawv.
+yawg suav hais rau nkawv tias, "2 lub no ntag laus pov haum os.
+nej yuav mus txog tsev, nej muab pov rau hauv lub phiab yog tus leb twg qhib tuaj rau sab sauv ces xyoo ntawd nej yuav khwv tau npaum li ntawv choj nyiaj ntag."
+2 tug tsis paub.
+2 tug kuj xav tias yog pov haum tiag.
+2 tug kuj tau yuav, 1 lub dice yog raug 5 kim nyiaj npib thaum ub.
+kawv coj los txog tsev.
+
+nkawv coj los qhia rau nkawv 2 tug txiv.
+tus niam laus tus txiv yog ib tug neeg npab npab nauj thiab xwb nws kuj zoo siab tias lub dice no yog lub pov haum tiag.
+nkawv muab lub dice ntawd coj loov mus pov rau hauv ib lub phiab txawm tig kiag tus leb 2 tuaj rau sab sauv.
+xyoov ntawd nkawv 2 leej rau siab ntso khwv ib xyoos xaus nkaus, nkawv coj nkawv cov yeeb mus pauv tau 2 choj nyiaj tiag.
+ho tus niam hluas ces coj los qhia rau nws tus txiv.
+nws tsis txiv tsis yog ib tug neeg npab nauj.
+nws paub tias lub dice ntawd yog lub niag mam khauv lauv xwb.
+
+nws txawm muaj nws tus pojniam ces tias, "lub no ces yog lub niag mam khauv lauv xwb.
+yog coj los rau hauv tsev ces yuav pluag, yuav kug, thiab yuav kob huav xwb ntag los mas."
+nkawv sib ceg tag li no xwb ua cas tsis ntev tom qab nkawv lub tsev ci li kub nyhiab ua rau me nyiaj txiag, ris tsho thiab tej khoom vaj khoom tsev kub nyhiab tag.
+
+case 2: muaj ib hnub muaj 2 nkawv niam txiv, yog niam hluas txiv hluas thiab niam laus txiv laus thiab.
+lawv txawm mus nram nroog los txog rau hauv ib lub vav hauj sam.
+lawv txawm los saib tes ntawm tus yawg hauj sam.
+
+yawg hauj zam xub saib tus niam hluas thiab txiv hluas tag ces nws hais rau nkawv hais tias, "neb mas tsis muaj hmoo kiag nawb.
+nej yuav tsum tau khuv tiag tiag mas nej thiaj yuav tau noj tau haus thiab thiaj yuav muaj nyiaj muaj kub."
+tag li no ces yawg hauj sam ho saib tus niam laus thiab txiv laus nkawv.
+saib tag ces hauj zam txawm hais rau nkawv tias, "neb mas muaj hmoo zoo kawg kaus.
+neb mas tsis khwv los yeej muaj nyiaj muaj kub thiab yeej tau noj tau haus li lawm."
+
+saib tag ces lawv txawm los mus tsev lawm.
+tus niam hluas thiab txiv hluas ces nkawv los txog tsev nkawv rau siab ntso mus khwv vim hauj sam tau hais li ntawv rau nkawv lawm.
+3 xyoos tom qab xwb nkawv lub neej xws luag, muaj nyiaj muaj kub thiab noj tsis tag haus tsis nqig.
+ho tus niam laus thiab tus txiv laus ces nkawv kuj ntseeg li tus hauj sam hais thiab.
+nkawv zoo zoo siab.
+nkawv ci li tsis mus khwv li.
+3 xyoos tom qab nkawv lub neej poob qab, nyob tsis muaj noj muaj haus, tsuas niaj hnub mus thov noj thov haus rau tej txheeb ze thiab zej zog xwb.
+
+yog peb saib 2 cases no tag lawm, peb yuav paub hais tias pov haum thiab koob hmoo yog dab tsi lawm?
+
 ua tsaug.
 
 ua tsaug kws koj coj cov tswvyim nuav tuaj faib pub peb os...
-pdy
 
-ncaimtseemnco:
-the bottomline of "povhaum & koobhmoov" is to reduce the level of
-stress and anxiety of the poor and depressed.
-"tos koj lubneej zoo lino los yog koj txoj hmoo tsis sawm os. thiab,
-luag txeeb tau koj pojyawm chaw lawm."  hmong often said.
+pdy ncaimtseemnco: the bottomline of "povhaum & koobhmoov" is to reduce the level of stress and anxiety of the poor and depressed.
+
+"tos koj lubneej zoo lino los yog koj txoj hmoo tsis sawm os.
+thiab, luag txeeb tau koj pojyawm chaw lawm."
+hmong often said.
+
 yog yuav hais tias vim koj tub nkeeg no ces siab dhau heev lawm.
-charlie
 
-tej thaum kuv xav coj hl mus rau tim cov neeg hmoob, nplog, thiab thaib
-uas txawj txawj tso dab, seb dab tom puas tau hl nav. vim cov ua dab
-no, tsi muaj logic li westerner li nav.  kuv xav hais tias, twb yog vim
-li ntawv es westerner thiaj li muab cov witches tua tag lawm aws.
-nej leej twg yuav mua thaibteb thiab nplog teb, nej kuj yaum hl mus, es
-hos mus saib cov neeg ua txawj txawj tso dab seb hl puas yuav kam cav
-thiab hais li ntawv rau lawv nev....hmmmmm?
-born2behmong
+charlie tej thaum kuv xav coj hl mus rau tim cov neeg hmoob, nplog, thiab thaib uas txawj txawj tso dab, seb dab tom puas tau hl nav.
+vim cov ua dab no, tsi muaj logic li westerner li nav.
+kuv xav hais tias, twb yog vim li ntawv es westerner thiaj li muab cov witches tua tag lawm aws.
 
-ncaimtseemnco, nyob lub ntuj nos ces tej povhaum thiab koobhmoov ua koj
-taus piav raus peb mloog tas nos tsis muaj qabntxhiab dab tsis lawm
-hos.
-koj yeej muaj ib lub povhaum nyob ze koj kawg, yog nwg rov ces kav tsij
-sawv ceev~ xwb ces yeej taus noj taus haus xwb tiag. koobmoov ces yog
-kawm 12 xyoo tas ces kawm 4 xyoo ntsiv ces txawm tau txais koobmoov xwb
-tiag.
-fairy tale ua koj hais los saum nos ces yog dabneeg hais raus menyuam
-mloog wb. nwg yog fiction xwb nwg tsis muaj tiag, thiab tsis muaj tseeb.
+nej leej twg yuav mua thaibteb thiab nplog teb, nej kuj yaum hl mus, es hos mus saib cov neeg ua txawj txawj tso dab seb hl puas yuav kam cav thiab hais li ntawv rau lawv nev....
+hmmmmm?
 
-pov haum ces yog lug tus pojniam.  tau pojniam zoo ces lub ncuabyim zoo
-xwb.
-koob hmoov ces yog kev nco txoj tej laus tej kev txawj nrhiav noj kom
-yus rau siab mus khwv xwb.
-hl hais kuj yog lawm thiab.  tus ruam ces tseeg tej lus ntawd.  tus
-ntse ces rau siab ntso mus kawm thiab ua qhov yuav tau noj xwb.
+born2behmong ncaimtseemnco, nyob lub ntuj nos ces tej povhaum thiab koobhmoov ua koj taus piav raus peb mloog tas nos tsis muaj qabntxhiab dab tsis lawm hos.
+
+koj yeej muaj ib lub povhaum nyob ze koj kawg, yog nwg rov ces kav tsij sawv ceev~ xwb ces yeej taus noj taus haus xwb tiag.
+koobmoov ces yog kawm 12 xyoo tas ces kawm 4 xyoo ntsiv ces txawm tau txais koobmoov xwb tiag.
+
+fairy tale ua koj hais los saum nos ces yog dabneeg hais raus menyuam mloog wb.
+nwg yog fiction xwb nwg tsis muaj tiag, thiab tsis muaj tseeb.
+
+pov haum ces yog lug tus pojniam.
+tau pojniam zoo ces lub ncuabyim zoo xwb.
+
+koob hmoov ces yog kev nco txoj tej laus tej kev txawj nrhiav noj kom yus rau siab mus khwv xwb.
+
+hl hais kuj yog lawm thiab.
+tus ruam ces tseeg tej lus ntawd.
+tus ntse ces rau siab ntso mus kawm thiab ua qhov yuav tau noj xwb.
 
 koj puas muaj kub twjkum mad yawg?
-pov haum ces yog tej yam li kub twjkum, kaug hniav npua teb, kub kauv
-qaib, phab liv lais tej no ntag.
-hos koob hmoov mas yog kev tau los ntawm vajtswv los yog yus niam yus
-txiv. tus neeg tau koob hmoov zoo tus uas fwm niam fwm txiv no laiv.
-hniaj hnub mus ua laib laus laib hluas se tsi tau koob hmoov nawb.
-fajkhaum
 
-her lauj,
-yog li cas koj thiaj ntseeg tias pov haum thiab koob hmoov yog pure
-ignorance? pojhaum mas tsi paub qhov tseeb. tabsis muaj qee case mas
-kuj siv tau tias yog khoom zoo tshuaj. piv xam tias kuv muaj ib tug kub
-twjkum. qee zaug tej thaum muaj mob kuj muab tsau dej haus kuj zoo mob
-thiab. tabsis hais txog koob hmoov mas ib txheej dhau ib txheej ib tiam
-dhau ib tiam tej laus yeej hais tias tus neeg uas mloog niam mloog txiv
-lus thiab niam txiv foom koob hmoov rau, tus ntawd yeej tau lub neej
-zoo.
-nyob rau cov ntseeg ntuj tej kev ntseeg los yeej ib yam. thaum isxaj
-thiab yas khauj lawv los yeej ua tau qauv zoo rau neeg kawm. vajtswv
-muab koob hmoov rau niam txiv. yog niam txiv tsa tes foom hmoov zoo rau
-leej twg, tus ntawd yeej ua neej zoo dua.
-muaj tej xeem hmoob raug tej laus foom tseg tsi zoo mas yeej tsi muaj
-cuab kav hla dhau txoj lus foom ntawd li ntag. piv xam li yaj caiv
-plawv. ib txhia hmoob yaj yeej tsi muaj peevxwm noj plawv li ntag.
-kuv xav mas kuj yog kev ntseeg ntawm tib neeg. tabsis kuj yuav tsi yog
-ib yam ignorance li koj hais no laiv.
+pov haum ces yog tej yam li kub twjkum, kaug hniav npua teb, kub kauv qaib, phab liv lais tej no ntag.
+
+hos koob hmoov mas yog kev tau los ntawm vajtswv los yog yus niam yus txiv.
+tus neeg tau koob hmoov zoo tus uas fwm niam fwm txiv no laiv.
+
+hniaj hnub mus ua laib laus laib hluas se tsi tau koob hmoov nawb.
+
+fajkhaum her lauj, yog li cas koj thiaj ntseeg tias pov haum thiab koob hmoov yog pure ignorance?
+pojhaum mas tsi paub qhov tseeb.
+tabsis muaj qee case mas kuj siv tau tias yog khoom zoo tshuaj.
+piv xam tias kuv muaj ib tug kub twjkum.
+qee zaug tej thaum muaj mob kuj muab tsau dej haus kuj zoo mob thiab.
+tabsis hais txog koob hmoov mas ib txheej dhau ib txheej ib tiam dhau ib tiam tej laus yeej hais tias tus neeg uas mloog niam mloog txiv lus thiab niam txiv foom koob hmoov rau, tus ntawd yeej tau lub neej zoo.
+
+nyob rau cov ntseeg ntuj tej kev ntseeg los yeej ib yam.
+thaum isxaj thiab yas khauj lawv los yeej ua tau qauv zoo rau neeg kawm.
+vajtswv muab koob hmoov rau niam txiv.
+yog niam txiv tsa tes foom hmoov zoo rau leej twg, tus ntawd yeej ua neej zoo dua.
+
+muaj tej xeem hmoob raug tej laus foom tseg tsi zoo mas yeej tsi muaj cuab kav hla dhau txoj lus foom ntawd li ntag.
+piv xam li yaj caiv plawv.
+ib txhia hmoob yaj yeej tsi muaj peevxwm noj plawv li ntag.
+
+kuv xav mas kuj yog kev ntseeg ntawm tib neeg.
+tabsis kuj yuav tsi yog ib yam ignorance li koj hais no laiv.
+
 fajkhaum

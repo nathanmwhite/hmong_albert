@@ -1,78 +1,60 @@
-yaaj thoj,  koj tuaj meskas nuav tau ob xyoo nua, cov ntawv phaj hauj
-kws cov moob caub fab kawm hab siv nyob thaib teb hab nplog teb siv nam
-ntawv cov reduced version ob xwb lov.  puas muaj leej twg qha los yog
-kawm qhov final version (reduced version peb) ntawd?  koj puas tau moog
-nrug laj xeem yaaj puab kawm cov final version kws puab qha nyob peg
-misnisxaustas kod?
+yaaj thoj, koj tuaj meskas nuav tau ob xyoo nua, cov ntawv phaj hauj kws cov moob caub fab kawm hab siv nyob thaib teb hab nplog teb siv nam ntawv cov reduced version ob xwb lov.
+puas muaj leej twg qha los yog kawm qhov final version (reduced version peb) ntawd?
+koj puas tau moog nrug laj xeem yaaj puab kawm cov final version kws puab qha nyob peg misnisxaustas kod?
 
-phooj ywg avang,
-kuv tsis paub zoo nawb. kuv tsuas nov luas tej pav xwb.
-yang thao
+phooj ywg avang, kuv tsis paub zoo nawb.
+kuv tsuas nov luas tej pav xwb.
 
-nyob zoo avang,
-kuv tsis tau paub tej koj has ko nawb. ua tsaug kws koj ho qha kuv.
-yt
+yang thao nyob zoo avang, kuv tsis tau paub tej koj has ko nawb.
+ua tsaug kws koj ho qha kuv.
 
-yang thao,
-ua tsaug os.  tog kuv noog koj los yog kuv pum koj sau cov lug le "laj
-fai" kws ib cos lees kais siv lug sau ntawv phaj hauj.  nov has tas cov
-nyob thaib teb hab nplog teb tseem siv cov ntawv reduced version ob vim
-suavdlawg paub qhov ntawd xwb.
+yt yang thao, ua tsaug os.
+tog kuv noog koj los yog kuv pum koj sau cov lug le "laj fai" kws ib cos lees kais siv lug sau ntawv phaj hauj.
+nov has tas cov nyob thaib teb hab nplog teb tseem siv cov ntawv reduced version ob vim suavdlawg paub qhov ntawd xwb.
 
-avang,
-kev tsim ntawv rua yug ib haiv neeg siv tsis yog khoom ua si. leej twg
-xaav tsim xaav sau le caag los tau. txhua leej tuab neeg txawj ntse
-yeej muaj zoo tswv yim yuav tsim pes tsawg tug ntawv, tsim pes tsawg lu
-lug los yeej tau. taab sis zeej tsoom puas kaam nrug yug siv ntawd yog
-teeb meem. taam sim nua peb hmoob muaj ntawv hmoob txug le 14 tug tej
-lawm, cov tsis tau paub sov tseem tshuav npaum twg hab. muaj ib txha
-yog ua npau suav tsim tawm, muaj ib txha yog siv tswv yim tsim tawm.
-txawm cov twg los yeej zoo hab yog hmoob txawj siv. yog hmoob tsis
-txawj siv mas cov ntawv hmoob ntawd yuav tua hmoob ib nub.
-cov chao fa nyob ntuj qub qaab tseem siv lawj 2 xwb. kev hloov dua
-ntawd yuav yog suav dawg sib koom teg khu hab thaaj tsob txha moog
-taug. kuv kuj tsis paub  tas ua caag nyob teb chaws us nua ho muaj ntau
-lawj le koj has ntawd.
-yt
+avang, kev tsim ntawv rua yug ib haiv neeg siv tsis yog khoom ua si.
+leej twg xaav tsim xaav sau le caag los tau.
+txhua leej tuab neeg txawj ntse yeej muaj zoo tswv yim yuav tsim pes tsawg tug ntawv, tsim pes tsawg lu lug los yeej tau.
+taab sis zeej tsoom puas kaam nrug yug siv ntawd yog teeb meem.
+taam sim nua peb hmoob muaj ntawv hmoob txug le 14 tug tej lawm, cov tsis tau paub sov tseem tshuav npaum twg hab.
+muaj ib txha yog ua npau suav tsim tawm, muaj ib txha yog siv tswv yim tsim tawm.
 
-reduced version 2 = lawj 2.  kawm tau ob peb lu lug hmoob ntxiv lug
-ntawd koj.  lawj 3 yog lawj kawg kws txaj kuam vaaj has tas yog nam
-ntawv muab rua nwg ua ntej tuab neeg tua nwg ntawd.  tamsis, ib cov
-tuabneeg kuj tsi ntseeg has tas sov puas yog tag vim nam ntawv tsi tau
-qha lub sib hawm thaus nwg tseem nyoob.
-le caag los kaav lam, lawj 3 ntawd yog moog zoo ib yaam le cov ntawv
-rpa kws peb sau nuav hab.  nwg muaj ib tug yub xws le "keeb" (tsi muaj
-tug ob xws le "keev" le tej ntawd.  dhau ntawd, nwg muaj yim lub cim
-suab lug rua thawj tug yub xwb xws le keeb, keem, keej, keev, kee,
-kees, keed, keem.  ua le ntawd mas yooj yim kawm hab qha lwm tug.
-lawj 2, muaj ob tug yub le has sau toj nuav.  tsi taag le ntawd, cov
-cim mas hloov moog lug ntawd 13 (26) tug yub ntawd ua rua cov hluas hab
-tej laug kawm nyuab heev.
+txawm cov twg los yeej zoo hab yog hmoob txawj siv.
+yog hmoob tsis txawj siv mas cov ntawv hmoob ntawd yuav tua hmoob ib nub.
 
-lis kos (tam sim no hu ua wamhuas) hais tias txiajkam thiab kos nkawd
-ob leeg puas leej muaj tib yam puav pheej hais txog cov ntawv phajhauj
-no.  tab sis lis kos cov ces poob thaum nws tsev neeg raug nplogliab
-raws tua thaum lub sij hawm lawv khiav tuaj rau thaibteb.  yog lis kos
-cov tsis poob mas yeej tsis muaj neeg ua ob peb siab rau txiajkuam cov
-lus.
-txawm li cas los xij, txoj kev niam ntawv kho tus phajhauj no ces zoo
-nkaus li nws tho ib txoj kev mus rau kev vam meej.  yog tib zoo saib
-mas zoo li nws yeej tho tau kev tas lawm.  nws pom tias txoj kev no
-tsis ncaj thiab sis du txaus.  nws thiaj tom ob, tom peb, thiab tom
-plaub (lawj txha).  kuv ntseeg hais tias yog nws tsis tuag mas ntshe
-nws twb kho txog tom rau lawm.
-txawjxab
+cov chao fa nyob ntuj qub qaab tseem siv lawj 2 xwb.
+kev hloov dua ntawd yuav yog suav dawg sib koom teg khu hab thaaj tsob txha moog taug.
+kuv kuj tsis paub tas ua caag nyob teb chaws us nua ho muaj ntau lawj le koj has ntawd.
 
-txawjxab,
-muaj tseeb le koj has.  tsis ib yaam dlaab tsi los twb yeej yuav tau
-khu ntau tom maam dlu hab zoo siv.
+yt reduced version 2 = lawj 2. kawm tau ob peb lu lug hmoob ntxiv lug ntawd koj.
+lawj 3 yog lawj kawg kws txaj kuam vaaj has tas yog nam ntawv muab rua nwg ua ntej tuab neeg tua nwg ntawd.
+tamsis, ib cov tuabneeg kuj tsi ntseeg has tas sov puas yog tag vim nam ntawv tsi tau qha lub sib hawm thaus nwg tseem nyoob.
+
+le caag los kaav lam, lawj 3 ntawd yog moog zoo ib yaam le cov ntawv rpa kws peb sau nuav hab.
+nwg muaj ib tug yub xws le "keeb" (tsi muaj tug ob xws le "keev" le tej ntawd.
+dhau ntawd, nwg muaj yim lub cim suab lug rua thawj tug yub xwb xws le keeb, keem, keej, keev, kee, kees, keed, keem.
+ua le ntawd mas yooj yim kawm hab qha lwm tug.
+
+lawj 2, muaj ob tug yub le has sau toj nuav.
+tsi taag le ntawd, cov cim mas hloov moog lug ntawd 13 (26) tug yub ntawd ua rua cov hluas hab tej laug kawm nyuab heev.
+
+lis kos (tam sim no hu ua wamhuas) hais tias txiajkam thiab kos nkawd ob leeg puas leej muaj tib yam puav pheej hais txog cov ntawv phajhauj no.
+tab sis lis kos cov ces poob thaum nws tsev neeg raug nplogliab raws tua thaum lub sij hawm lawv khiav tuaj rau thaibteb.
+yog lis kos cov tsis poob mas yeej tsis muaj neeg ua ob peb siab rau txiajkuam cov lus.
+
+txawm li cas los xij, txoj kev niam ntawv kho tus phajhauj no ces zoo nkaus li nws tho ib txoj kev mus rau kev vam meej.
+yog tib zoo saib mas zoo li nws yeej tho tau kev tas lawm.
+nws pom tias txoj kev no tsis ncaj thiab sis du txaus.
+nws thiaj tom ob, tom peb, thiab tom plaub (lawj txha).
+kuv ntseeg hais tias yog nws tsis tuag mas ntshe nws twb kho txog tom rau lawm.
+
+txawjxab txawjxab, muaj tseeb le koj has.
+tsis ib yaam dlaab tsi los twb yeej yuav tau khu ntau tom maam dlu hab zoo siv.
+
 kuv nyam tug ntawd ntawd hab vim has tas yog peb hmoob tsim tawm lug.
-qhov tsi zoo,  yog kis moog rua kaam tebchaws hab kev npau suav ntau
-dhau hwv lawm.  tsi taag le ntawd, cov kws paub lauj ob xwb tsi kaam
-hloov vim has tas cov source hab lauj ob ntawd yog ntawv muaj khawv
-koob, yog muab hloov lawm ces tsi zoo.  yog has le nuav ces tsi taag
-kawm los tau, hmoob tug ntawd nuav yeej tsi vaam vaam le.  kev vaam
-meej yog kev hloov hab khu kuas yooj yim le khu tau sub tuabneeg feem
-coob txhaj le xaav kawm hab nyam siv.  yog tseem ua nyuab le txeej laug
-coj hmoob lub neej le 250 yxoo le kws puab nyob nplog teb tuaj rua
-tebchaws nuav ces, kawg yuav le naj nub nwg nuav xwb tau lawm.
+
+qhov tsi zoo, yog kis moog rua kaam tebchaws hab kev npau suav ntau dhau hwv lawm.
+tsi taag le ntawd, cov kws paub lauj ob xwb tsi kaam hloov vim has tas cov source hab lauj ob ntawd yog ntawv muaj khawv koob, yog muab hloov lawm ces tsi zoo.
+yog has le nuav ces tsi taag kawm los tau, hmoob tug ntawd nuav yeej tsi vaam vaam le.
+kev vaam meej yog kev hloov hab khu kuas yooj yim le khu tau sub tuabneeg feem coob txhaj le xaav kawm hab nyam siv.
+yog tseem ua nyuab le txeej laug coj hmoob lub neej le 250 yxoo le kws puab nyob nplog teb tuaj rua tebchaws nuav ces, kawg yuav le naj nub nwg nuav xwb tau lawm.

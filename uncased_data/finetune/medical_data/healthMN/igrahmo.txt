@@ -1,1 +1,7 @@
- txoj kev kuaj ntshav rau kev mob ntsws qhuav tb yog dab tsi ? tb koj yuav tsum kuaj ntshav rau tus kab mob tb ( los sis kuaj tawv nqaij rau tus kab mob tb ) yog koj : kuv yuav ua li cas thiaj kuaj tau ntshav rau tus kab mob tb ? yuav muaj xwm dab tsi yog tias kev kuaj ntshav rau tus kab mob tb no nrhiav pom tias "tsis muaj" ? yuav muaj xwm dab tsi yog tias kev kuaj ntshav rau tus kab mob tb no nrhiav pom tias "muaj" ? txoj kev mob ntsws qhuav tb uas ploj lawm yog dab tsi ?   yuav ua li cas yog tias kuv twb txhaj koob tshuaj tiv thaiv kab mob bcg lawm ? tiv thaiv koj txoj kev noj qab nyob zoo thiab koj tsev neeg txoj kev noj qab nyob zoo mus kuaj ntshav rau tus kab mob tb ! 
+txoj kev kuaj ntshav rau kev mob ntsws qhuav tb yog dab tsi?
+tb koj yuav tsum kuaj ntshav rau tus kab mob tb (los sis kuaj tawv nqaij rau tus kab mob tb) yog koj: kuv yuav ua li cas thiaj kuaj tau ntshav rau tus kab mob tb?
+yuav muaj xwm dab tsi yog tias kev kuaj ntshav rau tus kab mob tb no nrhiav pom tias "tsis muaj"?
+yuav muaj xwm dab tsi yog tias kev kuaj ntshav rau tus kab mob tb no nrhiav pom tias "muaj"?
+txoj kev mob ntsws qhuav tb uas ploj lawm yog dab tsi?
+yuav ua li cas yog tias kuv twb txhaj koob tshuaj tiv thaiv kab mob bcg lawm?
+tiv thaiv koj txoj kev noj qab nyob zoo thiab koj tsev neeg txoj kev noj qab nyob zoo mus kuaj ntshav rau tus kab mob tb!

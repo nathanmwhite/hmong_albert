@@ -1,94 +1,59 @@
-cov phooj ywg thov nej sawvdaws pab kuv thiab sob, cov lus as-kiv no peb
-yuav muab txhais ua lus hmoob li cas.
-terms                            hmoob
-transportation =     ???????
-program =  ??????
-special = ?????
-verb =  ??????
-adverb = ?????
-noun = ?????
-pronoun = ??????
-adjective = ??????
-article = ??????
-preposition = ?????
-phrase = ?????
-snack =  ?????
-signature = ?????
-improve = ?????
-college = ??????
-high school = ?????
-grade school = ??????
-lesson = ??????
-as well as = ??????
-information = ??????
-and more ...........
+cov phooj ywg thov nej sawvdaws pab kuv thiab sob, cov lus as-kiv no peb yuav muab txhais ua lus hmoob li cas.
 
-marxfree,
-yog yuav txhais ib los lus askiv kom tau ib los lus hmoob mas peb
-tseem tsis tau muaj lus txhua. tab sis kuv yuav txhais cov uas kuv
-paub, tau hnov thiab tau siv dua los lawm. kuv ntseeg hais tias nyias
-yuav txhai nyias txawv me ntsis, tab sis txawm li ntawv los tsuav siv
-to tau xwb.
-tshuav ib co, cia lwm tus ho pab, yog tsis muaj neeg paub lo lus hmoob
-ces peb yuav tau rhawv lus tshiab rau.
-hl
+terms hmoob transportation = ???????
 
-ua tsaug, xeng yang and hmong-lao
-these words are some of my thought that it may be usable or unrelated at
-all.
-transportation = kev thauj mus los - ok
-program =  feemtswj
-special = tshwj xeeb - ok
-verb =  lo lus kev ua - cwj
-adverb = lo lus piav kev ua - pab cwj
-noun = lo lus npe (or lo lus meej) - npe
-pronoun =los lus tam - tam npe
-adjective = lo lus piav qhia - zeem or peev
-article = if you mean hmong "classifiers" (i.e. tus, lub, daim, etc.) then
-you might use "lo lus ntsuag" or "lo lus suav" - i have no idea for this
-word
-preposition = lo lus piav thaj chaw - zejtxawm
-phrase = me kab lus - ok
-snack =  noj xob yem / "txom ncauj" li hmong-lao hais
-signature = kos npe or yeem npe or yees npe
-improve = intransitive: kho kom zoo;  intransitive: (kho x kom zoo or muab x
-kho kom zoo) - ok
-college =tsev kawm ntawv qib siab  - useful
-high school = tsev kawm ntawv theem siab - useful
-grade school = tsev kawm ntawv theem pib - useful
-lesson = zaj lus qhia or the word that hmong-lao called "sob kawm" either
-word
-as well as = kuj, kuj muaj; thiab (or you could just start a new sentence)
-information = xov; xov xwm; moo - useful
-then you might use "lo lus ntsuag" or "lo lus suav"
-muab x kho kom zoo)
-sentence)
+program = ??????
 
-ua tsaug, xeng yang and hmong-lao
-these words are some of my thought that it may be usable or unrelated at
-all.
-transportation = kev thauj mus los - ok
-program =  feemtswj
-special = tshwj xeeb - ok
-verb =  lo lus kev ua - cwj
-adverb = lo lus piav kev ua - pab cwj
-noun = lo lus npe (or lo lus meej) - npe
-pronoun =los lus tam - tam npe
-adjective = lo lus piav qhia - zeem or peev
-article = if you mean hmong "classifiers" (i.e. tus, lub, daim, etc.) then
-you might use "lo lus ntsuag" or "lo lus suav" - i have no idea for this
-word
-preposition = lo lus piav thaj chaw - zejtxawm
-phrase = me kab lus - ok
-snack =  noj xob yem / "txom ncauj" li hmong-lao hais
-signature = kos npe or yeem npe or yees npe
-improve = intransitive: kho kom zoo;  intransitive: (kho x kom zoo or muab x
-kho kom zoo) - ok
-college =tsev kawm ntawv qib siab  - useful
-high school = tsev kawm ntawv theem siab - useful
-grade school = tsev kawm ntawv theem pib - useful
-lesson = zaj lus qhia or the word that hmong-lao called "sob kawm" either
-word
-as well as = kuj, kuj muaj; thiab (or you could just start a new sentence)
-information = xov; xov xwm; moo - useful
-marxfree
+special =?????
+
+verb = ??????
+
+adverb =?????
+
+noun =?????
+
+pronoun =??????
+
+adjective =??????
+
+article =??????
+
+preposition =?????
+
+phrase =?????
+
+snack = ?????
+
+signature =?????
+
+improve =?????
+
+college =??????
+
+high school =?????
+
+grade school =??????
+
+lesson =??????
+
+as well as =??????
+
+information =??????
+
+and more.
+
+marxfree, yog yuav txhais ib los lus askiv kom tau ib los lus hmoob mas peb tseem tsis tau muaj lus txhua.
+tab sis kuv yuav txhais cov uas kuv paub, tau hnov thiab tau siv dua los lawm.
+kuv ntseeg hais tias nyias yuav txhai nyias txawv me ntsis, tab sis txawm li ntawv los tsuav siv to tau xwb.
+
+tshuav ib co, cia lwm tus ho pab, yog tsis muaj neeg paub lo lus hmoob ces peb yuav tau rhawv lus tshiab rau.
+
+hl ua tsaug, xeng yang and hmong-lao these words are some of my thought that it may be usable or unrelated at all.
+
+transportation = kev thauj mus los - ok program = feemtswj special = tshwj xeeb - ok verb = lo lus kev ua - cwj adverb = lo lus piav kev ua - pab cwj noun = lo lus npe (or lo lus meej) - npe pronoun =los lus tam - tam npe adjective = lo lus piav qhia - zeem or peev article = if you mean hmong "classifiers" (i.
+e. tus, lub, daim, etc.)
+then you might use "lo lus ntsuag" or "lo lus suav" - i have no idea for this word preposition = lo lus piav thaj chaw - zejtxawm phrase = me kab lus - ok snack = noj xob yem / "txom ncauj" li hmong-lao hais signature = kos npe or yeem npe or yees npe improve = intransitive: kho kom zoo; intransitive: (kho x kom zoo or muab x kho kom zoo) - ok college =tsev kawm ntawv qib siab - useful high school = tsev kawm ntawv theem siab - useful grade school = tsev kawm ntawv theem pib - useful lesson = zaj lus qhia or the word that hmong-lao called "sob kawm" either word as well as = kuj, kuj muaj; thiab (or you could just start a new sentence) information = xov; xov xwm; moo - useful then you might use "lo lus ntsuag" or "lo lus suav" muab x kho kom zoo) sentence) ua tsaug, xeng yang and hmong-lao these words are some of my thought that it may be usable or unrelated at all.
+
+transportation = kev thauj mus los - ok program = feemtswj special = tshwj xeeb - ok verb = lo lus kev ua - cwj adverb = lo lus piav kev ua - pab cwj noun = lo lus npe (or lo lus meej) - npe pronoun =los lus tam - tam npe adjective = lo lus piav qhia - zeem or peev article = if you mean hmong "classifiers" (i.
+e. tus, lub, daim, etc.)
+then you might use "lo lus ntsuag" or "lo lus suav" - i have no idea for this word preposition = lo lus piav thaj chaw - zejtxawm phrase = me kab lus - ok snack = noj xob yem / "txom ncauj" li hmong-lao hais signature = kos npe or yeem npe or yees npe improve = intransitive: kho kom zoo; intransitive: (kho x kom zoo or muab x kho kom zoo) - ok college =tsev kawm ntawv qib siab - useful high school = tsev kawm ntawv theem siab - useful grade school = tsev kawm ntawv theem pib - useful lesson = zaj lus qhia or the word that hmong-lao called "sob kawm" either word as well as = kuj, kuj muaj; thiab (or you could just start a new sentence) information = xov; xov xwm; moo - useful marxfree

@@ -1,171 +1,148 @@
-cov npoj yaig,
-thov nej sawv daws cov yog paub meej txog nej cov lus hmoob nyob thoob
-qab ntuj pab qhia koj hais tau cov lus uas muaj li nram no kuv thiaj
-yuav paub hais kom haum nrog nej li lus, thiab:
-1. vaj los yog faj khaum?
-thov pab qhia...ib txwm kuv yeej hnov kuv cov laus hu tias vaj no ces
-kuv cia li hu ua vaj khaum no lawm xwb...
+cov npoj yaig, thov nej sawv daws cov yog paub meej txog nej cov lus hmoob nyob thoob qab ntuj pab qhia koj hais tau cov lus uas muaj li nram no kuv thiaj yuav paub hais kom haum nrog nej li lus, thiab: 1. vaj los yog faj khaum?
+
+thov pab qhia...
+ib txwm kuv yeej hnov kuv cov laus hu tias vaj no ces kuv cia li hu ua vaj khaum no lawm xwb...
+
 2. xub los yog xwb pwg?
+
 3. nruab los yog nraub qaum?
+
 4. lim los yog liam tiam los yog lim/liam piam?
+
 5. xub los yog xwb qwb?
+
 6.pob qib los yog pob qij teg?
+
 7. pob qib los yog pob qij taw?
+
 8. xub los yog xwb pwg?
+
 9. fwj chim los yog hwj chim?
-10. muaj lwm lo no thov nej ho ntxiv thiab txhais rau...
+
+10.
+muaj lwm lo no thov nej ho ntxiv thiab txhais rau...
+
 ua tsaug = thanks!
+
 ua koj tsaug = thank you!
--txiabneeb
 
-nyobzoo tzianeng,
-cov lus no mas yeej tsis tau yubnisfuas kiag li vim qhov ib roojteb
-coj lawm ibroog txuj ib rabchaw hais lawm ib yam lus rawsli nyias ib
-txwm hnov thiab ibtxwm hais.
-rawsli peb hmoob phwvxam, kabkheem, luam moos mas peb pheej haistias,
-xwbpwb, xwbqwb, pob qijtxha.
-fwjchim mas yog lus hmoobntsuab.  lub hmoobdawb hu ua hwjchim.
+-txiabneeb nyobzoo tzianeng, cov lus no mas yeej tsis tau yubnisfuas kiag li vim qhov ib roojteb coj lawm ibroog txuj ib rabchaw hais lawm ib yam lus rawsli nyias ib txwm hnov thiab ibtxwm hais.
+
+rawsli peb hmoob phwvxam, kabkheem, luam moos mas peb pheej haistias, xwbpwb, xwbqwb, pob qijtxha.
+
+fwjchim mas yog lus hmoobntsuab.
+lub hmoobdawb hu ua hwjchim.
+
 limpiam mas nyuamqhuav tsim tshiab txijli peb tuaj rau meskas no xwb.
-nws tsis yog liampiam rawsli kuv paub'os.  dhauli zooli tsis muaj pob
-qib lossis qij taw thiab teg.  rawsli paub mas mas muaj dabteg,
-dabtaws, hos yog pob qij mas tsuas muaj pob qij txha xwb.
+
+nws tsis yog liampiam rawsli kuv paub'os.
+dhauli zooli tsis muaj pob qib lossis qij taw thiab teg.
+rawsli paub mas mas muaj dabteg, dabtaws, hos yog pob qij mas tsuas muaj pob qij txha xwb.
+
 ciasaib leejtwg ho ntxiv tau licas.
-kuamemiab
 
-txabneeb, cov lug koj muab lug rua peb sis thom huv nuav mas kuv xaav
-tas koj has le caag lo kuj yog vim ua le yawm kuamemab has, moob nyob
-nplogteb mas ib raab teb has lawm ib hom lug, xws le mej cov moob nyob
-yaav qaab teb, khas kawj nwg has lug txawv zog peb cov moob vees cam
-hab, kuas cas kuv has le peb cov lug peb ib txwm has mas yog le nuav:
-vaj/faj khaum = vaaj khum or you people call vaj khaum vim peb hu raws
-le nwg tsob ntoo luj tshaaj txhua txha tsob nyob ib ncig ntawm nwg,
-usually vaaj khum/vaj khaum yeej yog tsob luj hab ncau ceg ntau tshaaj
-txhua hom ntoo, xub/xwb pwg = xub pwg yog lu yog lawm, nruab/nraub
-qaum = nruab qaum yog lug moob leeg, hua nraub qaum yog lug moob
-dlawb, lim/liam/tiam/piam = lim tam or lim tiam is right, no such word
-lim/liam piam, xub/xwb qwb = xwb qwb yog lawm tsig yog "xub" qwb, pob
-qib/qij = "qij" tsig yog "qib" teg/taw, xub/xwb pwg = xub pwg tsis yog
-xwb pwg, fwj/hwj chim = fwj chim is correct but hwj chim kuj
-acceptible hab.
+kuamemiab txabneeb, cov lug koj muab lug rua peb sis thom huv nuav mas kuv xaav tas koj has le caag lo kuj yog vim ua le yawm kuamemab has, moob nyob nplogteb mas ib raab teb has lawm ib hom lug, xws le mej cov moob nyob yaav qaab teb, khas kawj nwg has lug txawv zog peb cov moob vees cam hab, kuas cas kuv has le peb cov lug peb ib txwm has mas yog le nuav: vaj/faj khaum = vaaj khum or you people call vaj khaum vim peb hu raws le nwg tsob ntoo luj tshaaj txhua txha tsob nyob ib ncig ntawm nwg, usually vaaj khum/vaj khaum yeej yog tsob luj hab ncau ceg ntau tshaaj txhua hom ntoo, xub/xwb pwg = xub pwg yog lu yog lawm, nruab/nraub qaum = nruab qaum yog lug moob leeg, hua nraub qaum yog lug moob dlawb, lim/liam/tiam/piam = lim tam or lim tiam is right, no such word lim/liam piam, xub/xwb qwb = xwb qwb yog lawm tsig yog "xub" qwb, pob qib/qij = "qij" tsig yog "qib" teg/taw, xub/xwb pwg = xub pwg tsis yog xwb pwg, fwj/hwj chim = fwj chim is correct but hwj chim kuj acceptible hab.
 
-***faajkum
-***xubpwg
-***nruasqaus (nruabqaus)
-***limtam
-***xubqwb
-***pobqejteg
-***pobqejtaw
-***xubpwg
-***fwjchim
-***lwm lu ces peb ca rua lwm has lawm nawb...
+***faajkum ***xubpwg ***nruasqaus (nruabqaus) ***limtam ***xubqwb ***pobqejteg ***pobqejtaw ***xubpwg ***fwjchim ***lwm lu ces peb ca rua lwm has lawm nawb...
 
-11.  thiab los yog hiab (hmoob dawb...everytime, i heard ppl say
-"hiab" just sound funni)
-12.  pes los yog pis (ie..pes tsawg or pis tsawg)
-...
+11. thiab los yog hiab (hmoob dawb...
+everytime, i heard ppl say "hiab" just sound funni) 12. pes los yog pis (ie..
+pes tsawg or pis tsawg)...
 
-fajkhaum.  tsis yog vajkhaum
-raws li lus suav mas faaj (fang2) yog thaiv hos khaum (kou2) yog cov
-neeg, tsiaj, los yog dab phem uas yuav los txeem.
-xubpwg.  tsis yog xwb pwg.
-hmoob muaj xub qwb, xub txig, xub ntsa, xub tsuag.  tsis muaj xwb qwb,
-xwb ntsa, xwb txig, xwb tsuag.
-nruab los tsis yog.  nraub los tsis yog.
+fajkhaum.
+tsis yog vajkhaum raws li lus suav mas faaj (fang2) yog thaiv hos khaum (kou2) yog cov neeg, tsiaj, los yog dab phem uas yuav los txeem.
+
+xubpwg.
+tsis yog xwb pwg.
+
+hmoob muaj xub qwb, xub txig, xub ntsa, xub tsuag.
+tsis muaj xwb qwb, xwb ntsa, xwb txig, xwb tsuag.
+
+nruab los tsis yog.
+nraub los tsis yog.
+
 nraum qaum thiaj yog.
+
 limtiam tsis yog.
+
 limpiam thiaj yog.
-kuv hnov lo lus no thawj thawj zaug yog xyoo 1975.  yog dr. yang dao
-hais.
-xubqwb
-qij tes, qij taw, qij txha
-hmooblees qej teg, qej txaw, qej txhaa
-lo lus no yog lus suav 100%.  hais raws li lus suav.
-thaum peb rub lus suab e los ze ze rau ntawm tog ncauj qhov ncauj ces
-e kheev hloov ua i.  thaum peb rub lub suab i rov mus rau tog qa ces i
-kheev hloov ua w.
 
-peb cov mhoob xiengkhouang li techaw, ces tony hais yog lus lawm
-ntag...tam li nhov nhov tej laus hais dhau los lawm os.
-pobqejtes pobqejtaw==cov qijpobtxha ntawm cov yas ntivtes ntxivtaws
-born
+kuv hnov lo lus no thawj thawj zaug yog xyoo 1975. yog dr.
+yang dao hais.
 
-ib sim neej kuv tug laug nuav tsis tau nov lu lug "limpiam", nyav nov
-mej tug puav has yuam kev quas tshuav huv nuav xib kuv xaav tas tej
-zaag mej nov tsig tseeb xib, tsis has moob dlawb, moob leeg, kuv yeej
-ib txwm nov hab pum siv lu lug "lim tam/lim tiam" nuav lug lawm ntev,
-tsis taag le hov peb cov naj nub siv rua huv church los yeej siv le
-nuav, tej zaag yog tas koj nov dyd has nuav tej zaag yog yaw invented
-lu lug hov xib, muab ua tuab zoo saib mas lu lug "piam" nuav nwg has
-no connection rua yaav peg suab or yaav taag lug, lu lug "piam" nuav
-nwg txhais has tas puam tsuaj or ruin, yog le hov raws le kuv xaav xib
-mas lu lug "limpiam" nua yuam kev luj lawm unless nwg muaj nwg ib qho
-meaning tsis txhais tas yog next week.
+xubqwb qij tes, qij taw, qij txha hmooblees qej teg, qej txaw, qej txhaa lo lus no yog lus suav 100%.
+hais raws li lus suav.
 
-thornsp,
-cov linguists yeej paub zoo txog cov lus hloov.  txawm hmoobdawb,
-hmooblees los yeej hloov.  lwm tsav hmoob los yej hloov.  lo lus nplaj
-teb no yuav qhuav hloov thaum cov hmooblees txhais phau vaj lus kub
-thawj zaug.  kuv ntseeg hais tias tej zaum koj yuav hais tias koj yeej
-ib txwm hnov hais hauv church.  lo lus limtiam txawm yog zoo ti yam li
-no ntag.  lo lus limpiam yog ib lo lus suav txhais hais tias week.
-ntawv suav sau ua "li3bie2 tawm lub suab ua lim-piav.  kuv xav kom koj
-sim tshawb saib seb thawj thawj paub vaj lus kub uas txhais ua ntej
-xyoo 1975 ntawv puas yog limtiam los tsis yog.
-lo lus pem suab mas kuv nyuam qhuav hnov xub thoj hais tawm thawj
-zaug.  thaum ntawd kuv xav tias ntshai yog yav tas los lawm uas pog
-suab yawg suab lubcaij.  lo lus suab no tsuas muaj suab uas yog tsob
-suab, suab li suab yi hauv pem teb, suab li lub suab hais lus, thiab
-suab li pog suab yawg suab.  kuv nyuam qhuav hnov cov hmoob nyob
-pajtawg hais tais,"tej num nav yeej ua tsi tau, yog peg suab tsis pum
-zoo."
-tzexa
+thaum peb rub lus suab e los ze ze rau ntawm tog ncauj qhov ncauj ces e kheev hloov ua i.
+thaum peb rub lub suab i rov mus rau tog qa ces i kheev hloov ua w.
 
-kab ntsab cov npoj yaig,
-ua nej tsaug ntau rau nej li kev xam pom thiab kev tsis qia dub nthuav
-nej li laj lim tuaj pab qhuab qhia nawb...
-ib lo uas kuv hnov txawv tiam sis dr. yang dao ho pab qhia yog:
-tseem fwv = governmental/official related; tiam sis ua ntej ntawv kuv
-ho hnov thiab tau siv lo "tsoom fwv"
-ua tsaug ntau, ntau cov npoj yaig...
--txiabneeb
+peb cov mhoob xiengkhouang li techaw, ces tony hais yog lus lawm ntag...
+tam li nhov nhov tej laus hais dhau los lawm os.
 
-kuv hais yuam kev lawm.
-kuv xav hais tias zoo li kuv hais tsis yog lawm.  kuv rov mus txheeb
-dua no lo lus suav tsis yog limpiam.  yog li3bai4 (limpaij).
-tz
+pobqejtes pobqejtaw==cov qijpobtxha ntawm cov yas ntivtes ntxivtaws born ib sim neej kuv tug laug nuav tsis tau nov lu lug "limpiam", nyav nov mej tug puav has yuam kev quas tshuav huv nuav xib kuv xaav tas tej zaag mej nov tsig tseeb xib, tsis has moob dlawb, moob leeg, kuv yeej ib txwm nov hab pum siv lu lug "lim tam/lim tiam" nuav lug lawm ntev, tsis taag le hov peb cov naj nub siv rua huv church los yeej siv le nuav, tej zaag yog tas koj nov dyd has nuav tej zaag yog yaw invented lu lug hov xib, muab ua tuab zoo saib mas lu lug "piam" nuav nwg has no connection rua yaav peg suab or yaav taag lug, lu lug "piam" nuav nwg txhais has tas puam tsuaj or ruin, yog le hov raws le kuv xaav xib mas lu lug "limpiam" nua yuam kev luj lawm unless nwg muaj nwg ib qho meaning tsis txhais tas yog next week.
 
-suav hais tias tseejfwm.
+thornsp, cov linguists yeej paub zoo txog cov lus hloov.
+txawm hmoobdawb, hmooblees los yeej hloov.
+lwm tsav hmoob los yej hloov.
+lo lus nplaj teb no yuav qhuav hloov thaum cov hmooblees txhais phau vaj lus kub thawj zaug.
+kuv ntseeg hais tias tej zaum koj yuav hais tias koj yeej ib txwm hnov hais hauv church.
+lo lus limtiam txawm yog zoo ti yam li no ntag.
+lo lus limpiam yog ib lo lus suav txhais hais tias week.
 
-kab ntsab cov npoj yaig,
-hmoob lus yog lus ua siv raws (descriptive language). yog siv kom muaj
-ciaj ciam txawm yuav hais li cas los tau.
-example: los lus (ciaj ciam) yog ob lo lus los siv uake ciaj + ciam
-ciaj:
-1. muaj sia; muaj zog uas xws li tsis tuag: tsob ntoo ciaj lawm. nws
-ciaj ces yog nws tsis tuag. 2. cig loj tuaj losyog hlob tuaj: lub
-cubtawg ciaj lawm. 3. muaj tawm tuaj; tshwm sim: ciaj yeeb ncuab. (v)
-1. live or alive. 2. living or growing. 3. become, to be.
-2. ua tsheej; ua tau ib yam tej: nws ciaj ib yig neej. 2.mus txia ua
-lwm haiv losyog lwm yam; tsheej: nws mus ciaj mab ciaj sua lawm. (v)
-1. become reality; to be. 2. transform into; to become.
-ciam:
-txoj kab uas quas; txoj kab uas kem losyog quas ob yam: wb tus ciam
-teb yog tus dej. tus dej yog tus ciam ntawm ob lub tebchaws. (n)
-boundary, border, division or separation line.
-muab tso ua kev: ciaj ciam, (yog sau kom muaj ciaj ciam txawm yuav
-hais li cas los tau) if write it within the guideline (standardize) it
-could be written in any form.
+ntawv suav sau ua "li3bie2 tawm lub suab ua lim-piav.
+kuv xav kom koj sim tshawb saib seb thawj thawj paub vaj lus kub uas txhais ua ntej xyoo 1975 ntawv puas yog limtiam los tsis yog.
 
-thorn,
-tej thaum peb has lug hmoob funny heev. kuv pheej make correction nyob
-rua huv cov ntseeg dlaim kom tswj sunday services. puab pheej nyam sau
-lu lug "limtam" nua heev.  kuv pheej make arguement nrug puab tas, ib
-lim tam yog muaj 50 xyoo. ib tam yog muaj 100 xyoo. yog le ib week
-luas tsuas hu ua limpiam/lis pias nua xwb.  ib txha puab has lug hais
-zog ces puab hu ua lispias nua. ib txha ho has tas yog limpiam/limpam
-nua.
-tzexa,
-laam nug koj es lu lug limtam nua puas txhais tau le kuv has tas yog
-50 xyoo?
+lo lus pem suab mas kuv nyuam qhuav hnov xub thoj hais tawm thawj zaug.
+thaum ntawd kuv xav tias ntshai yog yav tas los lawm uas pog suab yawg suab lubcaij.
+lo lus suab no tsuas muaj suab uas yog tsob suab, suab li suab yi hauv pem teb, suab li lub suab hais lus, thiab suab li pog suab yawg suab.
+kuv nyuam qhuav hnov cov hmoob nyob pajtawg hais tais,"tej num nav yeej ua tsi tau, yog peg suab tsis pum zoo."
+
+tzexa kab ntsab cov npoj yaig, ua nej tsaug ntau rau nej li kev xam pom thiab kev tsis qia dub nthuav nej li laj lim tuaj pab qhuab qhia nawb...
+
+ib lo uas kuv hnov txawv tiam sis dr.
+yang dao ho pab qhia yog: tseem fwv = governmental/official related; tiam sis ua ntej ntawv kuv ho hnov thiab tau siv lo "tsoom fwv" ua tsaug ntau, ntau cov npoj yaig...
+
+-txiabneeb kuv hais yuam kev lawm.
+
+kuv xav hais tias zoo li kuv hais tsis yog lawm.
+kuv rov mus txheeb dua no lo lus suav tsis yog limpiam.
+yog li3bai4 (limpaij).
+
+tz suav hais tias tseejfwm.
+
+kab ntsab cov npoj yaig, hmoob lus yog lus ua siv raws (descriptive language).
+yog siv kom muaj ciaj ciam txawm yuav hais li cas los tau.
+
+example: los lus (ciaj ciam) yog ob lo lus los siv uake ciaj + ciam ciaj: 1. muaj sia; muaj zog uas xws li tsis tuag: tsob ntoo ciaj lawm.
+nws ciaj ces yog nws tsis tuag.
+2. cig loj tuaj losyog hlob tuaj: lub cubtawg ciaj lawm.
+3. muaj tawm tuaj; tshwm sim: ciaj yeeb ncuab.
+(v) 1. live or alive.
+2. living or growing.
+3. become, to be.
+
+2. ua tsheej; ua tau ib yam tej: nws ciaj ib yig neej.
+2.mus txia ua lwm haiv losyog lwm yam; tsheej: nws mus ciaj mab ciaj sua lawm.
+(v) 1. become reality; to be.
+2. transform into; to become.
+
+ciam: txoj kab uas quas; txoj kab uas kem losyog quas ob yam: wb tus ciam teb yog tus dej.
+tus dej yog tus ciam ntawm ob lub tebchaws.
+(n) boundary, border, division or separation line.
+
+muab tso ua kev: ciaj ciam, (yog sau kom muaj ciaj ciam txawm yuav hais li cas los tau) if write it within the guideline (standardize) it could be written in any form.
+
+thorn, tej thaum peb has lug hmoob funny heev.
+kuv pheej make correction nyob rua huv cov ntseeg dlaim kom tswj sunday services.
+puab pheej nyam sau lu lug "limtam" nua heev.
+kuv pheej make arguement nrug puab tas, ib lim tam yog muaj 50 xyoo.
+ib tam yog muaj 100 xyoo.
+yog le ib week luas tsuas hu ua limpiam/lis pias nua xwb.
+ib txha puab has lug hais zog ces puab hu ua lispias nua.
+ib txha ho has tas yog limpiam/limpam nua.
+
+tzexa, laam nug koj es lu lug limtam nua puas txhais tau le kuv has tas yog 50 xyoo?
+
 ua tsaug.
+
 fajkhaum

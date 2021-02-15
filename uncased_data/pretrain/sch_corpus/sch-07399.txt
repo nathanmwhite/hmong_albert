@@ -1,261 +1,147 @@
-rau txhua tus phooj ywg:
-teeb meem hmoob khiav los nkaum rau thaib teb tsuas muaj suav hnub
-suav hmo tswm sim loj zuj zus ntxiv.  niaj hnub no hmoob quaj vig vig
-voog voog rau txhua txoj kab, khiav nkaum rau ub rau no los yeej nkaum
-tsis dim li, raug luag txhom li ntxom qaib ntim rau hauv pob tawb ib
-tug zuj zus.  yav nram ntej txij thaum lawv khiav los txog rau thaib
-teb ces luag cov tswv teb tswv chaws (phub yaim npab) lawv kuj lias
-nrog npog thiab qiv chaw rau lawv nkaum los txog rau hnub no, tab sis
-ziag no luag tseem fwv thaib tsheej siab thiab kab xuas maj ham thais
-tsis txaus siab rau cov phub yaim npab lawm, yog li no cov phub yaim
-npab yuav tau ua raws li luag txheej siab hais tuaj.  ntawd yog kom
-cov hmoob khiav tim nplog los nkaum rau lawv liaj ia teb chaws kav
-tsij tawm los mauj tuas rau luag tswv zej tswv zos, tsis li ntawd ces
-phub yaim npab yog cov mus txom lawv rau tseem fwv txheej siab ntag.
-raws li hnov mas tam sim no cov nyuag hmoob tim usa no uas tau mus
-ntxias kom lawv khiav los rau thaib teb tab sis txog kawg ho pab tsis
-tau lawv tuaj tseem ho yuav mus koom tes nrog rtg xa cov hmoob no rov
-qab mus rau nplog liab xib teg lawm thiab no.  yog muaj tseeb li hais
-tiag mas cov nyuag hmoob meskas tim no txuj kum muaj kuj sim aud.  tam
-kuv xav, ntshe yog cov hmoob uas raug xa rov qab no ho raug av luaj
-dag lim tawm los ua neeg tshiab dua lawm no mas ntshe lawv thiaj li
-yuav tsis nco qab thiab thiaj li yuav cim tsis tau tias cov thawj coj
-ntawm cov koom haum no yog leej twg lawm xwb laud.  tshwj xeeb tshaj
-plaws mas yog cov qub tub rog (vets) uas tau koom siav ciaj puav siav
-tuag zov lub teb lub chaw nkaus pem hav zoov los ze 30 xyoo no, txog
-kawg yam li mus tsis los, yog li ntawd lawv thiaj tau tso riam phom
-tseg khiav los qhau hau ua pej zeem zoo tau ib ntus rau hauv nom tswv
-nplog.  ziag no lawv ho raug dag tias yuav muaj refugee program tos
-lawv tuaj mus rau usa, yog li lawv thiaj li khiav tuaj.  tam sim no
-lawv raug teeb meem loj, lawv noj hno ntxuag kua muag vim thaib ntes
-tau txiv ces txiv raug xa mus, ntes tau niam ces niam raug xa mus, los
-yog ntes tau tub ki ces tub ki raug xa mus, qhov no tseem phem thiab
-txom nyem tshaj li nkaum rau hav zoov hav tsuag yav tag los lawm.
-tseeb tiag, cov uas tau mus dag lawv ntawd yuav tau siv zog tiag tiag
-mus cheem kom tau rtg tsis txhob xa cov neeg no rov qab mus rau nplog
-nawd, yog tsis li ntawd es lawv tseem raug thaib xa rov qab thiab yog
-lawv ho rov mus raug teeb meem mas kuv twv kiag hais tias yuav muaj
-dua ib tsug rog hmoob (hmoob nplog kubxaj vs. hmoob usa kubxaj), cov
-hmoob kubxaj/chao fab-nyab laj 30 xyoo tshiab yuav sawv coob heev tig
-ntsis phom rov tom qab li nawd.  tsis txhob xav tias lawv zoo li tsiaj
-txhu es yuav muab lawv thawb rov qab mus rau nplog, es nplog xav ntes
-lawv tus twg coj mus teem ntsuj teem hlauv rau pem nyuj vab teem thaum
-twg los tau no nawd.
+rau txhua tus phooj ywg: teeb meem hmoob khiav los nkaum rau thaib teb tsuas muaj suav hnub suav hmo tswm sim loj zuj zus ntxiv.
+niaj hnub no hmoob quaj vig vig voog voog rau txhua txoj kab, khiav nkaum rau ub rau no los yeej nkaum tsis dim li, raug luag txhom li ntxom qaib ntim rau hauv pob tawb ib tug zuj zus.
+yav nram ntej txij thaum lawv khiav los txog rau thaib teb ces luag cov tswv teb tswv chaws (phub yaim npab) lawv kuj lias nrog npog thiab qiv chaw rau lawv nkaum los txog rau hnub no, tab sis ziag no luag tseem fwv thaib tsheej siab thiab kab xuas maj ham thais tsis txaus siab rau cov phub yaim npab lawm, yog li no cov phub yaim npab yuav tau ua raws li luag txheej siab hais tuaj.
+ntawd yog kom cov hmoob khiav tim nplog los nkaum rau lawv liaj ia teb chaws kav tsij tawm los mauj tuas rau luag tswv zej tswv zos, tsis li ntawd ces phub yaim npab yog cov mus txom lawv rau tseem fwv txheej siab ntag.
+
+raws li hnov mas tam sim no cov nyuag hmoob tim usa no uas tau mus ntxias kom lawv khiav los rau thaib teb tab sis txog kawg ho pab tsis tau lawv tuaj tseem ho yuav mus koom tes nrog rtg xa cov hmoob no rov qab mus rau nplog liab xib teg lawm thiab no.
+yog muaj tseeb li hais tiag mas cov nyuag hmoob meskas tim no txuj kum muaj kuj sim aud.
+tam kuv xav, ntshe yog cov hmoob uas raug xa rov qab no ho raug av luaj dag lim tawm los ua neeg tshiab dua lawm no mas ntshe lawv thiaj li yuav tsis nco qab thiab thiaj li yuav cim tsis tau tias cov thawj coj ntawm cov koom haum no yog leej twg lawm xwb laud.
+tshwj xeeb tshaj plaws mas yog cov qub tub rog (vets) uas tau koom siav ciaj puav siav tuag zov lub teb lub chaw nkaus pem hav zoov los ze 30 xyoo no, txog kawg yam li mus tsis los, yog li ntawd lawv thiaj tau tso riam phom tseg khiav los qhau hau ua pej zeem zoo tau ib ntus rau hauv nom tswv nplog.
+ziag no lawv ho raug dag tias yuav muaj refugee program tos lawv tuaj mus rau usa, yog li lawv thiaj li khiav tuaj.
+tam sim no lawv raug teeb meem loj, lawv noj hno ntxuag kua muag vim thaib ntes tau txiv ces txiv raug xa mus, ntes tau niam ces niam raug xa mus, los yog ntes tau tub ki ces tub ki raug xa mus, qhov no tseem phem thiab txom nyem tshaj li nkaum rau hav zoov hav tsuag yav tag los lawm.
+
+tseeb tiag, cov uas tau mus dag lawv ntawd yuav tau siv zog tiag tiag mus cheem kom tau rtg tsis txhob xa cov neeg no rov qab mus rau nplog nawd, yog tsis li ntawd es lawv tseem raug thaib xa rov qab thiab yog lawv ho rov mus raug teeb meem mas kuv twv kiag hais tias yuav muaj dua ib tsug rog hmoob (hmoob nplog kubxaj vs.
+hmoob usa kubxaj), cov hmoob kubxaj/chao fab-nyab laj 30 xyoo tshiab yuav sawv coob heev tig ntsis phom rov tom qab li nawd.
+tsis txhob xav tias lawv zoo li tsiaj txhu es yuav muab lawv thawb rov qab mus rau nplog, es nplog xav ntes lawv tus twg coj mus teem ntsuj teem hlauv rau pem nyuj vab teem thaum twg los tau no nawd.
+
 muaj dab tsi mam li tshaj ntxiv rau nej paub dua.
-neohmong
 
-nplog thiab thaib yuav tsum ua zoo zoo kho cov teebmeem no nawb, ib me
-ntsis hmoob chim tuaj ces lawv yuav hajyam muaj teebmeem loj tuaj
-nawb.  hmoob tsis yog tas rau cov refugee no lawm xwb ov.  raus hais
-li no rau cov ntsej muag thaib thiab nplog uas niaj hnub tsim peb cov
-hmoob refugee xwb.  ua tsaug!
---brandon
+neohmong nplog thiab thaib yuav tsum ua zoo zoo kho cov teebmeem no nawb, ib me ntsis hmoob chim tuaj ces lawv yuav hajyam muaj teebmeem loj tuaj nawb.
+hmoob tsis yog tas rau cov refugee no lawm xwb ov.
+raus hais li no rau cov ntsej muag thaib thiab nplog uas niaj hnub tsim peb cov hmoob refugee xwb.
+ua tsaug!
 
-brandon,
-ua tsaug ntau!  hais txog cov teeb meem hmoog thoj nam no, raws peb
-sawv daws tau hnov, kuv tsis xav tias nplog thiab thaib yuav yog ob
-tug ris lub txim no tag tag nawd.  ntshe yog cov neeg hmoob uas khiav
-tuaj nkaum rau tim thaib ho lam hais dag no mas yuav hais tsis tau,
-hos tsis li mas yeej muaj tus tswv (hmong usa) mus haub ntxiav lawv
-tiag tiag hais tias meskas yuav qhib kev txais tos lawv tuaj rau teb
-chaws meskas no yog li ntawd mas lawv thiaj li tau khiav los rau thaib
-teb.
-li cas los qhov tseeb yuav tsum tawm tuaj ib hnub xwb xwb li thiaj
-tag.
-neohmong
+--brandon brandon, ua tsaug ntau!
+hais txog cov teeb meem hmoog thoj nam no, raws peb sawv daws tau hnov, kuv tsis xav tias nplog thiab thaib yuav yog ob tug ris lub txim no tag tag nawd.
+ntshe yog cov neeg hmoob uas khiav tuaj nkaum rau tim thaib ho lam hais dag no mas yuav hais tsis tau, hos tsis li mas yeej muaj tus tswv (hmong usa) mus haub ntxiav lawv tiag tiag hais tias meskas yuav qhib kev txais tos lawv tuaj rau teb chaws meskas no yog li ntawd mas lawv thiaj li tau khiav los rau thaib teb.
 
-tsim nyog tiag yuav tsum tau ua thaib tsaug vim thaib tseem ua siab
-ntev to rau hmoob. qhov nej suav daws yuav chim mas txhob lam mus chim
-rau thaib thiab nplog, tiam sis kom ua zoo saib ntawm nej ko taw saib
-yog leej twg mus tsim cov teeb meem no tawm tuaj. tej teebmeem no tsis
-yog thaib thiab nplog yog cov tsim nas es cas pheej mus hais tias luag
-phem. yus cov nyuag vimpires rov qab muab yus roj kib yus txhav xwb,
-yog nej yuav xyuam kom teg dej num no ntseg ces kav tsij rov ntsis
-phom rau saum nej hauv pliaj ces nyem qib xwb nej yeej yuav pom poob
-nrov poog xwb. tsis li ntawd ces yog nej saib deb dhau hwv lawm es nej
-yuam kev lawm os.
+li cas los qhov tseeb yuav tsum tawm tuaj ib hnub xwb xwb li thiaj tag.
 
-neohmong nej cov ua nyiam nyiam kubxaj thiab paub paub kambab kammoog
-kuj mus pab lawv daws lawv tej kev nyuaj siab nod, mas thiaj yuav rov
-heev. niamno vp kuj lau lawm yog leej twg yuav sawv tau yawd lub chow
-ce kavtsij zojzeeg ntag nawb. kuv kuj muaj ib tus nyuag xeebntxwv tuaj
-rog lawv lawm thiab tiag.
-ntxuabxwm
+neohmong tsim nyog tiag yuav tsum tau ua thaib tsaug vim thaib tseem ua siab ntev to rau hmoob.
+qhov nej suav daws yuav chim mas txhob lam mus chim rau thaib thiab nplog, tiam sis kom ua zoo saib ntawm nej ko taw saib yog leej twg mus tsim cov teeb meem no tawm tuaj.
+tej teebmeem no tsis yog thaib thiab nplog yog cov tsim nas es cas pheej mus hais tias luag phem.
+yus cov nyuag vimpires rov qab muab yus roj kib yus txhav xwb, yog nej yuav xyuam kom teg dej num no ntseg ces kav tsij rov ntsis phom rau saum nej hauv pliaj ces nyem qib xwb nej yeej yuav pom poob nrov poog xwb.
+tsis li ntawd ces yog nej saib deb dhau hwv lawm es nej yuam kev lawm os.
 
-cov phooj ywg awd,
-in reallity, thailand yeej encounter teeb meem immigration no los lawm
-ntev. lawv muab coj los categorize li no: 1/ aliens with proper
-papers. 2/temporary aliens such as refugees (vn, cambodia, laos,
-malaysia and myanmar) by millions. 3/ cov illegal aliens yog pab kuv
-piav saum toj no ntxiv rau cov tourists visas uas yog neeg suav,
-arabians, east indians, africans and europeans.
-how they treat these people? kuv yuav tham txog category 3 xwb vim tam
-sim no peb hmoob poob rau kis no lawm. cov neeg tuaj lwm lub teb chaws
-tuaj poob rau thaib teb tsis muaj ntaub ntawv los yog ntaub ntawv
-expired lawm yuav raug txhom los kaw rau lub vaj loog deportation.
-luag tshawb xyuas koj li ntaub ntawv, koj yog haiv neeg twg ces luag
-mam ceeb toom rau tus ambassador ntawd tuaj saib xyuas koj kev noj qab
-nyob zoo(welfare), yog koj yog citizen ces koj tus thuj mam pab leg
-ntaub ntawv rauv koj(air ticket, visas fee & jail fee)los txog tsev
-mam khwv them rov rau luag, yog koj muaj npav ntsuab xwb ces sorry.
-neeg coob li coob cuag kas xwb, there is no doubt about abuses and
-violences, un, churches and human right might get involve time to time
-when serious abuse occurred. vim thaib tsis txais refugee lawm, yog li
-txawm tuaj myanmar, cambodia and lpdr los luag mam muab tsheb tuaj
-thauj mus pov tom ciam teb xwb. this cat and mouse game happens every
-day, it is not the first time!!! cov cob nab thib nyuam qhuav rov los
-txog chawv xwb cov niag phamab, nplog thiab khabmeem ntawd twb ho los
-txog tag lawm thiab. why? vim hais tias muaj cov business people take
-this opportunity to look for sex expoitations and cheap labor or
-slavery.
-hmoob cases are no different from what i mentionned above. cov lus kuv
-hais no yog leej twg tsis ntseeg ces mus nyob thailand kom visas tas
-ces yeej yuav pom lub "ntuj tsaug" ntawd ntag nawb. nco ntsoov ua
-citizen tso mam mus ov.
+neohmong nej cov ua nyiam nyiam kubxaj thiab paub paub kambab kammoog kuj mus pab lawv daws lawv tej kev nyuaj siab nod, mas thiaj yuav rov heev.
+niamno vp kuj lau lawm yog leej twg yuav sawv tau yawd lub chow ce kavtsij zojzeeg ntag nawb.
+kuv kuj muaj ib tus nyuag xeebntxwv tuaj rog lawv lawm thiab tiag.
+
+ntxuabxwm cov phooj ywg awd, in reallity, thailand yeej encounter teeb meem immigration no los lawm ntev.
+lawv muab coj los categorize li no: 1/ aliens with proper papers.
+2/temporary aliens such as refugees (vn, cambodia, laos, malaysia and myanmar) by millions.
+3/ cov illegal aliens yog pab kuv piav saum toj no ntxiv rau cov tourists visas uas yog neeg suav, arabians, east indians, africans and europeans.
+
+how they treat these people?
+kuv yuav tham txog category 3 xwb vim tam sim no peb hmoob poob rau kis no lawm.
+cov neeg tuaj lwm lub teb chaws tuaj poob rau thaib teb tsis muaj ntaub ntawv los yog ntaub ntawv expired lawm yuav raug txhom los kaw rau lub vaj loog deportation.
+
+luag tshawb xyuas koj li ntaub ntawv, koj yog haiv neeg twg ces luag mam ceeb toom rau tus ambassador ntawd tuaj saib xyuas koj kev noj qab nyob zoo(welfare), yog koj yog citizen ces koj tus thuj mam pab leg ntaub ntawv rauv koj(air ticket, visas fee & jail fee)los txog tsev mam khwv them rov rau luag, yog koj muaj npav ntsuab xwb ces sorry.
+
+neeg coob li coob cuag kas xwb, there is no doubt about abuses and violences, un, churches and human right might get involve time to time when serious abuse occurred.
+vim thaib tsis txais refugee lawm, yog li txawm tuaj myanmar, cambodia and lpdr los luag mam muab tsheb tuaj thauj mus pov tom ciam teb xwb.
+this cat and mouse game happens every day, it is not the first time!!!
+cov cob nab thib nyuam qhuav rov los txog chawv xwb cov niag phamab, nplog thiab khabmeem ntawd twb ho los txog tag lawm thiab.
+why?
+vim hais tias muaj cov business people take this opportunity to look for sex expoitations and cheap labor or slavery.
+
+hmoob cases are no different from what i mentionned above.
+cov lus kuv hais no yog leej twg tsis ntseeg ces mus nyob thailand kom visas tas ces yeej yuav pom lub "ntuj tsaug" ntawd ntag nawb.
+nco ntsoov ua citizen tso mam mus ov.
+
 tseemyeej.
 
-yawg saub ntshuabxwm,
-luag tej laus hais tias "pom dua tsis cuag ua dua" no na has.  yog koj
-tsis tau ua dua no thov txhob raws maj tuag nawd, kav tsij npaj siab
-mus koom tes nrog yawg hlob nai phoo charlie lawv pawg nawd.  ntawm
-yawg hlob vp ces nws los li koj hais lawm, koj txhob cia siab rau yawg
-lawm nawd, kaj tsij mus nrog chengxiong thiab charlie xiong lawv cov
-hluas no ua mas thiaj li tau noj nawd.  koj yuav tau npaj nrawm nroos
-ua ntej luag tus hlob so es koj thiaj tau hnub daj li yawg nai phoo
-charlie laid.  koj tsis nco tej laus hais tias "ua ntej tau ntses,
-lawv qab tau nab" no lod?
+yawg saub ntshuabxwm, luag tej laus hais tias "pom dua tsis cuag ua dua" no na has.
+yog koj tsis tau ua dua no thov txhob raws maj tuag nawd, kav tsij npaj siab mus koom tes nrog yawg hlob nai phoo charlie lawv pawg nawd.
+ntawm yawg hlob vp ces nws los li koj hais lawm, koj txhob cia siab rau yawg lawm nawd, kaj tsij mus nrog chengxiong thiab charlie xiong lawv cov hluas no ua mas thiaj li tau noj nawd.
+koj yuav tau npaj nrawm nroos ua ntej luag tus hlob so es koj thiaj tau hnub daj li yawg nai phoo charlie laid.
+koj tsis nco tej laus hais tias "ua ntej tau ntses, lawv qab tau nab" no lod?
+
 ntawm kuv ces "nrog cawv/beer ua hauj lwm xwb" os yawg.
+
 by the way, thanks!
-neohmong
 
-tseemyeej,
-koj cov lus yeej tsis yuam kev ib qho kiag li, tiam sis kom sawv daws
-nco tias feem ntau ntawm lwm haiv neeg uas khiav tuaj nkaum rau thaib
-teb yam tsis tau kev tso cai (tsis muaj ntaub muaj ntawv) ntawd mas ua
-li hmoob hais "ntxawm yeem ntxawm" xwb od.  txhais tau hais tais lawv
-tuaj los lawv yeej willing to pay the price.  tab sis hais txog ntawm
-peb cov kwv tij hmoob tam sim no tuaj raug teeb meem tim thaib no mas
-txawv deb heev li nawd, lawv yeej tsis kam them lawv qhov nqi kiag li
-nawd, tseeb tseeb tiag, yeej muaj cov mus dag lawv es lawv thiaj li
-tau tuaj xyuam khuav rau tim thaib li tau hnov ntawd.
-nod yog kuv tham li qhov kuv hnov xwb.
-neohmong
+neohmong tseemyeej, koj cov lus yeej tsis yuam kev ib qho kiag li, tiam sis kom sawv daws nco tias feem ntau ntawm lwm haiv neeg uas khiav tuaj nkaum rau thaib teb yam tsis tau kev tso cai (tsis muaj ntaub muaj ntawv) ntawd mas ua li hmoob hais "ntxawm yeem ntxawm" xwb od.
+txhais tau hais tais lawv tuaj los lawv yeej willing to pay the price.
+tab sis hais txog ntawm peb cov kwv tij hmoob tam sim no tuaj raug teeb meem tim thaib no mas txawv deb heev li nawd, lawv yeej tsis kam them lawv qhov nqi kiag li nawd, tseeb tseeb tiag, yeej muaj cov mus dag lawv es lawv thiaj li tau tuaj xyuam khuav rau tim thaib li tau hnov ntawd.
 
-neohmong,
-tseeb tseeb tiag, yeej muaj cov mus dag lawv es lawv thiaj tau tuaj
-kuv tsuas tham txog tias thaum kawg yuav nkag kis twg xwb, hos hais
-txog cov mus dag lawv mas yog vim li no:
-vim tej niam tej txiv ntshaw ntshaw tub txawg tub ntse ces thiaj niaj
-xyoo ua "npas xim khiv tes" leej twg tuaj koom los yeej foom ib leeg
-ib los kom tau nom tau tswv tau faj tau fwv, zaum luag hauv rooj hais
-luag hauv lus, lam dag los kom luag lam ntseeg, lam hais los kom luag
-lam yuav bla bla bla....it was a psychological brain washed ces tus
-tub tus ntxhais ntawd muaj muaj siab kawg li, tab sis thaum mus kawm
-tiag tiag ho tsis txog qhov professionalism. thaum kawg, ntshai txaj
-muag thiaj lam mus kawm tej yam yooj yim zog es tsuav tau raws nraim
-li txoj kev foom tseg xwb, ex: anthropology thiab political science
-ntag tiag. cov drs. uas pheej mus ua ua cov hauj lwm koj hais no ces
-yog cov hov tag koj yawm. luag cov kawm professionalism mas luag kawm
-tiav nyawv nyov xwb twb muaj private los yog gov. tuaj sign contract
-ua ntej lawm nad.
-tseemyeej.
-tseemyeej,
-koj cov lus yeej tsis yuam kev ib qho kiag li, tiam sis kom sawv daws
-nco tias feem ntau ntawm lwm haiv neeg uas khiav tuaj nkaum rau thaib
-teb yam tsis tau kev tso cai (tsis muaj ntaub muaj ntawv) ntawd mas ua
-li hmoob hais "ntxawm yeem ntxawm" xwb od.  txhais tau hais tais lawv
-tuaj los lawv yeej willing to pay the price.  tab sis hais txog ntawm
-peb cov kwv tij hmoob tam sim no tuaj raug teeb meem tim thaib no mas
-txawv deb heev li nawd, lawv yeej tsis kam them lawv qhov nqi kiag li
-nawd, tseeb tseeb tiag, yeej muaj cov mus dag lawv es lawv thiaj li
-tau tuaj xyuam khuav rau tim thaib li tau hnov ntawd.
 nod yog kuv tham li qhov kuv hnov xwb.
-neohmong
-post by tseemyeej
-cov phooj ywg awd,
-in reallity, thailand yeej encounter teeb meem immigration no los lawm
-ntev. lawv muab coj los categorize li no: 1/ aliens with proper
-papers. 2/temporary aliens such as refugees (vn, cambodia, laos,
-malaysia and myanmar) by millions. 3/ cov illegal aliens yog pab kuv
-piav saum toj no ntxiv rau cov tourists visas uas yog neeg suav,
-arabians, east indians, africans and europeans.
-how they treat these people? kuv yuav tham txog category 3 xwb vim tam
-sim no peb hmoob poob rau kis no lawm. cov neeg tuaj lwm lub teb chaws
-tuaj poob rau thaib teb tsis muaj ntaub ntawv los yog ntaub ntawv
-expired lawm yuav raug txhom los kaw rau lub vaj loog deportation.
-luag tshawb xyuas koj li ntaub ntawv, koj yog haiv neeg twg ces luag
-mam ceeb toom rau tus ambassador ntawd tuaj saib xyuas koj kev noj qab
-nyob zoo(welfare), yog koj yog citizen ces koj tus thuj mam pab leg
-ntaub ntawv rauv koj(air ticket, visas fee & jail fee)los txog tsev
-mam khwv them rov rau luag, yog koj muaj npav ntsuab xwb ces sorry.
-neeg coob li coob cuag kas xwb, there is no doubt about abuses and
-violences, un, churches and human right might get involve time to time
-when serious abuse occurred. vim thaib tsis txais refugee lawm, yog li
-txawm tuaj myanmar, cambodia and lpdr los luag mam muab tsheb tuaj
-thauj mus pov tom ciam teb xwb. this cat and mouse game happens every
-day, it is not the first time!!! cov cob nab thib nyuam qhuav rov los
-txog chawv xwb cov niag phamab, nplog thiab khabmeem ntawd twb ho los
-txog tag lawm thiab. why? vim hais tias muaj cov business people take
-this opportunity to look for sex expoitations and cheap labor or
-slavery.
-hmoob cases are no different from what i mentionned above. cov lus kuv
-hais no yog leej twg tsis ntseeg ces mus nyob thailand kom visas tas
-ces yeej yuav pom lub "ntuj tsaug" ntawd ntag nawb. nco ntsoov ua
-citizen tso mam mus ov.
+
+neohmong neohmong, tseeb tseeb tiag, yeej muaj cov mus dag lawv es lawv thiaj tau tuaj kuv tsuas tham txog tias thaum kawg yuav nkag kis twg xwb, hos hais txog cov mus dag lawv mas yog vim li no: vim tej niam tej txiv ntshaw ntshaw tub txawg tub ntse ces thiaj niaj xyoo ua "npas xim khiv tes" leej twg tuaj koom los yeej foom ib leeg ib los kom tau nom tau tswv tau faj tau fwv, zaum luag hauv rooj hais luag hauv lus, lam dag los kom luag lam ntseeg, lam hais los kom luag lam yuav bla bla bla....
+it was a psychological brain washed ces tus tub tus ntxhais ntawd muaj muaj siab kawg li, tab sis thaum mus kawm tiag tiag ho tsis txog qhov professionalism.
+thaum kawg, ntshai txaj muag thiaj lam mus kawm tej yam yooj yim zog es tsuav tau raws nraim li txoj kev foom tseg xwb, ex: anthropology thiab political science ntag tiag.
+cov drs.
+uas pheej mus ua ua cov hauj lwm koj hais no ces yog cov hov tag koj yawm.
+luag cov kawm professionalism mas luag kawm tiav nyawv nyov xwb twb muaj private los yog gov.
+tuaj sign contract ua ntej lawm nad.
+
 tseemyeej.
-post by brandon thao
-nplog thiab thaib yuav tsum ua zoo zoo kho cov teebmeem no nawb, ib me
-ntsis hmoob chim tuaj ces lawv yuav hajyam muaj teebmeem loj tuaj
-nawb.  hmoob tsis yog tas rau cov refugee no lawm xwb ov.  raus hais
-li no rau cov ntsej muag thaib thiab nplog uas niaj hnub tsim peb cov
-hmoob refugee xwb.  ua tsaug!
---brandon
-post by neohmong
-teeb meem hmoob khiav los nkaum rau thaib teb tsuas muaj suav hnub
-suav hmo tswm sim loj zuj zus ntxiv.  niaj hnub no hmoob quaj vig vig
-voog voog rau txhua txoj kab, khiav nkaum rau ub rau no los yeej nkaum
-tsis dim li, raug luag txhom li ntxom qaib ntim rau hauv pob tawb ib
-tug zuj zus.  yav nram ntej txij thaum lawv khiav los txog rau thaib
-teb ces luag cov tswv teb tswv chaws (phub yaim npab) lawv kuj lias
-nrog npog thiab qiv chaw rau lawv nkaum los txog rau hnub no, tab sis
-ziag no luag tseem fwv thaib tsheej siab thiab kab xuas maj ham thais
-tsis txaus siab rau cov phub yaim npab lawm, yog li no cov phub yaim
-npab yuav tau ua raws li luag txheej siab hais tuaj.  ntawd yog kom
-cov hmoob khiav tim nplog los nkaum rau lawv liaj ia teb chaws kav
-tsij tawm los mauj tuas rau luag tswv zej tswv zos, tsis li ntawd ces
-phub yaim npab yog cov mus txom lawv rau tseem fwv txheej siab ntag.
-raws li hnov mas tam sim no cov nyuag hmoob tim usa no uas tau mus
-ntxias kom lawv khiav los rau thaib teb tab sis txog kawg ho pab tsis
-tau lawv tuaj tseem ho yuav mus koom tes nrog rtg xa cov hmoob no rov
-qab mus rau nplog liab xib teg lawm thiab no.  yog muaj tseeb li hais
-tiag mas cov nyuag hmoob meskas tim no txuj kum muaj kuj sim aud.  tam
-kuv xav, ntshe yog cov hmoob uas raug xa rov qab no ho raug av luaj
-dag lim tawm los ua neeg tshiab dua lawm no mas ntshe lawv thiaj li
-yuav tsis nco qab thiab thiaj li yuav cim tsis tau tias cov thawj coj
-ntawm cov koom haum no yog leej twg lawm xwb laud.  tshwj xeeb tshaj
-plaws mas yog cov qub tub rog (vets) uas tau koom siav ciaj puav siav
-tuag zov lub teb lub chaw nkaus pem hav zoov los ze 30 xyoo no, txog
-kawg yam li mus tsis los, yog li ntawd lawv thiaj tau tso riam phom
-tseg khiav los qhau hau ua pej zeem zoo tau ib ntus rau hauv nom tswv
-nplog.  ziag no lawv ho raug dag tias yuav muaj refugee program tos
-lawv tuaj mus rau usa, yog li lawv thiaj li khiav tuaj.  tam sim no
-lawv raug teeb meem loj, lawv noj hno ntxuag kua muag vim thaib ntes
-tau txiv ces txiv raug xa mus, ntes tau niam ces niam raug xa mus, los
-yog ntes tau tub ki ces tub ki raug xa mus, qhov no tseem phem thiab
-txom nyem tshaj li nkaum rau hav zoov hav tsuag yav tag los lawm.
-tseeb tiag, cov uas tau mus dag lawv ntawd yuav tau siv zog tiag tiag
-mus cheem kom tau rtg tsis txhob xa cov neeg no rov qab mus rau nplog
-nawd, yog tsis li ntawd es lawv tseem raug thaib xa rov qab thiab yog
-lawv ho rov mus raug teeb meem mas kuv twv kiag hais tias yuav muaj
-dua ib tsug rog hmoob (hmoob nplog kubxaj vs. hmoob usa kubxaj), cov
-hmoob kubxaj/chao fab-nyab laj 30 xyoo tshiab yuav sawv coob heev tig
-ntsis phom rov tom qab li nawd.  tsis txhob xav tias lawv zoo li tsiaj
-txhu es yuav muab lawv thawb rov qab mus rau nplog, es nplog xav ntes
-lawv tus twg coj mus teem ntsuj teem hlauv rau pem nyuj vab teem thaum
-twg los tau no nawd.
+
+tseemyeej, koj cov lus yeej tsis yuam kev ib qho kiag li, tiam sis kom sawv daws nco tias feem ntau ntawm lwm haiv neeg uas khiav tuaj nkaum rau thaib teb yam tsis tau kev tso cai (tsis muaj ntaub muaj ntawv) ntawd mas ua li hmoob hais "ntxawm yeem ntxawm" xwb od.
+txhais tau hais tais lawv tuaj los lawv yeej willing to pay the price.
+tab sis hais txog ntawm peb cov kwv tij hmoob tam sim no tuaj raug teeb meem tim thaib no mas txawv deb heev li nawd, lawv yeej tsis kam them lawv qhov nqi kiag li nawd, tseeb tseeb tiag, yeej muaj cov mus dag lawv es lawv thiaj li tau tuaj xyuam khuav rau tim thaib li tau hnov ntawd.
+
+nod yog kuv tham li qhov kuv hnov xwb.
+
+neohmong post by tseemyeej cov phooj ywg awd, in reallity, thailand yeej encounter teeb meem immigration no los lawm ntev.
+lawv muab coj los categorize li no: 1/ aliens with proper papers.
+2/temporary aliens such as refugees (vn, cambodia, laos, malaysia and myanmar) by millions.
+3/ cov illegal aliens yog pab kuv piav saum toj no ntxiv rau cov tourists visas uas yog neeg suav, arabians, east indians, africans and europeans.
+
+how they treat these people?
+kuv yuav tham txog category 3 xwb vim tam sim no peb hmoob poob rau kis no lawm.
+cov neeg tuaj lwm lub teb chaws tuaj poob rau thaib teb tsis muaj ntaub ntawv los yog ntaub ntawv expired lawm yuav raug txhom los kaw rau lub vaj loog deportation.
+
+luag tshawb xyuas koj li ntaub ntawv, koj yog haiv neeg twg ces luag mam ceeb toom rau tus ambassador ntawd tuaj saib xyuas koj kev noj qab nyob zoo(welfare), yog koj yog citizen ces koj tus thuj mam pab leg ntaub ntawv rauv koj(air ticket, visas fee & jail fee)los txog tsev mam khwv them rov rau luag, yog koj muaj npav ntsuab xwb ces sorry.
+
+neeg coob li coob cuag kas xwb, there is no doubt about abuses and violences, un, churches and human right might get involve time to time when serious abuse occurred.
+vim thaib tsis txais refugee lawm, yog li txawm tuaj myanmar, cambodia and lpdr los luag mam muab tsheb tuaj thauj mus pov tom ciam teb xwb.
+this cat and mouse game happens every day, it is not the first time!!!
+cov cob nab thib nyuam qhuav rov los txog chawv xwb cov niag phamab, nplog thiab khabmeem ntawd twb ho los txog tag lawm thiab.
+why?
+vim hais tias muaj cov business people take this opportunity to look for sex expoitations and cheap labor or slavery.
+
+hmoob cases are no different from what i mentionned above.
+cov lus kuv hais no yog leej twg tsis ntseeg ces mus nyob thailand kom visas tas ces yeej yuav pom lub "ntuj tsaug" ntawd ntag nawb.
+nco ntsoov ua citizen tso mam mus ov.
+
+tseemyeej.
+
+post by brandon thao nplog thiab thaib yuav tsum ua zoo zoo kho cov teebmeem no nawb, ib me ntsis hmoob chim tuaj ces lawv yuav hajyam muaj teebmeem loj tuaj nawb.
+hmoob tsis yog tas rau cov refugee no lawm xwb ov.
+raus hais li no rau cov ntsej muag thaib thiab nplog uas niaj hnub tsim peb cov hmoob refugee xwb.
+ua tsaug!
+
+--brandon post by neohmong teeb meem hmoob khiav los nkaum rau thaib teb tsuas muaj suav hnub suav hmo tswm sim loj zuj zus ntxiv.
+niaj hnub no hmoob quaj vig vig voog voog rau txhua txoj kab, khiav nkaum rau ub rau no los yeej nkaum tsis dim li, raug luag txhom li ntxom qaib ntim rau hauv pob tawb ib tug zuj zus.
+yav nram ntej txij thaum lawv khiav los txog rau thaib teb ces luag cov tswv teb tswv chaws (phub yaim npab) lawv kuj lias nrog npog thiab qiv chaw rau lawv nkaum los txog rau hnub no, tab sis ziag no luag tseem fwv thaib tsheej siab thiab kab xuas maj ham thais tsis txaus siab rau cov phub yaim npab lawm, yog li no cov phub yaim npab yuav tau ua raws li luag txheej siab hais tuaj.
+ntawd yog kom cov hmoob khiav tim nplog los nkaum rau lawv liaj ia teb chaws kav tsij tawm los mauj tuas rau luag tswv zej tswv zos, tsis li ntawd ces phub yaim npab yog cov mus txom lawv rau tseem fwv txheej siab ntag.
+
+raws li hnov mas tam sim no cov nyuag hmoob tim usa no uas tau mus ntxias kom lawv khiav los rau thaib teb tab sis txog kawg ho pab tsis tau lawv tuaj tseem ho yuav mus koom tes nrog rtg xa cov hmoob no rov qab mus rau nplog liab xib teg lawm thiab no.
+yog muaj tseeb li hais tiag mas cov nyuag hmoob meskas tim no txuj kum muaj kuj sim aud.
+tam kuv xav, ntshe yog cov hmoob uas raug xa rov qab no ho raug av luaj dag lim tawm los ua neeg tshiab dua lawm no mas ntshe lawv thiaj li yuav tsis nco qab thiab thiaj li yuav cim tsis tau tias cov thawj coj ntawm cov koom haum no yog leej twg lawm xwb laud.
+tshwj xeeb tshaj plaws mas yog cov qub tub rog (vets) uas tau koom siav ciaj puav siav tuag zov lub teb lub chaw nkaus pem hav zoov los ze 30 xyoo no, txog kawg yam li mus tsis los, yog li ntawd lawv thiaj tau tso riam phom tseg khiav los qhau hau ua pej zeem zoo tau ib ntus rau hauv nom tswv nplog.
+ziag no lawv ho raug dag tias yuav muaj refugee program tos lawv tuaj mus rau usa, yog li lawv thiaj li khiav tuaj.
+tam sim no lawv raug teeb meem loj, lawv noj hno ntxuag kua muag vim thaib ntes tau txiv ces txiv raug xa mus, ntes tau niam ces niam raug xa mus, los yog ntes tau tub ki ces tub ki raug xa mus, qhov no tseem phem thiab txom nyem tshaj li nkaum rau hav zoov hav tsuag yav tag los lawm.
+
+tseeb tiag, cov uas tau mus dag lawv ntawd yuav tau siv zog tiag tiag mus cheem kom tau rtg tsis txhob xa cov neeg no rov qab mus rau nplog nawd, yog tsis li ntawd es lawv tseem raug thaib xa rov qab thiab yog lawv ho rov mus raug teeb meem mas kuv twv kiag hais tias yuav muaj dua ib tsug rog hmoob (hmoob nplog kubxaj vs.
+hmoob usa kubxaj), cov hmoob kubxaj/chao fab-nyab laj 30 xyoo tshiab yuav sawv coob heev tig ntsis phom rov tom qab li nawd.
+tsis txhob xav tias lawv zoo li tsiaj txhu es yuav muab lawv thawb rov qab mus rau nplog, es nplog xav ntes lawv tus twg coj mus teem ntsuj teem hlauv rau pem nyuj vab teem thaum twg los tau no nawd.
+
 muaj dab tsi mam li tshaj ntxiv rau nej paub dua.
-neohmong
 
-koj loj sim txawj ntaus raug peb hmoob tug ntsa hlau...
+neohmong koj loj sim txawj ntaus raug peb hmoob tug ntsa hlau...
+
 ua tsaug..
+
 ms

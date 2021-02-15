@@ -1,260 +1,210 @@
-kab ntsab ib tsoom npoj yaig schlers,
-thov tas los thov thiab. thov nej pab nthuav nej li kev xam pom, pom
-zoo txaus siab siv los sis kev tshawb paub txog. cov tswv yim kuv xav
-tau mas yog tias muaj ib hnub es peb yuav hloov yuav plhis los muab
-peb hmoob li kev hais lus thiab sau ntawv kom xws raws li cov lus
-english. thov pab nrog ntaus tswv yim rau cov ntsiab lus li nram no:
-1. sentence and paragraph: yog yuav muab tis npe hmoob no nej ho xam
-pom kom tis li cas?
-kuv li kev xam pom ntawm kuv lub nyuag ntug cub xwb ces yog li no:
-sentence = kab lus hos
-paragraph = sob lus;
-2. punctuation mark: ?
-period (.) = ?
-comma (,) = ?
-question mark (?) = ?
-exclamation mark (!) = ?
+kab ntsab ib tsoom npoj yaig schlers, thov tas los thov thiab.
+thov nej pab nthuav nej li kev xam pom, pom zoo txaus siab siv los sis kev tshawb paub txog.
+cov tswv yim kuv xav tau mas yog tias muaj ib hnub es peb yuav hloov yuav plhis los muab peb hmoob li kev hais lus thiab sau ntawv kom xws raws li cov lus english.
+thov pab nrog ntaus tswv yim rau cov ntsiab lus li nram no: 1. sentence and paragraph: yog yuav muab tis npe hmoob no nej ho xam pom kom tis li cas?
+
+kuv li kev xam pom ntawm kuv lub nyuag ntug cub xwb ces yog li no: sentence = kab lus hos paragraph = sob lus; 2. punctuation mark:?
+
+period (.)
+=?
+
+comma (,) =?
+
+question mark (?)
+=?
+
+exclamation mark (!)
+=?
+
 colon (:) =?
-semi-colon (;) = ?
-quotation mark (" ") = ?
-apostrophe mark (') = ?
-hyphen (-) = ?
-slash (/) = ?
-dash (- -) = ?
-parentheses ( ) = ?
-bracket [ ] = ?
-http://grammar.ccc.commnet.edu/grammar/marks/marks.htm
-period || comma || question mark || exclamation mark || colon ||
-semicolon || hyphen || dash
-parentheses || brackets || ellipsis || apostrophe || quotation marks
-|| slash
-note: cov kuv pom uas tis npe rau lawm ces yog ywjpheej thiab ntses
-(jay) xyooj tis nyob rau hauv nkawv ob phau dictionarys.
-3. part of speech = ?
-noun = ?
-adjective = ?
-verb = ?
-adverb = ?
-proposition = ?
-4. word compound: yog peb yuav xyaum sau ntawv dhos ua ke (word
-compound) no puas yuav tsim nyog tsim tsa ib co tswv yim
-(recommendation) los coj peb hau kev? piv txwv, ib lub tswv yim ces
-peb tsuas dhos (combine) noun xwb; txiab neeb = txiabneeb (this name
-can be reference to both the name txiabneeb and the object/tool
-txiabneeb); tau hau = taubhau (head) and taub hau (boiled pumpkin);
-kwv tij = kwvtij (paternal relatives) and kwv tij (younger and older
-brother)...
+
+semi-colon (;) =?
+
+quotation mark (" ") =?
+
+apostrophe mark (') =?
+
+hyphen (-) =?
+
+slash (/) =?
+
+dash (- -) =?
+
+parentheses () =?
+
+bracket [ ] =?
+
+http://www.website.net period || comma || question mark || exclamation mark || colon || semicolon || hyphen || dash parentheses || brackets || ellipsis || apostrophe || quotation marks || slash note: cov kuv pom uas tis npe rau lawm ces yog ywjpheej thiab ntses (jay) xyooj tis nyob rau hauv nkawv ob phau dictionarys.
+
+3. part of speech =?
+
+noun =?
+
+adjective =?
+
+verb =?
+
+adverb =?
+
+proposition =?
+
+4. word compound: yog peb yuav xyaum sau ntawv dhos ua ke (word compound) no puas yuav tsim nyog tsim tsa ib co tswv yim (recommendation) los coj peb hau kev?
+piv txwv, ib lub tswv yim ces peb tsuas dhos (combine) noun xwb; txiab neeb = txiabneeb (this name can be reference to both the name txiabneeb and the object/tool txiabneeb); tau hau = taubhau (head) and taub hau (boiled pumpkin); kwv tij = kwvtij (paternal relatives) and kwv tij (younger and older brother)...
+
 ua tsaug = thanks!
+
 ua koj tsaug = thank you!
+
 ua meb/neb tsaug = thank you, you two!
+
 ua mej/nej tsaug = thank you all!
--txiabneeb
 
-txiabneeb,
-yog koj muab xav ntau los yeej ntau nawb, tabsi yog koj tsi muab xav
-los yeej tsi luaj twg.  koj muab ua twb zoo tshawbfawb thiab saib txog
-li cov neeg nplog thiab thaib ned.  lawv cov ntaub ntawv sau mas
-cabsab sib txhua pedaws xwb, los lawv twb yog ib haivneeg thiab luag
-tej ntaub tej ntawv twb mus tau nev.  yog li, ua twbzoo tshawbfawb mus
-seb qhov twg zoo los muab kho ntxiv rau, qhov twg siv tau li cas los
-muab standardize rau nawb.
-born
+-txiabneeb txiabneeb, yog koj muab xav ntau los yeej ntau nawb, tabsi yog koj tsi muab xav los yeej tsi luaj twg.
+koj muab ua twb zoo tshawbfawb thiab saib txog li cov neeg nplog thiab thaib ned.
+lawv cov ntaub ntawv sau mas cabsab sib txhua pedaws xwb, los lawv twb yog ib haivneeg thiab luag tej ntaub tej ntawv twb mus tau nev.
+yog li, ua twbzoo tshawbfawb mus seb qhov twg zoo los muab kho ntxiv rau, qhov twg siv tau li cas los muab standardize rau nawb.
 
-zoo tswv yim kawg tabsis txhob muab xav ntau ntau tsam hmoob
-ho rov tsis kam kawm ntawv hmoob lawm thiab os.
-ntawv hmoob mas koj yim kho yim xav kom yog yog mas yim make mistake
-li os
-kuv twb kho kuv cov right tas zog li los yeej tseem tsis yog li.
-its like one blink of an eye xwb los lus twb change kiag lawm
-ho lub hlwb twb hloov kiag tias yog li no lawm .....
+born zoo tswv yim kawg tabsis txhob muab xav ntau ntau tsam hmoob ho rov tsis kam kawm ntawv hmoob lawm thiab os.
+
+ntawv hmoob mas koj yim kho yim xav kom yog yog mas yim make mistake li os kuv twb kho kuv cov right tas zog li los yeej tseem tsis yog li.
+
+its like one blink of an eye xwb los lus twb change kiag lawm ho lub hlwb twb hloov kiag tias yog li no lawm.....
+
 mob hlwb xwb....
 
-kuv tsi paub yuav paab koj le caag tab sis cov ntseeg vaajtswv tseem
-taab tom khu phoo vaajlugkub, kuv nov has tas dr. nyaj looj yaaj yog
-tug khu.  tej zag nwg yuav muaj lub tswv yim txug zaaj nuav.  nwg yuav
-khu kuas zoo dlua qub hab khu kuas meej dlua qub tuaj.  phoo
-vaajlugkub ntawd yuav siv ntev hab yuav nyob moog le, kuv ntseeg tas
-cov lug moob kws nwg siv yuav nyob ruaj khov hab yuav yog cov written
-language rua moob.
+kuv tsi paub yuav paab koj le caag tab sis cov ntseeg vaajtswv tseem taab tom khu phoo vaajlugkub, kuv nov has tas dr.
+nyaj looj yaaj yog tug khu.
+tej zag nwg yuav muaj lub tswv yim txug zaaj nuav.
+nwg yuav khu kuas zoo dlua qub hab khu kuas meej dlua qub tuaj.
+phoo vaajlugkub ntawd yuav siv ntev hab yuav nyob moog le, kuv ntseeg tas cov lug moob kws nwg siv yuav nyob ruaj khov hab yuav yog cov written language rua moob.
 
-moob loojceeb,
-kev txhim kho ces yeej yuav muaj mus los txhua lub sij hawm. tiam sis
-kuv li kev nug txog nej hnub no tsuas yog nug los txhawb kuv li kev
-kawm xwb.
-hais txog ntawm dr. nyaj looj yaaj puab hov kuv kuj hnov kua me ntsig
-lawm hab. tam sis kuv nrhav tsis tau dr. nyaj looj tus email es thiaj
-tsis tau txuas lus nrog nws xwb. yog koj muaj no thov muab rau kuv
-thiab puas tau? hais txog ntawv vaj lug kub ces peb hauv paus koom
-hauv hmong baptist national association kuj yog cov tswj cov tuav nyob
-rau hauv zos oakdale, mn.
-like the famous english phrase: ...if we don't change, change will
-pass us by...we have to constantly view change as positive progress!
+moob loojceeb, kev txhim kho ces yeej yuav muaj mus los txhua lub sij hawm.
+tiam sis kuv li kev nug txog nej hnub no tsuas yog nug los txhawb kuv li kev kawm xwb.
+
+hais txog ntawm dr.
+nyaj looj yaaj puab hov kuv kuj hnov kua me ntsig lawm hab.
+tam sis kuv nrhav tsis tau dr.
+nyaj looj tus email es thiaj tsis tau txuas lus nrog nws xwb.
+yog koj muaj no thov muab rau kuv thiab puas tau?
+hais txog ntawv vaj lug kub ces peb hauv paus koom hauv hmong baptist national association kuj yog cov tswj cov tuav nyob rau hauv zos oakdale, mn.
+
+like the famous english phrase:...
+if we don't change, change will pass us by...
+we have to constantly view change as positive progress!
+
 ua tsaug!
--txiabneeb
 
-tzianeng thiab sawvdawd,
-kuv tau nyeem cov ntsiablus thiab nws cov ntawv teeb rau lus hmoob
-nyob rau qhov txuas (link) no kuj ua rau kuv lbu qhovmuag qhib thiab
-pom ntau yam txog kev siv, sau, thiab hais lus hmoob kom meej, muaj
-qabhau, thiab raws kevcai.  kuv los kuj xav tias tsimnyog peb yuav tau
-txaisyuav, lossis txhimkho tej uas twb tshwmsim muaj no lawm.  nej
-nrog kuv nyeem thiab saib sawvdaws ho xav licas.
-http://www.hmongnet.org/hmong-au/lus4.htm
-kuamemiab
+-txiabneeb tzianeng thiab sawvdawd, kuv tau nyeem cov ntsiablus thiab nws cov ntawv teeb rau lus hmoob nyob rau qhov txuas (link) no kuj ua rau kuv lbu qhovmuag qhib thiab pom ntau yam txog kev siv, sau, thiab hais lus hmoob kom meej, muaj qabhau, thiab raws kevcai.
+kuv los kuj xav tias tsimnyog peb yuav tau txaisyuav, lossis txhimkho tej uas twb tshwmsim muaj no lawm.
+nej nrog kuv nyeem thiab saib sawvdaws ho xav licas.
 
-txabneeb hab ib tsoom phoojywg moob,
-zoo sab heev tau tuaj ntsib mej dlua. txabneeb... cov lug koj noog
-ntawd yog koj le interest xaav paub tabsi vim le caag muaj ntau tug
-tub txawj, ntxhais ntse tau tshawb fawb nrhav lug moob sau kom meej,
-nrhav kom moob sau ntawv moob kom muaj grammatical raw luag pej kum
-haiv le ntawv, tshawb fawb cov lug thsab coj lug kawm hab qhas rua
-suavdlawg tabsi leej twg ua los tsi muaj eleej twg siv, tsi quav ntsej
-siv, vim yog peb moob, yug nyam ua yug ib leeg kom yug nrov. yog thaum
-le nuav yuav tsi muaj leej twg siv yug le tej lug tshab.
-kuv xaav mas mej cov tub, ntxhais moob kws tau kawm kev cob qhas,
-languastic, yuav tau tsim tsaa ib lub koomhum thoob nplajteb, but need
-a big chunk of dollar, $5 m-10m to support the organization at least
-7-10 years to be completed. tsi le nuav ces mej tshawb fawb taag los
-tsi muaj leej twg siv le nawb. ua le moob loojceeb has lug sau toj
-nuav. the cma conference, christian missionary alliance, lug txhais
-phau vaajlug kub lug ua lug moob xwb twb txhais tau ntev kawg tseem
-tsi tau tav taag nro the old and the new bible book.
-xyoo 2006 taag lug nuav kuv tau moog ntsib ib tug phoojywg moob
-nyaablaaj, yog ib tus tseemceeb kawg nyob rua saab nyaablaaj teb kuv
-tau pav txug sob lug moob ntawv. nwg yeej has tuab yaam le kuv has
-nuav hab, need to have a committee.
-yog thaum muaj le nuav lawm tsi has lug moob leeg, lug moob dlawb peb
-ua ke tshawb fawb coj lug moog siv.  zoo le ly ying australia, former
-professor, cov lug hab ntawv koomsuab  2 lus, 3 lus or more than yawm
-tsua nrhav ntawv moob dlawb xwb. qhov nuav twb tsi muaj leej twg nrug
-yawm nhrav ces kawg yug siv sij hawm ntau lug moog tshawb fawb los tsi
-muaj leej twg siv ces waste the time only.
+http://www.website.net kuamemiab txabneeb hab ib tsoom phoojywg moob, zoo sab heev tau tuaj ntsib mej dlua.
+txabneeb...
+cov lug koj noog ntawd yog koj le interest xaav paub tabsi vim le caag muaj ntau tug tub txawj, ntxhais ntse tau tshawb fawb nrhav lug moob sau kom meej, nrhav kom moob sau ntawv moob kom muaj grammatical raw luag pej kum haiv le ntawv, tshawb fawb cov lug thsab coj lug kawm hab qhas rua suavdlawg tabsi leej twg ua los tsi muaj eleej twg siv, tsi quav ntsej siv, vim yog peb moob, yug nyam ua yug ib leeg kom yug nrov.
+yog thaum le nuav yuav tsi muaj leej twg siv yug le tej lug tshab.
+
+kuv xaav mas mej cov tub, ntxhais moob kws tau kawm kev cob qhas, languastic, yuav tau tsim tsaa ib lub koomhum thoob nplajteb, but need a big chunk of dollar, $5 m-10m to support the organization at least 7-10 years to be completed.
+tsi le nuav ces mej tshawb fawb taag los tsi muaj leej twg siv le nawb.
+ua le moob loojceeb has lug sau toj nuav.
+the cma conference, christian missionary alliance, lug txhais phau vaajlug kub lug ua lug moob xwb twb txhais tau ntev kawg tseem tsi tau tav taag nro the old and the new bible book.
+
+xyoo 2006 taag lug nuav kuv tau moog ntsib ib tug phoojywg moob nyaablaaj, yog ib tus tseemceeb kawg nyob rua saab nyaablaaj teb kuv tau pav txug sob lug moob ntawv.
+nwg yeej has tuab yaam le kuv has nuav hab, need to have a committee.
+
+yog thaum muaj le nuav lawm tsi has lug moob leeg, lug moob dlawb peb ua ke tshawb fawb coj lug moog siv.
+zoo le ly ying australia, former professor, cov lug hab ntawv koomsuab 2 lus, 3 lus or more than yawm tsua nrhav ntawv moob dlawb xwb.
+qhov nuav twb tsi muaj leej twg nrug yawm nhrav ces kawg yug siv sij hawm ntau lug moog tshawb fawb los tsi muaj leej twg siv ces waste the time only.
+
 kuv xaam pum le nuav xwb.
 
-py txiabneeb,
-kev txhim kho ntawd/lus, yog yus kho yus tib leeg tsis muaj leej twg
-paub txog. txog thaum kho tau raws li yus tib lub tswv yim thiab kev
-txawj ntse xwb, yeej tseem tshua ntau lo thiab ntau yam uas lwm leej
-lwm tus pom thiab xav txawv yus lub tswv yim lawm. yog li ntawd, kev
-coj tuaj tham rau huv ib lub forum li no mas yog ib qho uas zoo tshaj
-plaws. yog yus tawm tau lub tswv yim zoo tsis txaus los yeej muaj lwm
-leej lwm tus pom lwm lo zoo dua, ces sawvdaws twb muab sib kho sib kho
-rau tau zoo lawm. yog thaum feem coob pom zoo rau qhov twg lawm, qhov
-ntawd yeej zoo siv dua.
-cia kuv pib tawm tswv yim ntxiv rau koj cov lus nug, es lwm tus mam
-los kho rau thiab tawm tswv yim ntxiv.
-1. sentence and paragraph:
-sentence = sob lus
-paragraph = txheej lus
-ntiv co no rau thiab,
-phrase = kab lus
-topic = zaj lus
-introduction = ncauj lug
-lesson = sobkawm
-cov lo lus kuv yuav sau hauv no mas yog lus tshiab xwb nawb. thawj
-zaug hnov xwb mas ntshe yuav muaj ntsis xu siab od!
-2. punctuation mark: cim
-period (.) = cim nres
-kuv mua tus cim no tis npe ua "cim nres" vim muab txhais ncaj qha los
-ntawm lo lus "full stop".
-comma (,) = cim ncua
-kuv mua tus cim no ti npe ua "cim ncua" vim thaum yus hais lus tag ib
-kab, yus ncua me ntsis mam rov hais kom tag sob lus. pivtxwv: yog koj
-hlub kuv ib leeg xwb tiag tiag, kuv yuav tso plhuav kuv lub neej, lub
-cuab tam, thiab txoj sia rau koj ib leeg.
-question mark (?) = cim nug
-tus cim no los yeej cia li hu raws nws lub ntsiab xwb.
-exclamation mark (!) = cim seev
-kuv muab tus cim no tis npe hu ua cim seev, vim thaum yus hais tej lo
-lus uas nws muaj lub suab seev ces mam siv xwb. pivtxwv li: ntuj e!,
-uaj! ab!, haub yau!
-colon (:) = cim nov
-kuv muab nws ti npe hu ua cim nov vim hais tias peb tsuas siv thaum
-peb hais lo lus li nov (li no), xws li no, nram qab no, pivtxwv li
-no ....
-semi-colon (;) = cim txuas
-kuv muab tus cim no hu ua cim txuas vim hais tias nws siv los muab ob
-sob lus coj los txuas ua ib sob. pivtxwv li no: thov koj hlub kuv ib
-leeg xwb tiag tiag nawb; kuv yuav tso plhuav kuv lub neej, lub cuab
-tam, thiab txoj sia rau koj ib leeg thiab xwb od!
-quotation mark (" ") = cim qog
-tos kuv muab hu ua cim qog no los vim peb siv rau thaum yus qog lwm
-tus cov lus, xws li: hmoob-lao nyiam siv cov lus hais tias "phoojywg",
-hos txawj vam yias mas ho nyiam siv lo lus hais tias "peb yog ib".
-apostrophe mark (') = cim hla
-kuv muab tis npe hu ua cim hla vim hais tias siv rau thaum yus hla ob-
-peb tug ntawv es tsis sau kom tag. nyob rau tamsis no mas kuv tsis tau
-pom hmoob siv tus cim no li, tabsis nws yuav raug siv rau yav tom ntej
-no.
-dash (-) = cim kes
-tus cim kes no los cia li hu raws li qhov nws kes ib kab xwb.
-hyphen (_) = cim kesqis
-tus cim kesqis no los cia li hu raws li qhov nws kes ib kab qis qis
-xwb. tus cim no mas hmoob tsis tshuav siv, tabsis yav tom ntej no yeej
-yuav siv thiab.
-slash (/) = cim kem
-tus cim no kuv muab hu ua cim kem no vim peb siv nws los kem ob lo
-lus, xws li: pojnim/txivneej etc....
-parentheses ( ) = cim thaiv
-kuv muab hu ua cim thaiv vim hais tias nws thaiv tom hauv ntej thiab
-thaiv tom qab.
-bracket [ ] = cim sua
-kuv muab hu ua sua vim hais tias nws sua tom hauv ntej thiab sua tom
-qab los ua ib kev.
-braces { } = cim puag
-kuv muab hu ua cim puag vim hais tias nws puag tag nrho rau hauv
-plawv. pivtxwv li kab zauv nram qab no:
-{[4(2+5)]-2}/2 = 13
-yog leej twg tsis nyiam qhov twg, tiab xav hloov qhov twg los yeej
-meem tawm tswv yim ntxiv,
-hl
+py txiabneeb, kev txhim kho ntawd/lus, yog yus kho yus tib leeg tsis muaj leej twg paub txog.
+txog thaum kho tau raws li yus tib lub tswv yim thiab kev txawj ntse xwb, yeej tseem tshua ntau lo thiab ntau yam uas lwm leej lwm tus pom thiab xav txawv yus lub tswv yim lawm.
+yog li ntawd, kev coj tuaj tham rau huv ib lub forum li no mas yog ib qho uas zoo tshaj plaws.
+yog yus tawm tau lub tswv yim zoo tsis txaus los yeej muaj lwm leej lwm tus pom lwm lo zoo dua, ces sawvdaws twb muab sib kho sib kho rau tau zoo lawm.
+yog thaum feem coob pom zoo rau qhov twg lawm, qhov ntawd yeej zoo siv dua.
 
-hl, koj cov npe ntawd muaj kuab hab ncaaj kawg!  qhov yuav siv tau hab
-tsi tau nyob ntawm qhov kws peb muaj chaw kawm hab chaw siv xwb.
+cia kuv pib tawm tswv yim ntxiv rau koj cov lus nug, es lwm tus mam los kho rau thiab tawm tswv yim ntxiv.
 
-kuamemiab,
-uatsaug os, qhov caabsaab koj muab tuaj qha rua peb ntawd zoo heev.
-peb yeej paub siv peb moob tej lug kuas peb tsi cais losyog tsi tis
-npe rua es thaus peb kawm losyog qha ces peb tsi paub pav lawm xwb.
-thaus muab peb cov lug piv rua meskas les, qho yaam kuj muaj hab qho
-yaam kuj tu lawm.  txawm yog le ntawd los qhov ntawd yog qhov kws peb
-siv tau ces nwg yeej muaj qaabhau rua peb.
-cov npe ntawd yog tis kuas nyob rua lub sibhawm nuav (up to date), qho
-yaam kuj muaj kuab, qhov yaam kuj covnplaig kawg.  yog has tas peb sau
-tau, siv tau, hab qha tau ces peb yeej yuav paub zujzug tuaj.
-nwg muaj ob-peb yaam kws kuv pum es tsitshuam dlhos zoo:
-1.  be (npe), yuav siv tsi tau lug ua lug moob.  kuv pum zoo siv tug
-qub vim has tas, nwg txawv los txawv, yoojyim los yoojyim, uas rua peb
-xaav mooglug ntau ces laaj ncu tau lulug ntawd kuas meej.
-2. lug txhawb xws le "sib" hlub tseem tsi tshuam meej pestsawg vim nwg
-txhais tau ntau lub ntsablug.  txawm yuav muab sau sistxuas le
-"sibhlub" los nwg tsi yog lug txhawb lawm, nwg yog ib lulug tshab.
-3. lulug "rhuv" kuj yog ib lulug ntxiv kws qha kuas lub meejmoom ntawd
-meej tamsis sau ua "daj rhuv" yuav muaj ob-peb lub ntsab lug rua huv
-lawm.  qhov zoo yuav tau dau ua "dajrhuv" ib lulug kws muaj ob lub
-suab. sau le ntawd, nwg txhajle muaj tuab lub ntsablug xwb.
-kuv ca sab has tas, tsi ntev tom ntej, peb moob yuav muaj
-"mojkuab"  (grammar) ntawv moob kawm.  thaus ntawd, peb yuav muaj npe
-rua peb tej lug, muaj txheejtxheem, ces pum qaab kawm, qha, hab siv
-lawm.
+1. sentence and paragraph: sentence = sob lus paragraph = txheej lus ntiv co no rau thiab, phrase = kab lus topic = zaj lus introduction = ncauj lug lesson = sobkawm cov lo lus kuv yuav sau hauv no mas yog lus tshiab xwb nawb.
+thawj zaug hnov xwb mas ntshe yuav muaj ntsis xu siab od!
 
-tony, es koj ho muab lo lus "mojkuab" no qhov twg los?  txhais li cas
-thiaj li muaj tau lub ntsiab lus tias yog grammar?  qhia paub thiab
-saib...  uatsaug.
+2. punctuation mark: cim period (.)
+= cim nres kuv mua tus cim no tis npe ua "cim nres" vim muab txhais ncaj qha los ntawm lo lus "full stop".
 
-tony, es koj ho muab lo lus "mojkuab" no qhov twg los?  txhais li cas
-thiaj li muaj tau lub ntsiab lus tias yog grammar?  qhia paub thiab
-saib...  uatsaug.
-nwg lug ntawm "ntawv caubfab."  kuv nov puab siv es kuj los "muaj
-kuab" kawg le ces kuv siv xwb.  puab pav has tas "mojkuab" sau ntawd
-yuav tsum sau kuas raug hab siv cov lug kuas yog xws le lug lajfai
-(official language) hab lug vaajtsev (streat talk).
-pivtxwv le:
-kuv = i
-ki = he
-nyuas= she
-tus (nwg) = it
-koj = you
-puab = they
-peb siv "tus" tibneeg tsis yog lawm.  qhov yog mas peb yuav tau siv
-"tug" tibneeg.  tus yog siv rau tsiaj, hos tug yog siv rau tibneeg.
+comma (,) = cim ncua kuv mua tus cim no ti npe ua "cim ncua" vim thaum yus hais lus tag ib kab, yus ncua me ntsis mam rov hais kom tag sob lus.
+pivtxwv: yog koj hlub kuv ib leeg xwb tiag tiag, kuv yuav tso plhuav kuv lub neej, lub cuab tam, thiab txoj sia rau koj ib leeg.
+
+question mark (?)
+= cim nug tus cim no los yeej cia li hu raws nws lub ntsiab xwb.
+
+exclamation mark (!)
+= cim seev kuv muab tus cim no tis npe hu ua cim seev, vim thaum yus hais tej lo lus uas nws muaj lub suab seev ces mam siv xwb.
+pivtxwv li: ntuj e!, uaj!
+ab!
+, haub yau!
+
+colon (:) = cim nov kuv muab nws ti npe hu ua cim nov vim hais tias peb tsuas siv thaum peb hais lo lus li nov (li no), xws li no, nram qab no, pivtxwv li no....
+
+semi-colon (;) = cim txuas kuv muab tus cim no hu ua cim txuas vim hais tias nws siv los muab ob sob lus coj los txuas ua ib sob.
+pivtxwv li no: thov koj hlub kuv ib leeg xwb tiag tiag nawb; kuv yuav tso plhuav kuv lub neej, lub cuab tam, thiab txoj sia rau koj ib leeg thiab xwb od!
+
+quotation mark (" ") = cim qog tos kuv muab hu ua cim qog no los vim peb siv rau thaum yus qog lwm tus cov lus, xws li: hmoob-lao nyiam siv cov lus hais tias "phoojywg", hos txawj vam yias mas ho nyiam siv lo lus hais tias "peb yog ib".
+
+apostrophe mark (') = cim hla kuv muab tis npe hu ua cim hla vim hais tias siv rau thaum yus hla ob-peb tug ntawv es tsis sau kom tag.
+nyob rau tamsis no mas kuv tsis tau pom hmoob siv tus cim no li, tabsis nws yuav raug siv rau yav tom ntej no.
+
+dash (-) = cim kes tus cim kes no los cia li hu raws li qhov nws kes ib kab xwb.
+
+hyphen (_) = cim kesqis tus cim kesqis no los cia li hu raws li qhov nws kes ib kab qis qis xwb.
+tus cim no mas hmoob tsis tshuav siv, tabsis yav tom ntej no yeej yuav siv thiab.
+
+slash (/) = cim kem tus cim no kuv muab hu ua cim kem no vim peb siv nws los kem ob lo lus, xws li: pojnim/txivneej etc....
+
+parentheses () = cim thaiv kuv muab hu ua cim thaiv vim hais tias nws thaiv tom hauv ntej thiab thaiv tom qab.
+
+bracket [ ] = cim sua kuv muab hu ua sua vim hais tias nws sua tom hauv ntej thiab sua tom qab los ua ib kev.
+
+braces { } = cim puag kuv muab hu ua cim puag vim hais tias nws puag tag nrho rau hauv plawv.
+pivtxwv li kab zauv nram qab no: {[4(2+5)]-2}/2 = 13 yog leej twg tsis nyiam qhov twg, tiab xav hloov qhov twg los yeej meem tawm tswv yim ntxiv, hl hl, koj cov npe ntawd muaj kuab hab ncaaj kawg!
+qhov yuav siv tau hab tsi tau nyob ntawm qhov kws peb muaj chaw kawm hab chaw siv xwb.
+
+kuamemiab, uatsaug os, qhov caabsaab koj muab tuaj qha rua peb ntawd zoo heev.
+
+peb yeej paub siv peb moob tej lug kuas peb tsi cais losyog tsi tis npe rua es thaus peb kawm losyog qha ces peb tsi paub pav lawm xwb.
+
+thaus muab peb cov lug piv rua meskas les, qho yaam kuj muaj hab qho yaam kuj tu lawm.
+txawm yog le ntawd los qhov ntawd yog qhov kws peb siv tau ces nwg yeej muaj qaabhau rua peb.
+
+cov npe ntawd yog tis kuas nyob rua lub sibhawm nuav (up to date), qho yaam kuj muaj kuab, qhov yaam kuj covnplaig kawg.
+yog has tas peb sau tau, siv tau, hab qha tau ces peb yeej yuav paub zujzug tuaj.
+
+nwg muaj ob-peb yaam kws kuv pum es tsitshuam dlhos zoo: 1. be (npe), yuav siv tsi tau lug ua lug moob.
+kuv pum zoo siv tug qub vim has tas, nwg txawv los txawv, yoojyim los yoojyim, uas rua peb xaav mooglug ntau ces laaj ncu tau lulug ntawd kuas meej.
+
+2. lug txhawb xws le "sib" hlub tseem tsi tshuam meej pestsawg vim nwg txhais tau ntau lub ntsablug.
+txawm yuav muab sau sistxuas le "sibhlub" los nwg tsi yog lug txhawb lawm, nwg yog ib lulug tshab.
+
+3. lulug "rhuv" kuj yog ib lulug ntxiv kws qha kuas lub meejmoom ntawd meej tamsis sau ua "daj rhuv" yuav muaj ob-peb lub ntsab lug rua huv lawm.
+qhov zoo yuav tau dau ua "dajrhuv" ib lulug kws muaj ob lub suab.
+sau le ntawd, nwg txhajle muaj tuab lub ntsablug xwb.
+
+kuv ca sab has tas, tsi ntev tom ntej, peb moob yuav muaj "mojkuab" (grammar) ntawv moob kawm.
+thaus ntawd, peb yuav muaj npe rua peb tej lug, muaj txheejtxheem, ces pum qaab kawm, qha, hab siv lawm.
+
+tony, es koj ho muab lo lus "mojkuab" no qhov twg los?
+txhais li cas thiaj li muaj tau lub ntsiab lus tias yog grammar?
+qhia paub thiab saib...
+uatsaug.
+
+tony, es koj ho muab lo lus "mojkuab" no qhov twg los?
+ txhais li cas thiaj li muaj tau lub ntsiab lus tias yog grammar?
+ qhia paub thiab saib...
+ uatsaug.
+
+nwg lug ntawm "ntawv caubfab."
+kuv nov puab siv es kuj los "muaj kuab" kawg le ces kuv siv xwb.
+puab pav has tas "mojkuab" sau ntawd yuav tsum sau kuas raug hab siv cov lug kuas yog xws le lug lajfai (official language) hab lug vaajtsev (streat talk).
+
+pivtxwv le: kuv = i ki = he nyuas= she tus (nwg) = it koj = you puab = they peb siv "tus" tibneeg tsis yog lawm.
+qhov yog mas peb yuav tau siv "tug" tibneeg.
+tus yog siv rau tsiaj, hos tug yog siv rau tibneeg.

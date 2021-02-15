@@ -1,24 +1,17 @@
-py mt, born2, kwvtij and jim,
-kuv yeej nkag sia hais tias time is money. tabsis time yog niamtxiv
-tog ntxhais ua tus propose los sav. nws muaj cai set rau ub sijhawm
-uas nws khoom, hos tog tub los yeej muaj cai re-propose yog lawv tsis
-khoom lub caij niamtxiv tog ntxhais teem tseg. usually, tshoob kos
-yeej yog ua rau hnub uas sawvdaws so laj so kam lawm xwb los sad. hnub
-ntawd, yog tsis mus noj tshoob ces mus tua nas thiab nuv ntsev xwb
-ne!
-hais txog qhov time consume: niamtxiv tog ntxhais ua sai ces sai, ua
-qeeb ces ntev, ua nyuab ces khuam wb. yog li ntawd, nws tsis yog tim
-muaj mej koob, muaj phijlaj, niam txais ntsuab, muaj kaus, muaj siv
-ceeb and so on. niaj hnub no peb hais tshoob mas yeej tsis ntev li
-lawm ne, rooj ntev los siv 2 hours, rooj sai ces 1 hour lawm xwb. yog
-cov tsis yuav raws tus txhooj mas yeej tseem ntev kawg tiag nawb. cov
-uas ua raws tus txhooj lawm ces qhov ntev ntev ces yog niam txiv tseem
-yuav kom tos noj hmo tso no xwb. lossis muaj qee zaum yog vauv pheej
-tuaj tsis txawj txog no xwb. tabsis tej no peb yeej arrange rau tau
-dhos lub sisjhawm.
-hl
+py mt, born2, kwvtij and jim, kuv yeej nkag sia hais tias time is money.
+tabsis time yog niamtxiv tog ntxhais ua tus propose los sav.
+nws muaj cai set rau ub sijhawm uas nws khoom, hos tog tub los yeej muaj cai re-propose yog lawv tsis khoom lub caij niamtxiv tog ntxhais teem tseg.
+usually, tshoob kos yeej yog ua rau hnub uas sawvdaws so laj so kam lawm xwb los sad.
+hnub ntawd, yog tsis mus noj tshoob ces mus tua nas thiab nuv ntsev xwb ne!
 
-hl...
-vim yog li koj hais, kuv thiaj tias zoo li cov uas xij tias "hloov
-hloov" are doing it for the wrong reason, zoo li lawd tsi pom qhov
-bigger picture sub.
+hais txog qhov time consume: niamtxiv tog ntxhais ua sai ces sai, ua qeeb ces ntev, ua nyuab ces khuam wb.
+yog li ntawd, nws tsis yog tim muaj mej koob, muaj phijlaj, niam txais ntsuab, muaj kaus, muaj siv ceeb and so on.
+niaj hnub no peb hais tshoob mas yeej tsis ntev li lawm ne, rooj ntev los siv 2 hours, rooj sai ces 1 hour lawm xwb.
+yog cov tsis yuav raws tus txhooj mas yeej tseem ntev kawg tiag nawb.
+cov uas ua raws tus txhooj lawm ces qhov ntev ntev ces yog niam txiv tseem yuav kom tos noj hmo tso no xwb.
+lossis muaj qee zaum yog vauv pheej tuaj tsis txawj txog no xwb.
+tabsis tej no peb yeej arrange rau tau dhos lub sisjhawm.
+
+hl hl...
+
+vim yog li koj hais, kuv thiaj tias zoo li cov uas xij tias "hloov hloov" are doing it for the wrong reason, zoo li lawd tsi pom qhov bigger picture sub.

@@ -1,155 +1,117 @@
-kuv saib zoo li nej muab txawj predict dhau lawm, nej predict txog zaj
-tais caus thiab tsi muaj haiv xwb. yog li hmoob thiaj npav cia luag ua
-tau cais yus khaws noj ntawm ncauj xwb. thaum tsi tau noj cais tsho
-phom tua xwb. yus twb tsi tau ua ntawm tes es twb hem kom tso tes plau
-lawm xwb cais yeej yuav ua puav dai taw mus lawm ib txhis li lauj.
+kuv saib zoo li nej muab txawj predict dhau lawm, nej predict txog zaj tais caus thiab tsi muaj haiv xwb.
+yog li hmoob thiaj npav cia luag ua tau cais yus khaws noj ntawm ncauj xwb.
+thaum tsi tau noj cais tsho phom tua xwb.
+yus twb tsi tau ua ntawm tes es twb hem kom tso tes plau lawm xwb cais yeej yuav ua puav dai taw mus lawm ib txhis li lauj.
 
-hmong-lao,
-koj lo lus "noj mov hauv tsu, tso quav hauv yias" ces kuv yeej
-sau tau li ntawd thiab, tabsis kuv muab delete lawm, vim kuv
-hais npaum no xwb nyaj yuav tsis tub qaug luaj twg nis. zoo dua qhov
-uas cia txog thaum luag muab yus labeled ua pab niag terrorists lawm
-es mam mus kwvpaib pabthuob paub? khees dua cov nyuag uas pheej mus
-haub hmoob khiav tuaj dejdawb es hov pab tsis tau lawv paub?
-txawm li cas los puam chawj, kuv xav tias yog npluav rog tom ntej no,
-muaj  tseeb tiag, yawm davdawbhau yuav tsum yeej nkaus xwb. tos luag
-xaiv tus davdawbhau los uas luag tus cim ntawm luag haivneeg los vim
-hom dav no yeej ya tau siab tshaj thiab yeej muaj lub zeem muag tsom
-pom deb tshaj txhua yam tsiaj hauv ntiajteb no.
-peb hmoob mas lub siab hlob-b, pobntseg sib-b tag zog li nawb. yog
-uateb mas cuab dav-v, tabsis, txog caij qoob siav no ces xyov nws twb
-sau nws nra lawm thaum twg tsis paub. li ntawd es, xyoo twg los thiaj
-tshaib plab li qub.
-xyoo 90, muaj ib pab kwvtij, lawv sib yaum khiav tawm hauv ca no, vim
-lawv xyeej tias hauv lub xeev no muaj laib coob hwv, yuav coj menyuam
-mus nkaum laib. tomqab no, lawv tej neej kuj puas tag vim, yus pheej
-lawm-m yus ces tej pojniam thiaj khiav nkag internet tag lawm. qhov
-tseeb tiag, yog ntu ntawd, sawvdaws nyiam tso qaib sibncaws heev xwb
-thiaj sib yaum mus kom nraim luag tsoomfwv xwb. thaum kawg kuj ho rov
-tuaj nrhiav pojniam zamzaws tim ca thiab xwb.
+hmong-lao, koj lo lus "noj mov hauv tsu, tso quav hauv yias" ces kuv yeej sau tau li ntawd thiab, tabsis kuv muab delete lawm, vim kuv hais npaum no xwb nyaj yuav tsis tub qaug luaj twg nis.
+zoo dua qhov uas cia txog thaum luag muab yus labeled ua pab niag terrorists lawm es mam mus kwvpaib pabthuob paub?
+khees dua cov nyuag uas pheej mus haub hmoob khiav tuaj dejdawb es hov pab tsis tau lawv paub?
+
+txawm li cas los puam chawj, kuv xav tias yog npluav rog tom ntej no, muaj tseeb tiag, yawm davdawbhau yuav tsum yeej nkaus xwb.
+tos luag xaiv tus davdawbhau los uas luag tus cim ntawm luag haivneeg los vim hom dav no yeej ya tau siab tshaj thiab yeej muaj lub zeem muag tsom pom deb tshaj txhua yam tsiaj hauv ntiajteb no.
+
+peb hmoob mas lub siab hlob-b, pobntseg sib-b tag zog li nawb.
+yog uateb mas cuab dav-v, tabsis, txog caij qoob siav no ces xyov nws twb sau nws nra lawm thaum twg tsis paub.
+li ntawd es, xyoo twg los thiaj tshaib plab li qub.
+
+xyoo 90, muaj ib pab kwvtij, lawv sib yaum khiav tawm hauv ca no, vim lawv xyeej tias hauv lub xeev no muaj laib coob hwv, yuav coj menyuam mus nkaum laib.
+tomqab no, lawv tej neej kuj puas tag vim, yus pheej lawm-m yus ces tej pojniam thiaj khiav nkag internet tag lawm.
+qhov tseeb tiag, yog ntu ntawd, sawvdaws nyiam tso qaib sibncaws heev xwb thiaj sib yaum mus kom nraim luag tsoomfwv xwb.
+thaum kawg kuj ho rov tuaj nrhiav pojniam zamzaws tim ca thiab xwb.
+
 tseemyeej.
 
-tijlaug tseemyeej,
-kuv has rua kuv yuav xwb, kuv tsi has represent lwm tug kws tuaj huv
-nuav. kuv qhov concept tas kuv yuav twv tso nyaj rua tug qab dlaaj
-nuas mas vim le nuav, tsi yog kuv yog tuab neeg asia ce yuav prefer
-tug qab dlaaj. tabsi vim tseemfwv amelikas mas nwg ua heev kawg thaum
-xub thawj tabsi muaj ntau yaam xwmtxheej le nuav:
-1. vim muaj 2 paab political party ce thaum cov tubnrog tuag coob,
-pejxeem qw, pauv numtswv ce kawg thim tawm.
-2. vim yug nyob ib phaab ntuj yuav moog ua nrog rua ib phaab ntuj,
-every things is $ starting a bottle of water up to a tank,
-communication euipment, airplane, all military equipment,and human
-forces. ex: vietnam war, iraq, and afganistan now.
-3. kev ntseegsab yog ib yaam kws tuab neeg nplajteb tsi ntseeg
-amelikas lawm.
-yog le ntawd kuv txawm yog amelikas citizen los kuv yeej xaav lawm
-has tas yog ua rog nrug suav yuav tsi yoojyim vim suav muaj pejxeem
-coob tuag tsi khauv xim hab tseem muaj new technology zoo heev lawm
-hab. tsi taag le ntawd ua rog nyob ntawd luas ntug zej ntug zog xwb
-luas tsi taag yuav hau dlej filter, noj mov xyawm koob, noj mov muaj
-steak le amelikas es txhaj muaj zug nrug yug tug yeebcuab sib
-ntsuagzug, tseem muaj ntau-au yaam teebmeem has txug peebzeej amelikas
-qhov ability. qhov nuav kuv txhaj twv tso nyaj rua tug qab dlaaj,
-tabsi yog muaj nrog tuaj tua txug ntawd amelikas thooj aav kuv yuav
-yog ib tug kws kwv phom nrug pejxeem amelikas tiv thaiv hab muab kuv
-cov ntshaavg moog pua lub tebchaw kag. thaum kuv moog ua citizen luas
-tsi tau noog kuv kom kuv moog nrug luas tua lwm lub tebchaw tabsi luas
-noog kuv tas yog muaj neej tuaj tua peb lub tebchaw koj puas nrug peb
-tiv thaiv, kuv yeej teb tas yes nuas rua luas.
-thanks,
-mt
+tijlaug tseemyeej, kuv has rua kuv yuav xwb, kuv tsi has represent lwm tug kws tuaj huv nuav.
+kuv qhov concept tas kuv yuav twv tso nyaj rua tug qab dlaaj nuas mas vim le nuav, tsi yog kuv yog tuab neeg asia ce yuav prefer tug qab dlaaj.
+tabsi vim tseemfwv amelikas mas nwg ua heev kawg thaum xub thawj tabsi muaj ntau yaam xwmtxheej le nuav: 1. vim muaj 2 paab political party ce thaum cov tubnrog tuag coob, pejxeem qw, pauv numtswv ce kawg thim tawm.
 
-mouatony,
-don't feel offended for what i have said above. yeej yog li hl hais
-lawm, it may hurt someone, yog li ntawd, thaum kuv hais, kuv thiaj
-tsis tua leej twg npe. yog kuv ho hais tau sab zog lawm los, txhob
-khaw ua chaw ntsawv siab, tsuas yog kev sib cavcai xwb. kuv tsuas hais
-dav-v kom sawvdaws ceevfaj, nothing personal.
-rov los tham txog yawm davdawbhau mas, yav tag los, yog peb ntsia ib
-plia xwb ces yeej muaj li koj hais lawm, tabsis, yog ntsia tseeb-b,
-they may have lost a battle but not the war. lawv tsis yog mus tua kom
-yeej tus tibneeg los yog yeej haivneeg, tabsis, lawv mus tua
-lubtswvyim los sis txojkevntseeg (ideology or believe) kom tuag mus
-xwb. qhov no thiaj yog lawv lub homphiaj. pivxam li cov npluav rog loj-
-j uas yog against fascism, communism or radical islamic tej ntawd,
-yuav hais tias lawv swb kuj yog, hos ho yuav hais tias lawv yeej kuj
-yog tib yam, vim thaum kawg cov fascists kuj swb lawm, hos tog
-communists los kuj swb thiab tuag zujzus lawm tiag. tamsim no, cov
-radical islamic no los suab twb pib ntsiag zujzus lawm thiab ne.
-vim hais tias yawm davdawbhau no, nws yuav ua dab tsi, nws yuav tsum
-mus muab kom tau lub zog los ntawd suab pejxeem feem coob tso. hos cov
-coj ntawm lwm lub tebchaws mas feem ntau, yog muab lub zog los ntawm
-nws pabpawg uas muaj zog lub sijhawm ntawd xwb.
+2. vim yug nyob ib phaab ntuj yuav moog ua nrog rua ib phaab ntuj, every things is $ starting a bottle of water up to a tank, communication euipment, airplane, all military equipment,and human forces.
+ex: vietnam war, iraq, and afganistan now.
+
+3. kev ntseegsab yog ib yaam kws tuab neeg nplajteb tsi ntseeg amelikas lawm.
+
+yog le ntawd kuv txawm yog amelikas citizen los kuv yeej xaav lawm has tas yog ua rog nrug suav yuav tsi yoojyim vim suav muaj pejxeem coob tuag tsi khauv xim hab tseem muaj new technology zoo heev lawm hab.
+tsi taag le ntawd ua rog nyob ntawd luas ntug zej ntug zog xwb luas tsi taag yuav hau dlej filter, noj mov xyawm koob, noj mov muaj steak le amelikas es txhaj muaj zug nrug yug tug yeebcuab sib ntsuagzug, tseem muaj ntau-au yaam teebmeem has txug peebzeej amelikas qhov ability.
+qhov nuav kuv txhaj twv tso nyaj rua tug qab dlaaj, tabsi yog muaj nrog tuaj tua txug ntawd amelikas thooj aav kuv yuav yog ib tug kws kwv phom nrug pejxeem amelikas tiv thaiv hab muab kuv cov ntshaavg moog pua lub tebchaw kag.
+thaum kuv moog ua citizen luas tsi tau noog kuv kom kuv moog nrug luas tua lwm lub tebchaw tabsi luas noog kuv tas yog muaj neej tuaj tua peb lub tebchaw koj puas nrug peb tiv thaiv, kuv yeej teb tas yes nuas rua luas.
+
+thanks, mt mouatony, don't feel offended for what i have said above.
+yeej yog li hl hais lawm, it may hurt someone, yog li ntawd, thaum kuv hais, kuv thiaj tsis tua leej twg npe.
+yog kuv ho hais tau sab zog lawm los, txhob khaw ua chaw ntsawv siab, tsuas yog kev sib cavcai xwb.
+kuv tsuas hais dav-v kom sawvdaws ceevfaj, nothing personal.
+
+rov los tham txog yawm davdawbhau mas, yav tag los, yog peb ntsia ib plia xwb ces yeej muaj li koj hais lawm, tabsis, yog ntsia tseeb-b, they may have lost a battle but not the war.
+lawv tsis yog mus tua kom yeej tus tibneeg los yog yeej haivneeg, tabsis, lawv mus tua lubtswvyim los sis txojkevntseeg (ideology or believe) kom tuag mus xwb.
+qhov no thiaj yog lawv lub homphiaj.
+pivxam li cov npluav rog loj-j uas yog against fascism, communism or radical islamic tej ntawd, yuav hais tias lawv swb kuj yog, hos ho yuav hais tias lawv yeej kuj yog tib yam, vim thaum kawg cov fascists kuj swb lawm, hos tog communists los kuj swb thiab tuag zujzus lawm tiag.
+tamsim no, cov radical islamic no los suab twb pib ntsiag zujzus lawm thiab ne.
+
+vim hais tias yawm davdawbhau no, nws yuav ua dab tsi, nws yuav tsum mus muab kom tau lub zog los ntawd suab pejxeem feem coob tso.
+hos cov coj ntawm lwm lub tebchaws mas feem ntau, yog muab lub zog los ntawm nws pabpawg uas muaj zog lub sijhawm ntawd xwb.
+
 that's the difference!
-cheers,
-bro.tseemyeej.
 
-tseemyeej,
-yuav tau tuaj sau hli saib rov lug mas txhaj le yuav pum dlaim dluab
-koj has nuav tseeb tag hab nawb. tog laj kam luas has tas "proxy war"
-nua los ntshai yuav yog le koj has lawm ov...
-ua tsaug os..
-nqq
-
-oib..oib,,,,,nej mas tos peb pheej hais lus tsis sib haum los twg yog
-li no ne yuam. raws kuv to taub mas tsuas yog peb twv tso nyiaj saib
-qaib daj yeej los yog qaib dawb yeej xwb nas. twb tsis yog peb hais
-tias saib peb yuav tuaj tog twg los yog pab tog twg no nas. yog qhov
-question hais tias saib nej yuav tuaj tog twb no mas thiaj li yuav
-hais li ty thiab hl neb hais pob.
-yog hais txog qhov yus yuav tuaj tog twg no mas kawg yus noj leej twg
-mov ces kawg yuav tsum tuaj tog ntawm xwb. ua ntej yuav critic mas
-yuav tsum to taub qhov question ntawd zoo zoo mam li critic luag. kuv
-li mas kuv tsuas lam tsa tes xwb. kuv yeej tsis tsa ncaj ncaj rau saum
-ntuj li nawb. tsuas lam tsa meme kom dhau qhov hauj lwm ntawd xwb nas.
-kuv lub siab yeej tsis yog siab meskas li hos. luag yog luag ib haiv
-neeg luag lam mus hlub yus. luag lub ncauj lam hais zoo rau yus thaum
-luag yuav siv yus xwb nas. luag tsis lam yuav phlws yus tau hau li yus
-cov neeg li nawb. ua tsaug.
-hm213
-
-thaub  hm213,
-puas yog koj pheej nrog phwvnyawm tsoo khob rau ub rau no es koj ciali
-qaug caw tas hnub tas hmo li lawm maj? yog tsis qaug no, txhob lam tau
-lam hais lus phlaw ub phlaw no liko hov. koj puas muaj responsible
-txog koj tej lus ua kom hais los saud maj? koj puas nco tias ua ntej
-koj yuav twv nyiaj koj twb yeej tau thuam ib tog qhuas ib tog tag lawm
-koj mam los xaus lus tias yog twv nyiaj no, koj yuav tuaj tus qaib daj
-no ne. rov mus nyeem dua nawb.
-koj seb koj nyuam qhua tham zoj tias: “noj leej twg mov ces tuaj leej
-you said it all. hahaha..kuv yog phwvnyawm mas, neb txeev lam yog
-yawmyij yawmdab los,  kuv yuav tsis nrog koj mus raws dais li nawb.
-hahaha..suav (qaib daj) ces yog koj cov neeg ntag lov? koj puas paub
-txog hmoob tus thawj coj hu ua chang chi mieng (nej cov xeem tsab)
-thiab yang toua lung (ytk cov caivplawv) raug suav coj mus tua lawm
-maj? yog koj hais li ntawd no, puas yog suav xav-v phlws koj (hmoob)
-taub hau es suav thiaj tuaj khawb hmoob tej ntxa tim vinai thiab
-timthamkrabok coj mus phlws lawm naj? raws kuv pom mas, niaj hnub nim
-no, tsis hais xeem hmoob twg mus faus tuag, thaum luag yuav txhub av
-faus tus neeg tuag ntawd, luag yeej ua kevcai "suav huas" tag luag mam
-faus nav. puas yog lam ua kom tag kev tag cai xwb los yeej yog vim mob
-hmoob siab tiag-g hmoob thiaj ua li ntawd los txog zijceeb no? koj pua
-paub tias, cov hmoob uas twb ciaj cevqhev los txog tav no lawm los
-yeej tseem tsis tau npuab suav tiag-g no maj?
-and now tell me who are your real people?
-good to know you better, day by day!
+cheers, bro.
 tseemyeej.
 
-abyab, nej pheej yuav mus tsom dab tsi. yus yog ib pab neeg me me. yus
-kav tsij phav thaj nas yus tus kheej kom qoos qoos xwb ces thaum twg
-pab twg cev tuaj los yus khaws xo xwb mas lawv. nej saib ne, thaum rog
-zwjpeem, hmoob sib faib ua 2 pab. hlob phas nyas thiab vaj pov lawv
-twb tau noj ib ntus. cov tuaj tog tom ub los laujfoom, faiv ntav thiab
-lwm tus twb tau nrog luag noj ib ntus thiab ne.
-tam sim no twb muaj 4-5 pab hmoob mus zov ua suav qhev lawm ne. thaum
-kawg yeej yog peb cov nom loj hauv sch no mus kav thiab xwb mas lawv.
+tseemyeej, yuav tau tuaj sau hli saib rov lug mas txhaj le yuav pum dlaim dluab koj has nuav tseeb tag hab nawb.
+tog laj kam luas has tas "proxy war" nua los ntshai yuav yog le koj has lawm ov...
 
-tijlaug tseemyeej,
-there is no offense for our discussion but clearification is very
-important. yog yuav muab qhov ideology of communism and radical
-islamic mas yeej yog le koj has, more than 100% that us win and will
-win the war tabsi yog yuav has qhov physical battle ce mean le kuv has
-lawm xwb.
-thanks
-mt
+ua tsaug os..
+
+nqq oib..
+oib,,,,,nej mas tos peb pheej hais lus tsis sib haum los twg yog li no ne yuam.
+raws kuv to taub mas tsuas yog peb twv tso nyiaj saib qaib daj yeej los yog qaib dawb yeej xwb nas.
+twb tsis yog peb hais tias saib peb yuav tuaj tog twg los yog pab tog twg no nas.
+yog qhov question hais tias saib nej yuav tuaj tog twb no mas thiaj li yuav hais li ty thiab hl neb hais pob.
+
+yog hais txog qhov yus yuav tuaj tog twg no mas kawg yus noj leej twg mov ces kawg yuav tsum tuaj tog ntawm xwb.
+ua ntej yuav critic mas yuav tsum to taub qhov question ntawd zoo zoo mam li critic luag.
+kuv li mas kuv tsuas lam tsa tes xwb.
+kuv yeej tsis tsa ncaj ncaj rau saum ntuj li nawb.
+tsuas lam tsa meme kom dhau qhov hauj lwm ntawd xwb nas.
+
+kuv lub siab yeej tsis yog siab meskas li hos.
+luag yog luag ib haiv neeg luag lam mus hlub yus.
+luag lub ncauj lam hais zoo rau yus thaum luag yuav siv yus xwb nas.
+luag tsis lam yuav phlws yus tau hau li yus cov neeg li nawb.
+ua tsaug.
+
+hm213 thaub hm213, puas yog koj pheej nrog phwvnyawm tsoo khob rau ub rau no es koj ciali qaug caw tas hnub tas hmo li lawm maj?
+yog tsis qaug no, txhob lam tau lam hais lus phlaw ub phlaw no liko hov.
+koj puas muaj responsible txog koj tej lus ua kom hais los saud maj?
+koj puas nco tias ua ntej koj yuav twv nyiaj koj twb yeej tau thuam ib tog qhuas ib tog tag lawm koj mam los xaus lus tias yog twv nyiaj no, koj yuav tuaj tus qaib daj no ne.
+rov mus nyeem dua nawb.
+
+koj seb koj nyuam qhua tham zoj tias: “noj leej twg mov ces tuaj leej you said it all.
+hahaha..
+kuv yog phwvnyawm mas, neb txeev lam yog yawmyij yawmdab los, kuv yuav tsis nrog koj mus raws dais li nawb.
+
+hahaha..
+suav (qaib daj) ces yog koj cov neeg ntag lov?
+koj puas paub txog hmoob tus thawj coj hu ua chang chi mieng (nej cov xeem tsab) thiab yang toua lung (ytk cov caivplawv) raug suav coj mus tua lawm maj?
+yog koj hais li ntawd no, puas yog suav xav-v phlws koj (hmoob) taub hau es suav thiaj tuaj khawb hmoob tej ntxa tim vinai thiab timthamkrabok coj mus phlws lawm naj?
+raws kuv pom mas, niaj hnub nim no, tsis hais xeem hmoob twg mus faus tuag, thaum luag yuav txhub av faus tus neeg tuag ntawd, luag yeej ua kevcai "suav huas" tag luag mam faus nav.
+puas yog lam ua kom tag kev tag cai xwb los yeej yog vim mob hmoob siab tiag-g hmoob thiaj ua li ntawd los txog zijceeb no?
+koj pua paub tias, cov hmoob uas twb ciaj cevqhev los txog tav no lawm los yeej tseem tsis tau npuab suav tiag-g no maj?
+
+and now tell me who are your real people?
+
+good to know you better, day by day!
+
+tseemyeej.
+
+abyab, nej pheej yuav mus tsom dab tsi.
+yus yog ib pab neeg me me.
+yus kav tsij phav thaj nas yus tus kheej kom qoos qoos xwb ces thaum twg pab twg cev tuaj los yus khaws xo xwb mas lawv.
+nej saib ne, thaum rog zwjpeem, hmoob sib faib ua 2 pab.
+hlob phas nyas thiab vaj pov lawv twb tau noj ib ntus.
+cov tuaj tog tom ub los laujfoom, faiv ntav thiab lwm tus twb tau nrog luag noj ib ntus thiab ne.
+
+tam sim no twb muaj 4-5 pab hmoob mus zov ua suav qhev lawm ne.
+thaum kawg yeej yog peb cov nom loj hauv sch no mus kav thiab xwb mas lawv.
+
+tijlaug tseemyeej, there is no offense for our discussion but clearification is very important.
+yog yuav muab qhov ideology of communism and radical islamic mas yeej yog le koj has, more than 100% that us win and will win the war tabsi yog yuav has qhov physical battle ce mean le kuv has lawm xwb.
+
+thanks mt

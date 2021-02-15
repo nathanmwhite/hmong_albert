@@ -1,2 +1,1 @@
-moobsib,
-it's google.
+moobsib, it's google.

@@ -1,7 +1,5 @@
-bee,
-thaum muaj tej tus neeg los yog tej lub koom haum sau tej tsab ntawv
-zoo li no tuaj rau yus los yog lub rooj sablaj, thov tsi txhob muab
-tso tawm li no. ua li no ces luag pom tias yus yog ib tus neeg tsi
-paub tab. tsi paub keep confidentiality txog lwm tus. lwm zaus luag
-yuav tsi xav nrog yus muab kev sib koom tes. tsuas xav li no xwb
-tousavang.
+bee, thaum muaj tej tus neeg los yog tej lub koom haum sau tej tsab ntawv zoo li no tuaj rau yus los yog lub rooj sablaj, thov tsi txhob muab tso tawm li no.
+ua li no ces luag pom tias yus yog ib tus neeg tsi paub tab.
+tsi paub keep confidentiality txog lwm tus.
+lwm zaus luag yuav tsi xav nrog yus muab kev sib koom tes.
+tsuas xav li no xwb tousavang.

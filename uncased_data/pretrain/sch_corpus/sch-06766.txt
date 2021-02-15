@@ -1,28 +1,23 @@
-xeeb,
-thov koj pab.
-koj hais tias
-north = pes fab
-south = laj fab
-east  = toob fab
-west  = xyib fab
-hos name of the week thiab month ne, peb hmoob ho yuav hu licas?
-thiab ib yam li tus scale ne
-ib lag equavelent to what?
-ib feeb
-ib txiag (j)
-hours
-ib teev muaj 1 hr
-ib feeb muaj 1 min.
-sec ? hmoob puas muaj?
-vim xav puas thiaj noog.
-lamkoom.
-ps
-i have more but i'll save for leter.
+xeeb, thov koj pab.
 
-nyob zoo,
-ua tsaug rua mej cov lug teb, lug thom hab lug qha. kuv saib yog le
-xeng yang has, cov lug ntawd yog peb hmoob qev ntawm suav lug. kuv tsi
-ncu qaab txug 2 lus (pej faab hab xyib faab) lawm txhaj tsi sau rua
-huv. ua tsaug rua xeng kws nwg ho muab lug tshaaj rua peb to taub
-ntxiv.
+koj hais tias north = pes fab south = laj fab east = toob fab west = xyib fab hos name of the week thiab month ne, peb hmoob ho yuav hu licas?
+
+thiab ib yam li tus scale ne ib lag equavelent to what?
+
+ib feeb ib txiag (j) hours ib teev muaj 1 hr ib feeb muaj 1 min.
+
+sec?
+hmoob puas muaj?
+
+vim xav puas thiaj noog.
+
+lamkoom.
+
+ps i have more but i'll save for leter.
+
+nyob zoo, ua tsaug rua mej cov lug teb, lug thom hab lug qha.
+kuv saib yog le xeng yang has, cov lug ntawd yog peb hmoob qev ntawm suav lug.
+kuv tsi ncu qaab txug 2 lus (pej faab hab xyib faab) lawm txhaj tsi sau rua huv.
+ua tsaug rua xeng kws nwg ho muab lug tshaaj rua peb to taub ntxiv.
+
 ms

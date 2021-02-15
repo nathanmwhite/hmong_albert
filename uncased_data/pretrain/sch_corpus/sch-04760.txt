@@ -1,295 +1,197 @@
-nyob zoo ib tsoom bojyaig,
-kuv muab xeev nruag xyooj hab antony vang cov ntawv coj lug ntsuag tas
-kuv pum le nuav:
-1. tug tsaj ntawv "d" kws yog has lug hmoob dawb tawm ua "dej, dev,
-deb", kuv pheej xaav tas kom peb cov lug moob/hmoob muaj uniformity mas
-tsi taag yuav ntxiv tug tsaj ntawv "l" (dl) rua peb xeem lug moob leeg.
-vim tas taab txawm lug hmoob dawb los tug tsaj ntawv ntawd yeej hloov
-suab lawm, nwg tsi yog lub suab "ntee" qub lawm. ib yaam le ntawv
-kauslim hab ntawv suav, sau the same characters tawm sis nyag nyeem
-tawm nyag xeem lug xwb. ces lu lug "dej" hmoob dawb nyeem ua "dej" peb
-moob leeg nyeem ua "dlej" xwb ces tau lawm.
-2. tug tsaj ntawv "nd" nuav mas kuv pum antony muab siv has tawm tuab
-lub suab nrug tug tsaj ntawv "nt" lawm. qhov nuav yuam ua rua tsoom
-neeg kws yuav kawm peb cov ntawv hmoob/moob confuse ntxiv xwb. kuv xaav
-tas siv tug "nt" xwb yeej txaus lawm. kuv muab ua zoo xaav hab tshawb
-saib puas tshuav lu lug los sis lub suab twg kws tsis tau muaj tsaj
-ntawv lug has tau. nwg tsuas tshuav lub suab "ndlhij ndlhuj" kws peb
-cov moob leeg has qee zag xwb. lu los sis lub suab nuav muab sau le
-nuav los yeej tau "ntlhij ntlhuj" ib yaam.
-piv txwv: raab rag ndlais can be written as "raab rag ntlais" for moob
-leeg so it is uniform with the white dialect as they would say "rab
-riam ntais". whereas hmoob dawb say "ntiaj teb" peb moob leeg say
-"ntlaj teb" los yeej tau kawg lawm.
-mej ho xaav le caag?
-ua tsaug...
-nqq
+nyob zoo ib tsoom bojyaig, kuv muab xeev nruag xyooj hab antony vang cov ntawv coj lug ntsuag tas kuv pum le nuav: 1. tug tsaj ntawv "d" kws yog has lug hmoob dawb tawm ua "dej, dev, deb", kuv pheej xaav tas kom peb cov lug moob/hmoob muaj uniformity mas tsi taag yuav ntxiv tug tsaj ntawv "l" (dl) rua peb xeem lug moob leeg.
 
-nqq,
-cov ntawv hmoob "latin" no tsim nog peb sawv daws yuav los kho lawm vim
-tias peb muab 3 los 4 tug ntawv latin los ua li los lus.  xws li
-"ntsh, ntxh, nphl  etc.  cov niam ntawv no yuav muaj ntau kawg yuav yog
-li ob tug "alhabet" xwb.
-peb yuav pauv li no:  nplog = blog,  ntsai = jai, ntsheb = tjeb  etc.
+vim tas taab txawm lug hmoob dawb los tug tsaj ntawv ntawd yeej hloov suab lawm, nwg tsi yog lub suab "ntee" qub lawm.
+ib yaam le ntawv kauslim hab ntawv suav, sau the same characters tawm sis nyag nyeem tawm nyag xeem lug xwb.
+ces lu lug "dej" hmoob dawb nyeem ua "dej" peb moob leeg nyeem ua "dlej" xwb ces tau lawm.
+
+2. tug tsaj ntawv "nd" nuav mas kuv pum antony muab siv has tawm tuab lub suab nrug tug tsaj ntawv "nt" lawm.
+qhov nuav yuam ua rua tsoom neeg kws yuav kawm peb cov ntawv hmoob/moob confuse ntxiv xwb.
+kuv xaav tas siv tug "nt" xwb yeej txaus lawm.
+kuv muab ua zoo xaav hab tshawb saib puas tshuav lu lug los sis lub suab twg kws tsis tau muaj tsaj ntawv lug has tau.
+nwg tsuas tshuav lub suab "ndlhij ndlhuj" kws peb cov moob leeg has qee zag xwb.
+lu los sis lub suab nuav muab sau le nuav los yeej tau "ntlhij ntlhuj" ib yaam.
+
+piv txwv: raab rag ndlais can be written as "raab rag ntlais" for moob leeg so it is uniform with the white dialect as they would say "rab riam ntais".
+whereas hmoob dawb say "ntiaj teb" peb moob leeg say "ntlaj teb" los yeej tau kawg lawm.
+
+mej ho xaav le caag?
+
+ua tsaug...
+
+nqq nqq, cov ntawv hmoob "latin" no tsim nog peb sawv daws yuav los kho lawm vim tias peb muab 3 los 4 tug ntawv latin los ua li los lus.
+xws li "ntsh, ntxh, nphl etc.
+cov niam ntawv no yuav muaj ntau kawg yuav yog li ob tug "alhabet" xwb.
+
+peb yuav pauv li no: nplog = blog, ntsai = jai, ntsheb = tjeb etc.
+
 just my thought!
 
-kuv xaav tas peb yuav tau lug khu tag+ tabsi tsi yog zoo rua ib saab
-xwb tabsi yuav tsuj leeg yuav yog thaum suavdlawg khu tau lawm. kuv tau
-moog txug phabmab teb hab ntsib cov moob nyob saab peg, puab tseem tau
-noog kuv tas vim le caag es lus lug moob " roob hab tsoob" nuas txawv
-le caag. kuv tau teb puab tas lus lug tsoob mas yog cov has tsi meej
-xwb tabsi lus lug nuav muab txhai tau siv lwm lus hab, xw le kev sib
-hlub ntawd tej nkawm nam txiv los yog hluas nkauj nluas nraug. peb yuav
-tau xyum has kom nwg very uniform tsi yog kuv xaav sau nraw kuv lub
-suab ces sau, koj xaav sau nraw koj lub suab ces koj sau. peb moob tej
-kev lig kev cai los yog" dlev npua cai xwb tsi yog moob cai ". yog vim
-le caag es moob txhaj hu  moob tej kev lig kev cai ua dlev npua cai,
-vim nyag ua nraw le nyag lub sab nyam xwb tsi muaj uniform, tsi muaj
-standardize lug rua moob kawm hab siv. kuv yeej xaav kom muaj ib lub
-language committee lug tshawb saib moob cov lug es muab sau kom meej
-hab lus lug twg tsi muaj nrhav npe kom tau hab tis npe tshab rua. lub
-committee nuav yuav tsum include cov kawm ntawv chaofa, churches, hab
-cov tseem coj kev lig kev cai qub.
-mt
+kuv xaav tas peb yuav tau lug khu tag+ tabsi tsi yog zoo rua ib saab xwb tabsi yuav tsuj leeg yuav yog thaum suavdlawg khu tau lawm.
+kuv tau moog txug phabmab teb hab ntsib cov moob nyob saab peg, puab tseem tau noog kuv tas vim le caag es lus lug moob " roob hab tsoob" nuas txawv le caag.
+kuv tau teb puab tas lus lug tsoob mas yog cov has tsi meej xwb tabsi lus lug nuav muab txhai tau siv lwm lus hab, xw le kev sib hlub ntawd tej nkawm nam txiv los yog hluas nkauj nluas nraug.
+peb yuav tau xyum has kom nwg very uniform tsi yog kuv xaav sau nraw kuv lub suab ces sau, koj xaav sau nraw koj lub suab ces koj sau.
+peb moob tej kev lig kev cai los yog" dlev npua cai xwb tsi yog moob cai ".
+yog vim le caag es moob txhaj hu moob tej kev lig kev cai ua dlev npua cai, vim nyag ua nraw le nyag lub sab nyam xwb tsi muaj uniform, tsi muaj standardize lug rua moob kawm hab siv.
+kuv yeej xaav kom muaj ib lub language committee lug tshawb saib moob cov lug es muab sau kom meej hab lus lug twg tsi muaj nrhav npe kom tau hab tis npe tshab rua.
+lub committee nuav yuav tsum include cov kawm ntawv chaofa, churches, hab cov tseem coj kev lig kev cai qub.
 
-cwjmem,
-yog khu tau le koj has mas kuj los zoo hab. kuv xaav tas yob cov ntawv
-kuj muaj qee tug tsaj ntawv kws zoo siv kawg lawm. tawm sis yog ho muab
-hloov ntau dlhau mas kuj yuav haj yam ntxhuv rov rua peb lawm hab, kuv
-xaav naj.
-nqq
+mt cwjmem, yog khu tau le koj has mas kuj los zoo hab.
+kuv xaav tas yob cov ntawv kuj muaj qee tug tsaj ntawv kws zoo siv kawg lawm.
+tawm sis yog ho muab hloov ntau dlhau mas kuj yuav haj yam ntxhuv rov rua peb lawm hab, kuv xaav naj.
 
-noogqejqawg,
-koj hais tau yog kawg li lawm.  tsis muaj ib yam uas tsimnyog yuav los
-hloov, ntxiv, thiab thaiv koj cov lus li.  kuv thiaj li tau nug dhau
-los lawm tias, "sau li hais lossis sau li yog?"
-1.  sau li hais mas yog:  pivtxwv li lolus "sawvdaws" vim nyias nyob
-nyias ib roojteb ces tejlus hais los yeej sib txawv yog li ntawd muaj
-ib txhia hais , "suavdaws," ib txhia hais, "sawvdaws", tabsis cov
-kwvtij hmooblees tseem haistias, "suavdlawg" no thiab mas yeej ua rau
-peb covnyom kawgnkaus li.  qhov luag yuav nug mas muaj pestsawg hom
-hmoob?  tseebtiag, ces, peb muaj ib hom hmoob xwb, tabsis nyias tsuas
-hais siv nyias lub suab los hais ib lolus lawm xwb, twb tsis yog nyias
-hais nyias lus lawm thaib; yog peb ua tibzoo siab'os.
-2.  sau li yog:  txawm yog hom lus dabtsi thiab pab neeg twg los, yog
-cov coob hais licas ces sau li ntawd ntag, es thaum yus hom hais ces
-muab txia kiag ua yus lus xwb.  qhov no mas peb thiajli yuav vammeej
-taus thiab kev kawm thiajli yuav tsis los txwv peb txoj hau kev thiab
-thiaj ua rau peb totaub.
-this will take a lot of sacrifices and many of the top person will
-never agree with you and me.  it is sad but real.  hopefully we will
-come to a conclusion where the line should be draw and all the hmong in
-the whole wide world will have a uniform language.
-kukamem iab
+nqq noogqejqawg, koj hais tau yog kawg li lawm.
+tsis muaj ib yam uas tsimnyog yuav los hloov, ntxiv, thiab thaiv koj cov lus li.
+kuv thiaj li tau nug dhau los lawm tias, "sau li hais lossis sau li yog?"
 
-muastony hab ntsuabxwm,
-to taub meb cov lug zoo. qhov peb yuav khu tau mas yog suav dlawg-
-especially cov kws lug nyob ua ke khu- yuav tsum saib rua sau yug haiv
-neeg tseem ceeb es yuav tsum compremise for what is-are the best for
-all. yuav tsum tsis txhob muab tej nyuas minor issues lug sis nyom kuas
-pemsij rua qhov progress ntawd.
-kuv los yeej to taub hab xaam pum tas tej lu lug noun kws muaj 2 los
-sis peb lu lug yuav tsum muab sau sis txuas txhaj yog. tawm sis yuav ca
-rua cov kws ntawv lug pav saib tug txheejtxheem ntawv moob yog le caag
-tag. yog puab khu tau le caag ces peb suav dlawg yuav tau yoog hab yuav
-raws le ntawd moog.
+1. sau li hais mas yog: pivtxwv li lolus "sawvdaws" vim nyias nyob nyias ib roojteb ces tejlus hais los yeej sib txawv yog li ntawd muaj ib txhia hais, "suavdaws," ib txhia hais, "sawvdaws", tabsis cov kwvtij hmooblees tseem haistias, "suavdlawg" no thiab mas yeej ua rau peb covnyom kawgnkaus li.
+qhov luag yuav nug mas muaj pestsawg hom hmoob?
+tseebtiag, ces, peb muaj ib hom hmoob xwb, tabsis nyias tsuas hais siv nyias lub suab los hais ib lolus lawm xwb, twb tsis yog nyias hais nyias lus lawm thaib; yog peb ua tibzoo siab'os.
+
+2. sau li yog: txawm yog hom lus dabtsi thiab pab neeg twg los, yog cov coob hais licas ces sau li ntawd ntag, es thaum yus hom hais ces muab txia kiag ua yus lus xwb.
+qhov no mas peb thiajli yuav vammeej taus thiab kev kawm thiajli yuav tsis los txwv peb txoj hau kev thiab thiaj ua rau peb totaub.
+
+this will take a lot of sacrifices and many of the top person will never agree with you and me.
+it is sad but real.
+hopefully we will come to a conclusion where the line should be draw and all the hmong in the whole wide world will have a uniform language.
+
+kukamem iab muastony hab ntsuabxwm, to taub meb cov lug zoo.
+qhov peb yuav khu tau mas yog suav dlawg-especially cov kws lug nyob ua ke khu-yuav tsum saib rua sau yug haiv neeg tseem ceeb es yuav tsum compremise for what is-are the best for all.
+yuav tsum tsis txhob muab tej nyuas minor issues lug sis nyom kuas pemsij rua qhov progress ntawd.
+
+kuv los yeej to taub hab xaam pum tas tej lu lug noun kws muaj 2 los sis peb lu lug yuav tsum muab sau sis txuas txhaj yog.
+tawm sis yuav ca rua cov kws ntawv lug pav saib tug txheejtxheem ntawv moob yog le caag tag.
+yog puab khu tau le caag ces peb suav dlawg yuav tau yoog hab yuav raws le ntawd moog.
+
 ua tsaug...
-nqq
 
-yawm paaj,
-kuv xaav tas peb cov moob leeg yeej ib txwm nyaj qhov yooj+ yim. yog le
-tom qaab ces peb maam chim rua cov phoojywg moob dlawb tas puab saib
-tsi taug peb. qhob tseeb tag yog vim peb yog ib paab tuab neeg tsi nyaj
-creative and aggressive rua yaam peb xaav tau. muab piv txwv le kuv
-qhov experience nrug cov phoojywg moob dlawb ua hauj lwm ua ke, puab
-yeej tsi paub yaam hauj lwm ntawd ntau npaum twg tabsi puab muaj qhov
-peev xwm tas maam ua maam kawm. tabsi peb moob leeg mas tshai+ yog tsi
-tau paub mas xob ua. kuv muab piv txwv le tug thawj tsaav xwm hmong
-district alliance church nyob denver. tsi muaj ib tug moob leeg muaj
-peev xwm ua txij thaum xf. yong xeng yang taag turm lawm, untill lately
-xf. nao lue kue maam lug compete ua.
-qhov nuav vim yog yug yeej tsi muaj peev xwm. has txug koj qhov idea
-lug khu ntawv moob nuav yuav tsuj muaj agreement lug khu kom sawvdlawg
-yuav tau, siv tau, sau tau hab twm moog ib yaam. thaum nuav siv moog
-ntau+ xyoo lawm ces peb siv moog xwb tsi has lus lug ntawd yog lug moob
-dlawb los lug moob leeg.
-mt
+nqq yawm paaj, kuv xaav tas peb cov moob leeg yeej ib txwm nyaj qhov yooj+ yim.
+yog le tom qaab ces peb maam chim rua cov phoojywg moob dlawb tas puab saib tsi taug peb.
+qhob tseeb tag yog vim peb yog ib paab tuab neeg tsi nyaj creative and aggressive rua yaam peb xaav tau.
+muab piv txwv le kuv qhov experience nrug cov phoojywg moob dlawb ua hauj lwm ua ke, puab yeej tsi paub yaam hauj lwm ntawd ntau npaum twg tabsi puab muaj qhov peev xwm tas maam ua maam kawm.
+tabsi peb moob leeg mas tshai+ yog tsi tau paub mas xob ua.
+kuv muab piv txwv le tug thawj tsaav xwm hmong district alliance church nyob denver.
+tsi muaj ib tug moob leeg muaj peev xwm ua txij thaum xf.
+yong xeng yang taag turm lawm, untill lately xf.
+nao lue kue maam lug compete ua.
 
-cov yawm,
-muab ntawv moob dlawb nyeem ua ntawv moob leeg tau ces twb tsi muaj nd,
-ndl, ndlh hab dl le tej ntawd.  vim has sau tsi tau hab has tsi tau lug
-moob leeg es xeev nruag xyooj puab txhaj le tsim muaj cov ntawd lug rua
-moob leeg siv.
-mej saib cov phau ntawv qha qub ntau meb muaj lug moob dlawb xwb, lug
-moob leeg tsi muaj los yog poob taag lawm laiv.  saib tej ntawd xwb
-yeej txaus xaav kawg has tas moob leeg tsi muaj lug hab tsi muaj ntawv
-has kuas meej los caag es yuav sau ntawv los log has lug tais nplaig
-tsawv le ntawd?
-txawm le caag los rau sab tawm tswv yim yeej yuav khu tau xwb.  yuav
-tog ib paab tuab neeg khu ces yuav nyuab lau cov yawm.  mej saib maj
-suav dlawg has taag ces ca le lawm xwb vim tsi muaj leej twg ua hum
-suav dlawg sab es txhaj tsi muaj leej twg tsim los yog khu kua hum suav
-dlawg sab es peb txhaj tsi muaj qauv, standard le mej has.
-thaus kuv nyav tsim tau kuv phau ntawv ntawd, puab nug kuv, interview
-live in radio show, muaj tug puav has tas kuv sau ntawv moob siv lug
-nplog txhuas lug meskas sij xyawj puas lam es ua rua lug moob tsi meej.
-muaj tej tug tseem hu suv tooj live tuaj noog kuv has tas ua ntej yuav
-tsim ib phoo ntawv hab luam tawm yuav tau koom nrug ib paab tuab neeg,
-committee hab suav dlawg pum zoo tsuav maam le sau hab luam tawm.  tsi
-ua le ntawd ces tsi zoo rua peb moob.
-kuv teb rua puab has tas, peb cuab sau ces yuav tau tuav lug moob
-nplog, moob meskas sis xyaw es lwm nub peb lug txaus lawm suav dlawg
-maam khu kuas moob cov lug meej los yog tseem lub moob.  tsi taag le
-ntawd, kuv sau tau phau ntawv ntawd tawm ntawm kuv tug kheej yog leej
-twg pum zoo yuav khu los yog tsaam ib paab committee lug khu los yog
-sau dlua, kuv yeej zoo sab hlo ca suav dlawg paab.
-qhov twg, tau muaj le ib xyoos nuav, tsi nov leej twg ua zaaj.  yog kuv
-tog suav dlawg, sov puas muaj nub kuv sau tau phau ntawv ntawd tshwm.
-qhov kuv sau tshwm yog kuv tau kev rhawv sab, inspire lug ntawd kuv ob
-tug miv nyuas has tas peb puas muaj ntawv moob nyeem ted.  kuv yeej teb
-nyuab vim tsi muaj ntau los yog muaj tej kws yuav kawm los yog siv yooj
-yim es kuv txhaj le tsim tawm xwb.
-phau ntawv ntawd, kuv sau ua lug moob dlawb hab lug moob leeg kuas ob
-hom lug puav leej siv tau.  muaj qees yaam zoo has kuas tsi zoo noog.
-txawm le caag los yuav tau txhawb ob hom lug ntawd, promote both
-dialects only cover mong leng and hmong der.
+qhov nuav vim yog yug yeej tsi muaj peev xwm.
+has txug koj qhov idea lug khu ntawv moob nuav yuav tsuj muaj agreement lug khu kom sawvdlawg yuav tau, siv tau, sau tau hab twm moog ib yaam.
+thaum nuav siv moog ntau+ xyoo lawm ces peb siv moog xwb tsi has lus lug ntawd yog lug moob dlawb los lug moob leeg.
 
-tony,
-kuv tsi tau pum hab twm koj phoontawv kws koj tsim hab sau tabsi kuv
-xaav mas yog nyag tsim nyag xwb ces zoo le peb tsi muab saib rua lub
-saam xeeb. vim nwg nuav moob lub laajxeeb xaav moog dleb heev lawm
-tabsi lub zeem muag nyob ze heev hab tsi pum nyaam moob xaav yuav xaav
-tau ( xaav xwb tsi muaj neeg ua ).  yog leej twg ua tau los yis meem
-siv moog, xeev nruag xyooj hab yawm lub committee sau tau qhov ntawd
-lug ntxiv rua moob leeg tau siv los yog ib qhov zoo heev. vim nyag yeej
-muaj nyag lub suab, yog yuav siv ntawv moob dlawb lug has lug moob leeg
-xwb los yeej tsi pheejxeeb. piv le kuv yog ib tug kws qhas ntawv moob
-dlawb kuv yeej yuav tsi qhas ntawv moob leeg hab has lug moob leeg ib
-zag unless i only has been demanded.
-kuv twb has tas vim le caag es peb moob leeg pheej chim has tas tsi
-pheejxeeb nyob ntawd peb moob leeg hab moob dlawb rua kev coj noj coj
-ua vim yog peb tshai+ hab tsi nyam tsim, tsim nyaj ua, tsi nyaj has lug
-moob leeg, tsua nyaj cauj qaab xwb.
-mt
+mt cov yawm, muab ntawv moob dlawb nyeem ua ntawv moob leeg tau ces twb tsi muaj nd, ndl, ndlh hab dl le tej ntawd.
+vim has sau tsi tau hab has tsi tau lug moob leeg es xeev nruag xyooj puab txhaj le tsim muaj cov ntawd lug rua moob leeg siv.
 
-kab ntsab ib tsoom boj yaig,
-thov txim yuav rov tsa ib suab hu nej ib tsoom muaj meej muaj mom dua
-ib zaug ntxiv nawb. tej zaum twb hu twb caw lawm los thov zam txim
-txais txoj xov no dua ib zaug ntxiv.
-peb hmoob koom haum khaws hmoob teej tug: hmong archives twb npaj tau
-lawm yuav pib tham txog kev yuav los mus nrhiav txuj tsa peb hmoob li
-lus hais thiab kev sau ntaub sau ntawv hmoob kom meej xeeb; qhov nov
-yuav tsis tau hais tias peb yuav tsa dua ib tug niam ntawv tshiab los
-sis peb yuav los mus txhawb ib tug xwb.
-lub hom phiaj yog yuav los mus tsim tsa kev los mus pab txhawb kom luag
-lwm haiv pom los zoo li peb kev hais lus thiab kev sau ntaub ntawv kuv
-nyob muaj kab muaj ke xwb. nej yeej pom thiab paub lawm tias peb hmoob
-li lus feem ntau yog nyob rau kab tshoob kev kos thiab lwm hom kab lis
-kev cai tag lawm. yog no peb tej lus siv los mus sib txuas lus thiab
-sib qhia thiaj li tsawg heev.
-tsis tag li xwb peb hmoob kuj nyob nrog cov neeg lostsuas, suav, cob
-tsib thiab thaib uas luag yeej tsis siv "punctuation" li. tiam sis ziag
-no peb tuaj nyob kawm tau teb chaw no li kev cais suab thiab kab lus
-lawm ua li puas tsim nyog peb los mus siv cov qauv no coj los sim qhia
-siv ua peb hmoob tug, thiab;
-example of intended mission of this proposed hmong language symposium:
-long term goal:
-1. hmong language society or center that will review and approve newly
-develop or acquired hmong word/phrases;
-2. hmong higher education curriculum
-3. promoting hmong creative writing and readership
-immediate goal:
-1. word origin/definition
-2. sentence/paragraph structure/punctuation
-3. word compound: how to systematically design a formula or tool to
-combine hmong word so that it is good or best usage
-4. others: as identify by participants
-thov nej txhua tus muaj laj lim muaj caij nyoog tshaj nej li email tuaj
-rau kuv sai: ***@hmongarchives.org.
+mej saib cov phau ntawv qha qub ntau meb muaj lug moob dlawb xwb, lug moob leeg tsi muaj los yog poob taag lawm laiv.
+saib tej ntawd xwb yeej txaus xaav kawg has tas moob leeg tsi muaj lug hab tsi muaj ntawv has kuas meej los caag es yuav sau ntawv los log has lug tais nplaig tsawv le ntawd?
+
+txawm le caag los rau sab tawm tswv yim yeej yuav khu tau xwb.
+yuav tog ib paab tuab neeg khu ces yuav nyuab lau cov yawm.
+mej saib maj suav dlawg has taag ces ca le lawm xwb vim tsi muaj leej twg ua hum suav dlawg sab es txhaj tsi muaj leej twg tsim los yog khu kua hum suav dlawg sab es peb txhaj tsi muaj qauv, standard le mej has.
+
+thaus kuv nyav tsim tau kuv phau ntawv ntawd, puab nug kuv, interview live in radio show, muaj tug puav has tas kuv sau ntawv moob siv lug nplog txhuas lug meskas sij xyawj puas lam es ua rua lug moob tsi meej.
+
+muaj tej tug tseem hu suv tooj live tuaj noog kuv has tas ua ntej yuav tsim ib phoo ntawv hab luam tawm yuav tau koom nrug ib paab tuab neeg, committee hab suav dlawg pum zoo tsuav maam le sau hab luam tawm.
+tsi ua le ntawd ces tsi zoo rua peb moob.
+
+kuv teb rua puab has tas, peb cuab sau ces yuav tau tuav lug moob nplog, moob meskas sis xyaw es lwm nub peb lug txaus lawm suav dlawg maam khu kuas moob cov lug meej los yog tseem lub moob.
+tsi taag le ntawd, kuv sau tau phau ntawv ntawd tawm ntawm kuv tug kheej yog leej twg pum zoo yuav khu los yog tsaam ib paab committee lug khu los yog sau dlua, kuv yeej zoo sab hlo ca suav dlawg paab.
+
+qhov twg, tau muaj le ib xyoos nuav, tsi nov leej twg ua zaaj.
+yog kuv tog suav dlawg, sov puas muaj nub kuv sau tau phau ntawv ntawd tshwm.
+
+qhov kuv sau tshwm yog kuv tau kev rhawv sab, inspire lug ntawd kuv ob tug miv nyuas has tas peb puas muaj ntawv moob nyeem ted.
+kuv yeej teb nyuab vim tsi muaj ntau los yog muaj tej kws yuav kawm los yog siv yooj yim es kuv txhaj le tsim tawm xwb.
+
+phau ntawv ntawd, kuv sau ua lug moob dlawb hab lug moob leeg kuas ob hom lug puav leej siv tau.
+muaj qees yaam zoo has kuas tsi zoo noog.
+
+txawm le caag los yuav tau txhawb ob hom lug ntawd, promote both dialects only cover mong leng and hmong der.
+
+tony, kuv tsi tau pum hab twm koj phoontawv kws koj tsim hab sau tabsi kuv xaav mas yog nyag tsim nyag xwb ces zoo le peb tsi muab saib rua lub saam xeeb.
+vim nwg nuav moob lub laajxeeb xaav moog dleb heev lawm tabsi lub zeem muag nyob ze heev hab tsi pum nyaam moob xaav yuav xaav tau (xaav xwb tsi muaj neeg ua).
+yog leej twg ua tau los yis meem siv moog, xeev nruag xyooj hab yawm lub committee sau tau qhov ntawd lug ntxiv rua moob leeg tau siv los yog ib qhov zoo heev.
+vim nyag yeej muaj nyag lub suab, yog yuav siv ntawv moob dlawb lug has lug moob leeg xwb los yeej tsi pheejxeeb.
+piv le kuv yog ib tug kws qhas ntawv moob dlawb kuv yeej yuav tsi qhas ntawv moob leeg hab has lug moob leeg ib zag unless i only has been demanded.
+
+kuv twb has tas vim le caag es peb moob leeg pheej chim has tas tsi pheejxeeb nyob ntawd peb moob leeg hab moob dlawb rua kev coj noj coj ua vim yog peb tshai+ hab tsi nyam tsim, tsim nyaj ua, tsi nyaj has lug moob leeg, tsua nyaj cauj qaab xwb.
+
+mt kab ntsab ib tsoom boj yaig, thov txim yuav rov tsa ib suab hu nej ib tsoom muaj meej muaj mom dua ib zaug ntxiv nawb.
+tej zaum twb hu twb caw lawm los thov zam txim txais txoj xov no dua ib zaug ntxiv.
+
+peb hmoob koom haum khaws hmoob teej tug: hmong archives twb npaj tau lawm yuav pib tham txog kev yuav los mus nrhiav txuj tsa peb hmoob li lus hais thiab kev sau ntaub sau ntawv hmoob kom meej xeeb; qhov nov yuav tsis tau hais tias peb yuav tsa dua ib tug niam ntawv tshiab los sis peb yuav los mus txhawb ib tug xwb.
+
+lub hom phiaj yog yuav los mus tsim tsa kev los mus pab txhawb kom luag lwm haiv pom los zoo li peb kev hais lus thiab kev sau ntaub ntawv kuv nyob muaj kab muaj ke xwb.
+nej yeej pom thiab paub lawm tias peb hmoob li lus feem ntau yog nyob rau kab tshoob kev kos thiab lwm hom kab lis kev cai tag lawm.
+yog no peb tej lus siv los mus sib txuas lus thiab sib qhia thiaj li tsawg heev.
+
+tsis tag li xwb peb hmoob kuj nyob nrog cov neeg lostsuas, suav, cob tsib thiab thaib uas luag yeej tsis siv "punctuation" li.
+tiam sis ziag no peb tuaj nyob kawm tau teb chaw no li kev cais suab thiab kab lus lawm ua li puas tsim nyog peb los mus siv cov qauv no coj los sim qhia siv ua peb hmoob tug, thiab; example of intended mission of this proposed hmong language symposium: long term goal: 1. hmong language society or center that will review and approve newly develop or acquired hmong word/phrases; 2. hmong higher education curriculum 3. promoting hmong creative writing and readership immediate goal: 1. word origin/definition 2. sentence/paragraph structure/punctuation 3. word compound: how to systematically design a formula or tool to combine hmong word so that it is good or best usage 4. others: as identify by participants thov nej txhua tus muaj laj lim muaj caij nyoog tshaj nej li email tuaj rau kuv sai: ***@hmongarchives.org.
+
 ua nej sawv daws tsaug!
--txiabneeb
 
-nyob zoo antony,
-ua tsaug ntau rua koj cov lug teb hab faib koj lub tswvyim ntxiv. yeej
-muaj tseeb lawm tas phau ntawv kws xubx tsim tawm lug yeej tsi muaj lug
-moob leeg txhij. peb yeej txaus sab rua mej cov kws lug tsim hab khu
-cov ntawv nuav kuas has tau lug moob txhij. kuv tsuas yog muab luj hab
-ntsuag has tas, tej zag, yog ua tau le kuv has ntshai yuav ua rua peb
-ntawv moob/hmoob muaj uniformity dlua xwb.
-nwg zoo heev kws koj tsim phau ntawv has ob hom lug, moob leeg hab
-hmoob dawb. le ntawd es suav dlawg txhaj siv tau. yeej yog le koj has
-lawm. muaj qee npe ntawv yeej yog siv txhua hom lug (lug blog, lug
-miskas). tej ntawd mas tsi muaj teeb meem dlaab tsi. vim tas yug hloov
-tebchaws ces tej lug kuj hloov nrug.
+-txiabneeb nyob zoo antony, ua tsaug ntau rua koj cov lug teb hab faib koj lub tswvyim ntxiv.
+yeej muaj tseeb lawm tas phau ntawv kws xubx tsim tawm lug yeej tsi muaj lug moob leeg txhij.
+peb yeej txaus sab rua mej cov kws lug tsim hab khu cov ntawv nuav kuas has tau lug moob txhij.
+kuv tsuas yog muab luj hab ntsuag has tas, tej zag, yog ua tau le kuv has ntshai yuav ua rua peb ntawv moob/hmoob muaj uniformity dlua xwb.
+
+nwg zoo heev kws koj tsim phau ntawv has ob hom lug, moob leeg hab hmoob dawb.
+le ntawd es suav dlawg txhaj siv tau.
+yeej yog le koj has lawm.
+muaj qee npe ntawv yeej yog siv txhua hom lug (lug blog, lug miskas).
+tej ntawd mas tsi muaj teeb meem dlaab tsi.
+vim tas yug hloov tebchaws ces tej lug kuj hloov nrug.
+
 ua tsaug rua koj phau ntawv kws koj xaa moog rua kuv...
+
 nqq.
 
-qhov kuv tsis to taub mas yog vim ua li cas peb haiv neeg ho faib ua ob
-pab lawm. ib pab yog hmoob, ib pab yog moob. qhov no nws ua rau neeg
-ntiaj teb tsis to taub peb lawm. lwm yam mas cia kho tom qab. qhov no
-mas yuav tsum muab kho kom tau los ua tib pab xwb thiaj li hais tau
-tias peb yob tib haiv neeg xwb.
-tam sim no, hmoob lees hais lus hmoob dawb ntau tshaj hmoob dawb hais
-lus hmoob lees. yog li nej sim xav saib qhov twg yog qhov yuav mus tau
-zoo dua xwb.
+qhov kuv tsis to taub mas yog vim ua li cas peb haiv neeg ho faib ua ob pab lawm.
+ib pab yog hmoob, ib pab yog moob.
+qhov no nws ua rau neeg ntiaj teb tsis to taub peb lawm.
+lwm yam mas cia kho tom qab.
+qhov no mas yuav tsum muab kho kom tau los ua tib pab xwb thiaj li hais tau tias peb yob tib haiv neeg xwb.
 
-nyob zoo hmong213,
-yeej yog le koj has lawm tag.. luas cov saab nrau kws tsis paub txug
-chivkeeb/lub hauvpaug ces kuj yuav xaav tas peb tawg los sis yog ob
-haiv neeg lawm los muaj. kuv los yeej xaav tau tas txawm yuav sau ua
-mhoob los sis hmoob los tsuav yog peb nyeem le peb lub suab lug has ces
-yeej siv tau lawm. qhov tseem ceeb ces tej lu lug (words) kws moob leeg
-has txawv hmoob dawb ces maam le tsim hab khu kuas muaj rua xwb. yog
-tas 2 npe ntawv has tawm ib lub suab los sis ib lu lug xwb ces kuj ca
-siv ib npe xwb los yeej tau. ib yaam le npe ntawv 'nd' hab 'nt'. raws
-le kuv saib huv antony phau ntawv mas nwg tawm ib lub suab "d" (ntis)
-xwb.
-le caag los xij, muaj tug tsim los peb yuav tau muaj tug nrug khu hab
-es sub peb txhaj le yuav muaj kev thoojxeeb (uniform) moog yaav peg
-suab.
-ua tsaug,
-nqq
+tam sim no, hmoob lees hais lus hmoob dawb ntau tshaj hmoob dawb hais lus hmoob lees.
+yog li nej sim xav saib qhov twg yog qhov yuav mus tau zoo dua xwb.
 
-txiabneeb,
-zoo sab hab ua tsaug rua koj tsaab xuv sau toj nuav. yeej tsim nyog
-kawg kws peb cov tub txawjtxeeg (intellectuals) yuav tsum lug nyob/zaum
-ua ke txhim khu peb tug ntawv kuas tsheejqauv (standard) rua peb siv
-yaav peg suab.
-tej zag yuav tau muab qhov issue nuav coj moog rua peb lub "think tank"
-luj hab ntsuag saib yuav ua caag txhaj zoo rua peb haiv neeg hab ov...
-nqq
+nyob zoo hmong213, yeej yog le koj has lawm tag..
+luas cov saab nrau kws tsis paub txug chivkeeb/lub hauvpaug ces kuj yuav xaav tas peb tawg los sis yog ob haiv neeg lawm los muaj.
+kuv los yeej xaav tau tas txawm yuav sau ua mhoob los sis hmoob los tsuav yog peb nyeem le peb lub suab lug has ces yeej siv tau lawm.
+qhov tseem ceeb ces tej lu lug (words) kws moob leeg has txawv hmoob dawb ces maam le tsim hab khu kuas muaj rua xwb.
+yog tas 2 npe ntawv has tawm ib lub suab los sis ib lu lug xwb ces kuj ca siv ib npe xwb los yeej tau.
+ib yaam le npe ntawv 'nd' hab 'nt'.
+raws le kuv saib huv antony phau ntawv mas nwg tawm ib lub suab "d" (ntis) xwb.
 
-covphoojywg, kavtsij sibcav kom txaus xwv thaum kuv tawm rau saum yajceeb
-nej thiaj muaj lusnug. kuv covntawv mhoob twb tiav tag lawm. thaum kuv
-covntawv mhoob tshwm, yuav tsis muaj mhoobdawb, mhooblees lawm. tsuas muaj
-mhoob nkaus lawm xwb.
-thajtsam lub 2 lhis tag xwb ces kuv tso movie ntawv mhoob rau nej saib
-lawm ntag.
-kuv tsis yog tus pheej caumqab saibseb twjkum mus dua qhovtwg lawm,
-tiamsis kuv yeej paub meejx haistias twjkum yuav los lha lubdawm twg ces
-kuv twb nruab phom zoox tos lawm.
-covneeg caumtsiaj es pheej lawvqab xwb yeej tua tsis tau tsiaj. tabsis
-tusneeg uas mus nyob ntawm lubdawm tsiaj yuav lha thiaj yog tus tua tau
-tsiaj.
-kuv covntawv mhoob muaj tagnrho mhoob covlus thiab qog tau tagnrho txhuax
-lubsuab mhoob nhov.
+le caag los xij, muaj tug tsim los peb yuav tau muaj tug nrug khu hab es sub peb txhaj le yuav muaj kev thoojxeeb (uniform) moog yaav peg suab.
+
+ua tsaug, nqq txiabneeb, zoo sab hab ua tsaug rua koj tsaab xuv sau toj nuav.
+yeej tsim nyog kawg kws peb cov tub txawjtxeeg (intellectuals) yuav tsum lug nyob/zaum ua ke txhim khu peb tug ntawv kuas tsheejqauv (standard) rua peb siv yaav peg suab.
+
+tej zag yuav tau muab qhov issue nuav coj moog rua peb lub "think tank" luj hab ntsuag saib yuav ua caag txhaj zoo rua peb haiv neeg hab ov...
+
+nqq covphoojywg, kavtsij sibcav kom txaus xwv thaum kuv tawm rau saum yajceeb nej thiaj muaj lusnug.
+kuv covntawv mhoob twb tiav tag lawm.
+thaum kuv covntawv mhoob tshwm, yuav tsis muaj mhoobdawb, mhooblees lawm.
+tsuas muaj mhoob nkaus lawm xwb.
+
+thajtsam lub 2 lhis tag xwb ces kuv tso movie ntawv mhoob rau nej saib lawm ntag.
+
+kuv tsis yog tus pheej caumqab saibseb twjkum mus dua qhovtwg lawm, tiamsis kuv yeej paub meejx haistias twjkum yuav los lha lubdawm twg ces kuv twb nruab phom zoox tos lawm.
+
+covneeg caumtsiaj es pheej lawvqab xwb yeej tua tsis tau tsiaj.
+tabsis tusneeg uas mus nyob ntawm lubdawm tsiaj yuav lha thiaj yog tus tua tau tsiaj.
+
+kuv covntawv mhoob muaj tagnrho mhoob covlus thiab qog tau tagnrho txhuax lubsuab mhoob nhov.
 
 thanks, moob lajleeb for jumping in.
-kuv qhov point txug tug tsaj ntawv "d" mas kuv xaav has tas yog moob
-dlawb has tau ua "dev" ces peb moob leeg kuj has tau los sis nyeem tau
-ua "dlev" lawm hab, tsi taag yuav ntxiv tug "l" rua le. ntxiv ntawd tug
-d hab tug t nyag muaj nyag suab. yog le mas yuav muab ob tug tsaj ntawv
-nuav lug siv interchange mas tsi yog lawm. kuv tsuas xaav tau hab pum
-le ntawd xwb.
-ua tsaug,
-nqq
-on jan 25, 11:22 pm, "moobthaibteb moobtwmzeej"
 
-yob,
-peb tog ntshis txug lub caij koj yuav rov tuaj...
-ua tsaug,
-nqq
+kuv qhov point txug tug tsaj ntawv "d" mas kuv xaav has tas yog moob dlawb has tau ua "dev" ces peb moob leeg kuj has tau los sis nyeem tau ua "dlev" lawm hab, tsi taag yuav ntxiv tug "l" rua le.
+ntxiv ntawd tug d hab tug t nyag muaj nyag suab.
+yog le mas yuav muab ob tug tsaj ntawv nuav lug siv interchange mas tsi yog lawm.
+kuv tsuas xaav tau hab pum le ntawd xwb.
 
-nqq,
-yeej meem muab rau thank tank coj mus xav. yog xam pom tau li cas ho
-thov tshaj qhia paub nawb. ua tsaug.
+ua tsaug, nqq on jan 25, 11:22 pm, "moobthaibteb moobtwmzeej" yob, peb tog ntshis txug lub caij koj yuav rov tuaj...
+
+ua tsaug, nqq nqq, yeej meem muab rau thank tank coj mus xav.
+yog xam pom tau li cas ho thov tshaj qhia paub nawb.
+ua tsaug.

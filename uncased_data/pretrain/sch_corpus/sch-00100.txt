@@ -1,99 +1,315 @@
-tsoom npoj yaig,
-nag hmo kuv hnov zeej xeeb thoj thiab nom suav xyooj, tau caw dr. shoua yang tuaj hais lus rau hauv xov tooj cua ຊໍາເຫນື່ອ, lwm yam kuv tsi nco rau hauv lub hlub lawm, qhov kuv nco tau mas zeej xeeb nug dr. shoua yang tias kuv hnov ib cov hmoob tau hais tawm hais tias yog hmoob muaj $100,000.00 dollars ua ib pluag mov rau un noj ces un muab teb chaws rau hmoob, dr. shoua yang teb hais tias ua tsi tau li ntawd ib zaug li un tsi muaj cai yuav muab ib lub teb chaws faib ua ob peb lub, tej lus hmoob hais ntawd yog lug dag lawm xwb ua tsi tau ib zaug, hais txog qhov no yeej yog li dr. shoua yang hais lawm, kuv kuj ntseeg tias ib puas txhiab nyiaj yuav ua tsi tau dab tsi li nwg hais.
-thiab dr. sy, tau hais txuas mus ntxiv tias tam qab tsov rog “world war 2” tag lawm 5 lub teb chaws xws li suav, america, russa, french, england lawv tau los sau cai kaav lub qab ntuj no tias tsi pub ib lub teb chaws loj mus tsuj ib lub teb chaws me, tsi pub ib haiv neeg coob caij tsuj ib haiv neeg tsawg hauv nws lub teb chaws, thiab hais rau hmoob thoob ntuj hnov, kom hmoob nyob twb ywm tsi txhob ua li xyoo hmoob ua xyoo 1975 los txog rau niaj hnub no, ua rau hmoob raug kev txom nyem ploj tuag, thiab yeej tsi muaj cai yuav nrog ib lub teb chaws twg faib av ua nws ntiag tug, nyob lub teb chaws twg ces yoog luag txoj cai lub teb chaws ntawd, rau siab kawm ntaub ntawv kom muaj kev txawj ntse ces txoj hauj lwm zoo luag yuav pub hmoob ua.
-hais txog txoj kev uas yus nyob lub teb chaws twg yuav tau yoog fwm luag txoj cai kav teb chaws ces yog li dr, sy hais lawm, tab sis yuav tsum yog lub teb chaws ntawd hlub tsav neeg uas nrog nws nyob ua ke hauv lub teb chaws li america no mas thiaj siv tau li qhov dr. sy hais los ntawd. tab sis hauv nplog mas txawv qhov dr. sy hais deb lawm nplog liab los tau teb chaws, tej tib neeg twb los nyo hau ua pej xeem tag rau nplog liab lawm los nplog liab tshawb nriav cov neeg neeg hmoob uas txawj hais lus paub tab paub qab hau coj mus kawm, coj mus kawm yog coj mus tua pov tseg, thiaj ua rau hmoob sawv tua nplog liab lub tswv yim phem caij tsuj neeg ntawd.
-kuv xav paub thiab nug sawv daws cov uas tuaj hauv lub sch no nrog rau dr. shoua yang tias lub ntiaj teb no tej tib neeg tsi muaj cai faib av ntawm ib lub teb chaws twg los ua nws lub li no, ua cas thaum 1950 ntawd nyuam qhuav muaj “87 lub teb chaws (nations) xwb” txij thaum 1950 los rau tam sim no teb chaws nce mus ua 196 lub lawm, un xaam rau hauv lawv yog 192 lub, tab sis tag nrho yeej yog 196 lub lub lawm tiag, muab xam txij li thaum 1950 los rau xyoo 2014 tam sim no muaj hnub nyoog ntev 64 xyoo txwm nkau, nyob rau ntu hauv 64 lub xyoo no xwb cov teb chaws twb nce tuaj ua 109 lub teb chaws ntxiv lawm. li hais los no kuv xav paub qhov tseeb tias yog vim li cas luag lwm tsaav tib neeg ho muaj txoj cai ncau mus ua lawv ib lub teb chaws ua lawv ntiag tug, lawv sau lawv cai kav lawv cov neeg. ho hmoob li ho tsi muaj txoj cai li, hmoob nyob lub teb chaws twg tab txawm mag caij tsuj tua pov tseg li tej tsiaj los tsi muaj cai hais li no, puas yog cov tub txawj ntawv tau dr. muab kawm tau mus siab deb dhau hwv lawm los cas es ho tsi pom txog tias hmoob yuav tsum muaj txoj cai tib yam li luag neeg ntiaj teb thiab no? hauv qab no yog ntiaj teb cov uas muaj feem ua ib haiv muaj teb chaws li.
-“in the world there are 196 countries, as of 2010. this includes all 192 un recognized countries plus kosovo, taiwan and the vatican. it does not include western”
-qhov tseeb ces yog hmoob muaj ib txoj kev ruam ntawm hmoob lawm xwb laus ib tsoom hmoob, es hmoob thiaj tsi muaj cai ntwm txoj kev ua neeg.
-ytk
+tsoom npoj yaig, nag hmo kuv hnov zeej xeeb thoj thiab nom suav xyooj, tau caw dr.
+shoua yang tuaj hais lus rau hauv xov tooj cua ຊໍາເຫນື່ອ, lwm yam kuv tsi nco rau hauv lub hlub lawm, qhov kuv nco tau mas zeej xeeb nug dr.
+shoua yang tias kuv hnov ib cov hmoob tau hais tawm hais tias yog hmoob muaj $100,000.00 dollars ua ib pluag mov rau un noj ces un muab teb chaws rau hmoob, dr.
+shoua yang teb hais tias ua tsi tau li ntawd ib zaug li un tsi muaj cai yuav muab ib lub teb chaws faib ua ob peb lub, tej lus hmoob hais ntawd yog lug dag lawm xwb ua tsi tau ib zaug, hais txog qhov no yeej yog li dr.
+shoua yang hais lawm, kuv kuj ntseeg tias ib puas txhiab nyiaj yuav ua tsi tau dab tsi li nwg hais.
 
-nyob zoo tijlaug ytk,
-ntev lawm tsi tau sib thaam tabsi yog thaam txug tej kaasmoog nuav es kuv txhaj tawm tuaj nrug koj sib thaam pem. koj qais lug 1 ce yeej yog le dr. suav teb lawm. $100k ce un tau mov noj ce un txawm cas le tu tebchaw tsuas moob nyob, tshe tej zag moob is very special tsua un ne. kuv has tsuas koj paub tas moob amelikas tseem ruam txug 90%, nkim amelikas tej nyaj yug moob tau ze le 40 xyoo nuav. lub tswv8 nuav ce has tuab yam le thaum xyoo 2009-10 es 411 has ntaag luas mas.
-nqe 2. tej zag dr. sy yuav tau has le ntawd vim nyob public mas yuav has tsi tau le moob lub sab nyam tabsi dlaim luaj pua nuav ce yog yug tsi yog yug ce yeej tsi muaj leej twg yuav lug tu aav tsua moob nyob ib sim neej le os.
-le caag los xij xob tu tusab tsuas dr. sy vim luas yog dr. lawm ce lus yuav tau has le ntawd tabsi thaum mej moob luaj thaaj teb ntawd lawm tag tag luas yuav
-tsuj paab xwb. kuv yog dr. los kuv yuav has le dr. sy has ntawd hab xwb.
-thanks,
-mt
+thiab dr.
+sy, tau hais txuas mus ntxiv tias tam qab tsov rog “world war 2” tag lawm 5 lub teb chaws xws li suav, america, russa, french, england lawv tau los sau cai kaav lub qab ntuj no tias tsi pub ib lub teb chaws loj mus tsuj ib lub teb chaws me, tsi pub ib haiv neeg coob caij tsuj ib haiv neeg tsawg hauv nws lub teb chaws, thiab hais rau hmoob thoob ntuj hnov, kom hmoob nyob twb ywm tsi txhob ua li xyoo hmoob ua xyoo 1975 los txog rau niaj hnub no, ua rau hmoob raug kev txom nyem ploj tuag, thiab yeej tsi muaj cai yuav nrog ib lub teb chaws twg faib av ua nws ntiag tug, nyob lub teb chaws twg ces yoog luag txoj cai lub teb chaws ntawd, rau siab kawm ntaub ntawv kom muaj kev txawj ntse ces txoj hauj lwm zoo luag yuav pub hmoob ua.
 
-yuav kom ciaj haiv/nation tshiab ces kawg yog tsov rog sib ntau sib tua txog thaum daim av muab koom ua ib lub li qub tsis tau lawm thiajli muab faib nyias nyob nyias xwb mas zooli kub niam txiv tsis sib haum ces nrauj xwb mas. yog hmoob lub zog me dhau nrauj tsis tau ces nyob twj yem li dr sy hais xwb mas. yog yuav nti ciaj nti tuag kom dim no mas yuav zog loj mentsis ov. tabsis yog zooli thaum 1976 uas koos16 tuaj li 20 tu tuaj hauv peblub zos thiab nug tau tseeb tias lawv tuaj hu dav hlau helecopter tuaj tsaws no ces klawv yuav ntes 4 tug thawj neeg hauv peb lub zos no ces txog sij hawm yog cev tes 5 lawv khi ces kawg lawv coj mus kaw thiab tua pov tseg xwb ham tsi nti  cuag cuav nab nti thaum mag ntsaum tom seb tsis dim ces kawg tuag lub sij hawm ntawd na. peb nrog thiaj nrhiav tswv8 nti kom tawm tau hauv zos mus lawm tom hav zoov nrog hmantsuab sib nyas tom havzoov txog 1979 peb mam li nrhiav kev tawm 6 tim thaib. peb txoj kev tawm mas ntev kawg vim lub 6-7 hli 1979 peb twb tawm pem hav zoov twb yog 1 hli 1980 peb mamli tshwm tim thaib. zoo mas lub sij hawm ntawd hauv vibnais tseem muaj ze li 50,000 tug hmoob (neeg tawg rog) ces un thiaj ua ntaub ntawv muab peb thauj los 6 hauv vibnais. lub sij hawm no tsis yog 1980 ov leej twg lam ua li peb ua dhia tawm los 6 tim thaib mas tsis muaj yeej tawg rog vibnais li thaum i ov. tsam no leej twg nti2 ces seb puas yeej xwb ov tsis yeej ces kawg tuag kom tas hauv daim av nplog xwb ov. nas kos ntsuas nas kos zog kom zoo2 xwb mas. kuvli ces kuv twb nyuaj siab xyov yuav ua cas kuv thiaj coj tau kuv ob tug menyuam mus kawm tom u vim yuav yog siv $ ntau yam uas tamsim no kuv twb tsis muaj. lub sij hawm los twb los txog ze zuj zus. lub sij hawm tsis lam nres tos me kom kuv muaj $ txaus2 tso mam txog thaum kuv yuav tau coj ob tug menyuam mus kawm tom u. tsam o nres tsis taulub sij hawm ces thiajli zaum txhawj2 xwb ntag laud.
+hais txog txoj kev uas yus nyob lub teb chaws twg yuav tau yoog fwm luag txoj cai kav teb chaws ces yog li dr, sy hais lawm, tab sis yuav tsum yog lub teb chaws ntawd hlub tsav neeg uas nrog nws nyob ua ke hauv lub teb chaws li america no mas thiaj siv tau li qhov dr.
+sy hais los ntawd.
+tab sis hauv nplog mas txawv qhov dr.
+sy hais deb lawm nplog liab los tau teb chaws, tej tib neeg twb los nyo hau ua pej xeem tag rau nplog liab lawm los nplog liab tshawb nriav cov neeg neeg hmoob uas txawj hais lus paub tab paub qab hau coj mus kawm, coj mus kawm yog coj mus tua pov tseg, thiaj ua rau hmoob sawv tua nplog liab lub tswv yim phem caij tsuj neeg ntawd.
 
-tijlaug yajtshajkoob;
-yuav ciaj haiv yuav tsum yog sib koom tes, ua tiag, tuag tiag thiab yuav ciaj haiv yuav tsum yog muaj tus pab.  tebchaws israel poob rau roman xyoo 70 am thaum cov israel sawv tawm tsam roman, thiab roman tso lawv tus thawj tubrog hu ua titus tuaj tuaj tebchaws israel, tuaj hlawv lub roog jerusalem thiab cov neeg israel tawg mus puv sab midle east thiab sab europe.  vim muaj tebchaws amelicas thiab tebchaws as kiv pab cov jews, xyoo 1948 cov jews thiaj rov muaj tebchaws.
-kosovo (kosovo liberation army or kla)muaj tebchaws los vim muaj nato pab.  1998 nato bombs the federal republic of yugoslavia ua tshauv.  vim li no kosovo albania thiaj ciaj tau haiv.
-thaum 1980s thaib thiab suav yeej yog pab cov kub xaj kawg lawm, tabsi sawvdaws tsis yog ua teb ua chaws.  thaib muaj riam phom kom cov chao fa thiab neo hom ntaus kom tau xeev sayabury es tsam rathaban tabsi sawvdaws mus tua liab tua cuam tua nas tua noog xwb.  thaib kom paj kaub hawj lawv cov chao fa tua xieng lom, kom neo hom tua pak lai thiab nroog sayabury thaum kawg phom tsis rov cov neo hom mus nkaum peb poom nas xwb.
-yog thaib ua ntaus thaib tseem yuav lo quav, thaib thiaj tso cov kub xaj tseg thiab tig mus tuav nplog liab (lprd) tes, amelicas los ua ntsej lag muag dig hmoob yuav qws npaum twg los luag tsis pab.  thaum kawg naiphom vaj pov tseem tus kheej rau ntes.
-hmoob yuav ciaj tau haiv yuav tsum yog hmoob koom tau ib lub siab thiab tuav tau amelicas tes li cov jews.  tam sim no (2014) jews muaj 11 tug us senators, 22 tug us representative thiab history usa jews muaj 89 tug naiphom nyob hauv us army.  vim jews muaj power li no jews thiaj muaj peevxwm pab tau tebchaws israel thiab tau lawv haivneeg.
-nco ntsoov edward teller (the father of the us nuclear bombs) yog jews.  cov jews muaj good records nyob hauv usa no.  hmoob yuav ciaj tau haiv yuav tsum yog hmoob zoo li cov jews thiab taug jews tus hneev taws.
-vajncuab5
+kuv xav paub thiab nug sawv daws cov uas tuaj hauv lub sch no nrog rau dr.
+shoua yang tias lub ntiaj teb no tej tib neeg tsi muaj cai faib av ntawm ib lub teb chaws twg los ua nws lub li no, ua cas thaum 1950 ntawd nyuam qhuav muaj “87 lub teb chaws (nations) xwb” txij thaum 1950 los rau tam sim no teb chaws nce mus ua 196 lub lawm, un xaam rau hauv lawv yog 192 lub, tab sis tag nrho yeej yog 196 lub lub lawm tiag, muab xam txij li thaum 1950 los rau xyoo 2014 tam sim no muaj hnub nyoog ntev 64 xyoo txwm nkau, nyob rau ntu hauv 64 lub xyoo no xwb cov teb chaws twb nce tuaj ua 109 lub teb chaws ntxiv lawm.
+li hais los no kuv xav paub qhov tseeb tias yog vim li cas luag lwm tsaav tib neeg ho muaj txoj cai ncau mus ua lawv ib lub teb chaws ua lawv ntiag tug, lawv sau lawv cai kav lawv cov neeg.
+ho hmoob li ho tsi muaj txoj cai li, hmoob nyob lub teb chaws twg tab txawm mag caij tsuj tua pov tseg li tej tsiaj los tsi muaj cai hais li no, puas yog cov tub txawj ntawv tau dr.
+muab kawm tau mus siab deb dhau hwv lawm los cas es ho tsi pom txog tias hmoob yuav tsum muaj txoj cai tib yam li luag neeg ntiaj teb thiab no?
+hauv qab no yog ntiaj teb cov uas muaj feem ua ib haiv muaj teb chaws li.
 
-hmoon tais2 caus ntshai2 tuag. yog nam ib ruam tom ntej yuav tuag mas tus twg los kom lwm tus mus hos nws mas nkaum zog. txav kom deb2 xwb ov. hmoob tsis tau muajlub siab kom muab roj ntshalos pua thiab tiv thaiv lub teb chaws. nej sim xav yog tamsim no hmoob twb muaj ib daim av luajli lub state mn ntawm no lawm thiaj yuav kom tau 50,000 tus hmoob mus ua tubrog thiab ntxhais yuag zov ciam liaj ciam teb no mas ntshe yuav txib2 thaum kawg tsis muaj neeg mus lawm tom ciam teb seb tus khov thiab tawv bnpaum gvp puas kwv los phom mujs duj dawslawm tom ciam teb xwb mas kuv xav mas tus twg los yuav liam zoj ziag tias kuv yug kooj yug tsawg tsam kuv tsis muaj noob lawm ces nej mus ua rog no nej coob nej mus hos kuv tus tub mas kuv tsis kam.
-lo nyuag lus no tsis yog peb tsis tau hnov. tim blog ua ntej 1975 gvp twb muaj ib qhabnab tub ceev xwm ntes cov txivc neej hmoob mus ua tub yuag. twb hnov tuaj txog peb sab tom lpb tias twb tseem muaj cov nplua nuj ntiav lwm tsev neeg tus pluag tus tub mus ua tub yuag taj. zaum no yog yuav kom hmoob kho9v tuav tau ciam dej ciam av mas yuav yog siv txoj caili kuvpom movie suav yav thaum suav tseem muaj huabtais mas. yogtsev neeg ntawd muaj ib tug tub xwb los kom mus ua tub yuag lawm tom ciam teb. yog tsis muaj tub ces kom tus thaub mus ua tub yuag. ib tse mas tsawg kawg los ib tug yuav tsum mus ua tub yuag. muab saib mas tej cai no zoo li heev zoglawm tabsis yog tsis siv tej cai zooli nolub teb chaws yeej yuav tsis ruaj tsis khov. tejno yo9g tsis ua cai kom nruj ces neeg kawg nti kom dim. yog leej twg lub tsev tsis muaj tub loj kom siv rtau 6 tom ciam teb ces tus tub hluas twg loj puv 16-18 ces twb maj nroos mus yuav poj niam ces nyob hauv txoj cai nws yog bnws ib tse neeg. nws los nyuam qhuav yuav poj niam tsis tau muaj tub loj kom txaus coj mus siv tom ciam teb hos nws txiv tsev neeglos tshuav ob tug laus thiab ntse tuspuav to qab lawm xwb. nev ob lub tsev lub twg los tsis tau ib tug mus ua tubyuag mus thaiv ciam teb. hmoob lub tswv8 nkib nkaus2 no mas kuv tsis tau coj hmoobloskuv yeej  pom tias tej tswv8 yeej yuav nkag tejkab ke li no ntag yog hmoob ciaj haiv ib yhnub twg. yuav kom tau mas txoj cai yog txoj cai tsis muaj2 txheeb2 ze2. tus tub huab tais los yog 18 ces nog nra tub yuag 6 ev nkag lawm tom ciam teb. leej twg mus ua tub yuag tomciam teb 5 xyoos tsis tuag no mam pub rovklos tsev los yuav poj niam. yog leej twg maj2 yuav poj nian los faib nyias mus nyias haujlwm. tus txiv mus lawm tom ciam teb tus niam mamli nyob ua noj haus tom. ib xyoos mamli pub 3 week vacation rovl.os pab pojniam menyuam tom zos. los noj30 los yog luaj teb ntov ntoo. tas 3 week ces muajlwm yam yuav ua tom tsev los lwm xyoo mam pub 3week dua. yog hmoob siv tsis tau txoj cai nruj npaumli no mas muaj ciam dej ciam avlos tsiskav 3 xyoos li os. xyoo puav xwb twb rov mag lwm haiv txeeb ces peb kawg pos tauv hau kom txhob mag sab2 xwb mas.
-thaum twg peb tseem hais kev txeeb2 ze2 mas peb yeej tsis khov. tsis yog tias koj yog nom no ces koj txawm muaj koj cov txheeb ze rub mus ua num 6 sab sib2 hos lwm tus sab nraud tsis txheeb puas tsawg no ces nog lub nra kom nyhav txaus2 yees no mas yuav tawg sai2. tim ub peb twb pom gvp thiab gvp ciov txheeb2 ze2 mas tus twg los tau tus loj tus tub kawm ntawv tseem nyob nram nroog kawm ntawv qeb siab xwb twb muaj nyiaj hli noj ua tus xab(?n) loj tshaj lwm tus uas twb nyob saum khaib lawm. tej no tsis yopeb tsis tau hnov thiab pom dua. hmoob=human=animal ces yeej muaj instinct kom cawm tus txheeb2 ze2. yog cov tsov nram africa yuav tom ib tug twm mas lwm tus twm yeej nyob nrug deb zog hos tus maum twm mas thiaj khiav lij lias caum kom tsov txav deb2 nws tus menyuam xwb ntag. tshiaj xwb twb muaj qhov instinct kom tus txheeb2 ze2 nws yog tus dim tus tau zoo. hmooblos txawv tsis deb tej tshiaj. yeej xav kom yus cov tub ki tau lub neej zoo txhob txom nyem. ces yus ham tsis muab yus tus txheeb ze mus ua num qhov sib2 qhov twg nyhav mas kom lwm tus mus ua. neeg yeej phem li no puag nruab thiab los lawm. zaum no mas yhuav tau siv cai kom nruj2 txiav tu nro leej twg 18kiag ces hnub ntawd nog lub nra tub yuag kom mus lawm tom ciam teb. mu zovciam teb kom puv 5 xyoos mam pub nws rov los tsev. txoj cai lem2 nkaus2 li no yuav tuav tau daim av los yog hmoob tug kom txhob mag caum tuali peb twb pomlos lawm ntau zaus.
+“in the world there are 196 countries, as of 2010.
+this includes all 192 un recognized countries plus kosovo, taiwan and the vatican.
+it does not include western” qhov tseeb ces yog hmoob muaj ib txoj kev ruam ntawm hmoob lawm xwb laus ib tsoom hmoob, es hmoob thiaj tsi muaj cai ntwm txoj kev ua neeg.
 
-tijlaug yajtshajkoob & all;
-thaum txim, kuv thov correct lo lus 70 am mus ua 70 ad.  sawv ntxov ntxov los teb koj es thiaj sau ntawv yuav kev lawm.
-uncle idonotknow;
-yog peb tiam uas pom looj ceeb xas thoos tseem muaj sia nyob mas txhob tham txog qhov hmoob yuav ciaj haiv, txawm tham los hmoob yuav ciaj tsis tau haiv ib zaug.  dhau ntawd leej twg yuav pab hmoob?  lub tebchaws twg yuav pab hmoob?  amelicas mus tuav nplog liab tes lawm, thaib los mus tuav nplog liab tes lawm es leej twg thiaj xav tias yuav muaj teb muaj chaws?
-peb dim tuag tuaj txog amelicas teb ces yog hmoov zoo.  txhob txob txob tsam mag hlob kav hlaus.
-tub vajncuab5
+ytk nyob zoo tijlaug ytk, ntev lawm tsi tau sib thaam tabsi yog thaam txug tej kaasmoog nuav es kuv txhaj tawm tuaj nrug koj sib thaam pem.
+koj qais lug 1 ce yeej yog le dr.
+suav teb lawm.
+$100k ce un tau mov noj ce un txawm cas le tu tebchaw tsuas moob nyob, tshe tej zag moob is very special tsua un ne.
+kuv has tsuas koj paub tas moob amelikas tseem ruam txug 90%, nkim amelikas tej nyaj yug moob tau ze le 40 xyoo nuav.
+lub tswv8 nuav ce has tuab yam le thaum xyoo 2009-10 es 411 has ntaag luas mas.
 
-kasmoos mas hloov sai2 hnub no lawv tuav blog tes hnub puav xwb lawv twb ho tuav lwm tus tes li peb pom blog twb tuav nyablaj tes xav tias yuav ruaj ntseg. tabsis tsam no blog twb fee duj das mus khawm2 suav. kasmoos ces yeej tsuas pom hloovli no. tsis tas li ntawd xwb zooli lub laujkaub yus muab hau zaub ntsuab thiab nceb txais nram teb. lub lauj kaub mas yeej kubv sab hauv tshaj sab saum toj. tabsis muaj dej hauv ces dej tsuas pom hloov chaw cov kub ces muaj zog ntab cov txioas ces nyhav kawg tog hloovli no ces cov txias kawg  tog mus 6 qhov kub 2 hauv qab hos cov dej kub2 hauv qab kawg ntab tuaj saum toj qhov muaj cuas txias zog. hloovli no tsis nres tsis kawg. tej kasmoos hauv lub qabntuj los tsuas pom hloovli no. tam sim no peb pom mezskas yuav tuav blog, thiab nyablaj tes vim meskas thiab suav yog yeeb ncuab los ntawm nkawv yog ob tug loj2 hauv kev cai commie thiab capitalism. meskaas yeej xav muab suav xov vaj kom nyob twsj ywm. yuav xov vaj ces kawg tuav tes nrog cov teb chaws puag ncig suav daim av. txawm  mus tuav tes yuav kim2 los meskas yeej kam kiag vim yog meskas hom num loj dua lwm yam. zooli thaum ua ntej 1975 meskas ncuav riam phom thiaj nyiaj tuaj 6 gvp thaiv nyablaj qaum teb (ib tug commie uas meskas tabtom yuav swb sai2 6 lub sij hawm ntawd meskas thiaj kub2 siab ncuav riam phom thiab nyiaj tuaj 6 gvp thaiv commie kev me2). thaum meskas pom tias swb 100% tsis yog los ntawm cuab yeej ua rog thisb tub rog tsis txaus tabsis yog  txoj cai mus tsis tau meskas thiajli thim nrawm npaumli nrawm tau. meskas thiajli muab gvp pov tseg tsis kk pab thiab cawm li lawm 6 thaum lub 5 hli 1975. kasmoos mas yeej hloov li no mus tsis tas tsis kawg. lub sij hawm 1965-1974 ntawd nej cov nyob pem loojceeb leej twg yuav xav tias gvp yuav plam hwj chim sai npaum li ntawd vim peb pom yavtas los. sawv daws yeej xav tyias gvp twb yog thawj nom loj tas npaud nws lub tsev mas cov pej xeem hmoob dog dog twb txav tsis tau ze li caslos gvp lub neej thiab tug hwj huam yuav ruiaj ntseg mus tas li tsis paub ploj vim tas gvp los nws cov tub yuav sawv tuaj tuav vim kev ua tubrog yog ua raws khas(m) xaj xwb yog gvp taw tes 6 leej twg ces txawm yog menyuam yau los sawv dawskawg tsa tes hawm. ces ntximli gvp tsev neeg yuav ruajkhov mus tsis tas tsis kawg. tabsis vim tej no yog kasmoos tsuas pom kasmoos hloov los tsis ntev 1975 tawm plaws ces teb chaws ua yoj yees yuav plam tuaj mas gvp txawm muaj nyiaj puv txhab los zooli tsis muaj neeg xav cev tes mus rthov siv mew2 lawm. neeg tsuas pom yuav khiav li cas txoj sia thiajli yuav dim lawm xwb. cov hmoob uas twb npluas nuj muaj tsheb khiav ua taxi los thaum ntawd lub neej zooli tsis ruajh khov ces tej tsheb yuav tshiab npaumli cas los kawg muab pov tseg 6 tom qab huas kom txoj sia dim nkaus xwb. 1976 peb tsev no mas pov tseg tej yam khib2 lub siab vim koos16 mas yog cov tshiaj li nyuj thiab npua uas peb lub zos peb muaj coobtshaj. peb khiav tawm qaib npuas nyuj nees ciali nyob zov tog vaj tog tsev ntev2 mus tsis muaj neeg pub thiab saib xyov mus ua tsiaj qus tas los yog tsiaj qus muab tom noj tas lawm xwb. ib yam ntxiv uas lwm tus xav mas me2 tabsis tsis yog me2 6 txhua2 tus neeg yog ib rab qeej uas tus kws txua rab qeej mas yog  nchaiv kos nyob 6 sab pem xk. qab qeej no mas nrov thiab tshuab tus txiv qeej tsis txhaws qa. vim tus txiv qeej tus cua haum nrog rab qeej. cov txiv qeej tshuab thawj zag uas yog zaj qeej tu siav mas thiajli paub tias rab qeej tshuab haum2 muaj nqe npaumli cas thaum kom tshuab rab qeej li 5-8 xuaj moos tsis nres me2 mas thiajli paub tias rab qeej haum yuslub qa mas muaj nqes thiab kim npaumli cas los ntxeem them nyiaj kom tau yog yus rab.opeb tsev no muaj ib rab yog kuv yawg thiab kuv txiv nkawv rhov nyiaj choj yuav. thaum 1976 lub 11 hli ces kawg dhia tawm hauv zos kom txoj sia dim tej tsiaj thiab tej khoom kawg kavliam pov tseg. thaum muab koos16 dov dev tiav2 ces kawg nqa rab qeej thiab tej khoom uas xav tias tseem ceeb coj mus zais tom qhov tsua. tau 37 xyoo no ces tej khoom ntawd ua hmoov av dulug kuv xav. yuav tshuav mas ntshe yog 8 tus nplaim qeej uas yog tooj mas yuav tsis lwj ntsoog mus ua av. ib yam tshuav ntxiv uas tseem yuav nyob 100% mas yog lub zeb uas zej zog sawv daws tuaj siv zom ncuav zom taum txhua2 hnub. lub zeb hauv peb plub zos mas nyob hauv peb lub tsev. ob daim zeb no mas tsis yog me2  thiab pob zeb tsis txawj lwj thiab yaj mus ua av ces yuav tseem nyob yogf tsis nyob ces ntshe yog muaj neeg khaws nqa mus cia lwm qhovlawm xwb ov.kasmoos hloov ces txawm tej yam guarantee 101% yuav tsis lwj tsis piamloskawg twb txawj ploj thjiab tsis muaj nyob hauiv tsev lawm tseem yog tej yam tsis gujarantee tau tias yuav nyob tsis tuag tsis lwj thiab mas txhob txhawj2 yeej yuav hloov. kasmoos kom hmoob ciajhaiv los yuav txawv tsis deb. txog sij hawm mas yeej yuav hloov kom hmooba rov ciaj haiv xwb mas. yuav nyuaj yog yuav tuav tswv8 kom yog cuiaj haiv no peb yuav tswj li cas thiaj yuav ruajh khov. kuv ntshai mas tsam hmoob tsis kam muab roj thiab ntshav mus thaiv ciam teb ciam avkom hmoob nyob ruaj ntseg xwb ov thaum txog sij hawm na. tus twglos huas nws tej num mas loj2 hos kev tiv thaiv ciam teb mas muab tso tom qab. tus twg los yugkooj yug tsawg ces tsis kam nws tus tub mus yog tub yuag tom ciam teb. lo no mas kawg hnov  xwb2 yog hmoob ciaj haiv hnub twg. yog xav kom haiv ruaj ntseg ces kawgb yog tzxoj cai tsispub leej twg dim txawm yog tus loj tus melostxwm 18 ces nog nra kom musklawm tom ciam teb. qeeb zog ib week tom qab 18 xyoo tsis tshwm tom ciam teb ces mag kaw kom txaus2 yees thiab ntxiv sij hawm tom ciam tebli 5-10 xyoo ntxiv. tus tub nom thiab tus tub qhev los cai sibluag tomn ciam teb. yog tsis siv txoj cai lem2 thisb tgsiv2 npaum li no mas hmoob yuav nti kom dim txhob mag mus ua ncej lajkab tom ciam teb. txhob ua li tim loojceeb uas ib ob tug muskawmntawv qeb siab nram nroog twb ho muaj nyiaj hli nojqeb siab2 pem khaiblawm no mas leej twg los khib2 xav2 taug ib txoj cai tabsis sawv daws yog pej xeem dog dig  lub siab mas hais pua2 lo lus lawm los lub ncauj tsis nrov tawm xwb ov.kom peb kawm tej no txhob muab los ua chaw tu thiab txias2 siab 6 hmoob ntxivlawm tomntej. ib yam ntxiv yuavmuaj npe tsis muaj neeg saum khaib n mas nyiaj txiav tu nro tsis them. peb twb hnov dua tej no lawm tias saum khaib mas neeg tsawg tabsis cov npe hauv ntaub ntawv mas npe ntau2. tgfzxog sij hawm lav nyiaj hli mas cov thawj tub rog thiab cov tuaj faib nyiaj tseem ua ntsej liab2 kub2 tshuav daws foob pob tus safety pin kom sawv dawd ntsoog nrog khaib kom dulug. hom muaj npe tsis muaj neeg no mas yuav yog ib hom ua kom hmoob tawg. ciaj haiv tsis nto 3 xyoo yuav rov plam lub teb  chaws dua tseeb2. cov tub txawj ntxhais ntse yuav tau muab tej yam no los saib kom meej2 thaum twg yog hmoob ciaj haiv li sawv daws txoj kev npau suav.
-cov hmoob nyob tim kev deb li meskas, fabkis,. thiab lwmlub teb chaws mas kuv tsis txhawj.kuv txhawj2 mas yog cov tim havzoov tseem ua caubfab uas niaj hnub mag caum tua pem toj roob hauv pes tim daim av blog. txoj kev nkaum gavzoov li no kuv twb nkaum loslawm kuv yeej paub txom nyem npaumli cas thaum muab yamn twg los tsis zoo noj.noj los nqos tsis tau. cov klaus ces ua tiag ntsub uv2 hos cov me mas pom quaj. cov neeg ntawd yog hmoob thiab mas tus hmoob leej twg pom los yuav yoo kom ncia txoj kev hlub tshua thiab txhawj  tsis tau. kuv m,as kuv txhawj2 cov no xwb ntag. yog kuv muaj hwj huaj loj txaus mas kuv yuav mus vawm hom no xwb2 thiajli tas.thaum gvp coj movie cov tim ub tseem mag tua pem toj roob hauvpes kom sawv daws cawm no mas peb mus hnov ntawm st.paul no gvp piav tas mas kom cov qeb siab hauvlub koomhaum neohom qeb general ib leeg $6,00 tabsis ib pliag lawv tias kom txhua tus tuaj hnov lub rooj sib tham ces 6,00 tas nrho. kuv tus qeb qes yog member hauv peb group me2 xwb los vim kuv raug mujs mloog taj peb tud haum nab kooj(m) ces aub yaujnkuv maj npe hauv rooj sab laj ces ku9v mag 6k ib yam nkaus loskuv ntsub2
+nqe 2. tej zag dr.
+sy yuav tau has le ntawd vim nyob public mas yuav has tsi tau le moob lub sab nyam tabsi dlaim luaj pua nuav ce yog yug tsi yog yug ce yeej tsi muaj leej twg yuav lug tu aav tsua moob nyob ib sim neej le os.
 
-tijlaug ytk,
-kuv tsis to tau hais tias vim li cas zeej thiagb nom nkawv tseem muab tej niag lus ntawd coj los tham/nug nyob hauv radio thiab lau.  tej lus zoo li no  hnov xwb twb paub hais tias hais lus ua si xwb las sav.  kuv xav kom peb cov tuav xov tooj cua yuav tau analyze txhua yam ua ntej yog tsim nyog mam coj los discuss.
-phiabzeb
+le caag los xij xob tu tusab tsuas dr.
+sy vim luas yog dr.
+lawm ce lus yuav tau has le ntawd tabsi thaum mej moob luaj thaaj teb ntawd lawm tag tag luas yuav tsuj paab xwb.
+kuv yog dr.
+los kuv yuav has le dr.
+sy has ntawd hab xwb.
 
-nyob zoo kwv npawg mouatony,
-zoo sab tau ntsib koj hab, moo blub tswv yim tes yeej tseeb le koj has huv qaab nuav lawm….
-moob le mas cov kws has lug cis dlaag yog feem coob, cov tuab neeg cis dlaag mas feem ntau yog cov kws has lug ntxi, xob ntaus nrov, ua nub nuav tau noj pig kig. huas cov ua tag tag kws muaj kev ncaaj nceeg mas yog cov tsawg, thaam txug txuj kev ruam tes moob tseem ruam heev, vim luas lwm haiv tuab neeg tseem ntxag dlaag tau moob tej thawj coj-coj moog cuab rua luas sim phaj kom cov noob cauv fab tu noob moog xws le paaj kaub muas puab cov ntawd.
-koj sob lug sau toj nuav kuj yog le koj has lawm hab, kuas sis yog has le dr. sy has tes moob feem coob yeej to taub le qhov nwg has ntawd lawm xwb, moob tsi muaj lub hlwb xaav tas yog ua caag tub txwv tsi pub leej twg tawm moog ua ib haiv tuab neeg nyob nwg kheej lawm nua, tab sis ua caag teb chaws tshab xij tawm ntxiv ntau zuj quas zug tuaj le ntawd yog le caag tag. sis ntsib dlua.
-kwv vajncuab5,
-yeej yog li koj hais thiab yuav ciaj taus haiv los yuav tsum yog txawj sib pab sib txhawb li koj hais, tab sis qhov hais tias yuav kom lwm teb chaws pab yus li ua tau no uas tab txawm muaj teb chaws los yuav tsi tau, vim hmoob tsi sib koom tes li, nyias yuav ua nyias tug loj tsi sib koom tes ces yeej ua tsi sawv tsi tau. israel li mas tos hais tias lawv ua tau los lawv sib koom tes ua ke tiag tiag, thaum lawv ri puv ntuj, ib txhia tuaj rau rooj teb usa no lawv sib sau nyiaj los tso ua ib ke, lawv siab ncaj ncees lawv tsi muab tej nyiaj sib sau ua ke ntawd noj li hmoob, lawv cia pob nyiaj loj zuj zus mus ces thaum txog caij ua teb chaws lawv li rho lawv tej nyiaj tawm mus yuav cuab yeej riam phom ua rog mus pab lawv cov neeg hauv nruab nrog thiaj ua tau muaj zog.
+thanks, mt yuav kom ciaj haiv/nation tshiab ces kawg yog tsov rog sib ntau sib tua txog thaum daim av muab koom ua ib lub li qub tsis tau lawm thiajli muab faib nyias nyob nyias xwb mas zooli kub niam txiv tsis sib haum ces nrauj xwb mas.
+yog hmoob lub zog me dhau nrauj tsis tau ces nyob twj yem li dr sy hais xwb mas.
+yog yuav nti ciaj nti tuag kom dim no mas yuav zog loj mentsis ov.
+tabsis yog zooli thaum 1976 uas koos16 tuaj li 20 tu tuaj hauv peblub zos thiab nug tau tseeb tias lawv tuaj hu dav hlau helecopter tuaj tsaws no ces klawv yuav ntes 4 tug thawj neeg hauv peb lub zos no ces txog sij hawm yog cev tes 5 lawv khi ces kawg lawv coj mus kaw thiab tua pov tseg xwb ham tsi nti cuag cuav nab nti thaum mag ntsaum tom seb tsis dim ces kawg tuag lub sij hawm ntawd na.
+peb nrog thiaj nrhiav tswv8 nti kom tawm tau hauv zos mus lawm tom hav zoov nrog hmantsuab sib nyas tom havzoov txog 1979 peb mam li nrhiav kev tawm 6 tim thaib.
+peb txoj kev tawm mas ntev kawg vim lub 6-7 hli 1979 peb twb tawm pem hav zoov twb yog 1 hli 1980 peb mamli tshwm tim thaib.
+zoo mas lub sij hawm ntawd hauv vibnais tseem muaj ze li 50,000 tug hmoob (neeg tawg rog) ces un thiaj ua ntaub ntawv muab peb thauj los 6 hauv vibnais.
+lub sij hawm no tsis yog 1980 ov leej twg lam ua li peb ua dhia tawm los 6 tim thaib mas tsis muaj yeej tawg rog vibnais li thaum i ov.
+tsam no leej twg nti2 ces seb puas yeej xwb ov tsis yeej ces kawg tuag kom tas hauv daim av nplog xwb ov.
+nas kos ntsuas nas kos zog kom zoo2 xwb mas.
+kuvli ces kuv twb nyuaj siab xyov yuav ua cas kuv thiaj coj tau kuv ob tug menyuam mus kawm tom u vim yuav yog siv $ ntau yam uas tamsim no kuv twb tsis muaj.
+lub sij hawm los twb los txog ze zuj zus.
+lub sij hawm tsis lam nres tos me kom kuv muaj $ txaus2 tso mam txog thaum kuv yuav tau coj ob tug menyuam mus kawm tom u.
+tsam o nres tsis taulub sij hawm ces thiajli zaum txhawj2 xwb ntag laud.
+
+tijlaug yajtshajkoob; yuav ciaj haiv yuav tsum yog sib koom tes, ua tiag, tuag tiag thiab yuav ciaj haiv yuav tsum yog muaj tus pab.
+tebchaws israel poob rau roman xyoo 70 am thaum cov israel sawv tawm tsam roman, thiab roman tso lawv tus thawj tubrog hu ua titus tuaj tuaj tebchaws israel, tuaj hlawv lub roog jerusalem thiab cov neeg israel tawg mus puv sab midle east thiab sab europe.
+vim muaj tebchaws amelicas thiab tebchaws as kiv pab cov jews, xyoo 1948 cov jews thiaj rov muaj tebchaws.
+
+kosovo (kosovo liberation army or kla)muaj tebchaws los vim muaj nato pab.
+1998 nato bombs the federal republic of yugoslavia ua tshauv.
+vim li no kosovo albania thiaj ciaj tau haiv.
+
+thaum 1980s thaib thiab suav yeej yog pab cov kub xaj kawg lawm, tabsi sawvdaws tsis yog ua teb ua chaws.
+thaib muaj riam phom kom cov chao fa thiab neo hom ntaus kom tau xeev sayabury es tsam rathaban tabsi sawvdaws mus tua liab tua cuam tua nas tua noog xwb.
+thaib kom paj kaub hawj lawv cov chao fa tua xieng lom, kom neo hom tua pak lai thiab nroog sayabury thaum kawg phom tsis rov cov neo hom mus nkaum peb poom nas xwb.
+
+yog thaib ua ntaus thaib tseem yuav lo quav, thaib thiaj tso cov kub xaj tseg thiab tig mus tuav nplog liab (lprd) tes, amelicas los ua ntsej lag muag dig hmoob yuav qws npaum twg los luag tsis pab.
+thaum kawg naiphom vaj pov tseem tus kheej rau ntes.
+
+hmoob yuav ciaj tau haiv yuav tsum yog hmoob koom tau ib lub siab thiab tuav tau amelicas tes li cov jews.
+tam sim no (2014) jews muaj 11 tug us senators, 22 tug us representative thiab history usa jews muaj 89 tug naiphom nyob hauv us army.
+vim jews muaj power li no jews thiaj muaj peevxwm pab tau tebchaws israel thiab tau lawv haivneeg.
+
+nco ntsoov edward teller (the father of the us nuclear bombs) yog jews.
+cov jews muaj good records nyob hauv usa no.
+hmoob yuav ciaj tau haiv yuav tsum yog hmoob zoo li cov jews thiab taug jews tus hneev taws.
+
+vajncuab5 hmoon tais2 caus ntshai2 tuag.
+yog nam ib ruam tom ntej yuav tuag mas tus twg los kom lwm tus mus hos nws mas nkaum zog.
+txav kom deb2 xwb ov.
+hmoob tsis tau muajlub siab kom muab roj ntshalos pua thiab tiv thaiv lub teb chaws.
+nej sim xav yog tamsim no hmoob twb muaj ib daim av luajli lub state mn ntawm no lawm thiaj yuav kom tau 50,000 tus hmoob mus ua tubrog thiab ntxhais yuag zov ciam liaj ciam teb no mas ntshe yuav txib2 thaum kawg tsis muaj neeg mus lawm tom ciam teb seb tus khov thiab tawv bnpaum gvp puas kwv los phom mujs duj dawslawm tom ciam teb xwb mas kuv xav mas tus twg los yuav liam zoj ziag tias kuv yug kooj yug tsawg tsam kuv tsis muaj noob lawm ces nej mus ua rog no nej coob nej mus hos kuv tus tub mas kuv tsis kam.
+
+lo nyuag lus no tsis yog peb tsis tau hnov.
+tim blog ua ntej 1975 gvp twb muaj ib qhabnab tub ceev xwm ntes cov txivc neej hmoob mus ua tub yuag.
+twb hnov tuaj txog peb sab tom lpb tias twb tseem muaj cov nplua nuj ntiav lwm tsev neeg tus pluag tus tub mus ua tub yuag taj.
+zaum no yog yuav kom hmoob kho9v tuav tau ciam dej ciam av mas yuav yog siv txoj caili kuvpom movie suav yav thaum suav tseem muaj huabtais mas.
+yogtsev neeg ntawd muaj ib tug tub xwb los kom mus ua tub yuag lawm tom ciam teb.
+yog tsis muaj tub ces kom tus thaub mus ua tub yuag.
+ib tse mas tsawg kawg los ib tug yuav tsum mus ua tub yuag.
+muab saib mas tej cai no zoo li heev zoglawm tabsis yog tsis siv tej cai zooli nolub teb chaws yeej yuav tsis ruaj tsis khov.
+tejno yo9g tsis ua cai kom nruj ces neeg kawg nti kom dim.
+yog leej twg lub tsev tsis muaj tub loj kom siv rtau 6 tom ciam teb ces tus tub hluas twg loj puv 16-18 ces twb maj nroos mus yuav poj niam ces nyob hauv txoj cai nws yog bnws ib tse neeg.
+nws los nyuam qhuav yuav poj niam tsis tau muaj tub loj kom txaus coj mus siv tom ciam teb hos nws txiv tsev neeglos tshuav ob tug laus thiab ntse tuspuav to qab lawm xwb.
+nev ob lub tsev lub twg los tsis tau ib tug mus ua tubyuag mus thaiv ciam teb.
+hmoob lub tswv8 nkib nkaus2 no mas kuv tsis tau coj hmoobloskuv yeej pom tias tej tswv8 yeej yuav nkag tejkab ke li no ntag yog hmoob ciaj haiv ib yhnub twg.
+yuav kom tau mas txoj cai yog txoj cai tsis muaj2 txheeb2 ze2. tus tub huab tais los yog 18 ces nog nra tub yuag 6 ev nkag lawm tom ciam teb.
+leej twg mus ua tub yuag tomciam teb 5 xyoos tsis tuag no mam pub rovklos tsev los yuav poj niam.
+yog leej twg maj2 yuav poj nian los faib nyias mus nyias haujlwm.
+tus txiv mus lawm tom ciam teb tus niam mamli nyob ua noj haus tom.
+ib xyoos mamli pub 3 week vacation rovl.
+os pab pojniam menyuam tom zos.
+los noj30 los yog luaj teb ntov ntoo.
+tas 3 week ces muajlwm yam yuav ua tom tsev los lwm xyoo mam pub 3week dua.
+yog hmoob siv tsis tau txoj cai nruj npaumli no mas muaj ciam dej ciam avlos tsiskav 3 xyoos li os.
+xyoo puav xwb twb rov mag lwm haiv txeeb ces peb kawg pos tauv hau kom txhob mag sab2 xwb mas.
+
+thaum twg peb tseem hais kev txeeb2 ze2 mas peb yeej tsis khov.
+tsis yog tias koj yog nom no ces koj txawm muaj koj cov txheeb ze rub mus ua num 6 sab sib2 hos lwm tus sab nraud tsis txheeb puas tsawg no ces nog lub nra kom nyhav txaus2 yees no mas yuav tawg sai2. tim ub peb twb pom gvp thiab gvp ciov txheeb2 ze2 mas tus twg los tau tus loj tus tub kawm ntawv tseem nyob nram nroog kawm ntawv qeb siab xwb twb muaj nyiaj hli noj ua tus xab(?
+n) loj tshaj lwm tus uas twb nyob saum khaib lawm.
+tej no tsis yopeb tsis tau hnov thiab pom dua.
+hmoob=human=animal ces yeej muaj instinct kom cawm tus txheeb2 ze2. yog cov tsov nram africa yuav tom ib tug twm mas lwm tus twm yeej nyob nrug deb zog hos tus maum twm mas thiaj khiav lij lias caum kom tsov txav deb2 nws tus menyuam xwb ntag.
+tshiaj xwb twb muaj qhov instinct kom tus txheeb2 ze2 nws yog tus dim tus tau zoo.
+hmooblos txawv tsis deb tej tshiaj.
+yeej xav kom yus cov tub ki tau lub neej zoo txhob txom nyem.
+ces yus ham tsis muab yus tus txheeb ze mus ua num qhov sib2 qhov twg nyhav mas kom lwm tus mus ua.
+neeg yeej phem li no puag nruab thiab los lawm.
+zaum no mas yhuav tau siv cai kom nruj2 txiav tu nro leej twg 18kiag ces hnub ntawd nog lub nra tub yuag kom mus lawm tom ciam teb.
+mu zovciam teb kom puv 5 xyoos mam pub nws rov los tsev.
+txoj cai lem2 nkaus2 li no yuav tuav tau daim av los yog hmoob tug kom txhob mag caum tuali peb twb pomlos lawm ntau zaus.
+
+tijlaug yajtshajkoob & all; thaum txim, kuv thov correct lo lus 70 am mus ua 70 ad.
+sawv ntxov ntxov los teb koj es thiaj sau ntawv yuav kev lawm.
+
+uncle idonotknow; yog peb tiam uas pom looj ceeb xas thoos tseem muaj sia nyob mas txhob tham txog qhov hmoob yuav ciaj haiv, txawm tham los hmoob yuav ciaj tsis tau haiv ib zaug.
+dhau ntawd leej twg yuav pab hmoob?
+lub tebchaws twg yuav pab hmoob?
+amelicas mus tuav nplog liab tes lawm, thaib los mus tuav nplog liab tes lawm es leej twg thiaj xav tias yuav muaj teb muaj chaws?
+
+peb dim tuag tuaj txog amelicas teb ces yog hmoov zoo.
+txhob txob txob tsam mag hlob kav hlaus.
+
+tub vajncuab5 kasmoos mas hloov sai2 hnub no lawv tuav blog tes hnub puav xwb lawv twb ho tuav lwm tus tes li peb pom blog twb tuav nyablaj tes xav tias yuav ruaj ntseg.
+tabsis tsam no blog twb fee duj das mus khawm2 suav.
+kasmoos ces yeej tsuas pom hloovli no.
+tsis tas li ntawd xwb zooli lub laujkaub yus muab hau zaub ntsuab thiab nceb txais nram teb.
+lub lauj kaub mas yeej kubv sab hauv tshaj sab saum toj.
+tabsis muaj dej hauv ces dej tsuas pom hloov chaw cov kub ces muaj zog ntab cov txioas ces nyhav kawg tog hloovli no ces cov txias kawg tog mus 6 qhov kub 2 hauv qab hos cov dej kub2 hauv qab kawg ntab tuaj saum toj qhov muaj cuas txias zog.
+hloovli no tsis nres tsis kawg.
+tej kasmoos hauv lub qabntuj los tsuas pom hloovli no.
+tam sim no peb pom mezskas yuav tuav blog, thiab nyablaj tes vim meskas thiab suav yog yeeb ncuab los ntawm nkawv yog ob tug loj2 hauv kev cai commie thiab capitalism.
+meskaas yeej xav muab suav xov vaj kom nyob twsj ywm.
+yuav xov vaj ces kawg tuav tes nrog cov teb chaws puag ncig suav daim av.
+txawm mus tuav tes yuav kim2 los meskas yeej kam kiag vim yog meskas hom num loj dua lwm yam.
+zooli thaum ua ntej 1975 meskas ncuav riam phom thiaj nyiaj tuaj 6 gvp thaiv nyablaj qaum teb (ib tug commie uas meskas tabtom yuav swb sai2 6 lub sij hawm ntawd meskas thiaj kub2 siab ncuav riam phom thiab nyiaj tuaj 6 gvp thaiv commie kev me2).
+thaum meskas pom tias swb 100% tsis yog los ntawm cuab yeej ua rog thisb tub rog tsis txaus tabsis yog txoj cai mus tsis tau meskas thiajli thim nrawm npaumli nrawm tau.
+meskas thiajli muab gvp pov tseg tsis kk pab thiab cawm li lawm 6 thaum lub 5 hli 1975. kasmoos mas yeej hloov li no mus tsis tas tsis kawg.
+lub sij hawm 1965-1974 ntawd nej cov nyob pem loojceeb leej twg yuav xav tias gvp yuav plam hwj chim sai npaum li ntawd vim peb pom yavtas los.
+sawv daws yeej xav tyias gvp twb yog thawj nom loj tas npaud nws lub tsev mas cov pej xeem hmoob dog dog twb txav tsis tau ze li caslos gvp lub neej thiab tug hwj huam yuav ruiaj ntseg mus tas li tsis paub ploj vim tas gvp los nws cov tub yuav sawv tuaj tuav vim kev ua tubrog yog ua raws khas(m) xaj xwb yog gvp taw tes 6 leej twg ces txawm yog menyuam yau los sawv dawskawg tsa tes hawm.
+ces ntximli gvp tsev neeg yuav ruajkhov mus tsis tas tsis kawg.
+tabsis vim tej no yog kasmoos tsuas pom kasmoos hloov los tsis ntev 1975 tawm plaws ces teb chaws ua yoj yees yuav plam tuaj mas gvp txawm muaj nyiaj puv txhab los zooli tsis muaj neeg xav cev tes mus rthov siv mew2 lawm.
+neeg tsuas pom yuav khiav li cas txoj sia thiajli yuav dim lawm xwb.
+cov hmoob uas twb npluas nuj muaj tsheb khiav ua taxi los thaum ntawd lub neej zooli tsis ruajh khov ces tej tsheb yuav tshiab npaumli cas los kawg muab pov tseg 6 tom qab huas kom txoj sia dim nkaus xwb.
+1976 peb tsev no mas pov tseg tej yam khib2 lub siab vim koos16 mas yog cov tshiaj li nyuj thiab npua uas peb lub zos peb muaj coobtshaj.
+peb khiav tawm qaib npuas nyuj nees ciali nyob zov tog vaj tog tsev ntev2 mus tsis muaj neeg pub thiab saib xyov mus ua tsiaj qus tas los yog tsiaj qus muab tom noj tas lawm xwb.
+ib yam ntxiv uas lwm tus xav mas me2 tabsis tsis yog me2 6 txhua2 tus neeg yog ib rab qeej uas tus kws txua rab qeej mas yog nchaiv kos nyob 6 sab pem xk.
+qab qeej no mas nrov thiab tshuab tus txiv qeej tsis txhaws qa.
+vim tus txiv qeej tus cua haum nrog rab qeej.
+cov txiv qeej tshuab thawj zag uas yog zaj qeej tu siav mas thiajli paub tias rab qeej tshuab haum2 muaj nqe npaumli cas thaum kom tshuab rab qeej li 5-8 xuaj moos tsis nres me2 mas thiajli paub tias rab qeej haum yuslub qa mas muaj nqes thiab kim npaumli cas los ntxeem them nyiaj kom tau yog yus rab.
+opeb tsev no muaj ib rab yog kuv yawg thiab kuv txiv nkawv rhov nyiaj choj yuav.
+thaum 1976 lub 11 hli ces kawg dhia tawm hauv zos kom txoj sia dim tej tsiaj thiab tej khoom kawg kavliam pov tseg.
+thaum muab koos16 dov dev tiav2 ces kawg nqa rab qeej thiab tej khoom uas xav tias tseem ceeb coj mus zais tom qhov tsua.
+tau 37 xyoo no ces tej khoom ntawd ua hmoov av dulug kuv xav.
+yuav tshuav mas ntshe yog 8 tus nplaim qeej uas yog tooj mas yuav tsis lwj ntsoog mus ua av.
+ib yam tshuav ntxiv uas tseem yuav nyob 100% mas yog lub zeb uas zej zog sawv daws tuaj siv zom ncuav zom taum txhua2 hnub.
+lub zeb hauv peb plub zos mas nyob hauv peb lub tsev.
+ob daim zeb no mas tsis yog me2 thiab pob zeb tsis txawj lwj thiab yaj mus ua av ces yuav tseem nyob yogf tsis nyob ces ntshe yog muaj neeg khaws nqa mus cia lwm qhovlawm xwb ov.
+kasmoos hloov ces txawm tej yam guarantee 101% yuav tsis lwj tsis piamloskawg twb txawj ploj thjiab tsis muaj nyob hauiv tsev lawm tseem yog tej yam tsis gujarantee tau tias yuav nyob tsis tuag tsis lwj thiab mas txhob txhawj2 yeej yuav hloov.
+kasmoos kom hmoob ciajhaiv los yuav txawv tsis deb.
+txog sij hawm mas yeej yuav hloov kom hmooba rov ciaj haiv xwb mas.
+yuav nyuaj yog yuav tuav tswv8 kom yog cuiaj haiv no peb yuav tswj li cas thiaj yuav ruajh khov.
+kuv ntshai mas tsam hmoob tsis kam muab roj thiab ntshav mus thaiv ciam teb ciam avkom hmoob nyob ruaj ntseg xwb ov thaum txog sij hawm na.
+tus twglos huas nws tej num mas loj2 hos kev tiv thaiv ciam teb mas muab tso tom qab.
+tus twg los yugkooj yug tsawg ces tsis kam nws tus tub mus yog tub yuag tom ciam teb.
+lo no mas kawg hnov xwb2 yog hmoob ciaj haiv hnub twg.
+yog xav kom haiv ruaj ntseg ces kawgb yog tzxoj cai tsispub leej twg dim txawm yog tus loj tus melostxwm 18 ces nog nra kom musklawm tom ciam teb.
+qeeb zog ib week tom qab 18 xyoo tsis tshwm tom ciam teb ces mag kaw kom txaus2 yees thiab ntxiv sij hawm tom ciam tebli 5-10 xyoo ntxiv.
+tus tub nom thiab tus tub qhev los cai sibluag tomn ciam teb.
+yog tsis siv txoj cai lem2 thisb tgsiv2 npaum li no mas hmoob yuav nti kom dim txhob mag mus ua ncej lajkab tom ciam teb.
+txhob ua li tim loojceeb uas ib ob tug muskawmntawv qeb siab nram nroog twb ho muaj nyiaj hli nojqeb siab2 pem khaiblawm no mas leej twg los khib2 xav2 taug ib txoj cai tabsis sawv daws yog pej xeem dog dig lub siab mas hais pua2 lo lus lawm los lub ncauj tsis nrov tawm xwb ov.
+kom peb kawm tej no txhob muab los ua chaw tu thiab txias2 siab 6 hmoob ntxivlawm tomntej.
+ib yam ntxiv yuavmuaj npe tsis muaj neeg saum khaib n mas nyiaj txiav tu nro tsis them.
+peb twb hnov dua tej no lawm tias saum khaib mas neeg tsawg tabsis cov npe hauv ntaub ntawv mas npe ntau2. tgfzxog sij hawm lav nyiaj hli mas cov thawj tub rog thiab cov tuaj faib nyiaj tseem ua ntsej liab2 kub2 tshuav daws foob pob tus safety pin kom sawv dawd ntsoog nrog khaib kom dulug.
+hom muaj npe tsis muaj neeg no mas yuav yog ib hom ua kom hmoob tawg.
+ciaj haiv tsis nto 3 xyoo yuav rov plam lub teb chaws dua tseeb2. cov tub txawj ntxhais ntse yuav tau muab tej yam no los saib kom meej2 thaum twg yog hmoob ciaj haiv li sawv daws txoj kev npau suav.
+
+cov hmoob nyob tim kev deb li meskas, fabkis,.
+thiab lwmlub teb chaws mas kuv tsis txhawj.
+kuv txhawj2 mas yog cov tim havzoov tseem ua caubfab uas niaj hnub mag caum tua pem toj roob hauv pes tim daim av blog.
+txoj kev nkaum gavzoov li no kuv twb nkaum loslawm kuv yeej paub txom nyem npaumli cas thaum muab yamn twg los tsis zoo noj.
+noj los nqos tsis tau.
+cov klaus ces ua tiag ntsub uv2 hos cov me mas pom quaj.
+cov neeg ntawd yog hmoob thiab mas tus hmoob leej twg pom los yuav yoo kom ncia txoj kev hlub tshua thiab txhawj tsis tau.
+kuv m,as kuv txhawj2 cov no xwb ntag.
+yog kuv muaj hwj huaj loj txaus mas kuv yuav mus vawm hom no xwb2 thiajli tas.
+thaum gvp coj movie cov tim ub tseem mag tua pem toj roob hauvpes kom sawv daws cawm no mas peb mus hnov ntawm st.
+paul no gvp piav tas mas kom cov qeb siab hauvlub koomhaum neohom qeb general ib leeg $6,00 tabsis ib pliag lawv tias kom txhua tus tuaj hnov lub rooj sib tham ces 6,00 tas nrho.
+kuv tus qeb qes yog member hauv peb group me2 xwb los vim kuv raug mujs mloog taj peb tud haum nab kooj(m) ces aub yaujnkuv maj npe hauv rooj sab laj ces ku9v mag 6k ib yam nkaus loskuv ntsub2 tijlaug ytk, kuv tsis to tau hais tias vim li cas zeej thiagb nom nkawv tseem muab tej niag lus ntawd coj los tham/nug nyob hauv radio thiab lau.
+tej lus zoo li no hnov xwb twb paub hais tias hais lus ua si xwb las sav.
+kuv xav kom peb cov tuav xov tooj cua yuav tau analyze txhua yam ua ntej yog tsim nyog mam coj los discuss.
+
+phiabzeb nyob zoo kwv npawg mouatony, zoo sab tau ntsib koj hab, moo blub tswv yim tes yeej tseeb le koj has huv qaab nuav lawm….
+
+moob le mas cov kws has lug cis dlaag yog feem coob, cov tuab neeg cis dlaag mas feem ntau yog cov kws has lug ntxi, xob ntaus nrov, ua nub nuav tau noj pig kig.
+huas cov ua tag tag kws muaj kev ncaaj nceeg mas yog cov tsawg, thaam txug txuj kev ruam tes moob tseem ruam heev, vim luas lwm haiv tuab neeg tseem ntxag dlaag tau moob tej thawj coj-coj moog cuab rua luas sim phaj kom cov noob cauv fab tu noob moog xws le paaj kaub muas puab cov ntawd.
+
+koj sob lug sau toj nuav kuj yog le koj has lawm hab, kuas sis yog has le dr.
+sy has tes moob feem coob yeej to taub le qhov nwg has ntawd lawm xwb, moob tsi muaj lub hlwb xaav tas yog ua caag tub txwv tsi pub leej twg tawm moog ua ib haiv tuab neeg nyob nwg kheej lawm nua, tab sis ua caag teb chaws tshab xij tawm ntxiv ntau zuj quas zug tuaj le ntawd yog le caag tag.
+sis ntsib dlua.
+
+kwv vajncuab5, yeej yog li koj hais thiab yuav ciaj taus haiv los yuav tsum yog txawj sib pab sib txhawb li koj hais, tab sis qhov hais tias yuav kom lwm teb chaws pab yus li ua tau no uas tab txawm muaj teb chaws los yuav tsi tau, vim hmoob tsi sib koom tes li, nyias yuav ua nyias tug loj tsi sib koom tes ces yeej ua tsi sawv tsi tau.
+israel li mas tos hais tias lawv ua tau los lawv sib koom tes ua ke tiag tiag, thaum lawv ri puv ntuj, ib txhia tuaj rau rooj teb usa no lawv sib sau nyiaj los tso ua ib ke, lawv siab ncaj ncees lawv tsi muab tej nyiaj sib sau ua ke ntawd noj li hmoob, lawv cia pob nyiaj loj zuj zus mus ces thaum txog caij ua teb chaws lawv li rho lawv tej nyiaj tawm mus yuav cuab yeej riam phom ua rog mus pab lawv cov neeg hauv nruab nrog thiaj ua tau muaj zog.
+
 tej li koj hais saum no yeej muaj li hais thiab, tab sis suav thiab thaib yeej tsi pab tiag tiag, lub caij ntawd thaib liab yuav ntxeev tseem fwv thaib, nplog liab tab tom yuav npaj muab lawv qhov av nplog rov qab, ces tseem fwv thaiv thiab suav lam pab me ntsis kom hais tias tseem muaj cov haiv neeg nplog tsawg tseem tauj xub nplog liab thiab kom tau ຂ່າວ-los ntawm chaofa saib chaofa lub ntsiab tseeb yog ua dab tsi tiag, ces thaum lawv los nrog chaofa thiab neohom ces hmoob tib cov ncauj txua txua, tsi paub zais lus li ces ua dab tsi nplog paub tag huv si, thaib los tab tom muab hmoob los ua chaw ntxias nplog liab kom nplog liab txhob tua thaib, li ntawd thiaj ua tsi ciaj tsi tuag.
-li cas los hmoob txoj kev ua kom tsheej haiv tseem mos muag heev, tsi tau khov txaus koj los ntshai tsam kuv tau ua tus loj, kuv los ntshai tsam koj tau ua tus loj, ces tsi mus hais thiab tua tus uas muab yus caum tawm li, sawv daws tag zog sib dawj hauv yus pawg uas tuaj ib sab xwb, twb ua mus tsi txog tus neeg phem uas niaj hnub tua yus cov hmoob li. tsi tag li ntawd los yus cov hmoob tseem muaj cov neeg uas raug nplog liab ntxias tau tuaj ua neeg muab xov hauv yus tus hmoob coj mus qhia rau nplog liab thiab, ib pab pawg neeg yog tias tseem muaj cov neeg uas raug ntxias tau thiab coj tus cujpwm li hais no ces txhais tau tias pab neeg ntawd tseem ruam heev rau txoj kev uas yuav ncau mus ciaj tau ua ib haiv neeg tiag tiag.
-xyov yuav thaum twg hmoob li taug tau cov jews tus neev taw, qhov hmoob taug tau ces yog ntsia ntsoov pob nyiaj uas tseem fwv muab tuaj rau cov pej xeem hmoob uas tseem tsi tau muaj kev txawj ntawd nkaus xwb. li uas niaj hnub no tswj pheej lis lawv ua ntag.
-kwv dony,
-koj hais tau raug kawg nkaus lawm nawb, kuv yeej hais tias hmoob tseem tsi tau ntse hauv tus hlwb txha ces yog li koj hais no ntag, zeej, nom, dr. sy lawv txawm tuaj muab thws lwm pab neeg lub qe li ntawd los luag tus neeg ntse thoob tsib to nrog yuav tsi qhuas lawv thiab, lawv nto quav ncaug rau tim toj no uas tab tom dhia los lo lawv 3 tug ntawd lub hauv pliaj thiab xwb. ua tib neeg yus txhob xav tias yus ntse ntse zuag plias, es yus yuav muab lwm tus coj tuaj rhuav rau hauv radio kom neeg hmoob thoob ntuj hnov kom lawv qhuas qhuas yus no uas, cov neeg uas qhuas lawv 3 tug ntawd mas tseem yog neeg ruam thiaj li qhuas xwb, luag tus neeg noj mov thiab ntse lawm tiag yeej tsi qhuas hlo li thiab. li koj hais tsi tas yuav muab hais tawm yus mloog xwb yeej paub tias yog mus li cas lawm, tab sis cia lawv ua lawv, yus tsi txhob khib xeeb txog tej nyiaj ntawd. ua ciav zeej xeeb twb tseem thov khawv nyob hauv xov tooj cua ຊໍາເຫນື່ອ hnov thoob ntuj, tej no twb yog ib qhov uas txaus txaj qhov muag thiab los zeej xeeb twb ua tau li ntawd rau sawv daws hnov thiab ne, ces cia rau lwm paab lawv ua lawv thiab los tsi ua cas.
-ytk
 
-tswv8 tso nyiaj sibkoom kom taulikoj piav cov israel mas tabtom nkag hmoob lub hnab zoo2 xwb ov tso tau tsawg ces tsis ua cas tso kom tau ntau tsawv li pua2 txhiab rovclawm saud seb yuav mag hmoob coj mus siv txua phom lawmpem suav. lawv yuav coj mus uakasmoos 6 daim av luaj ob ntipem suav cov uas tseem mos2 li 12-13 lawv mas tua kom mos txwv dulug mam dhia rov qab los tsev. cov mos2 li 12-16 pem suav thiab tim blog mas hmoob meskas muab tua txaus2 yees mos txwv tas dulug rovlos txog tsev tim meskas no nkawv ob niam txiv tseem muaj teeb meem vim tus txiv tsis tshuav mos txwv 6 nws tus maum tim meskas no siv me2 li lawm. nej sim xav yog nej mus ntsib tus 12-16 uas yeem2 nrog nej pw hotel ntev li caslols tau no nej puas tua kom mos txwv dulug ma? nyob timno mas tus twg los tias tsis sivkom dulug tabsis thaum tus mos2 12-16 nrab zoo yuav daj yuav deev los ywj siab no mas xyov puas tshuav 1% thiajli tsis tua kom mostxwv dulug li os. tus twg los ham tsi maj nroos khwb nkaus 6 thiab luaj phom ib tog zus kom muaj puas tsawg lub mos txwv los dulug.
+li cas los hmoob txoj kev ua kom tsheej haiv tseem mos muag heev, tsi tau khov txaus koj los ntshai tsam kuv tau ua tus loj, kuv los ntshai tsam koj tau ua tus loj, ces tsi mus hais thiab tua tus uas muab yus caum tawm li, sawv daws tag zog sib dawj hauv yus pawg uas tuaj ib sab xwb, twb ua mus tsi txog tus neeg phem uas niaj hnub tua yus cov hmoob li.
+tsi tag li ntawd los yus cov hmoob tseem muaj cov neeg uas raug nplog liab ntxias tau tuaj ua neeg muab xov hauv yus tus hmoob coj mus qhia rau nplog liab thiab, ib pab pawg neeg yog tias tseem muaj cov neeg uas raug ntxias tau thiab coj tus cujpwm li hais no ces txhais tau tias pab neeg ntawd tseem ruam heev rau txoj kev uas yuav ncau mus ciaj tau ua ib haiv neeg tiag tiag.
 
-on friday, february 7, 2014 1:21:12 am utc-6, aeon wrote:
-aeon,
-koj hais yog lawm laiv, hmoob ces yeej tsi pom qhov tias yuav ua kom ciaj haiv li, hmoob pom qhov tias yuav ua cas mam ntxias tau hmoob nyiaj siv xwb, tus loj noj loj, tus me noj me ces peb thiaj tsi muaj teb chaws li luag lwm haiv neeg, luag lwm haiv neeg lawv cov pej xeem twb muaj tsi txog million people los lawv twb ua tau ib lub teb chaws ua lawv tug. hmoob li twb muaj thaj tsam 14 millions people lawm los hmoob niaj hnub tseem ua lwm haiv neeg qhev, thiab niaj hnub sib txeeb noj hauv hmoob pab pawg neeg tas li xwb, thiab ib txhia thawj coj hmoob los tseem mus tuaj luag tog sab tom lauj thau yus tsob hmoob ua ntu zus pem suav los txog rau niaj hnub nim no.
-ytk
-lawv yuav coj mus uakasmoos 6 daim av luaj ob ntipem suav cov uas tseem mos2 li 12-13 lawv mas tua kom mos txwv dulug mam dhia rov qab los tsev. cov mos2 li 12-16 pem suav thiab tim blog mas hmoob meskas muab tua txaus2 yees mos txwv tas dulug rovlos txog tsev tim meskas no nkawv ob niam txiv tseem muaj teeb meem vim tus txiv tsis tshuav mos txwv 6 nws tus maum tim meskas no siv me2 li lawm. nej sim xav yog nej mus ntsib tus 12-16 uas yeem2 nrog nej pw hotel ntev li caslols tau no nej puas tua kom mos txwv dulug ma? nyob timno mas tus twg los tias tsis sivkom dulug tabsis thaum tus mos2 12-16 nrab zoo yuav daj yuav deev los ywj siab no mas xyov puas tshuav 1% thiajli tsis tua kom mostxwv dulug li os. tus twg los ham tsi maj nroos khwb nkaus 6 thiab luaj phom ib tog zus kom muaj puas tsawg lub mos txwv los dulug.
+xyov yuav thaum twg hmoob li taug tau cov jews tus neev taw, qhov hmoob taug tau ces yog ntsia ntsoov pob nyiaj uas tseem fwv muab tuaj rau cov pej xeem hmoob uas tseem tsi tau muaj kev txawj ntawd nkaus xwb.
+li uas niaj hnub no tswj pheej lis lawv ua ntag.
 
-peb twb tas txoj kev thaum peb pom gvp mus nram nkuaj nram cali. zaum ntawd twb yog zaum ob uas kuv tas siab txog hmoob txoj kev yuav ciaj haiv. zaum ib mas yog lub sij hawm kuv tseem nyob tim thaib vibnais. thaib daim news paper loj tshaj plaws hauv thaib teb twb ua xov xwm tawm tias yog gvp rov mus tshwm tim thaib ces thaib yuav ntes mus 6txim.kom raws cai. lub sij hawm ntawd mas gvp yeej rov qablos tim thaib los ua kasmoos tiag2 raws li hnov mas tsuas yog gvp los tom tej nroog loj xwb tsislos tshwm hauv vibnais kom nrov2 heev 5 hmoob pom thiab hnov xwb ov thaum ntawd na. hnov tias gvp  rov los thaib teb txog tom nroog loj cov nom hauv vibnais twb mnus lav thiab coj cov nkauj hmoob 22 mus lav tom hotel no mas hmoob muaj siab tiag2 txog kev ua kasmoos. ib tug  los thaib teb mas yog tus nai phoo blog thoos liv. tus no los cov nom hmoob hauv vibnais kuj coj cov nkauj 22 mus lav tom hotel in yam nkaus. tus nkauj 22 no nyob kem ib lub tsev as qhas(n) ntawm peb lub tsev as qhas(n) thiab xwb mas peb phaum tub hluas tas nro kev cia siab 6 tus 22 ntawd kawgli vim pheej pom maum taus ib sij tuaj thauj nrov les lawm ces pebpaub tiaslawv coj mus hotel tsis li mas tom ntug pas npawvlos yog tim 01 blog ib lubkwnoj mov uas muaj chav private uas sawv daws pom cov nom lub maum taus mas nres tim lub tsev khw noj mov tim 01. nrov2 mas yog hnov tias lawv muaj ib co tshuaj deadrape uaslawv twb siv 6 tus puav 22. muab tov beer los pepsi 6 tus 22 haus ces tus 22 cia li yoob tsis hnov ntev li obpeb xuaj moos tus 22 mam tsim olos ces ua cas nwslub cev txawv2 thiab nws tej ris tsho tsisnyobli qub lawm. tej no los cov nom siv nyiaj muab ntau tsawv ntsaws 6 tus 22 lub tshob khiab mis xwb ces tus 22 tsis hais tsis qw ces 4 ntug  tsis sawv. lub khw tim 01 ntawd mas nyobkiag ntawm txoj kev peb mus kawm ntawv pem tsev kawmntawv 03in sab thiabmas peb lawb ntawv li 6-8pm peb taug kev peb yeej pom co9v nom cov maum taus nres ntawm lub khw noj mov ib sab lawm ntau zaus. 3 pom mas pem yeej xav tias cov nom nomas tabtom lomzem hauv chav private hauv nrog tus 22 xwbntag. lawv ua2 to qab peb paub cov xov xwmlos vim yog lawv coj cov 22mus tom hotel loei lawv siv2 tas lawv kuj txawj nkees2 ces kom lawv cov luj noob tsav lub tsheb cav dej nthawj3 thauj tus 22 rov los pov tom vibnais. covluj noob thauj tus 22 rov qab los pov tom vibnais ces yog ze li ob xuaj moos tsav tsheb cav dej nthawj3 thiablos txog vibnais ces covluj noob tau2 zoo nrog tus 22 tham thiab nug ntau yam. cov luj noob nug tus 22 tias nag hmo lawv kom koj lav tus nomlojlubnpe hu lino sav. tus 22 los twskev vimpaub tias covluj noob pom/paub tas nws tej kev tuaj muab nwslub cev 22 nthuav tos tus nom lojlawm ces tus 22  xav zaislos zais tsis tau nws kawg piav tawm tias niag tsov tom ntawd ces ham tsi thaumkuv tuaj lav tus nom tod uas nag hmo mas nws twb tsus tau kamlui vimnws laus2 thiab nws tus kwv twb tsis ntili lawm nws hnam tsi mujab kuv caij2 ib hmo kajntug no ces nws mamnqes mus hloov ris tsho lawm xwb mas. cov luj nooblos khib2lawv thiajlos piav peb thiajli hnov txog tom vibnais.kuv mam nugna uas cas niag 22 nyob ze2 ntawm peblub tsev as qhas(n) thiab xwb. nws yeej 22 zoo nkauj lub cev thiabolub plhu tibsi tiag2 ov. kuv yogli 15-18 nyob ze2 npaumli ntawd klos kuv twb tsis mujaj cuab kav mus txuas ib ob klo lus vim nws zoo nkauj thiab ua thaj uas peb cov nplua nuj muaj ob lub xabtas coj mus yuav tsis tau dej nabkuab haus xwb ces peb kuj ntshai mustxuas ib ob lo lus. tom qabnopaub tias cov nom  coj muskhawm2 tomntugvbpas npawv thiab tim 01 blog lub khw tsis tas li los tom hotel loei no ces peb phaumhluas ho pib xu2 siab 6 tus 22 lawm thiab ces  ua siab mus tham ib tug 22 tim 08 uas txawj cij qham khuam nkaus saum yus xwb pwg muab kuv tev ntawv leeg caj dab tu thiab ntshav nrog tauj2 ces nws luag. ntxim zoo siab tias nws yog tus tau kuv tus virgin no lawm xwb ntag.  xyoo ntawd tas ceskuv twb ho yuav poj niam ces txoj kev hluas hauv vibnais 6 tiam no muab pov tseg tim 08 hmo uas kuv mus ntsib nws zaumkawg wb sib puag quaj2 ti8m 08 tsev faib txhuv. kuv tso nws tes ces daj hlaw rov los tsev tim 02 lawm txog puag tav no tsis tau nrog nws txuas ib lo lus li lawm. lwm hnub yog ntsib mas ntshe yuav muajlus tham ntev loo li ob peb xuaj moos twb tsis nco muab nws tsav ib zaug ntxiv.
+kwv dony, koj hais tau raug kawg nkaus lawm nawb, kuv yeej hais tias hmoob tseem tsi tau ntse hauv tus hlwb txha ces yog li koj hais no ntag, zeej, nom, dr.
+sy lawv txawm tuaj muab thws lwm pab neeg lub qe li ntawd los luag tus neeg ntse thoob tsib to nrog yuav tsi qhuas lawv thiab, lawv nto quav ncaug rau tim toj no uas tab tom dhia los lo lawv 3 tug ntawd lub hauv pliaj thiab xwb.
+ua tib neeg yus txhob xav tias yus ntse ntse zuag plias, es yus yuav muab lwm tus coj tuaj rhuav rau hauv radio kom neeg hmoob thoob ntuj hnov kom lawv qhuas qhuas yus no uas, cov neeg uas qhuas lawv 3 tug ntawd mas tseem yog neeg ruam thiaj li qhuas xwb, luag tus neeg noj mov thiab ntse lawm tiag yeej tsi qhuas hlo li thiab.
+li koj hais tsi tas yuav muab hais tawm yus mloog xwb yeej paub tias yog mus li cas lawm, tab sis cia lawv ua lawv, yus tsi txhob khib xeeb txog tej nyiaj ntawd.
+ua ciav zeej xeeb twb tseem thov khawv nyob hauv xov tooj cua ຊໍາເຫນື່ອ hnov thoob ntuj, tej no twb yog ib qhov uas txaus txaj qhov muag thiab los zeej xeeb twb ua tau li ntawd rau sawv daws hnov thiab ne, ces cia rau lwm paab lawv ua lawv thiab los tsi ua cas.
 
-tijlaug vajncuab5,
-tej neeg kawm txawj kawm ntse thiab muaj lub qhov muag pom kev ces tham li koj ua itj tham thiab pom mus deb li ntawd nawb.
+ytk tswv8 tso nyiaj sibkoom kom taulikoj piav cov israel mas tabtom nkag hmoob lub hnab zoo2 xwb ov tso tau tsawg ces tsis ua cas tso kom tau ntau tsawv li pua2 txhiab rovclawm saud seb yuav mag hmoob coj mus siv txua phom lawmpem suav.
+lawv yuav coj mus uakasmoos 6 daim av luaj ob ntipem suav cov uas tseem mos2 li 12-13 lawv mas tua kom mos txwv dulug mam dhia rov qab los tsev.
+cov mos2 li 12-16 pem suav thiab tim blog mas hmoob meskas muab tua txaus2 yees mos txwv tas dulug rovlos txog tsev tim meskas no nkawv ob niam txiv tseem muaj teeb meem vim tus txiv tsis tshuav mos txwv 6 nws tus maum tim meskas no siv me2 li lawm.
+nej sim xav yog nej mus ntsib tus 12-16 uas yeem2 nrog nej pw hotel ntev li caslols tau no nej puas tua kom mos txwv dulug ma?
+nyob timno mas tus twg los tias tsis sivkom dulug tabsis thaum tus mos2 12-16 nrab zoo yuav daj yuav deev los ywj siab no mas xyov puas tshuav 1% thiajli tsis tua kom mostxwv dulug li os.
+tus twg los ham tsi maj nroos khwb nkaus 6 thiab luaj phom ib tog zus kom muaj puas tsawg lub mos txwv los dulug.
+
+on friday, february 7, 2014 1:21:12 am utc-6, aeon wrote: aeon, koj hais yog lawm laiv, hmoob ces yeej tsi pom qhov tias yuav ua kom ciaj haiv li, hmoob pom qhov tias yuav ua cas mam ntxias tau hmoob nyiaj siv xwb, tus loj noj loj, tus me noj me ces peb thiaj tsi muaj teb chaws li luag lwm haiv neeg, luag lwm haiv neeg lawv cov pej xeem twb muaj tsi txog million people los lawv twb ua tau ib lub teb chaws ua lawv tug.
+hmoob li twb muaj thaj tsam 14 millions people lawm los hmoob niaj hnub tseem ua lwm haiv neeg qhev, thiab niaj hnub sib txeeb noj hauv hmoob pab pawg neeg tas li xwb, thiab ib txhia thawj coj hmoob los tseem mus tuaj luag tog sab tom lauj thau yus tsob hmoob ua ntu zus pem suav los txog rau niaj hnub nim no.
+
+ytk lawv yuav coj mus uakasmoos 6 daim av luaj ob ntipem suav cov uas tseem mos2 li 12-13 lawv mas tua kom mos txwv dulug mam dhia rov qab los tsev.
+cov mos2 li 12-16 pem suav thiab tim blog mas hmoob meskas muab tua txaus2 yees mos txwv tas dulug rovlos txog tsev tim meskas no nkawv ob niam txiv tseem muaj teeb meem vim tus txiv tsis tshuav mos txwv 6 nws tus maum tim meskas no siv me2 li lawm.
+nej sim xav yog nej mus ntsib tus 12-16 uas yeem2 nrog nej pw hotel ntev li caslols tau no nej puas tua kom mos txwv dulug ma?
+nyob timno mas tus twg los tias tsis sivkom dulug tabsis thaum tus mos2 12-16 nrab zoo yuav daj yuav deev los ywj siab no mas xyov puas tshuav 1% thiajli tsis tua kom mostxwv dulug li os.
+tus twg los ham tsi maj nroos khwb nkaus 6 thiab luaj phom ib tog zus kom muaj puas tsawg lub mos txwv los dulug.
+
+peb twb tas txoj kev thaum peb pom gvp mus nram nkuaj nram cali.
+zaum ntawd twb yog zaum ob uas kuv tas siab txog hmoob txoj kev yuav ciaj haiv.
+zaum ib mas yog lub sij hawm kuv tseem nyob tim thaib vibnais.
+thaib daim news paper loj tshaj plaws hauv thaib teb twb ua xov xwm tawm tias yog gvp rov mus tshwm tim thaib ces thaib yuav ntes mus 6txim.
+kom raws cai.
+lub sij hawm ntawd mas gvp yeej rov qablos tim thaib los ua kasmoos tiag2 raws li hnov mas tsuas yog gvp los tom tej nroog loj xwb tsislos tshwm hauv vibnais kom nrov2 heev 5 hmoob pom thiab hnov xwb ov thaum ntawd na.
+hnov tias gvp rov los thaib teb txog tom nroog loj cov nom hauv vibnais twb mnus lav thiab coj cov nkauj hmoob 22 mus lav tom hotel no mas hmoob muaj siab tiag2 txog kev ua kasmoos.
+ib tug los thaib teb mas yog tus nai phoo blog thoos liv.
+tus no los cov nom hmoob hauv vibnais kuj coj cov nkauj 22 mus lav tom hotel in yam nkaus.
+tus nkauj 22 no nyob kem ib lub tsev as qhas(n) ntawm peb lub tsev as qhas(n) thiab xwb mas peb phaum tub hluas tas nro kev cia siab 6 tus 22 ntawd kawgli vim pheej pom maum taus ib sij tuaj thauj nrov les lawm ces pebpaub tiaslawv coj mus hotel tsis li mas tom ntug pas npawvlos yog tim 01 blog ib lubkwnoj mov uas muaj chav private uas sawv daws pom cov nom lub maum taus mas nres tim lub tsev khw noj mov tim 01. nrov2 mas yog hnov tias lawv muaj ib co tshuaj deadrape uaslawv twb siv 6 tus puav 22. muab tov beer los pepsi 6 tus 22 haus ces tus 22 cia li yoob tsis hnov ntev li obpeb xuaj moos tus 22 mam tsim olos ces ua cas nwslub cev txawv2 thiab nws tej ris tsho tsisnyobli qub lawm.
+tej no los cov nom siv nyiaj muab ntau tsawv ntsaws 6 tus 22 lub tshob khiab mis xwb ces tus 22 tsis hais tsis qw ces 4 ntug tsis sawv.
+lub khw tim 01 ntawd mas nyobkiag ntawm txoj kev peb mus kawm ntawv pem tsev kawmntawv 03in sab thiabmas peb lawb ntawv li 6-8pm peb taug kev peb yeej pom co9v nom cov maum taus nres ntawm lub khw noj mov ib sab lawm ntau zaus.
+3 pom mas pem yeej xav tias cov nom nomas tabtom lomzem hauv chav private hauv nrog tus 22 xwbntag.
+lawv ua2 to qab peb paub cov xov xwmlos vim yog lawv coj cov 22mus tom hotel loei lawv siv2 tas lawv kuj txawj nkees2 ces kom lawv cov luj noob tsav lub tsheb cav dej nthawj3 thauj tus 22 rov los pov tom vibnais.
+covluj noob thauj tus 22 rov qab los pov tom vibnais ces yog ze li ob xuaj moos tsav tsheb cav dej nthawj3 thiablos txog vibnais ces covluj noob tau2 zoo nrog tus 22 tham thiab nug ntau yam.
+cov luj noob nug tus 22 tias nag hmo lawv kom koj lav tus nomlojlubnpe hu lino sav.
+tus 22 los twskev vimpaub tias covluj noob pom/paub tas nws tej kev tuaj muab nwslub cev 22 nthuav tos tus nom lojlawm ces tus 22 xav zaislos zais tsis tau nws kawg piav tawm tias niag tsov tom ntawd ces ham tsi thaumkuv tuaj lav tus nom tod uas nag hmo mas nws twb tsus tau kamlui vimnws laus2 thiab nws tus kwv twb tsis ntili lawm nws hnam tsi mujab kuv caij2 ib hmo kajntug no ces nws mamnqes mus hloov ris tsho lawm xwb mas.
+cov luj nooblos khib2lawv thiajlos piav peb thiajli hnov txog tom vibnais.
+kuv mam nugna uas cas niag 22 nyob ze2 ntawm peblub tsev as qhas(n) thiab xwb.
+nws yeej 22 zoo nkauj lub cev thiabolub plhu tibsi tiag2 ov.
+kuv yogli 15-18 nyob ze2 npaumli ntawd klos kuv twb tsis mujaj cuab kav mus txuas ib ob klo lus vim nws zoo nkauj thiab ua thaj uas peb cov nplua nuj muaj ob lub xabtas coj mus yuav tsis tau dej nabkuab haus xwb ces peb kuj ntshai mustxuas ib ob lo lus.
+tom qabnopaub tias cov nom coj muskhawm2 tomntugvbpas npawv thiab tim 01 blog lub khw tsis tas li los tom hotel loei no ces peb phaumhluas ho pib xu2 siab 6 tus 22 lawm thiab ces ua siab mus tham ib tug 22 tim 08 uas txawj cij qham khuam nkaus saum yus xwb pwg muab kuv tev ntawv leeg caj dab tu thiab ntshav nrog tauj2 ces nws luag.
+ntxim zoo siab tias nws yog tus tau kuv tus virgin no lawm xwb ntag.
+xyoo ntawd tas ceskuv twb ho yuav poj niam ces txoj kev hluas hauv vibnais 6 tiam no muab pov tseg tim 08 hmo uas kuv mus ntsib nws zaumkawg wb sib puag quaj2 ti8m 08 tsev faib txhuv.
+kuv tso nws tes ces daj hlaw rov los tsev tim 02 lawm txog puag tav no tsis tau nrog nws txuas ib lo lus li lawm.
+lwm hnub yog ntsib mas ntshe yuav muajlus tham ntev loo li ob peb xuaj moos twb tsis nco muab nws tsav ib zaug ntxiv.
+
+tijlaug vajncuab5, tej neeg kawm txawj kawm ntse thiab muaj lub qhov muag pom kev ces tham li koj ua itj tham thiab pom mus deb li ntawd nawb.
+
 cov neeg ua ua chaofa dhau los lawm ces twb yog koj peb khiav ciaj khiav tuag dhau tej me vastooj vashlaus dhau los lawm ntag.
-yog lub sijhawm no leej twg tseem tias muaj zog thiab ces nws yog saub lawm xwb...lub sijhawm no, peb hmoob twb tsi muaj chaw tiagtes tiagtaws qhov twg li lawm.
+
+yog lub sijhawm no leej twg tseem tias muaj zog thiab ces nws yog saub lawm xwb...
+lub sijhawm no, peb hmoob twb tsi muaj chaw tiagtes tiagtaws qhov twg li lawm.
+
 kom nyob zoo zoo es txoj siav thiaj li ntev thiab tau noj tau haus ntau xyoo no lawm xwb os nawb.
-thanks for your comment,
-born
 
-tijlaug vajncuab5,
-qhov tseem ceeb ces yog li no lawm xwb...seb peb puas ciaj tsavneeg thiab haiv los sibpab rau txoj kev kawm noj kev haus ua peb pab tau tagnrho hmoob rau txhua lub teb chaw ua ntej tso..
+thanks for your comment, born tijlaug vajncuab5, qhov tseem ceeb ces yog li no lawm xwb...
+seb peb puas ciaj tsavneeg thiab haiv los sibpab rau txoj kev kawm noj kev haus ua peb pab tau tagnrho hmoob rau txhua lub teb chaw ua ntej tso..
+
 li txoj nkauj no...
-http://www.youtube.com/watch?v=jlwuxj5qxk0
-born
 
-kwv born2bh,
-ua tsaug rau koj zaj nkauj, zaj nkauj yeej hais tau raug kawg li lawm nawb, xyov yuav thaum twg hmoob li txawj los sib pab ua ib lub zog loj, kom hmoob ua tau ib haiv neeg kom yus tus hmoob muaj tej tub ntxhais txawj ntse los kom lawv ho muaj lub ntsej muag tias yus yog ib haiv neeg zoo li luag lwm haiv thiab. thiab yus thiaj xav qhia yus lub npe rau lwm haiv neeg tias kuv yog hmoob.
-ytk
+http://www.website.net/watch?
+v=jlwuxj5qxk0 born kwv born2bh, ua tsaug rau koj zaj nkauj, zaj nkauj yeej hais tau raug kawg li lawm nawb, xyov yuav thaum twg hmoob li txawj los sib pab ua ib lub zog loj, kom hmoob ua tau ib haiv neeg kom yus tus hmoob muaj tej tub ntxhais txawj ntse los kom lawv ho muaj lub ntsej muag tias yus yog ib haiv neeg zoo li luag lwm haiv thiab.
+thiab yus thiaj xav qhia yus lub npe rau lwm haiv neeg tias kuv yog hmoob.
 
-yog thiab mas yog tsis tas. peb cov nyob deb tim meskas bno mas yog li koj piav mas nyob twj ywm tabsis cov tim ub mas yus nyob twj ywn klos yus yuav mag ceskawg nti kom dim li 1976 peb twb nti dua lawm xwb. thaum tej xwm txheej yuav  tshwm tuaj mas hmoob ib txwm sawv muaj saub coob2 tuaj. thaum twg nej pom saub sawv zom zaws mas tsis ntev laud tej yam xwm  txheejh  hmoob vwm2 yuav tawm tsisntev ntawd ntag ov. tsis yog neeg thiaj  vwm xwb ov. tsiaj li aub twb txawj
+ytk yog thiab mas yog tsis tas.
+peb cov nyob deb tim meskas bno mas yog li koj piav mas nyob twj ywm tabsis cov tim ub mas yus nyob twj ywn klos yus yuav mag ceskawg nti kom dim li 1976 peb twb nti dua lawm xwb.
+thaum tej xwm txheej yuav tshwm tuaj mas hmoob ib txwm sawv muaj saub coob2 tuaj.
+thaum twg nej pom saub sawv zom zaws mas tsis ntev laud tej yam xwm txheejh hmoob vwm2 yuav tawm tsisntev ntawd ntag ov.
+tsis yog neeg thiaj vwm xwb ov.
+tsiaj li aub twb txawj nyobzoo tsoom bojyaig sch, cas leejtwg los txawj qhia tibsi, tabsis tsis muaj tus txawj ua li lau...
+tej tub hu yassuab los twb hu txhij hu txhua, teb hais kwvtxhiaj los hais txhij hais txhua, sawvdaws nyiam ua cov qhia xwb, sawvdaws tsis kam ua cov/tus ua li es hmoob yuav tos leejtwg?
 
-nyobzoo tsoom bojyaig sch,
-cas leejtwg los txawj qhia tibsi, tabsis tsis muaj tus txawj ua li lau...tej tub hu yassuab los twb hu txhij hu txhua, teb hais kwvtxhiaj los hais txhij hais txhua, sawvdaws nyiam ua cov qhia xwb, sawvdaws tsis kam ua cov/tus ua li es hmoob yuav tos leejtwg?
-hamtsis yog koj, kuv, peb sawvdaws lawm xwb mas cov bojyaig... yuav pib qhov twg? hamtsis pib kiag ntawm yus tus kheej, kuv, koj, ces yawg, ces nws, ces peb lawm xwb mas.
+hamtsis yog koj, kuv, peb sawvdaws lawm xwb mas cov bojyaig...
+yuav pib qhov twg?
+hamtsis pib kiag ntawm yus tus kheej, kuv, koj, ces yawg, ces nws, ces peb lawm xwb mas.
+
 yav tas txawv yav tomntej nawb, peb tsis rua muag ntsia tseeb tseeb peb tsis pom qhov pauv hloov nawb...
-peb hmoob yeej zoo zoo, peb yeej yog ib haivneeg tiag tiag, peb yeej raug luag txhubmuj tsimtxom lawm tiag tiag, peb muaj peb ib txoj cai, peb yeej to cai tsa peb haivneeg kom sawv tau rau ntiajteb thajtsob ib yam li pejkum haiv. nej sawvdaws txhob nyuaj nyuaj siab nawb, txhob sib sib hem ntxiv lawm os mog. koj ua kom kawg koj tus txuj, koj ua kom kawg koj tus tswvyim pab koj haivneeg, kuv los ua kom kawg kuv feem kom tsim nyog yug los ntawm teev ntshav hmoob seb peb puas nce tau ib me qib nawb..
-peb tej me txujci ua tuaj kawm tau 30+ xyoo no ces ua tibzoo muab siv cawm peb haivneeg, es thob txhob muab coj los rhuav peb hmoob nawb mog..
-hmoob twb yuav ciaj haiv tsis ntev no, peb sawvdaws mam soj lub ncauj xubke mus nawb..
-x z
 
-yuav pibli cas na? ham tsi zaum nov zov youtub thiab sch xwb mas lub nntuj pem mn no lub 11 hlis mus txog klub 5 hlis ces kawg nyob twj ywm hauv tsev xwb yuav tawm mus q
+peb hmoob yeej zoo zoo, peb yeej yog ib haivneeg tiag tiag, peb yeej raug luag txhubmuj tsimtxom lawm tiag tiag, peb muaj peb ib txoj cai, peb yeej to cai tsa peb haivneeg kom sawv tau rau ntiajteb thajtsob ib yam li pejkum haiv.
+nej sawvdaws txhob nyuaj nyuaj siab nawb, txhob sib sib hem ntxiv lawm os mog.
+koj ua kom kawg koj tus txuj, koj ua kom kawg koj tus tswvyim pab koj haivneeg, kuv los ua kom kawg kuv feem kom tsim nyog yug los ntawm teev ntshav hmoob seb peb puas nce tau ib me qib nawb..
+
+peb tej me txujci ua tuaj kawm tau 30+ xyoo no ces ua tibzoo muab siv cawm peb haivneeg, es thob txhob muab coj los rhuav peb hmoob nawb mog..
+
+hmoob twb yuav ciaj haiv tsis ntev no, peb sawvdaws mam soj lub ncauj xubke mus nawb..
+
+x z yuav pibli cas na?
+ham tsi zaum nov zov youtub thiab sch xwb mas lub nntuj pem mn no lub 11 hlis mus txog klub 5 hlis ces kawg nyob twj ywm hauv tsev xwb yuav tawm mus q

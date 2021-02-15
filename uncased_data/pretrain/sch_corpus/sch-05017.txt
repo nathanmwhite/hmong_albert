@@ -1,60 +1,35 @@
-vim nplogliab tsi hlub peb hmoob, raws li hauv txoj cai nyob hauv u.n,
-hmoob muaj cai teeb  tsa muaj hmoob lub tebchaws. vim li no lub rooj
-sab laj u.n dhau los no thiaj muaj ib pab hmoob teeb tsa muaj ib qhab
-nab lav thaj npas hmoob rau ciam dej ciam av ntawm kev faib tebchaws
-nyob zaum no. raws li tej ntaub ntawv xa tawm rau muaj li 70 tawm lub
-tebchaws, sawv daws tau tsa muaj li 45 tus qhab nab lav thaj moos tis
-thiab tej nom qib siab. lub hom phiaj zaum no yog:
-1. muaj tus ntawv phajhauv los ua tus ntawv tebchaws hmoob
-2. muab tus chij cobfab los ua tus chij hmoob
-tabsis twb tsi muaj pes tsawg hnub xwb pab lav thaj moos tis no twb pib
-sib tawg nyias yuav ua nyias tus kheej lawm thiab.  ntuj e... ntshe
-nplog liab mas luag luag hniav poob tag pob?
+vim nplogliab tsi hlub peb hmoob, raws li hauv txoj cai nyob hauv u.
+n, hmoob muaj cai teeb tsa muaj hmoob lub tebchaws.
+vim li no lub rooj sab laj u.
+n dhau los no thiaj muaj ib pab hmoob teeb tsa muaj ib qhab nab lav thaj npas hmoob rau ciam dej ciam av ntawm kev faib tebchaws nyob zaum no.
+raws li tej ntaub ntawv xa tawm rau muaj li 70 tawm lub tebchaws, sawv daws tau tsa muaj li 45 tus qhab nab lav thaj moos tis thiab tej nom qib siab.
+lub hom phiaj zaum no yog: 1. muaj tus ntawv phajhauv los ua tus ntawv tebchaws hmoob 2. muab tus chij cobfab los ua tus chij hmoob tabsis twb tsi muaj pes tsawg hnub xwb pab lav thaj moos tis no twb pib sib tawg nyias yuav ua nyias tus kheej lawm thiab.
+ntuj e...
+ntshe nplog liab mas luag luag hniav poob tag pob?
+
 qiabqos.
 
-peb ces tseem nyav xyum ua nam tais-nyaab xwb mas. le caag los xij, ca
-puab xyumx ib ntus ces muaj ib tug cim civ yuav has tas "nes...... koj
-nam ua tagx es" nua xwb mas.... hihihihihihihihihih....
-nqq
+peb ces tseem nyav xyum ua nam tais-nyaab xwb mas.
+le caag los xij, ca puab xyumx ib ntus ces muaj ib tug cim civ yuav has tas "nes......
+koj nam ua tagx es" nua xwb mas....
+hihihihihihihihihih....
 
-qiabqos, qhov koj has ce tsis taag yuav chuav qai los yeej puj dlaab
-lawm og, vim le hov es nplog xam has tas meo phim npab, hab cimxeeb xas
-has tas caubfab yog vwm, peb qhabnab kubxaj mas peb yeej paub has tas
-puab vwm,tabsim peb taux nyaj ce puab yim vwm has yim tuag yim zoo tsua
-peb xwb.
+nqq qiabqos, qhov koj has ce tsis taag yuav chuav qai los yeej puj dlaab lawm og, vim le hov es nplog xam has tas meo phim npab, hab cimxeeb xas has tas caubfab yog vwm, peb qhabnab kubxaj mas peb yeej paub has tas puab vwm,tabsim peb taux nyaj ce puab yim vwm has yim tuag yim zoo tsua peb xwb.
 
 cov kwv tij hmoob.
-nej txhob lam hais phem rau cob fab, tswv ntuj thiab huab tais hmoob
-twb los hais rau kuv tias lub caij no lawv sim hmoob siab seb hmoob zoo
-li cas tiag, yog thaum lawv paub hmoob siab zoo lawm yuav tso hwj chim
-rau hmoob kom muaj teb chaw ib hnub, tiam si cov hmoob siab zoo hlub
-txog haiv hmoob tiag tsis hais tus txawj los tus ntse thiab cov tsis
-txawj tsis tshe los yuav los koom ua ib ke tag.
-yog leej twg tseem hais phem rau cob fab, tus ntawv yuav tau kev nyuab
-siab hauv nws lub neej , xwm li xav tau li cas yuav hais li ntawv, yuav
-ua neeg vwm hais lus phem lus tsis zoo, yuav muaj ntshav siab , ntshav
-qab zib nws txoj kev cia siab yuav tag mus zuj zus.
-tubcaj ces zoo
 
-tubcajceszoo, tsis yog koj yog peb cov nam vaaj caiv txaaj hab log caag
-koj nim yuav foom ua luaj naj, cov kws foomx kom sis yog peb qhabnab
-xwb laiv, koj puab ncu peb tug taub tawj kinguroo has tas yug foom lua
-tuag ib tug ce yug tuag peb tug nua naj, tuab zoo yug ua ntej lawm hab
-og.
+nej txhob lam hais phem rau cob fab, tswv ntuj thiab huab tais hmoob twb los hais rau kuv tias lub caij no lawv sim hmoob siab seb hmoob zoo li cas tiag, yog thaum lawv paub hmoob siab zoo lawm yuav tso hwj chim rau hmoob kom muaj teb chaw ib hnub, tiam si cov hmoob siab zoo hlub txog haiv hmoob tiag tsis hais tus txawj los tus ntse thiab cov tsis txawj tsis tshe los yuav los koom ua ib ke tag.
+
+yog leej twg tseem hais phem rau cob fab, tus ntawv yuav tau kev nyuab siab hauv nws lub neej, xwm li xav tau li cas yuav hais li ntawv, yuav ua neeg vwm hais lus phem lus tsis zoo, yuav muaj ntshav siab, ntshav qab zib nws txoj kev cia siab yuav tag mus zuj zus.
+
+tubcaj ces zoo tubcajceszoo, tsis yog koj yog peb cov nam vaaj caiv txaaj hab log caag koj nim yuav foom ua luaj naj, cov kws foomx kom sis yog peb qhabnab xwb laiv, koj puab ncu peb tug taub tawj kinguroo has tas yug foom lua tuag ib tug ce yug tuag peb tug nua naj, tuab zoo yug ua ntej lawm hab og.
 
 vaajmoob.
-kuv yog kiag nej khab nab los mas, tiam si kuv pom nej hais xwb pheej
-tsis ua li hais koj lub school yaim pim mus zoo li cas lawm, yog tias
-cov poj niam nyiam kom peb cov txiv neej yaim pim heev ces, koj yuav
-tau tshaj tawm rau sawv daws kom tuaj mus kawm yaim pim coob li coob
-tau, yog tsis kawm ces cov poj niam yuav muab pim mus rau daj hau yaim
-laiv.
-vaajmoob...kuv yuav tau mus xyuas seb xej thiab faj lawv cov hauj lwm
-mus zoo li cas ntshe yuav yog li 2 hlis kuv mam rov tuaj huav no dua
-os. nej nyob txhob sib sib ceg nawj.
-tubcajces zoo
 
-tubcajceszoo, yog has tas koj muaj haujlwm ua lawm nua log moog es tsov
-tuaj saib peb huv sch nuav hab, yog muaj caij muaj nyoog nuav log hov
-moog yaim ob peb lub paum mev lug qha peb hab saib qaab zib los qaub,
-kuv xaam has tas puab noj kua txiv lwg heev tejzag yuav quabx.
+kuv yog kiag nej khab nab los mas, tiam si kuv pom nej hais xwb pheej tsis ua li hais koj lub school yaim pim mus zoo li cas lawm, yog tias cov poj niam nyiam kom peb cov txiv neej yaim pim heev ces, koj yuav tau tshaj tawm rau sawv daws kom tuaj mus kawm yaim pim coob li coob tau, yog tsis kawm ces cov poj niam yuav muab pim mus rau daj hau yaim laiv.
+
+vaajmoob...
+kuv yuav tau mus xyuas seb xej thiab faj lawv cov hauj lwm mus zoo li cas ntshe yuav yog li 2 hlis kuv mam rov tuaj huav no dua os.
+nej nyob txhob sib sib ceg nawj.
+
+tubcajces zoo tubcajceszoo, yog has tas koj muaj haujlwm ua lawm nua log moog es tsov tuaj saib peb huv sch nuav hab, yog muaj caij muaj nyoog nuav log hov moog yaim ob peb lub paum mev lug qha peb hab saib qaab zib los qaub, kuv xaam has tas puab noj kua txiv lwg heev tejzag yuav quabx.

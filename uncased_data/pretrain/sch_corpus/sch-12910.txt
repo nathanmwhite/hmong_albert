@@ -1,8 +1,8 @@
 lus english lawv muab ob hom tshiaj hav zoov li nram qab no hu li cas?
-#1 tsaug
-#2 nploos
-kuv xav opaub vim ob hom no thaum nyob tim ub kuv kuj pom thiab tau noj tib si lawm tuaj txog teb chaws meskas no kuv mus tua nas tom hav zoov kuv pom porcupine   mas txawv tsis deb ob hom kuv piav saud kuv kuj tua tibsi vim daim license tua nas los kuj pub tua hom no tibsi. kuv tua tau nqa mus txog tom lub camp mas tsw phem yuav luag npaum skunk . kuv muab pov tseg ces txij ntawd los kuv tsis nkim ib lub mos txwv rau li lawm. kuv noj dua nploos thiab tsaug mas tsis muaj yuav tsw phemli ntawd na. kuv ho tsis paub tias nploos thiab tsaug meskas ho huli cas
 
-tsaug = ໂຕມີ້ນ
-bloos = ໂຕຫອນ
-ua tsaug koj qhia lus blog yog paub lus mekas english no pab ntxiv.. thanks
+#1 tsaug #2 nploos kuv xav opaub vim ob hom no thaum nyob tim ub kuv kuj pom thiab tau noj tib si lawm tuaj txog teb chaws meskas no kuv mus tua nas tom hav zoov kuv pom porcupine mas txawv tsis deb ob hom kuv piav saud kuv kuj tua tibsi vim daim license tua nas los kuj pub tua hom no tibsi.
+kuv tua tau nqa mus txog tom lub camp mas tsw phem yuav luag npaum skunk.
+kuv muab pov tseg ces txij ntawd los kuv tsis nkim ib lub mos txwv rau li lawm.
+kuv noj dua nploos thiab tsaug mas tsis muaj yuav tsw phemli ntawd na.
+kuv ho tsis paub tias nploos thiab tsaug meskas ho huli cas tsaug = ໂຕມີ້ນ bloos = ໂຕຫອນ ua tsaug koj qhia lus blog yog paub lus mekas english no pab ntxiv..
+thanks

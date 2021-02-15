@@ -1,79 +1,55 @@
-cov phooj ywg,
-kuv tsuas lam tis lub topic no kom nej los nyeem xwb. tej zaum nyaj
-yuav tsis muaj dev vwm nyob hauv no.
-hais rau peb cov phooj ywg uas muaj laj lim tswv yim zoo, thov nej
-tsis txhob lam tau lam txuas lus nrog tej tug neeg uas hais lus tsis
-muaj qab hau ntawd. yog nej yim txuas lus nrog ces nws yim muaj siab
-xwb, ces nws haj yam yuav hais lus kom qias thiab mob lwm tus tshaj
-qhov qub xwb. yog hais tias nej pom nws lub npe xwb nej twb tsis nkag
-mus nyeem nws cov lus lawm, qhov nov yuav ua rau nej nyob nyab xeeb
-dua. thiab tsis tas li ntawd thiaj li yuav tsis ua rau nej poob npe
-nrog nws. yog nej tsis nrog nws txuas lus mus ib ntus xwb ces nws yeej
-nkees lawm.
-tus ntawd, tej zaum twb yog kuv ntag los kuj tsis paub, tab sis nej
-yeej paub zoo lawm hais tias nws yog leej twg thaib leej twg. yog peb
-leej twg tsis xav ua tus dev vwm ntawd no ces thov xav tso mam hais,
-thiab yuav tsum hais li muaj, muaj li hais.
-vim kuv pom nej ib txhia pheej zam tsis tau li es kuv thiaj hais li no
-xwb. yog ho siab leej twg lawm los thov zam txim pub,
-hl
+cov phooj ywg, kuv tsuas lam tis lub topic no kom nej los nyeem xwb.
+tej zaum nyaj yuav tsis muaj dev vwm nyob hauv no.
 
-hmong-lao,
-thaum ntej los kuv thev tsis taus ib yam li koj thiab, tab sis tam sis
-no kuv ho tuaj dab ros rau qee yam uas yawg sau thiab.  kuv xav li no
-kuv thiaj nyab xeeb lub siab thaum kuv twm yawg cov posts:  lub ntiaj
-teb no ua cas yuav tsis perfect kiag li.  cov zaub mov uas kuv noj no
-ua cas thaum noj yuav qab ua luaj, tab sis ua cas kuv lub cev tsuas
-siv ib nrab xwb, cov uas kuv lub cev tsis siv lawm ces tawm ua quav ua
-zis tsw phem tiag tiag li, tab sis kab dov quav mas luag ntxhi xwb.
-cuag li yuav hais lo lus tuaj siab thiab tsiv mloog, yus tawb quav
-txawm yuav tsw phem npaum twg los yus yeej fwm, tsis lam nto thiab pub
-tsw leej twg.  muab xam hais tias tej neeg uas coj zoo zoo, hais me
-lus mos lus muag, thiab ncaj ncees ces yog tej uas yus lub cev siv mus
-ua roj ua ntshav; hos tej dev vwm li koj hais ntawd ces xam hais tias
-yog tej uas mus ua quav, tab sis peb yuav tau fwm li yus fwm yus tawb
-quav thiab.  we can not live with out garbages so we have to learn to
-live with them.  i hope i don't offend any of you.
-muas pos
-===============================================================
+hais rau peb cov phooj ywg uas muaj laj lim tswv yim zoo, thov nej tsis txhob lam tau lam txuas lus nrog tej tug neeg uas hais lus tsis muaj qab hau ntawd.
+yog nej yim txuas lus nrog ces nws yim muaj siab xwb, ces nws haj yam yuav hais lus kom qias thiab mob lwm tus tshaj qhov qub xwb.
+yog hais tias nej pom nws lub npe xwb nej twb tsis nkag mus nyeem nws cov lus lawm, qhov nov yuav ua rau nej nyob nyab xeeb dua.
+thiab tsis tas li ntawd thiaj li yuav tsis ua rau nej poob npe nrog nws.
+yog nej tsis nrog nws txuas lus mus ib ntus xwb ces nws yeej nkees lawm.
 
-hmoob lo lus hais tias, "ib lub quav tsuag puas tas ib tsus hno."
-peb hmoob cov coob tsis hais cov tuaj nyob rau hauv sch no los yog
-nyob lwm qhov yeej yog neeg zoo thiab yeej txawj hais lus ib tug saib
-ib tug.  yuav tau txhob cia ib ob tug nyuag me nyuam yaus tsis paub
-qab hau dab tsis tuaj muab peb hmoob ua kom puas tas tus.  qhov zoo
-tsis txhob quav ntsej nws kiag xwb.  qhov no thiaj yuav ua rau nws lub
-ntsej muag thiab tej lus nws hais ploj mus.
+tus ntawd, tej zaum twb yog kuv ntag los kuj tsis paub, tab sis nej yeej paub zoo lawm hais tias nws yog leej twg thaib leej twg.
+yog peb leej twg tsis xav ua tus dev vwm ntawd no ces thov xav tso mam hais, thiab yuav tsum hais li muaj, muaj li hais.
+
+vim kuv pom nej ib txhia pheej zam tsis tau li es kuv thiaj hais li no xwb.
+yog ho siab leej twg lawm los thov zam txim pub, hl hmong-lao, thaum ntej los kuv thev tsis taus ib yam li koj thiab, tab sis tam sis no kuv ho tuaj dab ros rau qee yam uas yawg sau thiab.
+kuv xav li no kuv thiaj nyab xeeb lub siab thaum kuv twm yawg cov posts: lub ntiaj teb no ua cas yuav tsis perfect kiag li.
+cov zaub mov uas kuv noj no ua cas thaum noj yuav qab ua luaj, tab sis ua cas kuv lub cev tsuas siv ib nrab xwb, cov uas kuv lub cev tsis siv lawm ces tawm ua quav ua zis tsw phem tiag tiag li, tab sis kab dov quav mas luag ntxhi xwb.
+
+cuag li yuav hais lo lus tuaj siab thiab tsiv mloog, yus tawb quav txawm yuav tsw phem npaum twg los yus yeej fwm, tsis lam nto thiab pub tsw leej twg.
+muab xam hais tias tej neeg uas coj zoo zoo, hais me lus mos lus muag, thiab ncaj ncees ces yog tej uas yus lub cev siv mus ua roj ua ntshav; hos tej dev vwm li koj hais ntawd ces xam hais tias yog tej uas mus ua quav, tab sis peb yuav tau fwm li yus fwm yus tawb quav thiab.
+we can not live with out garbages so we have to learn to live with them.
+i hope i don't offend any of you.
+
+muas pos =============================================================== hmoob lo lus hais tias, "ib lub quav tsuag puas tas ib tsus hno."
+
+peb hmoob cov coob tsis hais cov tuaj nyob rau hauv sch no los yog nyob lwm qhov yeej yog neeg zoo thiab yeej txawj hais lus ib tug saib ib tug.
+yuav tau txhob cia ib ob tug nyuag me nyuam yaus tsis paub qab hau dab tsis tuaj muab peb hmoob ua kom puas tas tus.
+qhov zoo tsis txhob quav ntsej nws kiag xwb.
+qhov no thiaj yuav ua rau nws lub ntsej muag thiab tej lus nws hais ploj mus.
+
 -cha.
 
-*nej lub maib tuag(method) to deal with anti is to talk positively
-back to him regardless of his obscene languages. sooner or later he'll
-stop using vulgarity. inclusion will bring zab back to be a better
-person. exclusion could turn him more rebellious. nej twb hais tias
-peb yog hmoob, yog li tus liam, tus zoo los peb tsis txhob hais yuav
-tshem nws tawm.
-ntxubhmoob-----lub nyuag nick name no xwb mas twb muaj neeg cem kuv,
-nug kuv tias vim licas kuv siv lub nick li ntawd lawm. we need to grow
-up and be  more mature to accept people  who are different.
+*nej lub maib tuag(method) to deal with anti is to talk positively back to him regardless of his obscene languages.
+sooner or later he'll stop using vulgarity.
+inclusion will bring zab back to be a better person.
+exclusion could turn him more rebellious.
+nej twb hais tias peb yog hmoob, yog li tus liam, tus zoo los peb tsis txhob hais yuav tshem nws tawm.
 
-cov phooj ywg,
-ua tsaug rau nej ib txhia uas kuj xav li kuv xav thiab. yog peb suav
-daws ua tau ib lub siab, nws yuav yog ib qho zoo rau sawv daws. kuv
-yuav tsis tuav leej twg npe, tabsis peb nyias yeej paub nyias lawm
-hais tias yus puas yog ib tug ntawm cov dev vwm ntawd. cov dev vwm uas
-kuv hais no ces tsis yog cov uas pheej hais hais lus dev xwb, kuv yeej
-xam tag nrho cov uas hais lus neej, lus nom lus tswv ntag, tab sis
-pheej lam tau lam hais rhuav tus ub rhuav tus no, liam tus ub liam tus
-no yam tsis muaj pov thawj huv tib si.
-kuv kuj pab hlub thiab tab ncuab txog cov kwv los sis cov muam uas
-tsis txawj hais lus es pheej hais mob mob luag siab ces luag ho tig
-rov los hais mob yus. thaum ntawd ces yus ho noj los tsis qab, haus
-los tsis nqis, pw los tsis tsaug zog, hos hauj lwm los twb tsis xav
-mus ua tag nrho. thov nej xav tag tso mam hais, tsis txhob hais tag
-mam xav es thiaj tsis ua rau nej mob mob hlwb mog. yog luag hais mob
-mob nej siab lawd, tsis txhob rawm teb rov rau luag tam sis ntawd. pw
-ib hmo xav ntxiv tso nej mam teb. yog leej twg coj tau li no ces nws
-yeej teb tau lo lus uas zoo mloog dua. thiab nco ntsoov tsis txhob
-muab nej lub sij hawm tag nrho rau sch nqos mog. peb nyob teb chaws
-no, sij hawm yog nyiaj txiab; qhov no yeej muaj tseeb tiag nawb.
+ntxubhmoob-----lub nyuag nick name no xwb mas twb muaj neeg cem kuv, nug kuv tias vim licas kuv siv lub nick li ntawd lawm.
+we need to grow up and be more mature to accept people who are different.
+
+cov phooj ywg, ua tsaug rau nej ib txhia uas kuj xav li kuv xav thiab.
+yog peb suav daws ua tau ib lub siab, nws yuav yog ib qho zoo rau sawv daws.
+kuv yuav tsis tuav leej twg npe, tabsis peb nyias yeej paub nyias lawm hais tias yus puas yog ib tug ntawm cov dev vwm ntawd.
+cov dev vwm uas kuv hais no ces tsis yog cov uas pheej hais hais lus dev xwb, kuv yeej xam tag nrho cov uas hais lus neej, lus nom lus tswv ntag, tab sis pheej lam tau lam hais rhuav tus ub rhuav tus no, liam tus ub liam tus no yam tsis muaj pov thawj huv tib si.
+
+kuv kuj pab hlub thiab tab ncuab txog cov kwv los sis cov muam uas tsis txawj hais lus es pheej hais mob mob luag siab ces luag ho tig rov los hais mob yus.
+thaum ntawd ces yus ho noj los tsis qab, haus los tsis nqis, pw los tsis tsaug zog, hos hauj lwm los twb tsis xav mus ua tag nrho.
+thov nej xav tag tso mam hais, tsis txhob hais tag mam xav es thiaj tsis ua rau nej mob mob hlwb mog.
+yog luag hais mob mob nej siab lawd, tsis txhob rawm teb rov rau luag tam sis ntawd.
+pw ib hmo xav ntxiv tso nej mam teb.
+yog leej twg coj tau li no ces nws yeej teb tau lo lus uas zoo mloog dua.
+thiab nco ntsoov tsis txhob muab nej lub sij hawm tag nrho rau sch nqos mog.
+peb nyob teb chaws no, sij hawm yog nyiaj txiab; qhov no yeej muaj tseeb tiag nawb.
+
 hl

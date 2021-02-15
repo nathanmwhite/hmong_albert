@@ -1,93 +1,24 @@
-ib tsoom boj yaig,
-thov tas los thov thiab. thov nej pab qhia seb cov npe hmoob/moob no ib
-lub suab dhau ib lub no hu li cas ntawm suab hmoob thiab moob:
-suab hmoob:                                       suab moob:
-1. dab laug (yus poj niam tus nus)           __________
-2. dab laug (yus niam tus nus)                 __________
-3. niam dab laug (yus poj niam tus nyab)  __________
-4. niam dab laug (yus niam tus nyab)       __________
-5. phauj (yus txiv tus muam)                    __________
-6. phauj (yus yawg tus muam)                 __________
-7. niam tais (yus poj niam leej niam)        __________
-8. niam tais (yus poj niam tus viv ncaus)   __________
-9. niam tais (yus niam tus viv ncaus)        __________
-10. yawm txiv (yus poj niam leej txi)         __________
-11. yawm txiv (yus niam leej txi)
-12.  yawm txiv (yus niam tus txiv laus/hluas) __________
-13. yij laug (yus txiv tus yawm yij)            __________
-14. yawg laus (yus yawg tus yawm yij)     __________
-15. yawm yij (yus tus muam tus txiv)       __________
-16. npawg                                              __________
-17. muam npaws                                    __________
-18. txiv ntxawm                                      __________
-19. txiv hlob                                           __________
-20. niam ntxawm (txiv ntxawm tus poj niam) ___________
-21. niam ntxawm (yus tus kwv tus poj niam) ___________
-22. tij laug                                             __________
-23. kwv                                                  __________
-24. niam tij                                            __________
-25. niam laus                                         __________
-26. txiv laus                                           __________
-27. yawg koob (yawg koob txiv)               __________
-28. pog koob (pog koob txiv)                   __________
-29. yawm txiv (yus niam yawg)               __________
-30. niam tais (yus niam pog)                   __________
-kuv lam sau li no, tiam sis nej tus twg muaj thiab pom lwm yam lwm qhov
-los thov pab ntxiv rau.
+ib tsoom boj yaig, thov tas los thov thiab.
+thov nej pab qhia seb cov npe hmoob/moob no ib lub suab dhau ib lub no hu li cas ntawm suab hmoob thiab moob: suab hmoob: suab moob: 1. dab laug (yus poj niam tus nus) __________ 2. dab laug (yus niam tus nus) __________ 3. niam dab laug (yus poj niam tus nyab) __________ 4. niam dab laug (yus niam tus nyab) __________ 5. phauj (yus txiv tus muam) __________ 6. phauj (yus yawg tus muam) __________ 7. niam tais (yus poj niam leej niam) __________ 8. niam tais (yus poj niam tus viv ncaus) __________ 9. niam tais (yus niam tus viv ncaus) __________ 10.
+yawm txiv (yus poj niam leej txi) __________ 11. yawm txiv (yus niam leej txi) 12. yawm txiv (yus niam tus txiv laus/hluas) __________ 13. yij laug (yus txiv tus yawm yij) __________ 14. yawg laus (yus yawg tus yawm yij) __________ 15. yawm yij (yus tus muam tus txiv) __________ 16. npawg __________ 17. muam npaws __________ 18. txiv ntxawm __________ 19. txiv hlob __________ 20.
+niam ntxawm (txiv ntxawm tus poj niam) ___________ 21. niam ntxawm (yus tus kwv tus poj niam) ___________ 22. tij laug __________ 23. kwv __________ 24. niam tij __________ 25. niam laus __________ 26. txiv laus __________ 27. yawg koob (yawg koob txiv) __________ 28. pog koob (pog koob txiv) __________ 29. yawm txiv (yus niam yawg) __________ 30.
+niam tais (yus niam pog) __________ kuv lam sau li no, tiam sis nej tus twg muaj thiab pom lwm yam lwm qhov los thov pab ntxiv rau.
+
 ua tsaug!
 
-you have almost everything but you forgot some:
-you have yawm yij why not have muam also;
-you have niam laus, you need niam hluas (yus tus poj niam, niam hluas);
-you have txiv laus, you need txiv hluas (yus tus pojniam, niam hluas
-tus txiv);
-you have muam npaws, you need nus npaws;
-you have txiv hlob, you need niam hlob too.
-i think this might be it.  unless i'm wrong.
-best,
-cua
+you have almost everything but you forgot some: you have yawm yij why not have muam also; you have niam laus, you need niam hluas (yus tus poj niam, niam hluas); you have txiv laus, you need txiv hluas (yus tus pojniam, niam hluas tus txiv); you have muam npaws, you need nus npaws; you have txiv hlob, you need niam hlob too.
 
-cov boj yaig,
-kuv thov kom nej pab kho ntxiv thiab thov kom nej pab qhia seb lub suab
-moob leeg yog hu li cas no. thov pab sau ntxiv tiam sis thov ho pab
-qhia seb cov npe nej thiab kuv sau no hais lus hmoob dawb yog li no
-lawm no lus hmoob leeg no ho yog li cas no.
+i think this might be it.
+unless i'm wrong.
+
+best, cua cov boj yaig, kuv thov kom nej pab kho ntxiv thiab thov kom nej pab qhia seb lub suab moob leeg yog hu li cas no.
+thov pab sau ntxiv tiam sis thov ho pab qhia seb cov npe nej thiab kuv sau no hais lus hmoob dawb yog li no lawm no lus hmoob leeg no ho yog li cas no.
+
 ua tsaug!
 
-nyob zoo yhmon,
-suab hmoob:                                       suab moob:
-1. dab laug (yus poj niam tus nus)           (dlaab)
-2. dab laug (yus niam tus nus)                 (txiv dlaab)
-3. niam dab laug (yus poj niam tus nyab)  (tais dlaab)
-4. niam dab laug (yus niam tus nyab)       (nam dlaab)
-5. phauj (yus txiv tus muam)                    (puj nyaaj)
-6. phauj (yus yawg tus muam)                 (nyaaj koob)
-7. niam tais (yus poj niam leej niam)         (nam tais)
-8. niam tais (yus poj niam tus viv ncaus)    (nam hluas, nam laug)
-9. niam tais (yus niam tus viv ncaus)        tais hlaus, tais laug)
-10. yawm txiv (yus poj niam leej txi)         (yawm txiv)
-11. yawm txiv (yus niam leej txi)               "yawm"
-12.  yawm txiv (yus niam tus txiv laus/hluas)  "txiv laug/hluas"
-13. yij laug (yus txiv tus yawm yij)            "txiv kwj"
-14. yawg laus (yus yawg tus yawm yij)      "yawm"
-15. yawm yij (yus tus muam tus txiv)        "yij or yawm yij"
-16. npawg                                               "npawg"
-17. muam npaws                                    "muam npawg"
-18. txiv ntxawm                                      "txiv ntxawm"
-19. txiv hlob                                           " laug"
-20. niam ntxawm (txiv ntxawm tus poj niam) "nam ntxawm"
-21. niam ntxawm (yus tus kwv tus poj niam)  "ntxawm (txuas rua tug
-txiv)"
-22. tij laug                                             "tij laug"
-23. kwv                                                  "kwv"
-24. niam tij                                            "nam tij"
-25. niam laus                                         "tais laug"
-26. txiv laus                                           "txiv laug"
-27. yawg koob (yawg koob txiv)               "yawm koob"
-28. pog koob (pog koob txiv)                   "puj koob"
-29. yawm txiv (yus niam yawg)               "yawm koob"
-30. niam tais (yus niam pog)                   "tais koob"
-i hope this helps...
-ms
+nyob zoo yhmon, suab hmoob: suab moob: 1. dab laug (yus poj niam tus nus) (dlaab) 2. dab laug (yus niam tus nus) (txiv dlaab) 3. niam dab laug (yus poj niam tus nyab) (tais dlaab) 4. niam dab laug (yus niam tus nyab) (nam dlaab) 5. phauj (yus txiv tus muam) (puj nyaaj) 6. phauj (yus yawg tus muam) (nyaaj koob) 7. niam tais (yus poj niam leej niam) (nam tais) 8. niam tais (yus poj niam tus viv ncaus) (nam hluas, nam laug) 9. niam tais (yus niam tus viv ncaus) tais hlaus, tais laug) 10.
+yawm txiv (yus poj niam leej txi) (yawm txiv) 11. yawm txiv (yus niam leej txi) "yawm" 12. yawm txiv (yus niam tus txiv laus/hluas) "txiv laug/hluas" 13. yij laug (yus txiv tus yawm yij) "txiv kwj" 14. yawg laus (yus yawg tus yawm yij) "yawm" 15. yawm yij (yus tus muam tus txiv) "yij or yawm yij" 16. npawg "npawg" 17. muam npaws "muam npawg" 18. txiv ntxawm "txiv ntxawm" 19. txiv hlob " laug" 20.
+niam ntxawm (txiv ntxawm tus poj niam) "nam ntxawm" 21. niam ntxawm (yus tus kwv tus poj niam) "ntxawm (txuas rua tug txiv)" 22. tij laug "tij laug" 23. kwv "kwv" 24. niam tij "nam tij" 25. niam laus "tais laug" 26. txiv laus "txiv laug" 27. yawg koob (yawg koob txiv) "yawm koob" 28. pog koob (pog koob txiv) "puj koob" 29. yawm txiv (yus niam yawg) "yawm koob" 30.
+niam tais (yus niam pog) "tais koob" i hope this helps...
 
-zoo ntau moob sib!
+ms zoo ntau moob sib!

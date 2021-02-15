@@ -1,21 +1,21 @@
-xyaum 13. thaum koj tau nyeem tas lawm, koj xav tej nqe lus nyob rau
-hauv dab neeg no los mus txhais. koj txhais no koj tsuas muab ib nqe lus los
-sis puas ib qho ntsiab lus hauv txoj dab neeg no los mus txhais xwb. tsis yog koj
-yuav txhais kom tas txoj dab neeg. yog koj nkag siab tsis zoo, koj saib qhov piv
-tswv hauv qab no ua ntej tso.
-jiab lus: leej niam tsis kam rhuav lawv lub tsev kom tas los mus rauv
-cub leej tub.
-txhais: qhov leej niam tsis kam rhuav kom tas lub tsev los mus cub leej
-tub no: qhov ib kuv xav hais tias yog nkawv hmoov tsis txog thiab leej niam yog
-ib tug neeg cuaj khaum heev. vim li cas hmoov tsis txog rau qhov tias thaum
-nws tuag thawj zaug los vim yog leej niam. leej niam yog ib tug neeg qia dub
-thiab siab phem, yog li no thaum nws tseem ua hluas nkauj thiaj li tsis muaj
-neeg kam yuav nws mus ua lawv tus poj niam. vim muaj li no nyob rau
-hauv nws lub neej, nws thiaj li tsis muaj txiv yuav. nws tsis tseg nws lub siab
-cuaj khaum ntawd,nws tus tub thiaj li tau tuag. tuag zaum ib tas tseem yuav
-tuag zaum ob thiab thiaj li txwv tas nws cov kev rov qab los ua neeg lawm.
-ib co ntsiab lus:
-vim li cas tswb tshoj ib leeg thiaj li mus kov tau tus xib nyuj?
+xyaum 13. thaum koj tau nyeem tas lawm, koj xav tej nqe lus nyob rau hauv dab neeg no los mus txhais.
+koj txhais no koj tsuas muab ib nqe lus los sis puas ib qho jiab lus hauv txoj dab neeg no los mus txhais xwb.
+tsis yog koj yuav txhais kom tas txoj dab neeg.
+yog koj gag siab tsis zoo, koj saib qhov piv tswv hauv qab no ua ntej tso.
+
+jiab lus: leej niam tsis kam rhuav lawv lub tsev kom tas los mus rauv cub leej tub.
+
+txhais: qhov leej niam tsis kam rhuav kom tas lub tsev los mus cub leej tub no: qhov ib kuv xav hais tias yog gawv hmoov tsis txog thiab leej niam yog ib tug neeg cuaj khaum heev.
+vim li cas hmoov tsis txog rau qhov tias thaum nws tuag thawj zaug los vim yog leej niam.
+leej niam yog ib tug neeg qia dub thiab siab phem, yog li no thaum nws tseem ua hluas gauj thiaj li tsis muaj neeg kam yuav nws mus ua lawv tus poj niam.
+vim muaj li no nyob rau hauv nws lub neej, nws thiaj li tsis muaj txiv yuav.
+nws tsis tseg nws lub siab cuaj khaum ntawd,nws tus tub thiaj li tau tuag.
+tuag zaum ib tas tseem yuav tuag zaum ob thiab thiaj li txwv tas nws cov kev rov qab los ua neeg lawm.
+
+ib co jiab lus: vim li cas tswb tshoj ib leeg thiaj li mus kov tau tus xib nyuj?
+
 vim li cas leej niam tsis qhia rau leej tub tias nws muaj txiv?
+
 tom qab ntawd ua li cas rau tus xib nywj lawm?
+
 vim li cas cov cob fab tam sim no teev thiab hu txog tswb tshoj?

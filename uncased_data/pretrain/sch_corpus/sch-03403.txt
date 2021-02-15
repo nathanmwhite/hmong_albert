@@ -1,294 +1,210 @@
-nyob zoo txug tsoom moob,
-ts = technical specification lawv le cov tuabneeg thom tsheb tau kom
-tseg.  nwg yog ib yaam txheejtxheem kws suavdlawg yuav tau siv tuab
-txuj kev ntawd txua puab tej khoom lug dlhos ua lub tsheb. (process
-oriented)
-nwg chiv ntawv cov khoom siv lug tim kuas tau yaam khoom yuav siv tawm
-moog thom ua ib lub tsheb.  yaam khoom ntawd yuav tau hlaa dlhau tej
-txheejtxheem txav, txuas, hab tim kuas rau ib yaam khoom zoo siv ces
-maam le muab xaa tawm.
-ntn = ntawv thoob ntuj lawv le txivplig nyajpov (via txiabneeb vaj)
-tau muab tis npe.  yog has tas peb muab tug txheejtxheem rpa thom lawv
-le ts, kuv xaav has tas muaj ib nub peb yuav rhawv tau ib tug “qauv”
-standard lub rua peb moob thoob ntuj taug.  it is a process oriented
-as well.
-txivplig nyajpov, dr. smalley, & dr. …? tsi ncu qaab nwg npe lawm tau
-chiv lub hauv paug, tamsis peb yuav tau txua hab thom ntxiv kuas has
-tau peb cov lug kuas moog le nuav:
-1.	peb hab lug kuas tau le peb sau ntawv.
+nyob zoo txug tsoom moob, ts = technical specification lawv le cov tuabneeg thom tsheb tau kom tseg.
+nwg yog ib yaam txheejtxheem kws suavdlawg yuav tau siv tuab txuj kev ntawd txua puab tej khoom lug dlhos ua lub tsheb.
+(process oriented) nwg chiv ntawv cov khoom siv lug tim kuas tau yaam khoom yuav siv tawm moog thom ua ib lub tsheb.
+yaam khoom ntawd yuav tau hlaa dlhau tej txheejtxheem txav, txuas, hab tim kuas rau ib yaam khoom zoo siv ces maam le muab xaa tawm.
+
+ntn = ntawv thoob ntuj lawv le txivplig nyajpov (via txiabneeb vaj) tau muab tis npe.
+yog has tas peb muab tug txheejtxheem rpa thom lawv le ts, kuv xaav has tas muaj ib nub peb yuav rhawv tau ib tug “qauv” standard lub rua peb moob thoob ntuj taug.
+it is a process oriented as well.
+
+txivplig nyajpov, dr.
+smalley, & dr.
+…?
+tsi ncu qaab nwg npe lawm tau chiv lub hauv paug, tamsis peb yuav tau txua hab thom ntxiv kuas has tau peb cov lug kuas moog le nuav: 1.	peb hab lug kuas tau le peb sau ntawv.
+
 2.	peb sau ntawv kuas tau le peb has lug.
-3.	muab peb tej lug hab ntawv lug sau hab siv kuas nplig ncauj, nplag
-nplaig, hab nplag lub laajxeeb.
-tog yuav nyeem (twm) mej cov laajlim. tswvyim, hab txujci moob-meskas
-nawb.
 
-nyob zoo tony,
-lub caij nuav phaab toj tim u tseem taab tom kub nyab es zoo le txhaj
-tsi muaj leej twg tig ntsej lug nuam, tig muag lug saib koj lub haulug
-(topic). ca kuv muab nwg tshoom ib teg kuas ntaab plawg rov rua sau
-npoo saib puas muaj tug lug paab txawg 2-3 hlaus ntxiv.
-kuv los yeej xaav hab pum le koj has hab. tug ntawv hmoob rpa yuav yog
-tug kws siv tau yoojyim tshaaj rua peb haiv hmoob. yog le mas peb
-tsuas khu kuas nwg muaj txhij muaj txhua xwb ces siv moog xwb.
-ms
+3.	muab peb tej lug hab ntawv lug sau hab siv kuas nplig ncauj, nplag nplaig, hab nplag lub laajxeeb.
 
-covphoojywg, kuv covtswvyim uas tswvntuj pub trau kuv yog linov:
-1. txhimkho mhoob tusntawv (rpa) kom siv tau los qog mhoob covlus thia
-txhuax lubsuab mhoob nhov.
-2. muab mhoob tusntawv los ua kom txhob muaj ntaux pabneeg mhoob, tiamsi
-yog ib haivneeg mhoob lawm xwb.
-qeeyam linov:
-1. pojniam = woman
-2. quaspuj = wife
-3. txivneej = man
-4. quasyawg = husband
-5. dawb = white
-6. dlawb = free
-7. liab = red
-8. lab = monkey
-kuv covntawv nov yuav tshwmsim hauv plawvdej hiavtxwv atlantic los tra
-cov mhoob uas yog neeg tsimtxiaj tau siv.
-kuv trhawv kabke tshoobkos, pamtuag, tisbelaus thiab ntaux yam uas tsi
-pub kom txheebze trau dab los trau mhoob siv. covnov kuv twb ua tiav ta
-lawm.
-kuv tsis txhawj tsam mhoob tsis nyiam, trauqhov tswvntuj yog tus xai
-mhoob trau kuv. tus mhoob uas tsis sawmzoo, yeejyuav tsis pom tej uas nyo
-ntawm kuv txhaistes.
-dejhiavtxwv yuav qhuav tau tsis yog kuv tus yob nov ua, tiamsis tswvntu
-yog tus ua kom txhuayam tshwmsim li nws tau teemtseg thaum tseem tsis ta
-muaj yob los nyob hauv ntiajteb nov.
--
-message posted using http://www.talkaboutculture.com/group/soc.culture.hmong
-more information at http://www.talkaboutculture.com/faq.htm
+tog yuav nyeem (twm) mej cov laajlim.
+tswvyim, hab txujci moob-meskas nawb.
 
-tony,
-yog vim le caag, ib tug moob ua + chiv keeb, moob tsis jeeg tsis siv?
-tiam si, yog vim le caag, lwm hom tuab neeg ua + chiv keeb, moob haj
-le jeeg hab siv?
-zoo le peb twb thaam taag ntau zaus lawm, tiam si, yog yuav ua kuas
-muaj tseeb le koj hais nuav, nws yog revolution tsis yog evolution.
+nyob zoo tony, lub caij nuav phaab toj tim u tseem taab tom kub nyab es zoo le txhaj tsi muaj leej twg tig ntsej lug nuam, tig muag lug saib koj lub haulug (topic).
+ca kuv muab nwg tshoom ib teg kuas ntaab plawg rov rua sau npoo saib puas muaj tug lug paab txawg 2-3 hlaus ntxiv.
+
+kuv los yeej xaav hab pum le koj has hab.
+tug ntawv hmoob rpa yuav yog tug kws siv tau yoojyim tshaaj rua peb haiv hmoob.
+yog le mas peb tsuas khu kuas nwg muaj txhij muaj txhua xwb ces siv moog xwb.
+
+ms covphoojywg, kuv covtswvyim uas tswvntuj pub trau kuv yog linov: 1. txhimkho mhoob tusntawv (rpa) kom siv tau los qog mhoob covlus thia txhuax lubsuab mhoob nhov.
+
+2. muab mhoob tusntawv los ua kom txhob muaj ntaux pabneeg mhoob, tiamsi yog ib haivneeg mhoob lawm xwb.
+
+qeeyam linov: 1. pojniam = woman 2. quaspuj = wife 3. txivneej = man 4. quasyawg = husband 5. dawb = white 6. dlawb = free 7. liab = red 8. lab = monkey kuv covntawv nov yuav tshwmsim hauv plawvdej hiavtxwv atlantic los tra cov mhoob uas yog neeg tsimtxiaj tau siv.
+
+kuv trhawv kabke tshoobkos, pamtuag, tisbelaus thiab ntaux yam uas tsi pub kom txheebze trau dab los trau mhoob siv.
+covnov kuv twb ua tiav ta lawm.
+
+kuv tsis txhawj tsam mhoob tsis nyiam, trauqhov tswvntuj yog tus xai mhoob trau kuv.
+tus mhoob uas tsis sawmzoo, yeejyuav tsis pom tej uas nyo ntawm kuv txhaistes.
+
+dejhiavtxwv yuav qhuav tau tsis yog kuv tus yob nov ua, tiamsis tswvntu yog tus ua kom txhuayam tshwmsim li nws tau teemtseg thaum tseem tsis ta muaj yob los nyob hauv ntiajteb nov.
+
+- message posted using http://www.website.net tony, yog vim le caag, ib tug moob ua + chiv keeb, moob tsis jeeg tsis siv?
+
+tiam si, yog vim le caag, lwm hom tuab neeg ua + chiv keeb, moob haj le jeeg hab siv?
+
+zoo le peb twb thaam taag ntau zaus lawm, tiam si, yog yuav ua kuas muaj tseeb le koj hais nuav, nws yog revolution tsis yog evolution.
+
 (puas yog, tnz?)
-kuv noog koj, koj puas xaav tas thaum puab tis npe tas, 'ntawv thooj
-ntuj', nuav, sab tuab neeg hab? romanized popular alphabet, lo lug
-nuav, koj xaav tas txhais rau lug moob puas yog, ntawv thooj ntuj?
+kuv noog koj, koj puas xaav tas thaum puab tis npe tas, 'ntawv thooj ntuj', nuav, sab tuab neeg hab?
+romanized popular alphabet, lo lug nuav, koj xaav tas txhais rau lug moob puas yog, ntawv thooj ntuj?
+
 ua tsuag.
 
 uatsaug ms, koj paab tshau rua es lwm txhaj le xaav tuaj saib hab.
-yob, nub nua yog qhov tseeb.  pigkig tseem yog npausuav xwb.  peb yuav
-nyob lub neej huv yeebceeb lug ntawm txuj kev tsheejndlub ua npausuav
-moog ntev lecaag?
-zhen, peb moob yeej nyam chiv xwb, tsi nyam txuas.  peb yuav nrhav
-kuas tau tej khoom siv ntawd lug ntawm peb ndlag tug xwb peb txhajle
-zoo sab.  yog le ntawm peb txhajle siv ntawm teg noj ntawm ncauj es
-peb ua tsi tau ib yaam dlaabtsi ntau pub rua lajmeej pejxeem moob
-thoob ntuj pum hab siv.
-lub npe "ntawv thoob ntuj" kuj yog ib lub zoo npe ruaqhov has tas,
-moob nyob thoob ntuj hab yuav tau siv ib tug qauv lug teeb tej
-txheejtxheem ntawv es suavdlawg txhajle paub.  eesthawsnev yog ib qho
-kws tuabneeg thoob ntuj siv lug sis txuas laajlim, tswvyim, hab kev
-siv mooglug yoojyim...lwm chiv tau es koj hab kuv twb siv nev.  ntn
-chiv lug ntawm puab peb tug tub txawj es peb ho siv tsi tau lov?
-nub kws moob chiv tau ib tug qauv zoo lawm moob ham tsis muaj cov yuav
-leeg siv tej ntawv xwb.  nyeebpooj qhov "quality system" zoo heev rua
-lub caij nuav....yog puav chiv lov los yog puab siv meskas tug
-"qauv"?  nwg nuav puab muaj tug txheejtxheem kws tuabneeg thoob ntuj
-siv tamsis puab caum tsi cuag nyeebpooj qaab lawm.
 
-phoojywg tony,
-koj hais tau raug kuv siab heev. kuv los xav hais tias peb yuav tau
-qog thiab siv yam ua zoo rau yus, tsis hais yam uas yog yus tsim tawm
-los yog lwm tus tsim tawm. siv yam twg ua rau peb vam meej sai ces siv
-yam ntawd xwb. yog peb tsuas siv yam uas yog hmoob tsim nkaus nkaus
-xwb ces lub neej yeej tsis nce qib li. (saib cov amish ua piv txwv)
-phoojywg zhen,
-kuv xav hais tias koj lub ncauj lam hais li xwb, tabsis qhov meej
-tseeb tiag, koj yeej nyiam siv yam uas muaj txawm peem thiab siv tau
-yooj yim thiab xwb puas yog, vim koj twb yog txheej hluas uas yoog tau
-yooj yim rau txhua fab. qhov uas peb niaj hnub siv cov ntawd rpa (ntn)
-tuaj sib cav hauv no, nws siv tau yooj yim heev. peb tsis thas yuav
-muaj special software, tsis thas muaj special key boards, tsis thas
-kawm sau ib hom ntawd tshiab. tshaj qhov ntawd, peb tsis thas tsim kom
-tau ib lub kauspistawj uas yog hmoob ua tus tsim es peb mam li kam
-siv.
-ib qhov tshwj xeeb tshaj plaws, yog peb siv tus ntawd rpa no, peb yuav
-kawm tau tus ntawv askiv yoojyim dua. nyob rau lub qab ntuj no, yog
-leej twg paub ntawv askiv zoo, tus ntawv muaj peev xwm tshawb fawb tau
-txuj ci ntau yam tshaj los siv thiab los kawm. yog koj xav paub txog
-yam dab tsi, koj tshawb hauv istawsnem no xwb koj yeej nrhiav tau yam
-koj xav paub, yam tsawg tsawg los koj yeej nrhiav tau lub hauv paus,
-seb yuav mus pib nrhiav qhov twg ntxiv. tsuas tshuav tej yam uas yog
-lus zais, yog yam txuj ci tawm tshiab, yog yam luag tseem muaj copy
-right losis patent, yam uas complicate heev, yus thiaj mus tshawb tsis
-tau los kawm thiab los siv xwb.
-hl
+yob, nub nua yog qhov tseeb.
+pigkig tseem yog npausuav xwb.
+peb yuav nyob lub neej huv yeebceeb lug ntawm txuj kev tsheejndlub ua npausuav moog ntev lecaag?
 
-tony & ib tsoom npoj yaig schlers,
-luag sau thiab txuag peb hmoob lus thiab ntaub ntawv xwb ces ziag no
-peb twb nco paub tsis txog cov hmoob uas nrog txiv plig lawv tsim tsa
-tus ntawv hmoob thoob teb no lawm; lub npe no yog lub peb cov kwv tij
-hmoob nyob luang prabang & samnua nrog rau txiv plig nyiaj pov yaj,
-dr. lindwood barney thiab dr. william smalley lawm xam pom thaum ub
-lawv muab cov ntawv hmoob & moob zwm los ua ib tug ntawv hmoob xwb.
-lub npe ntawv hmoob thoob ntuj no yog lub peb tseem nyuam qhua muab
-xam tawm tau xwb; ua ntej peb yuav siv tau tiag, tiag peb yuav tsum
-mus ntxiv li ob peb kauj ruam yav tom ntej no.
+zhen, peb moob yeej nyam chiv xwb, tsi nyam txuas.
+peb yuav nrhav kuas tau tej khoom siv ntawd lug ntawm peb ndlag tug xwb peb txhajle zoo sab.
+yog le ntawm peb txhajle siv ntawm teg noj ntawm ncauj es peb ua tsi tau ib yaam dlaabtsi ntau pub rua lajmeej pejxeem moob thoob ntuj pum hab siv.
+
+lub npe "ntawv thoob ntuj" kuj yog ib lub zoo npe ruaqhov has tas, moob nyob thoob ntuj hab yuav tau siv ib tug qauv lug teeb tej txheejtxheem ntawv es suavdlawg txhajle paub.
+eesthawsnev yog ib qho kws tuabneeg thoob ntuj siv lug sis txuas laajlim, tswvyim, hab kev siv mooglug yoojyim...
+lwm chiv tau es koj hab kuv twb siv nev.
+ntn chiv lug ntawm puab peb tug tub txawj es peb ho siv tsi tau lov?
+
+nub kws moob chiv tau ib tug qauv zoo lawm moob ham tsis muaj cov yuav leeg siv tej ntawv xwb.
+nyeebpooj qhov "quality system" zoo heev rua lub caij nuav....
+yog puav chiv lov los yog puab siv meskas tug "qauv"?
+nwg nuav puab muaj tug txheejtxheem kws tuabneeg thoob ntuj siv tamsis puab caum tsi cuag nyeebpooj qaab lawm.
+
+phoojywg tony, koj hais tau raug kuv siab heev.
+kuv los xav hais tias peb yuav tau qog thiab siv yam ua zoo rau yus, tsis hais yam uas yog yus tsim tawm los yog lwm tus tsim tawm.
+siv yam twg ua rau peb vam meej sai ces siv yam ntawd xwb.
+yog peb tsuas siv yam uas yog hmoob tsim nkaus nkaus xwb ces lub neej yeej tsis nce qib li.
+(saib cov amish ua piv txwv) phoojywg zhen, kuv xav hais tias koj lub ncauj lam hais li xwb, tabsis qhov meej tseeb tiag, koj yeej nyiam siv yam uas muaj txawm peem thiab siv tau yooj yim thiab xwb puas yog, vim koj twb yog txheej hluas uas yoog tau yooj yim rau txhua fab.
+qhov uas peb niaj hnub siv cov ntawd rpa (ntn) tuaj sib cav hauv no, nws siv tau yooj yim heev.
+peb tsis thas yuav muaj special software, tsis thas muaj special key boards, tsis thas kawm sau ib hom ntawd tshiab.
+tshaj qhov ntawd, peb tsis thas tsim kom tau ib lub kauspistawj uas yog hmoob ua tus tsim es peb mam li kam siv.
+
+ib qhov tshwj xeeb tshaj plaws, yog peb siv tus ntawd rpa no, peb yuav kawm tau tus ntawv askiv yoojyim dua.
+nyob rau lub qab ntuj no, yog leej twg paub ntawv askiv zoo, tus ntawv muaj peev xwm tshawb fawb tau txuj ci ntau yam tshaj los siv thiab los kawm.
+yog koj xav paub txog yam dab tsi, koj tshawb hauv istawsnem no xwb koj yeej nrhiav tau yam koj xav paub, yam tsawg tsawg los koj yeej nrhiav tau lub hauv paus, seb yuav mus pib nrhiav qhov twg ntxiv.
+tsuas tshuav tej yam uas yog lus zais, yog yam txuj ci tawm tshiab, yog yam luag tseem muaj copy right losis patent, yam uas complicate heev, yus thiaj mus tshawb tsis tau los kawm thiab los siv xwb.
+
+hl tony & ib tsoom npoj yaig schlers, luag sau thiab txuag peb hmoob lus thiab ntaub ntawv xwb ces ziag no peb twb nco paub tsis txog cov hmoob uas nrog txiv plig lawv tsim tsa tus ntawv hmoob thoob teb no lawm; lub npe no yog lub peb cov kwv tij hmoob nyob luang prabang & samnua nrog rau txiv plig nyiaj pov yaj, dr.
+lindwood barney thiab dr.
+william smalley lawm xam pom thaum ub lawv muab cov ntawv hmoob & moob zwm los ua ib tug ntawv hmoob xwb.
+
+lub npe ntawv hmoob thoob ntuj no yog lub peb tseem nyuam qhua muab xam tawm tau xwb; ua ntej peb yuav siv tau tiag, tiag peb yuav tsum mus ntxiv li ob peb kauj ruam yav tom ntej no.
+
 ua tsaug koj rov muab cov lus no coj los tso sib tham ntxiv...
 
-hl, zoosab kws koj nyam lub namtswyim kws kaws tej khoom kws luag tej
-chiv tau lawm es peb khaws siv ntawd.  qhov txheejtxheem kws yog
-kaujruam tom ntej le kuv pum hab xaav ces yog theem ib kws "peb hab
-lug kuas tau le peb sau ntawv."  qhov nuav yog sau ntawv kuas has tau
-peb cov lug le peb lub qhovncauj has.  txawm yog peb yuav nyeem los
-yog yuav has lug kuas cov ntawv ntawd ndlawg ib yaam le peb has lug.
-thaum peb saib ib muag xwb peb twg yeej paum tau lawm has tas lu lug
-ntawv ntawd yog lu twg lawm.  thaus peb sau tau ntawv le peb has lug
-ces peb txawm yuav nyeem ntawv losyog has lug kuas peb cov ntawv hab
-lug nplag ncauj, nplag laajxeeb, hab nplag nplaig tuabyaam nkaus.
-txiabneeb, tog kuv muab coj lug thaam dlua twb yog vim qhov has tas,
-peb yuav tau tawm lub namtswvyim lug teeb peb tej lug kuas dlos rua
-huv ntaubntawv hab sau peb tej ntaubntawv kuas nplag le peb has lug.
-theem ntawd yog theem ob le kuv xaav losyog pum.  peb yuavtau sau
-ntawv, cobqha, hab siv kuas peb tej lug lajfai rovqaab lug zwm rua huv
-peb lub laajxeeb, najnub siv has lug, hab rhawv kuas peb tau ib tug
-"qauv" kws yuav coj peb moog rua theem tomntej.  yog peb tsi lug rhawv
-txuj kev ntawd, nwg kuj yuav zoo le peb tej txujci meskas (degrees)
-kws peb kawm tau hab siv tau rua txuj kev nrhav noj rua meskas teb
-nuav, tamsis peb tsi tshaam paub siv lub txhawb pebmoob lub neej rua
-rooj teb nuav.
-yog koj nyeem cov ntawv sautoj nuav taag es koj totaub zoo, meej, hab
-tsi txugsav ces yog theem kws peb yuavtau sau ntawv hab cobqha peb cov
-tuabneeg kuas suavdlawg paub siv yaam ntawv thoob ntuj nuav moog zoo
-tuabyaam.  thaus peb nyeem ntawv tsi txugsav losyog sau ntawv nplag
-ntivteg, nplag laajxeeb, nplag ncauj, hab nplag ntaubntawv lawm peb
-yuav naj nub siv ces nwg yuav dlaug moog rua ib co lug lajfai kws muaj
-kuab.  thaus peb siv cov lug lajfai ntau dlua le tej lug vaaj lug tsev
-(home and street language) ces nwg yog lub caij peb nce nto them
-tomntej lawm.
+hl, zoosab kws koj nyam lub namtswyim kws kaws tej khoom kws luag tej chiv tau lawm es peb khaws siv ntawd.
+qhov txheejtxheem kws yog kaujruam tom ntej le kuv pum hab xaav ces yog theem ib kws "peb hab lug kuas tau le peb sau ntawv."
+qhov nuav yog sau ntawv kuas has tau peb cov lug le peb lub qhovncauj has.
+txawm yog peb yuav nyeem los yog yuav has lug kuas cov ntawv ntawd ndlawg ib yaam le peb has lug.
+
+thaum peb saib ib muag xwb peb twg yeej paum tau lawm has tas lu lug ntawv ntawd yog lu twg lawm.
+thaus peb sau tau ntawv le peb has lug ces peb txawm yuav nyeem ntawv losyog has lug kuas peb cov ntawv hab lug nplag ncauj, nplag laajxeeb, hab nplag nplaig tuabyaam nkaus.
+
+txiabneeb, tog kuv muab coj lug thaam dlua twb yog vim qhov has tas, peb yuav tau tawm lub namtswvyim lug teeb peb tej lug kuas dlos rua huv ntaubntawv hab sau peb tej ntaubntawv kuas nplag le peb has lug.
+
+theem ntawd yog theem ob le kuv xaav losyog pum.
+peb yuavtau sau ntawv, cobqha, hab siv kuas peb tej lug lajfai rovqaab lug zwm rua huv peb lub laajxeeb, najnub siv has lug, hab rhawv kuas peb tau ib tug "qauv" kws yuav coj peb moog rua theem tomntej.
+yog peb tsi lug rhawv txuj kev ntawd, nwg kuj yuav zoo le peb tej txujci meskas (degrees) kws peb kawm tau hab siv tau rua txuj kev nrhav noj rua meskas teb nuav, tamsis peb tsi tshaam paub siv lub txhawb pebmoob lub neej rua rooj teb nuav.
+
+yog koj nyeem cov ntawv sautoj nuav taag es koj totaub zoo, meej, hab tsi txugsav ces yog theem kws peb yuavtau sau ntawv hab cobqha peb cov tuabneeg kuas suavdlawg paub siv yaam ntawv thoob ntuj nuav moog zoo tuabyaam.
+thaus peb nyeem ntawv tsi txugsav losyog sau ntawv nplag ntivteg, nplag laajxeeb, nplag ncauj, hab nplag ntaubntawv lawm peb yuav naj nub siv ces nwg yuav dlaug moog rua ib co lug lajfai kws muaj kuab.
+thaus peb siv cov lug lajfai ntau dlua le tej lug vaaj lug tsev (home and street language) ces nwg yog lub caij peb nce nto them tomntej lawm.
+
 nthuav mej le tswvyim ntxiv tuaj rua peb tau nyeem losyog twm nawb....
 
-tony,
-pom zoo...yog li es kuv thiaj kom koj xam nrog kuv wb tsim tsa lub
-charter school los mus leg tej dej num koj hais ntawv ntag...muaj li
-cas los mam sib cog qhia cog kawm mus ntxiv...
+tony, pom zoo...
+yog li es kuv thiaj kom koj xam nrog kuv wb tsim tsa lub charter school los mus leg tej dej num koj hais ntawv ntag...
+muaj li cas los mam sib cog qhia cog kawm mus ntxiv...
+
 ua tsaug!
--txiabneeb
 
-cov kwjtij phoojywg,
-'cas kuv tsim los es nej twb muab teb luaj txog ib ntavzag lawm naj.
-nej mas kujlias txawj tham muaj qab mus muaj luag; hais tau tsis ntxim
-yuav chimlajxeebkiag.  ntshe yog sawvdaws ua tau ib lub siab, cog tau
-ib lub ntsws thiab muab txoj kev xav los qhaib ua ib qhoo tej no yeej
-yuav tshwm muaj xwb.
-kuv los yeej ntseeg tias kev siv ntawv thoob ntuj nws yeej yog ntawv
-lastees lawm tiag.  qhov lojtshaj, ces, tsuas zooli tony thiab
-txiabneeb hais uas, muab kho kom npliagncauj, hais npliagliag li
-kwvtxhiaj xwb.  dhau li ntawd, ib qho teebmeem ua kuv muaj mas yog kuv
-sau tau nrawmdua li kuv nyeem.  qhov no kuv ntseeg tias peb yuavtsum
-tau xyaum nyeem ntawm hmoob kom ntau npaum ntau tau.
-uniform thiab standardization yog ib uas sawvdaws yuavtsum tau tshwm
-lub lajlim tswvyim los txhimkho kom tau uantej li txhuayam, ces, tsim
-cov ntawm los ntxiv cov lus uas peb tseem tuncua ntawd ntxiv xwb.
+-txiabneeb cov kwjtij phoojywg, 'cas kuv tsim los es nej twb muab teb luaj txog ib ntavzag lawm naj.
+
+nej mas kujlias txawj tham muaj qab mus muaj luag; hais tau tsis ntxim yuav chimlajxeebkiag.
+ntshe yog sawvdaws ua tau ib lub siab, cog tau ib lub ntsws thiab muab txoj kev xav los qhaib ua ib qhoo tej no yeej yuav tshwm muaj xwb.
+
+kuv los yeej ntseeg tias kev siv ntawv thoob ntuj nws yeej yog ntawv lastees lawm tiag.
+qhov lojtshaj, ces, tsuas zooli tony thiab txiabneeb hais uas, muab kho kom npliagncauj, hais npliagliag li kwvtxhiaj xwb.
+dhau li ntawd, ib qho teebmeem ua kuv muaj mas yog kuv sau tau nrawmdua li kuv nyeem.
+qhov no kuv ntseeg tias peb yuavtsum tau xyaum nyeem ntawm hmoob kom ntau npaum ntau tau.
+
+uniform thiab standardization yog ib uas sawvdaws yuavtsum tau tshwm lub lajlim tswvyim los txhimkho kom tau uantej li txhuayam, ces, tsim cov ntawm los ntxiv cov lus uas peb tseem tuncua ntawd ntxiv xwb.
+
 dabtsi ntxiv?
-kuamemiab
 
-txiabneeb, koj rau sab nrhav txuj kev ua sau npoo tuaj, muab lub tswv
-yim moog nrhav nyaj hab nrhav chaw lug rua peb siv.  kuv maam nrhav
-lub tswvyim tsim ntaubntawv ntawm peb ndlag tug tuaj.  muab ob lub
-namtswvyim nuav lug dlhos uake ces peb yuav tsum nrhav tau qhov "qauv"
-standard ntawd xwb.
-kuameniab, qhov koj has tas, koj sau ntawv nrawm dlua nyeem ntawv los
-yeej yog le koj has.  qhov ntawd, ces yog moog le nuav:
-1. koj twb yeej xaav tau rua huv koj lub laajxeeb lawm ces koj sau ces
-zoo le kws nwg nplag ntivtej, nplag ncauj, hab nplag laajxeeb.
-2. thaus koj rovqaab moog nyeem ces pheej tseem dlaig ncauj hab dlaig
-laajxeeb ruaqhov thaus nyeem ces peb paub tsi meej hav taug tsi tau
-has tas tug tswv sau ntawv lub laajxeeb xaav lecaag hab nwg cov ntawv
-yog sau has txug dlaabtsi.
-3. qhov tseeb tag yog peb "maaj" dlhau rua txhua yaam kws peb ua rua
-ntawm peb lub neej es peb tsi muaj lub sab ntev lug nyeem xwb.  nyeem
-hab sau yeej noj caij tuabyaam.  qhov txawv ces thaus sau ntawv, koj
-siv sijhawm sau es txhaj le sau taag.  thaus nyeem ces koj txawm nkeeg
-nyeem yog has tas cov ntawv sau tsi raug hab muab koj lub laajxeeb lem
-mooglug es ua rua koj cov laajxeeb.  thaus cov laajxeeb ces cov ntawv
-ntawd tsi tseemceeb lawm.  thaus kws nwg moog zoo le ntawd, cov noog
-los kuj laaj tog.  yug tug kws nyeem los nyeem ntawv dlaig hab nyeem
-tom ntej tom qaab lawm.
-qhov luj tshaaj ces yog peb xyum nyeem hab xyum noog, ntawm yog nqug
-lub sab "ntev" lug nyeem hab noog (cov noog yuav tau ua sab ntev es
-tsi txhob maaj) le ntawm mas tug nyeem txhaj le tsi maaj hab muab nwg
-lub laajxeeb lu lawv tug lw ntawv le tug tswv ntawv lub laajxeeb.  le
-ntawd ces nwg txhajle nyeem tau nplag laajxeeb hab nplag ncauj.
-standard....qauv....mej xaav has tas peb tsim qauv taag es suavdlawg
-txhajle nyam siv lov?  kuv xaav has tas tsi muaj leejtwg kws yuav tsim
-tau qhov qauv kuas tav es peb suavdlawg cale khaws yeem siv losyog
-cale kubsab lug nyeem hab sau ntawv moob.
-muab has moog le nuav:
-process: rawm material => machine / people => product => quality
-(standard) =>shipment.
-txheejtxheem: rpa (ntawv / lug moob) => dlaim ntawv / tug sau => phau
-ntawv => ntawv zoo siv (qauv) => xaa tawm (rua tuabneeg siv)
-yuav ua lecaag peb moob txhajle pauv siv ntawv moob?  yuav tau muaj
-kev cobqha txug kev siv ntawv moob.  xaav muaj txwvyim ces moog kawm
-ntawv.  ntawv moob hab lug moob ces zoo tuabyaam.  xaav paub ces yuav
-tau moog kawm saib luas siv caij kawm, nyeem, sau lecaag es tsi txhob
-pheej coj lub sab qub has tas, "tej kod, kuv paub lawm os!"  yog peb
-tseem pheej xaav le ntawd ces nwg tsi muaj nub peb yuav nplag
-laajxeeb, nplag ncauj, nplag ntivteg, hab nplag ntawv / lug moob le.
+kuamemiab txiabneeb, koj rau sab nrhav txuj kev ua sau npoo tuaj, muab lub tswv yim moog nrhav nyaj hab nrhav chaw lug rua peb siv.
+kuv maam nrhav lub tswvyim tsim ntaubntawv ntawm peb ndlag tug tuaj.
+muab ob lub namtswvyim nuav lug dlhos uake ces peb yuav tsum nrhav tau qhov "qauv" standard ntawd xwb.
+
+kuameniab, qhov koj has tas, koj sau ntawv nrawm dlua nyeem ntawv los yeej yog le koj has.
+qhov ntawd, ces yog moog le nuav: 1. koj twb yeej xaav tau rua huv koj lub laajxeeb lawm ces koj sau ces zoo le kws nwg nplag ntivtej, nplag ncauj, hab nplag laajxeeb.
+
+2. thaus koj rovqaab moog nyeem ces pheej tseem dlaig ncauj hab dlaig laajxeeb ruaqhov thaus nyeem ces peb paub tsi meej hav taug tsi tau has tas tug tswv sau ntawv lub laajxeeb xaav lecaag hab nwg cov ntawv yog sau has txug dlaabtsi.
+
+3. qhov tseeb tag yog peb "maaj" dlhau rua txhua yaam kws peb ua rua ntawm peb lub neej es peb tsi muaj lub sab ntev lug nyeem xwb.
+nyeem hab sau yeej noj caij tuabyaam.
+qhov txawv ces thaus sau ntawv, koj siv sijhawm sau es txhaj le sau taag.
+thaus nyeem ces koj txawm nkeeg nyeem yog has tas cov ntawv sau tsi raug hab muab koj lub laajxeeb lem mooglug es ua rua koj cov laajxeeb.
+thaus cov laajxeeb ces cov ntawv ntawd tsi tseemceeb lawm.
+thaus kws nwg moog zoo le ntawd, cov noog los kuj laaj tog.
+yug tug kws nyeem los nyeem ntawv dlaig hab nyeem tom ntej tom qaab lawm.
+
+qhov luj tshaaj ces yog peb xyum nyeem hab xyum noog, ntawm yog nqug lub sab "ntev" lug nyeem hab noog (cov noog yuav tau ua sab ntev es tsi txhob maaj) le ntawm mas tug nyeem txhaj le tsi maaj hab muab nwg lub laajxeeb lu lawv tug lw ntawv le tug tswv ntawv lub laajxeeb.
+le ntawd ces nwg txhajle nyeem tau nplag laajxeeb hab nplag ncauj.
+
+standard....
+qauv....
+mej xaav has tas peb tsim qauv taag es suavdlawg txhajle nyam siv lov?
+kuv xaav has tas tsi muaj leejtwg kws yuav tsim tau qhov qauv kuas tav es peb suavdlawg cale khaws yeem siv losyog cale kubsab lug nyeem hab sau ntawv moob.
+
+muab has moog le nuav: process: rawm material => machine / people => product => quality (standard) =>shipment.
+
+txheejtxheem: rpa (ntawv / lug moob) => dlaim ntawv / tug sau => phau ntawv => ntawv zoo siv (qauv) => xaa tawm (rua tuabneeg siv) yuav ua lecaag peb moob txhajle pauv siv ntawv moob?
+yuav tau muaj kev cobqha txug kev siv ntawv moob.
+xaav muaj txwvyim ces moog kawm ntawv.
+ntawv moob hab lug moob ces zoo tuabyaam.
+xaav paub ces yuav tau moog kawm saib luas siv caij kawm, nyeem, sau lecaag es tsi txhob pheej coj lub sab qub has tas, "tej kod, kuv paub lawm os!"
+yog peb tseem pheej xaav le ntawd ces nwg tsi muaj nub peb yuav nplag laajxeeb, nplag ncauj, nplag ntivteg, hab nplag ntawv / lug moob le.
+
 ntxiv mej tej tswvyim tuaj nawb....
 
-tony thiab tagnrho sawvdaws,
-haistxog ntawv hmoob ces tsuas tshuav qhoyam lojloj lawm xwb, seb nej
-ho pom licas ntxiv xwb.  rawsli kuv pom mas
-1.  sau kom muaj standard - qauv - pivsam li meskas lolus excercise
-(nws yeej muaj ntau theem los sibtxuas ua tau lolus no) tabsis thaum
-nyeem mas nws yoojyim heev rauqhov it's recognizable thaum pom xwb
-yeej paub li lawm.  yog peb muaj standardization kev ua qauv lawm peb
-pom thawj tug xwb peb yeej paub tias hais licas lawm.  pivtxwm li:
-puamchawj, kavliam, xijpeem....
-2.  tseem tshuav qho tus tsiajntawv niam thiab txiv uas tsis tau muab
-suav losyog tsim tsis tau tseeb xwsli, qog twm quaj thiab miv quaj,
-hmoob lolus uaneeb prwg thoiv....
-3.  tshajtawm (advertising)  sau tej yam kom ntximsiab rau tibneeg tau
-nyeem, saib, thiab kawm mas thiajli muaj neeg mobsiab kawm.
-4.  yuavtsum tau muaj lub koomhaum lossis ib pab tibneeg los tuav,
-tshawbfawb, kho, ntxiv, txhais, rhuav nws thiajli yuav caum tau luag
-thiab muaj txaus siv.
-"yam yus coj tau nrog yus mus nws tsis tseemceeb npaumli yam uas yus
-muab tsotseg rau rau lwmtus."
-kuamemiab
+tony thiab tagnrho sawvdaws, haistxog ntawv hmoob ces tsuas tshuav qhoyam lojloj lawm xwb, seb nej ho pom licas ntxiv xwb.
+rawsli kuv pom mas 1. sau kom muaj standard - qauv - pivsam li meskas lolus excercise (nws yeej muaj ntau theem los sibtxuas ua tau lolus no) tabsis thaum nyeem mas nws yoojyim heev rauqhov it's recognizable thaum pom xwb yeej paub li lawm.
+yog peb muaj standardization kev ua qauv lawm peb pom thawj tug xwb peb yeej paub tias hais licas lawm.
+pivtxwm li: puamchawj, kavliam, xijpeem....
 
-kuamemiab,
-qhov koj has kuj yog kawg lawm.  qho yaam ntawd xwsle kev ua neeb,
-suab tsaj, kev plujtuag, hab kev ua tshoob yog yaam kws cov laug siv
-es cov tuabneeg kws twb nyob txug nraab neej txhajle nyam kawm.  puab
-kawm los yog kawm lug ntawm qhovncauj has.
-kuv pum  muaj qho phau ntawv txug kaabtshoob hab kev tuag tamsis kuv
-tsi tau nyeem saib nwg puas yuav ua rua kuv mobsab kawm.  tejzag nwg
-tsi ntxim kuv sab ces kuv txhaj le tsi tau nyeem xwb.  muab qhov nuav
-txhais ces koj txhais tau lawm has tas cov nraab neej le peb twb tsi
-nyam kawm tej kev ntawd es yuav ua le caag cov yau txhajle yuav nyam
-kawm?
-qhov kuv xaam pum ces yog qhov koj has rua nqai 3. kws yog
-tshaajtawm.  tshaajtawm kuj los tsi tshuam zoo siv ruaqhov nwg muaj
-ntsiv poob rua kev laagluam lawm ces nwg yuav ua rua tuabneeg tsiv
-sab.    qhov zoo tag ces yuav tau muab lub neej tag, everyday life,
-coj lug sau ua tej zaaj kawm ib theem zujzug tuaj es tug laug tug
-hluas nyeem los txhaj le kubsab nyeem.  ua le ntawd, le kuv xaav, cov
-mivnyuas yau yuav nyam nyeem ntawv hab paub txug lubneej luj hlub.
-huas cov laug ces yuav zoo sab has tas puab pauv lawm es siv tau ncauj
-lug hab ntaubntawv lug qha rua cov mivnyuas hab cov laug kws tseem
-xaav kawm hab xaam xyum kua has tau lug le peb sau ntawv hab sau tau
-ntawv le peb  has lug.
-yog tsi muab tej ntaubntawv hab lub neej lug sis thom uake le nuav ces
-peb txawm muaj "qauv" taag los peb tsi muaj kev siv ces nwg yeej tsi
-moog rua qhovtwg le.
-has txug lub koomhum kws yuav lug nthuav tej nuav tawm mas yog ib qhov
-nyub ruaqhov suavdlaw xaav yuav qhov khoom zoo (the best result) xwb.
-yog tsi tau qhov ntawd ces tsi muaj leej twg kaam nqegteg ua.  we
-expected the big things and unimpressed with the little things that
-were the building blocks of what we were looking for.  we were fixated
-at expecting a miracle.  we need to break through that miracle comes
-from our own hands with a prayer or two to boost our wills and
-efforts.
-zoo le kws kuv qhuabqha lawm ces ca kuv xaus le nuav es muaj dlaabtsi
-los ho has tauj nawb....
+2. tseem tshuav qho tus tsiajntawv niam thiab txiv uas tsis tau muab suav losyog tsim tsis tau tseeb xwsli, qog twm quaj thiab miv quaj, hmoob lolus uaneeb prwg thoiv....
+
+3. tshajtawm (advertising) sau tej yam kom ntximsiab rau tibneeg tau nyeem, saib, thiab kawm mas thiajli muaj neeg mobsiab kawm.
+
+4. yuavtsum tau muaj lub koomhaum lossis ib pab tibneeg los tuav, tshawbfawb, kho, ntxiv, txhais, rhuav nws thiajli yuav caum tau luag thiab muaj txaus siv.
+
+"yam yus coj tau nrog yus mus nws tsis tseemceeb npaumli yam uas yus muab tsotseg rau rau lwmtus."
+
+kuamemiab kuamemiab, qhov koj has kuj yog kawg lawm.
+qho yaam ntawd xwsle kev ua neeb, suab tsaj, kev plujtuag, hab kev ua tshoob yog yaam kws cov laug siv es cov tuabneeg kws twb nyob txug nraab neej txhajle nyam kawm.
+puab kawm los yog kawm lug ntawm qhovncauj has.
+
+kuv pum muaj qho phau ntawv txug kaabtshoob hab kev tuag tamsis kuv tsi tau nyeem saib nwg puas yuav ua rua kuv mobsab kawm.
+tejzag nwg tsi ntxim kuv sab ces kuv txhaj le tsi tau nyeem xwb.
+muab qhov nuav txhais ces koj txhais tau lawm has tas cov nraab neej le peb twb tsi nyam kawm tej kev ntawd es yuav ua le caag cov yau txhajle yuav nyam kawm?
+
+qhov kuv xaam pum ces yog qhov koj has rua nqai 3. kws yog tshaajtawm.
+tshaajtawm kuj los tsi tshuam zoo siv ruaqhov nwg muaj ntsiv poob rua kev laagluam lawm ces nwg yuav ua rua tuabneeg tsiv sab.
+qhov zoo tag ces yuav tau muab lub neej tag, everyday life, coj lug sau ua tej zaaj kawm ib theem zujzug tuaj es tug laug tug hluas nyeem los txhaj le kubsab nyeem.
+ua le ntawd, le kuv xaav, cov mivnyuas yau yuav nyam nyeem ntawv hab paub txug lubneej luj hlub.
+
+huas cov laug ces yuav zoo sab has tas puab pauv lawm es siv tau ncauj lug hab ntaubntawv lug qha rua cov mivnyuas hab cov laug kws tseem xaav kawm hab xaam xyum kua has tau lug le peb sau ntawv hab sau tau ntawv le peb has lug.
+
+yog tsi muab tej ntaubntawv hab lub neej lug sis thom uake le nuav ces peb txawm muaj "qauv" taag los peb tsi muaj kev siv ces nwg yeej tsi moog rua qhovtwg le.
+
+has txug lub koomhum kws yuav lug nthuav tej nuav tawm mas yog ib qhov nyub ruaqhov suavdlaw xaav yuav qhov khoom zoo (the best result) xwb.
+
+yog tsi tau qhov ntawd ces tsi muaj leej twg kaam nqegteg ua.
+we expected the big things and unimpressed with the little things that were the building blocks of what we were looking for.
+we were fixated at expecting a miracle.
+we need to break through that miracle comes from our own hands with a prayer or two to boost our wills and efforts.
+
+zoo le kws kuv qhuabqha lawm ces ca kuv xaus le nuav es muaj dlaabtsi los ho has tauj nawb....
