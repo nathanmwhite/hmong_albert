@@ -27,7 +27,8 @@ __author_email__ = "nathan.white1@my.jcu.edu.au"
 
 # relative folder specifications in project
 root_loc = os.path.dirname(os.path.dirname(__file__))
-source_loc = os.path.join(root_loc, 'albert_raw_data')
+source_data_dir = 'albert_first_preprocess'
+source_loc = os.path.join(root_loc, source_data_dir)
 
 uncased_folder = 'uncased_data'
 cased_folder = 'cased_data'
@@ -39,7 +40,7 @@ def run_casing_script():
     two processed datasets: one cased and the other uncased.
     """
     for (root, _, files) in os.walk(source_loc, topdown=True):
-        rootpath_parts = root.split('albert_raw_data')
+        rootpath_parts = root.split(source_data_dir)
         try:
             os.mkdir(rootpath_parts[0] + uncased_folder + rootpath_parts[1])
             os.mkdir(rootpath_parts[0] + cased_folder + rootpath_parts[1])
@@ -54,7 +55,7 @@ def run_casing_script():
                 in_file.close()
 
                 # generate uncased data file
-                filepath_parts = in_filename.split('albert_raw_data')
+                filepath_parts = in_filename.split(source_data_dir)
                 out_filename = filepath_parts[0] + uncased_folder + filepath_parts[1]                    
                 out_file = open(out_filename, 'w')
                 for line in in_file_lines:
@@ -66,6 +67,7 @@ def run_casing_script():
                 # generate cased data file
                 out_filename = filepath_parts[0] + cased_folder + filepath_parts[1]
                 out_file = open(out_filename, 'w')
+                # cased data version separates off punctuation
                 for line in in_file_lines:
                     out_line = re.sub('([A-Za-z0-9])([.,?!\-:;\'"()])', '\g<1> \g<2>', line)
                     out_line = re.sub('([.,?!\-:;\'"()])([A-Za-z0-9])', '\g<1> \g<2>', out_line)
