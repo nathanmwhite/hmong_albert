@@ -1,152 +1,149 @@
-PY Tub Hmoob ,
-Lo lus hais tias " hlub " no mas yog ib lo lus uas txhais tau ntau thiab
-dav heev . Vim tib neeg mas nyias txhais nyias mus lawm ib yam . Seb koj
-lub ntsiab uas koj hais tias koj pojniam tsis hlub koj yog tsis hlub
-li cas tiag tiag . Qhia kom tau kiag qhov tsis hlub ntawd rau peb mas
-peb thiaj paub pab tswv yim rau koj . Tsam tej zauj koj hais tias nws
-tsis hlub koj no , tabsis nws twb ho hlub hlub koj tabsis koj ntaus nqi
-rau lo lus " hlub " txawv lawm xwb ne . Los yog tsam koj twb tsis hlub
-nws los koj to taub yuam kev hais tias koj twb hlub hlub nws lawm . Cia
-kuv piav me ntsis li nram no seb puas yog tej yam uas koj muab rau nws
-nawb .
-Generally , pojniam tsis xav tau tus txiv uas tsis muaj peevxwm . Kom
-koj to taub li no thiab od , ib tug txiv neej hlub pojniam mas tsis yog
-tu vaj tu tsev , ntxhua khaub nci khaub ncaws , ua noj ua haus thiab
-ntxua tais dia es cia pojniam zaum saib nawb . Tej no koj yeej ua tau
-thiab , tabsis ua thaum uas koj pojniam muaj mob muaj nkeeg , los yog
-thaum uas koj xam pom hais tias nws twb khwv khwv txaus lawm , thiab
-koj tsuas yog pab nws ua tej yam uas nws ua tsis yeej lawm xwb . Yam
-nyhav thiab yam nyuab koj yuav tsum ua tag nrho es cia nws mam pab koj
-xwb , hos yam sib li hais los saum no mas koj tso plhuav rau nws ua tus
-incharge mas nws thiaj pom hais tias koj yog ib tug txivneej muaj nuj
-nqis . Dhau li ntawd , kev hlub tsis yog tas rau kev pab ua hauj lwm xwb
-od . Kev hlub mas tseem tshuav ntau yam heev , including kev pw ua niam
-txiv , kev paub txob paub txhawj thaum muaj mob muaj nkeeg , kev hais
-lus zoo , kev qhuas , kev muab txoj kev zos siab rau nws , kev show hais
-tias yus hmov txog nws , kev yus tsis ua tej yam kom mob nws siab ( tham
-hluas nkauj , yuav niam yau ), kev pub rau noj rau haus , kev pub thiab
-txhob kom nws yuav yam uas nws ntshaw , kev ntseeg siab tsis hais sab
-nyiaj txiag los sab kev plees , thiab kev qhia siab dawbpaug .
-Thaum pojniam pom hais tias yus yog neeg muaj nujnqis thiab hlub nws
-li saum toj no , nws yuav tsum hlub koj rov qab xwb . Yog koj muaj txhua
-yam li kuv hais no los nws tseem tsis hlub koj thiab ces peb yeej tsis
-pom qab pab tau neb lawm . Yeej kawg qhov ua siab ntev hlub nws thiab
-hlub tej me tub me nyuam xwb .
-HL
-HL
+PY Tub Hmoob , Lo lus hais tias " hlub " no mas yog ib lo lus uas txhais tau ntau thiab dav heev .
+Vim tib neeg mas nyias txhais nyias mus lawm ib yam .
+Seb koj lub ntsiab uas koj hais tias koj pojniam tsis hlub koj yog tsis hlub li cas tiag tiag .
+Qhia kom tau kiag qhov tsis hlub ntawd rau peb mas peb thiaj paub pab tswv yim rau koj .
+Tsam tej zauj koj hais tias nws tsis hlub koj no , tabsis nws twb ho hlub hlub koj tabsis koj ntaus nqi rau lo lus " hlub " txawv lawm xwb ne .
+Los yog tsam koj twb tsis hlub nws los koj to taub yuam kev hais tias koj twb hlub hlub nws lawm .
+Cia kuv piav me ntsis li nram no seb puas yog tej yam uas koj muab rau nws nawb .
 
-tubhmoob ,
-Love is two way streets .  You can only do so much on your part ,
-unfortunately if she is not welling to contribute back then sadly the
-end is probably near .  Hmoob muaj lolus ua cavlwj sis ' ib nyob , tabsis
-txheej nimno ua tsis tau li ntawd law rauqhov yog koj twb tsis tso
-nyiaj tseg rau hauv tsev cianyiaj es yuav ua licas thiajli mus thau
-tau nyiaj los siv naj ?  My advise to you is do your best of loving her
-but not throw yourself to be her slave .
-kuamemiab
+Generally , pojniam tsis xav tau tus txiv uas tsis muaj peevxwm .
+Kom koj to taub li no thiab od , ib tug txiv neej hlub pojniam mas tsis yog tu vaj tu tsev , ntxhua khaub nci khaub ncaws , ua noj ua haus thiab ntxua tais dia es cia pojniam zaum saib nawb .
+Tej no koj yeej ua tau thiab , tabsis ua thaum uas koj pojniam muaj mob muaj nkeeg , los yog thaum uas koj xam pom hais tias nws twb khwv khwv txaus lawm , thiab koj tsuas yog pab nws ua tej yam uas nws ua tsis yeej lawm xwb .
+Yam nyhav thiab yam nyuab koj yuav tsum ua tag nrho es cia nws mam pab koj xwb , hos yam sib li hais los saum no mas koj tso plhuav rau nws ua tus incharge mas nws thiaj pom hais tias koj yog ib tug txivneej muaj nuj nqis .
+Dhau li ntawd , kev hlub tsis yog tas rau kev pab ua hauj lwm xwb od .
+Kev hlub mas tseem tshuav ntau yam heev , including kev pw ua niam txiv , kev paub txob paub txhawj thaum muaj mob muaj nkeeg , kev hais lus zoo , kev qhuas , kev muab txoj kev zos siab rau nws , kev show hais tias yus hmov txog nws , kev yus tsis ua tej yam kom mob nws siab ( tham hluas nkauj , yuav niam yau ), kev pub rau noj rau haus , kev pub thiab txhob kom nws yuav yam uas nws ntshaw , kev ntseeg siab tsis hais sab nyiaj txiag los sab kev plees , thiab kev qhia siab dawbpaug .
 
-Tubmoob .... aw ,
-Aub yaub ...... kuv ces pab koj tu siab lawm lauj yog hais li koj hais
-naj ...... koj yuav tau ua li Kuamemiab hais nawb hlub nws li koj hlub
-tau xwb .
-Koj mas zoo nkaus li kuv muaj ib tug yawg yij npaws ntag
-lauj ...... niag yawm yij ntawd tseem hu koj lub npe thiab tiag ..... nws
-hu ua Tub no .
+Thaum pojniam pom hais tias yus yog neeg muaj nujnqis thiab hlub nws li saum toj no , nws yuav tsum hlub koj rov qab xwb .
+Yog koj muaj txhua yam li kuv hais no los nws tseem tsis hlub koj thiab ces peb yeej tsis pom qab pab tau neb lawm .
+Yeej kawg qhov ua siab ntev hlub nws thiab hlub tej me tub me nyuam xwb .
+
+HL HL tubhmoob , Love is two way streets .
+You can only do so much on your part , unfortunately if she is not welling to contribute back then sadly the end is probably near .
+Hmoob muaj lolus ua cavlwj sis ' ib nyob , tabsis txheej nimno ua tsis tau li ntawd law rauqhov yog koj twb tsis tso nyiaj tseg rau hauv tsev cianyiaj es yuav ua licas thiajli mus thau tau nyiaj los siv naj ?
+My advise to you is do your best of loving her but not throw yourself to be her slave .
+
+kuamemiab Tubmoob ....
+aw , Aub yaub ......
+kuv ces pab koj tu siab lawm lauj yog hais li koj hais naj ......
+koj yuav tau ua li Kuamemiab hais nawb hlub nws li koj hlub tau xwb .
+
+Koj mas zoo nkaus li kuv muaj ib tug yawg yij npaws ntag lauj ......
+niag yawm yij ntawd tseem hu koj lub npe thiab tiag .....
+nws hu ua Tub no .
+
 Kuv tus muam npaws no ( yog phauj yug ) nws tham 2 tug hluas nraug .
+
 Ib tug ces yog nws tus txiv tam sim no , tus no mas nyob hauv Fresno .
-Ib tug ces nyob Sacramento . Tus no mas cov niam hluas , niam laus , cov nus
-yau thiab leej niam los yeej tsis tshua nyiam . Hos tus nyob hauv zos no
-mas aub yaub leej twg los nyiam nws .
-Hnub tus muam no khiav mus yuav txiv ces nws txawm sawv ntxov - v hnav
-zoo txawv ces kaj ntug kiag ces nws tawm lawm , nws hais rau cov yau
-tias nws yuav mus tab laj ib pliag . Ua cas mus tau li 1 xuaj moo tsis
-los li ned , leej niam ces yeej paub tsim tsawv tias ntshai tsam lam
-yog caum hluas nraug lawm pob ..... 1 xuaj moo ntxiv thiab tsis pom los
-ces leej niam thiaj hus nrhiav hus rau tus hluas nraug nyob hauv zos
-no , Tub tag kis no Maiv puas tuaj tim koj naj ? Tub teb tias niam phauj
-nws tsis tuaj nawb ...... leej niam tsis ntseeg thiaj tso nws tus
-ntxhais hlob hu rov rau ...... Tub koj txhob dag - g nawb koj coj Maiv
-lawm puas yog ? No kuv tsis tau coj tiag - g hos ...... yog li ces Maiv
-caum Maiv niag hluas nraug pem Sacramento lawm lauj ....... koj cia li
-tsav luv tuaj tim peb tsev no ........ Tub thiab tsav loo luv mus txog
-tim ...... hais kiag rau niam tais hais tias niam phauj ... aw kuv hlub
-koj tus ntxhais tag nrog kuv lub siab , lub ntsws ua cas koj tsis hais
-Maiv es , koj ho tso Maiv mus caum hmoob lawm os ..... Tub kuam muag los
-luaj ntsiav kws ..... Tub ncia li ncia kua muag los tsis tus
-li ....... niam tais cia hais tias koj tsav luv peb mus ntaus Maiv
-nawb . Nia tais 2 tug tub yeej tiav hluas , 1 tug ntxhais , niam tais thiab
-Tub lawv 5 leeg thiaj mus ....... thaum yuav mus ces leej niam yeej hais
-yawm txiv tias thaub nawb yog hmoob tuaj thoob xo mas koj tsis yeem
-txais kuv yuav mus ntaus kom tau Maiv rov los ....... lawv mus txog
-Sacramento ....... ces tau 5 - 6 xuaj moo lawm ned ....... lawv twb muab
-Maiv lwm qaib tag twb hu rau lawv cov kwv tij nyob hauv Fresno tuaj
-thoob xo ..... tuaj txog ces yawm txiv hais tias cia kuv tus ntxhais hu
-los tag mas lawv mam pib hauj lwm . Niam tais mus ntsib tus ntxhais
-lawm ....... thaum niam tais thiab Tub lawv mus txog ces Tub nyob tom
-luv xwb ...... 2 tug nus , niam tais thiab tus niam laus thiaj mus kiag
-hauv hmoob  tsev mus cab Maiv tes tawm , Maiv tsis kam lawv 4  leeg Maiv
-ib leeg xwb . Maiv tus txiv ces tsuas hais tias Maiv kuv yeej yuav - v koj
-tiam sis koj niam lawv ua heev dhau lawm ces tsam lawv hu tas luaj
-tuaj ces ho muaj teeb meem ..... nyob ntawm koj xwb nawb ..... kuv pab koj
-ces koj niam lawv yeej ntaus tiag - g li ... lawv ib leeg ib rab qw tuav
-rawv ntawm tes ned ....... Maiv cia li ua ib siab rov los tsev ...... los
-txog tom kev lawv thiab hu rau yawm txiv tias lawv ntau tau Maiv
-lawm ...... yawm txiv thiaj kom hmoob rov mus tsev ...... los tsis ntev
-ces Maiv thiaj yuav Tub ....... aub yaub ..... nkawv twb muaj 6 - 7 tus me
-nyuam lawm los peb cov nyob sab nraum saib mas ...... zoo li Maiv tshuav
-ib nplooj siab tsis npuab yij Tub li os ........ yij Tub ua qhev npaum
-cas los zoo li Maiv yeej tsis hlub npauj li koj hais li os ....... yog
-li koj mas yuam kev loj lawm lauj npawg Tubhmoob ......... kuv saib koj
-cia li mus yuav kiag niam yau muab nws tso pov tseg kiag ........ ua
-neeg nyob yog piav li koj piav ces koj yeej ua nws qhev kawg lawm
-nawb ....... thaum luag tsis hlub koj lawm mas koj yim ua qhev luag yim
-ntxub koj ........ kuv yeej pom ntau - au tus lawm .
+
+Ib tug ces nyob Sacramento .
+Tus no mas cov niam hluas , niam laus , cov nus yau thiab leej niam los yeej tsis tshua nyiam .
+Hos tus nyob hauv zos no mas aub yaub leej twg los nyiam nws .
+
+Hnub tus muam no khiav mus yuav txiv ces nws txawm sawv ntxov - v hnav zoo txawv ces kaj ntug kiag ces nws tawm lawm , nws hais rau cov yau tias nws yuav mus tab laj ib pliag .
+Ua cas mus tau li 1 xuaj moo tsis los li ned , leej niam ces yeej paub tsim tsawv tias ntshai tsam lam yog caum hluas nraug lawm pob .....
+1 xuaj moo ntxiv thiab tsis pom los ces leej niam thiaj hus nrhiav hus rau tus hluas nraug nyob hauv zos no , Tub tag kis no Maiv puas tuaj tim koj naj ?
+Tub teb tias niam phauj nws tsis tuaj nawb ......
+leej niam tsis ntseeg thiaj tso nws tus ntxhais hlob hu rov rau ......
+Tub koj txhob dag - g nawb koj coj Maiv lawm puas yog ?
+No kuv tsis tau coj tiag - g hos ......
+yog li ces Maiv caum Maiv niag hluas nraug pem Sacramento lawm lauj .......
+koj cia li tsav luv tuaj tim peb tsev no ........
+Tub thiab tsav loo luv mus txog tim ......
+hais kiag rau niam tais hais tias niam phauj ...
+aw kuv hlub koj tus ntxhais tag nrog kuv lub siab , lub ntsws ua cas koj tsis hais Maiv es , koj ho tso Maiv mus caum hmoob lawm os .....
+Tub kuam muag los luaj ntsiav kws .....
+Tub ncia li ncia kua muag los tsis tus li .......
+niam tais cia hais tias koj tsav luv peb mus ntaus Maiv nawb .
+Nia tais 2 tug tub yeej tiav hluas , 1 tug ntxhais , niam tais thiab Tub lawv 5 leeg thiaj mus .......
+thaum yuav mus ces leej niam yeej hais yawm txiv tias thaub nawb yog hmoob tuaj thoob xo mas koj tsis yeem txais kuv yuav mus ntaus kom tau Maiv rov los .......
+lawv mus txog Sacramento .......
+ces tau 5 - 6 xuaj moo lawm ned .......
+lawv twb muab Maiv lwm qaib tag twb hu rau lawv cov kwv tij nyob hauv Fresno tuaj thoob xo .....
+tuaj txog ces yawm txiv hais tias cia kuv tus ntxhais hu los tag mas lawv mam pib hauj lwm .
+Niam tais mus ntsib tus ntxhais lawm .......
+thaum niam tais thiab Tub lawv mus txog ces Tub nyob tom luv xwb ......
+2 tug nus , niam tais thiab tus niam laus thiaj mus kiag hauv hmoob tsev mus cab Maiv tes tawm , Maiv tsis kam lawv 4 leeg Maiv ib leeg xwb .
+Maiv tus txiv ces tsuas hais tias Maiv kuv yeej yuav - v koj tiam sis koj niam lawv ua heev dhau lawm ces tsam lawv hu tas luaj tuaj ces ho muaj teeb meem .....
+nyob ntawm koj xwb nawb .....
+kuv pab koj ces koj niam lawv yeej ntaus tiag - g li ...
+lawv ib leeg ib rab qw tuav rawv ntawm tes ned .......
+Maiv cia li ua ib siab rov los tsev ......
+los txog tom kev lawv thiab hu rau yawm txiv tias lawv ntau tau Maiv lawm ......
+yawm txiv thiaj kom hmoob rov mus tsev ......
+los tsis ntev ces Maiv thiaj yuav Tub .......
+aub yaub .....
+nkawv twb muaj 6 - 7 tus me nyuam lawm los peb cov nyob sab nraum saib mas ......
+zoo li Maiv tshuav ib nplooj siab tsis npuab yij Tub li os ........
+yij Tub ua qhev npaum cas los zoo li Maiv yeej tsis hlub npauj li koj hais li os .......
+yog li koj mas yuam kev loj lawm lauj npawg Tubhmoob .........
+kuv saib koj cia li mus yuav kiag niam yau muab nws tso pov tseg kiag ........
+ua neeg nyob yog piav li koj piav ces koj yeej ua nws qhev kawg lawm nawb .......
+thaum luag tsis hlub koj lawm mas koj yim ua qhev luag yim ntxub koj ........
+kuv yeej pom ntau - au tus lawm .
 
 Tub Hmoob e ....
-Zoo li Phwv nyawm hais thiab los mas ... Thaum ysu tsis yog tus luag
-hlub , ... hauv luag lub siab tsis mpauj chaw rau yus nyob lawm
-ces ... tseev koj yuav Nkag hauv av mus nto saum ntuj .... nkag saum ntuj
-rov poob ntiaj teb los yeej tsis muaj qab hau rau luag lawm . Txhuav
-luag taw , nqa luag quav los yeej yog 0 tas mus li xwb .... Tej no , leej
-twg tsis tau dhau los , nws yuav tsis paub . Tiam sis nco ntsoov , heev
-neeg muaj heev neeg tsim . 1 Hnub twg , nws nco txog ces lig dhau ....
-Ua neeg mas , tej tug mas nws tsis tau txom nyem ces nws yeej tsis to
-taub li nawb .
-Tsam no , luag tsi hlub yus ces ysu yuav tau rov hlub ysu tus
-kheej ... cawm yus tus kheej xwb .
-Kuv pom 1 tug niag poj hmoob mas ... hub .... zoo li ntawd ntshai Huab
-Tais nqis saum ntuj lso hais tas lso yeej tsis haum tau .... tib tias
-tus txiv hlub ,.... tsis tuav tes ... Tuav tes tas los ... tshuav
-taw .... tuav taw tas los tshuav lus zoo ... lus zoo tas los hais tias dag
-xwb .... hais 9 lwm , 100 lwm hais zaj qub ..... NEEG TSIS MUAJ QAB HAU ....
-nws ho yuav nrauj ... tus txiv ho ok nrauj ... nws ho mus tsis taus
-thiab ..... tus neeg no , yib vim luag zoo au nws dhau , nws tsis paub kev
-txom nyem ... nws thiaj phem li no .... mam ntsia saib ov ...
+
+Zoo li Phwv nyawm hais thiab los mas ...
+Thaum ysu tsis yog tus luag hlub ,...
+hauv luag lub siab tsis mpauj chaw rau yus nyob lawm ces ...
+tseev koj yuav Nkag hauv av mus nto saum ntuj ....
+nkag saum ntuj rov poob ntiaj teb los yeej tsis muaj qab hau rau luag lawm .
+Txhuav luag taw , nqa luag quav los yeej yog 0 tas mus li xwb ....
+Tej no , leej twg tsis tau dhau los , nws yuav tsis paub .
+Tiam sis nco ntsoov , heev neeg muaj heev neeg tsim .
+1 Hnub twg , nws nco txog ces lig dhau ....
+
+Ua neeg mas , tej tug mas nws tsis tau txom nyem ces nws yeej tsis to taub li nawb .
+
+Tsam no , luag tsi hlub yus ces ysu yuav tau rov hlub ysu tus kheej ...
+cawm yus tus kheej xwb .
+
+Kuv pom 1 tug niag poj hmoob mas ...
+hub ....
+zoo li ntawd ntshai Huab Tais nqis saum ntuj lso hais tas lso yeej tsis haum tau ....
+tib tias tus txiv hlub ,....
+tsis tuav tes ...
+Tuav tes tas los ...
+tshuav taw ....
+tuav taw tas los tshuav lus zoo ...
+lus zoo tas los hais tias dag xwb ....
+hais 9 lwm , 100 lwm hais zaj qub .....
+NEEG TSIS MUAJ QAB HAU ....
+
+nws ho yuav nrauj ...
+tus txiv ho ok nrauj ...
+nws ho mus tsis taus thiab .....
+tus neeg no , yib vim luag zoo au nws dhau , nws tsis paub kev txom nyem ...
+nws thiaj phem li no ....
+mam ntsia saib ov ...
+
 ua siab os ....
 
 Tijlaug Phwv laiv ......
-mloog mus mloog los koj has yog tsawv lawm nawb .  peb cov pojniam no
-mas chim chim taus kawg li tiag laiv .  thiab peb se kheev kheev hloov
-siab li ov .  Ib me ntsi haistias yuav yuav yam no thaum yuav tau lawm
-ho haistias yuav yuav yam us .  Qhov no mas nej tsis paub os ..... peb
-pojniam mas peb ib kes xav ib ke hais mas thaum peb hais ntawd tsis
-tau txhai haistias yog peb kev txiav txim siab no laiv ..... qhov ntawd
-yog peb kev " think out loud " xwb nawb .  Ces thaum peb ua li ces nej
-thiaj xav tias " yes " yog " no " hos " no " yog " yes " li Ya hais ne .
-Hias txog pojniam lub siab txoj kev xav mas yog tus txiv nquag nquag
-thiab pab pab yus mas yus yeiej nyiam thiab hlub nws tshaj nawb .  Peb
-cov pojniam no mas peb tsis nyiam cov txiv tubnkeeg kiag nawb .  Nej
-cov txiv los yeej tib yam li thiab .  Yog tus txiv twg tau ib tus niam
-tubnkeeg lawm ces lub neej yeej yuav poob qab li hos pojniam los yog
-tau ib tus txiv tubnkeeg lawm ces nws yeej yuav sab li os mog .
-Qhov zoo tshaj ces yog ob leej txawj sib pauj kev hlub li uas koj hais
-xwb .  Yog nyias paub paub nyias cai lawm ces yeej yuav tsi yuav
-leejtwg tuaj hais hais los qhia qhia yus ua neej li os lawv es .
+
+mloog mus mloog los koj has yog tsawv lawm nawb .
+peb cov pojniam no mas chim chim taus kawg li tiag laiv .
+thiab peb se kheev kheev hloov siab li ov .
+Ib me ntsi haistias yuav yuav yam no thaum yuav tau lawm ho haistias yuav yuav yam us .
+Qhov no mas nej tsis paub os .....
+peb pojniam mas peb ib kes xav ib ke hais mas thaum peb hais ntawd tsis tau txhai haistias yog peb kev txiav txim siab no laiv .....
+qhov ntawd yog peb kev " think out loud " xwb nawb .
+Ces thaum peb ua li ces nej thiaj xav tias " yes " yog " no " hos " no " yog " yes " li Ya hais ne .
+
+Hias txog pojniam lub siab txoj kev xav mas yog tus txiv nquag nquag thiab pab pab yus mas yus yeiej nyiam thiab hlub nws tshaj nawb .
+Peb cov pojniam no mas peb tsis nyiam cov txiv tubnkeeg kiag nawb .
+Nej cov txiv los yeej tib yam li thiab .
+Yog tus txiv twg tau ib tus niam tubnkeeg lawm ces lub neej yeej yuav poob qab li hos pojniam los yog tau ib tus txiv tubnkeeg lawm ces nws yeej yuav sab li os mog .
+
+Qhov zoo tshaj ces yog ob leej txawj sib pauj kev hlub li uas koj hais xwb .
+Yog nyias paub paub nyias cai lawm ces yeej yuav tsi yuav leejtwg tuaj hais hais los qhia qhia yus ua neej li os lawv es .
+
 Tub Hmoob es .....
-Hais txog ntawm kev hlub ces zoo li no nawb .  Women will give sex for
-love and men will give love for sex .  Lub ntsiab lus ces yog li xwb
-tsis muaj ab tsi ntau tshaj li ntawd lawm os .  Kuv paub lawm los mas
-nej cov txivneej ntawd nej ces .... yog thaum twg leejtwg cccccomplain
-haistias pojniam tsis hlub lawm no ces twb yog tus me nplig seev seev
-rau tim nplog tim thaib lawm xwb ntag .  Xav kom nws tso cais rau yus
-mus yuav niam yau tes thiaj yog hlub xwb puas yog ..... hehehe ....
+
+Hais txog ntawm kev hlub ces zoo li no nawb .
+Women will give sex for love and men will give love for sex .
+Lub ntsiab lus ces yog li xwb tsis muaj ab tsi ntau tshaj li ntawd lawm os .
+Kuv paub lawm los mas nej cov txivneej ntawd nej ces ....
+yog thaum twg leejtwg cccccomplain haistias pojniam tsis hlub lawm no ces twb yog tus me nplig seev seev rau tim nplog tim thaib lawm xwb ntag .
+Xav kom nws tso cais rau yus mus yuav niam yau tes thiaj yog hlub xwb puas yog .....
+hehehe ....

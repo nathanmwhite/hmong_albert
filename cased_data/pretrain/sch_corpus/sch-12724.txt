@@ -1,11 +1,26 @@
 hmoob lo lus uas qhia yam muaj peev xwm ntawm ib tug neeg yuav siv ob lo lus no lo twg thiaj yog ?
-#1 rab peev xwm
-#2 tsab peev xwm
-qhov kuv nug mas vim tej zaum hnov lo #1 tej zaum ho hnov lo #2 kuv thiaj xav paub tias lo twg thiaj yog lo lus hmoob tiag2 ne ? tsam no kuv tsis paub zoo no ces kuv mam muab ib lo #3 ntxiv tias #3 PEEV XWM lo #3 no mas zoo li ncaj dua lawm . muaj tswv8 no ces ntxiv lo #4 #5 mus ntxiv .
 
-" rab " mas siv rau tej niag twj uas " ntev " loo .. xws li " rab qau "... rab rag , etc ...
-yog mej tsi nkaag sab tes , consider this ..." tus lauv nyuj "... or " tus txiv tshis .." or " tus poj dev .."  cov lus no tsi thwj tag lawm ..." rab peevxwm " los tsi thwj tibyam thiab .
-as for " tsab " for " tsab riam "... haj yam phiv loj ... it only works for " tsab ntawv " or " tsab peevxwm "...
-yh
+#1 rab peev xwm #2 tsab peev xwm qhov kuv nug mas vim tej zaum hnov lo #1 tej zaum ho hnov lo #2 kuv thiaj xav paub tias lo twg thiaj yog lo lus hmoob tiag2 ne ?
+tsam no kuv tsis paub zoo no ces kuv mam muab ib lo #3 ntxiv tias #3 PEEV XWM lo #3 no mas zoo li ncaj dua lawm .
+muaj tswv8 no ces ntxiv lo #4 #5 mus ntxiv .
 
-txawm yog lus hmoob lem 2 li ko ntag lau . tus nyuj m as yog heev los phaw nyuj ov tus tshis mev es mas yog laug no lawm ov . nyuj mas yog nyuj . yog nyuj cov nqaij mas ho yog nyug tuaj lawm thiab no laiv , ntaj mas ntaj ov yog ib no ces ho ntag tuaj lawm thiab tiag . yog cim siab thiab cim ntuj ua ntej rau thawj lo lawm no ces lo ob raug muab lem kom yog cim neeg tuaj lawm  ntsis sub .
+" rab " mas siv rau tej niag twj uas " ntev " loo ..
+xws li " rab qau "...
+rab rag , etc ...
+
+yog mej tsi nkaag sab tes , consider this ..."
+tus lauv nyuj "...
+or " tus txiv tshis .."
+or " tus poj dev .."
+cov lus no tsi thwj tag lawm ..."
+rab peevxwm " los tsi thwj tibyam thiab .
+
+as for " tsab " for " tsab riam "...
+haj yam phiv loj ...
+it only works for " tsab ntawv " or " tsab peevxwm "...
+
+yh txawm yog lus hmoob lem 2 li ko ntag lau .
+tus nyuj m as yog heev los phaw nyuj ov tus tshis mev es mas yog laug no lawm ov .
+nyuj mas yog nyuj .
+yog nyuj cov nqaij mas ho yog nyug tuaj lawm thiab no laiv , ntaj mas ntaj ov yog ib no ces ho ntag tuaj lawm thiab tiag .
+yog cim siab thiab cim ntuj ua ntej rau thawj lo lawm no ces lo ob raug muab lem kom yog cim neeg tuaj lawm ntsis sub .

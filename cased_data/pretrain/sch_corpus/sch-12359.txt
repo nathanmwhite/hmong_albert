@@ -1,50 +1,201 @@
-sawv daws vwm mloog saub piav los yog li cas na ? saub tias muaj tus yuav los vaum hmoob kom kaj tsij sawv los teev lub ntuj thiab qw lub teb . nej mus qw qw txog thaum kawg lawv coj tub rog thiab dav hlau tuaj hais xwb ces sawv daws ntog pawg lug xwb ne . thaum nyuam qhuav pib kuv twb pom tus puav sau tias yuav muaj tus los cawm lawv yog txog tiaj qhawv zeb . tsam no tuag los tuag lawm coob . cov lawv ntev tau los coj mus kaw tas lawm yuav muaj leej twg cawm tau lawv li na ? tus saub thaum  i piav muaj ceem tias prb tsis paub txog tiaj rawv zeb thiab tsis paub 999 xyoo tom ntej . TSAM NO KUV LEES TIAS PEB MENYUAM NEEG NTIAJ TEEB CES TSIS POM TSIS PAUB TOM NTEJ LI OS . TSIS HAIS NTEV LI OS 5 SECONDS TOM NTEJ XWB TWB TSIS PAUB .
-NAG HMOB ELECTRICAL OUT THAJ TSAM NTAWM KUV TSEV NO OB/PEB ZAUG . YOG KUV PAUB 5 SECONDS UA NTEJ CES KUV TWB TURN OFF KUV LUB SYSTEM NO UA NTEJ POWER YUAV GO OUT LAWM VIM YOG KUV TSEEM SIV SIV TXOG NRAB POWER OUT LAWM NO CES TSAM KUV TSEEM PLAY GAME NTAU MONTER TXOG NRAB SYSTEM GOES DOWN CES TEEB MEEM RAU NIAG CHARACTER THIAB COV PARTY MEMBERS TIB SI YOG KUV TSIS NROG LAWV PLAY TO TANK THE MONSTER . ZOO QHOV PEB GROUP MUAJ IB NYUAG DRUID . NWS TRANFORM MUS YOG BEAR LOS TANK LI 1 - 2 MINUTES THAUM KUV LUB SYSTEM DOWN . KUV MAM ROV MUS CONNECT TAU IN TIME NIAG DRUID TWB YUAV GIVEUP VIM HEALER HEAL TSIS YEEJ VIM NWS MAG DAMAGE SAI THIAB NTAU DUA IB TUG CHARACTER UAS YEEJ DESIGN PUAG THAUM PIB LOS TANK NROG ARMOR THIAB EVASION +TAUNT SKILL KOM MONSTER TXHOB MUS BOTHER COV HEALER THIAB DPS . OOPS . TOO MUCH WOW .
+sawv daws vwm mloog saub piav los yog li cas na ?
+saub tias muaj tus yuav los vaum hmoob kom kaj tsij sawv los teev lub ntuj thiab qw lub teb .
+nej mus qw qw txog thaum kawg lawv coj tub rog thiab dav hlau tuaj hais xwb ces sawv daws ntog pawg lug xwb ne .
+thaum nyuam qhuav pib kuv twb pom tus puav sau tias yuav muaj tus los cawm lawv yog txog tiaj qhawv zeb .
+tsam no tuag los tuag lawm coob .
+cov lawv ntev tau los coj mus kaw tas lawm yuav muaj leej twg cawm tau lawv li na ?
+tus saub thaum i piav muaj ceem tias prb tsis paub txog tiaj rawv zeb thiab tsis paub 999 xyoo tom ntej .
+TSAM NO KUV LEES TIAS PEB MENYUAM NEEG NTIAJ TEEB CES TSIS POM TSIS PAUB TOM NTEJ LI OS .
+TSIS HAIS NTEV LI OS 5 SECONDS TOM NTEJ XWB TWB TSIS PAUB .
 
-yog tus saub qhia lawv kom lawv sawv los qw qw no twb tsis nrog lawv nyob ua ke ua cas lawv tseem ntseeg mus qw thiab na ? thaum ua caub fab twb muaj ib tug saub muab riam mus txiav thiab txua tau ib tug pas ntoo . nws tias nws paub qhov twg muaj nplej muaj txhuv pem caub fab mas neeg tshab plaj tsis muaj mov noj . tsis hais kom yog mov li os yog tau qos los yog txhoob ces twb zoo kawg lawm sawv daws pab muaj siab rau niag saub kawg . sau taw niag pas rau pem tej lub tshua . hmoob mas mus tej pab mus nrhiav pem tsuas qhov txhia chaw txhua nrho los pawv du lug tsis pom nplej los yog txhuv . tom qab no hmoob nkees saub yuav taw pas li cas los hmoob tsis mus saib li lawm .
+NAG HMOB ELECTRICAL OUT THAJ TSAM NTAWM KUV TSEV NO OB/PEB ZAUG .
+YOG KUV PAUB 5 SECONDS UA NTEJ CES KUV TWB TURN OFF KUV LUB SYSTEM NO UA NTEJ POWER YUAV GO OUT LAWM VIM YOG KUV TSEEM SIV SIV TXOG NRAB POWER OUT LAWM NO CES TSAM KUV TSEEM PLAY GAME NTAU MONTER TXOG NRAB SYSTEM GOES DOWN CES TEEB MEEM RAU NIAG CHARACTER THIAB COV PARTY MEMBERS TIB SI YOG KUV TSIS NROG LAWV PLAY TO TANK THE MONSTER .
+ZOO QHOV PEB GROUP MUAJ IB NYUAG DRUID .
+NWS TRANFORM MUS YOG BEAR LOS TANK LI 1 - 2 MINUTES THAUM KUV LUB SYSTEM DOWN .
+KUV MAM ROV MUS CONNECT TAU IN TIME NIAG DRUID TWB YUAV GIVEUP VIM HEALER HEAL TSIS YEEJ VIM NWS MAG DAMAGE SAI THIAB NTAU DUA IB TUG CHARACTER UAS YEEJ DESIGN PUAG THAUM PIB LOS TANK NROG ARMOR THIAB EVASION +TAUNT SKILL KOM MONSTER TXHOB MUS BOTHER COV HEALER THIAB DPS .
+OOPS .
+TOO MUCH WOW .
+
+yog tus saub qhia lawv kom lawv sawv los qw qw no twb tsis nrog lawv nyob ua ke ua cas lawv tseem ntseeg mus qw thiab na ?
+thaum ua caub fab twb muaj ib tug saub muab riam mus txiav thiab txua tau ib tug pas ntoo .
+nws tias nws paub qhov twg muaj nplej muaj txhuv pem caub fab mas neeg tshab plaj tsis muaj mov noj .
+tsis hais kom yog mov li os yog tau qos los yog txhoob ces twb zoo kawg lawm sawv daws pab muaj siab rau niag saub kawg .
+sau taw niag pas rau pem tej lub tshua .
+hmoob mas mus tej pab mus nrhiav pem tsuas qhov txhia chaw txhua nrho los pawv du lug tsis pom nplej los yog txhuv .
+tom qab no hmoob nkees saub yuav taw pas li cas los hmoob tsis mus saib li lawm .
+
 tus saub twg yog tus qhia hmoob mus tej yam yuam kev rhuav li ntawd ces kaj tsij qhia sawv daws paub kom tseeb thiab ceev faj zoo xwb mas lwm zaus yog nw2s qhia tej yam tsis txhom cai tsim nyog ua mam ua yog nws qhia tej yam ua yuav txhaum cai ces kom sawv daws txhob nkim sij hawm mus ua li nws hais xwb mas .
 
-Dan Chang ,
-Koj sim pav ntxiv kuas ib nyuas ntxaws zog suab .. Tug yawm Saub nraag
-Ausie ho tuaj moog ncig txug Vietnam hab lov ?
-nqq
+Dan Chang , Koj sim pav ntxiv kuas ib nyuas ntxaws zog suab ..
+Tug yawm Saub nraag Ausie ho tuaj moog ncig txug Vietnam hab lov ?
 
-nws lub hlwb vwm ua rau nws hnov lus uas lwm tus tsis hnov . txawm yog ib pab neeg nyob pawg lug ua ke los sawv daws tsis hnov yam tsav tsi hos hom neeg puas hlwb li no mas hnov neeg qhia ub qhia no rau nws . muaj tej yam nws hnov kuj yog muaj tseeb ces neeg sawv daws thiaj tias nws yog saub lawm . muaj tej yam uas tsis tseeb li thiaj ua rau neeg tuag li tej zaum no nyob vietnam . qhov niag yus nyob nyob cia li hnov neeg nrog yus tham tej ntawd ces vwm xwb os . ib txhia ntawm cov txawj neeb mas lawv hnov hnov lus li ntawd thiab ntag ov . yus nrog nws zaum ua ke ib lub sofa kiag los yus tsis hnov hos tus yuav hnov mas nws hnov lus tham nrov ntxe ntws li tus hais lus nrog yuus nyob ua ke hau ib chav tsev ntag . muaj tej  lub sij hawm mas tus hnov hnov lus tseem pom tej yam lwm tus tsis pom thiab . tus neeg ntawd yus nrog lawv tham mas tsis tas hais lus nrov nrovb li nrog yus tham li os . nws xav hauv nws lub siab xwb ces lawv twb hnov lawm .
-yav thaum ub kuv tsis ntseeg tej yam tsis pom  tsis hnov los ntawm cov neeg sawv daws nyob zaum ua ke tabsis muaj ib tug ntaswm lawv pab ntawd ho hnov thiab pom . kuv xav tias tsis lam muaj li no ov . tabsis tom qab los no kuv mam ntsib thiaj paub tias . wow !!!! muaj tej yam li ntawd sav . tabsis yog neeg lub hlwb vwm rov vwm rau neeg mas thiaj ntseeg . lawv vwm lawv piav qhia yus tsis txaus ntseeg tabsis yog yus vwm yus lub hlwb rov vwm rau yus masd txaus ntseeg kawg li tiag .
+nqq nws lub hlwb vwm ua rau nws hnov lus uas lwm tus tsis hnov .
+txawm yog ib pab neeg nyob pawg lug ua ke los sawv daws tsis hnov yam tsav tsi hos hom neeg puas hlwb li no mas hnov neeg qhia ub qhia no rau nws .
+muaj tej yam nws hnov kuj yog muaj tseeb ces neeg sawv daws thiaj tias nws yog saub lawm .
+muaj tej yam uas tsis tseeb li thiaj ua rau neeg tuag li tej zaum no nyob vietnam .
+qhov niag yus nyob nyob cia li hnov neeg nrog yus tham tej ntawd ces vwm xwb os .
+ib txhia ntawm cov txawj neeb mas lawv hnov hnov lus li ntawd thiab ntag ov .
+yus nrog nws zaum ua ke ib lub sofa kiag los yus tsis hnov hos tus yuav hnov mas nws hnov lus tham nrov ntxe ntws li tus hais lus nrog yuus nyob ua ke hau ib chav tsev ntag .
+muaj tej lub sij hawm mas tus hnov hnov lus tseem pom tej yam lwm tus tsis pom thiab .
+tus neeg ntawd yus nrog lawv tham mas tsis tas hais lus nrov nrovb li nrog yus tham li os .
+nws xav hauv nws lub siab xwb ces lawv twb hnov lawm .
 
-idonotknow ,
-Koj hais li ntawd es koj tus kheej yeej ntsib thiab hnov dua los lawm
-lov ? Koj sim ho tham koj li rau peb mloog seb ?
-Cov neeg uas hnov tej lus uas neeg feem coob tsi hnov thiab pom tej
-yam uas neeg feem coob tsi pom ces luag cov neeg sab hnub poob hais
-tias yog Schizophrenia ( spelling ) no naw .... Tab sis peb Hmoob mas
-hais tias lawv yog Saub no laiv , puas yog ?
-nqq
+yav thaum ub kuv tsis ntseeg tej yam tsis pom tsis hnov los ntawm cov neeg sawv daws nyob zaum ua ke tabsis muaj ib tug ntaswm lawv pab ntawd ho hnov thiab pom .
+kuv xav tias tsis lam muaj li no ov .
+tabsis tom qab los no kuv mam ntsib thiaj paub tias .
+wow !!!!
+muaj tej yam li ntawd sav .
+tabsis yog neeg lub hlwb vwm rov vwm rau neeg mas thiaj ntseeg .
+lawv vwm lawv piav qhia yus tsis txaus ntseeg tabsis yog yus vwm yus lub hlwb rov vwm rau yus masd txaus ntseeg kawg li tiag .
 
-yuav yog saub los yog neeb nyob ntawm yam nws hnov thiab pom . ib co yuav txawj neeb mas muaj mob txaus txaus lwm tus txiv neeb mam saib paub /pom ces mam kho thaj kho twj rau tus neeg mob ntawd ua neeb mus ces tus moob cia li zoo mus lawm . muaj ib txhia yuav ua neeb mas nws vwm . hnov neeg nrog nws thamn tabsis lwm tus tsis hnov lawm . hom hnov hnov li no los kuj muaj feem txawj neeb thiab . hos saub los txhawj hnov hnov li no thaum xub thawj . tom qab no paub politic ces yog saub lawm . tus hnov hnov nws ho paub saib mob nkeeg lawm ces yog neeb .
-ntawm kuv tus kheej mas kuv hnov thiab pom dua lawm mas . thiaj paub piav rau nej nyeem . tsis paub thaum kawg yuav mus seem twg tabsis thaum kuv hnov mas cov los tham tias yog neeb no ov . tabsis lawv paub kasmoos kawg li thiab . xyov lub neej tom ntej yuav kaj los yuav tsaus . in reality thaum kuv lub hlwb tseem nyob tus tus tsis tau vwm mas xav tias xyov ib ntsis yuav no los yuav sov tuaj . tabsis thaum kuv vwm tuaj mas kuv lub siab lub hlwb nws paub nws hais nws lus ntau ntau . cov kid tsuas t ias daddy you talk too much no xwb . kuv mas tsis paub tabsis lawv los qhia mas lawv loj xov paub kuv zoo zoo los lawm ntau caum tiam . lawv tias lawv yog phiaj neeb nrog kuv puag thaum ntuj tsim teb raug los lawm . kuv mas twb muaj coob tus txiv neeb saib kuv los lawm tias kuv mas yuav tsis txawj ua neeb vim kuv yeej tsis muaj tej yamn uas tus neeg txawj neeb muaj . thaum lawv los nrog kuv tham li 4 lub hlis dhau los mas kuv nug tias . kuv tsev neeg twb ua neeb saib kuv los lawm ntau thaj neeb lawv tias kuv tsis txawj neeb no ne ua cas nej ho tias nej yog kuv phiaj neeb no mas . nkawv piav tias . lawv cov ua neeb mas lawv hais yog vyim tias peb yog phiAj neeb mas peb paub lawv saib li cas lawm qhov lawv tias koj tsis txawj neeb no mas vim peb tsis nrog koj los lawm 4 tiam los rau tiam no lawm . ntev ntev heevlawm ces koj lub cev thiab tus ntsuj yeej tsis tshuav ib yam yuav ua rau lwm tus txiv neeb paub tias koj yuav txawj neeb tau . nkawv los piav tias vim li cas 4 tiam tas los lawv thiabv kuv ho tsis tau ua ke lawm . lawv tias vim kuv . vim kuv muab kuv lub tswb neeb rau kuv poj niam coj tom qab kuv ua neeb saib nws tas . hmoov tsis muaj kuv tus poj niam nyob tsis tau ntiaj teb nws tuag mus cov neeb los nrog nws mus lawm . 4 tiam neej tas los mas cov neeb thiaj nrog kuv tus poj niam ntawd lawm xwb hos kuv xes thiaj tsis muaj me me neeb record li lawm .
-ib yam txawv txawv kawg ua we normal human do not have it . ntawm kuv mas tsis yog every time BUT just sometime kuv txiv yuav mus ua ib thaj neeb loj saib los yog kho ib tug neeg mas kuv yeej hnov thiab pom nryab dab ntub ua ntej li 2/3 hnub lawm . yam no los tsis tswm sim txhua zos li tsuas yog nyob nyob muaj ib zaug xwb . ntawn kuv txiv lawv ces neeb mas muaj tej zaqum tus mob mob heev thiab ntev lawm no mas yuav tau mus caum tus plig lawm dab tuag teb . thaj no yog ib thaj nyav kawg uas yog cov saib paub tsis tseeb mas tus txiv neeb ua neeb mus dab tuag teb ces nws cia li ib feeb rov los li ntag . muaj ntau zaus uas yog kuv txiv yuav mus ua ib thaj neeb uas ntsuj plig xuas kab lawm txoj keb ntawd lawm mas kuv pom kuv yxiv tij xib fwb uas yog kuv yawg los qhia kuv li 2/3 hmos ua ntej . vim kuv txiv wb nyias nyob nyias tsev . hnub puav kuv mam ntsib kuv txiv ib zaug . kuv mam nug tias txiv koj puas tau mus ua neeb twg na ? kuv txiv mam tias hnub i tom hmoob tsev kuv mus ua ib thaj . kuv tias kuv tsis tau mus saib koj ua neeb tom hmoob tsev tabsis kuv vwm pom mas koj ua thaj neeb nyhav nyhav ntawm peb ces neeb no . txiv tias . xyov koj pom koj yam tsdav tsi li os tabsis kuv mus ua neeb . txheeb lawv ntsuj plig los saib . neeb qhia kuv tias lawv ntsuj plig mus sab ntuj tsaus dua puag dabtuag ntuj lawm ces kuv t5 au ua neeb mus raws cov plig rov los saum yaj dua mas . dhau ntawd ces wb tham personal lawm xwb .
-yav saum kuv piav kev neeb thiab kuv personal experience rau txoj kev vwm xwb . TABSIS cov los nrog kuv tham mas los sis paub kasmoos zoo kawg li thiab mas . lawv piav tias sai sai no hmoob yuav tsim tau ib daim av . hmoob yuav rov muaj ciam dej ciam av . lawv piav raws li hmoob kaw kabxev hais txog saub ntsuab xwm . nws hais tiasd hmoob yuav ua ob pab mus muab daim av nplog . thaum kawg yuav los xaus tiaj rawv zeb li lawv piav kabxev .
+idonotknow , Koj hais li ntawd es koj tus kheej yeej ntsib thiab hnov dua los lawm lov ?
+Koj sim ho tham koj li rau peb mloog seb ?
+
+Cov neeg uas hnov tej lus uas neeg feem coob tsi hnov thiab pom tej yam uas neeg feem coob tsi pom ces luag cov neeg sab hnub poob hais tias yog Schizophrenia ( spelling ) no naw ....
+Tab sis peb Hmoob mas hais tias lawv yog Saub no laiv , puas yog ?
+
+nqq yuav yog saub los yog neeb nyob ntawm yam nws hnov thiab pom .
+ib co yuav txawj neeb mas muaj mob txaus txaus lwm tus txiv neeb mam saib paub /pom ces mam kho thaj kho twj rau tus neeg mob ntawd ua neeb mus ces tus moob cia li zoo mus lawm .
+muaj ib txhia yuav ua neeb mas nws vwm .
+hnov neeg nrog nws thamn tabsis lwm tus tsis hnov lawm .
+hom hnov hnov li no los kuj muaj feem txawj neeb thiab .
+hos saub los txhawj hnov hnov li no thaum xub thawj .
+tom qab no paub politic ces yog saub lawm .
+tus hnov hnov nws ho paub saib mob nkeeg lawm ces yog neeb .
+
+ntawm kuv tus kheej mas kuv hnov thiab pom dua lawm mas .
+thiaj paub piav rau nej nyeem .
+tsis paub thaum kawg yuav mus seem twg tabsis thaum kuv hnov mas cov los tham tias yog neeb no ov .
+tabsis lawv paub kasmoos kawg li thiab .
+xyov lub neej tom ntej yuav kaj los yuav tsaus .
+in reality thaum kuv lub hlwb tseem nyob tus tus tsis tau vwm mas xav tias xyov ib ntsis yuav no los yuav sov tuaj .
+tabsis thaum kuv vwm tuaj mas kuv lub siab lub hlwb nws paub nws hais nws lus ntau ntau .
+cov kid tsuas tias daddy you talk too much no xwb .
+kuv mas tsis paub tabsis lawv los qhia mas lawv loj xov paub kuv zoo zoo los lawm ntau caum tiam .
+lawv tias lawv yog phiaj neeb nrog kuv puag thaum ntuj tsim teb raug los lawm .
+kuv mas twb muaj coob tus txiv neeb saib kuv los lawm tias kuv mas yuav tsis txawj ua neeb vim kuv yeej tsis muaj tej yamn uas tus neeg txawj neeb muaj .
+thaum lawv los nrog kuv tham li 4 lub hlis dhau los mas kuv nug tias .
+kuv tsev neeg twb ua neeb saib kuv los lawm ntau thaj neeb lawv tias kuv tsis txawj neeb no ne ua cas nej ho tias nej yog kuv phiaj neeb no mas .
+nkawv piav tias .
+lawv cov ua neeb mas lawv hais yog vyim tias peb yog phiAj neeb mas peb paub lawv saib li cas lawm qhov lawv tias koj tsis txawj neeb no mas vim peb tsis nrog koj los lawm 4 tiam los rau tiam no lawm .
+ntev ntev heevlawm ces koj lub cev thiab tus ntsuj yeej tsis tshuav ib yam yuav ua rau lwm tus txiv neeb paub tias koj yuav txawj neeb tau .
+nkawv los piav tias vim li cas 4 tiam tas los lawv thiabv kuv ho tsis tau ua ke lawm .
+lawv tias vim kuv .
+vim kuv muab kuv lub tswb neeb rau kuv poj niam coj tom qab kuv ua neeb saib nws tas .
+hmoov tsis muaj kuv tus poj niam nyob tsis tau ntiaj teb nws tuag mus cov neeb los nrog nws mus lawm .
+4 tiam neej tas los mas cov neeb thiaj nrog kuv tus poj niam ntawd lawm xwb hos kuv xes thiaj tsis muaj me me neeb record li lawm .
+
+ib yam txawv txawv kawg ua we normal human do not have it .
+ntawm kuv mas tsis yog every time BUT just sometime kuv txiv yuav mus ua ib thaj neeb loj saib los yog kho ib tug neeg mas kuv yeej hnov thiab pom nryab dab ntub ua ntej li 2/3 hnub lawm .
+yam no los tsis tswm sim txhua zos li tsuas yog nyob nyob muaj ib zaug xwb .
+ntawn kuv txiv lawv ces neeb mas muaj tej zaqum tus mob mob heev thiab ntev lawm no mas yuav tau mus caum tus plig lawm dab tuag teb .
+thaj no yog ib thaj nyav kawg uas yog cov saib paub tsis tseeb mas tus txiv neeb ua neeb mus dab tuag teb ces nws cia li ib feeb rov los li ntag .
+muaj ntau zaus uas yog kuv txiv yuav mus ua ib thaj neeb uas ntsuj plig xuas kab lawm txoj keb ntawd lawm mas kuv pom kuv yxiv tij xib fwb uas yog kuv yawg los qhia kuv li 2/3 hmos ua ntej .
+vim kuv txiv wb nyias nyob nyias tsev .
+hnub puav kuv mam ntsib kuv txiv ib zaug .
+kuv mam nug tias txiv koj puas tau mus ua neeb twg na ?
+kuv txiv mam tias hnub i tom hmoob tsev kuv mus ua ib thaj .
+kuv tias kuv tsis tau mus saib koj ua neeb tom hmoob tsev tabsis kuv vwm pom mas koj ua thaj neeb nyhav nyhav ntawm peb ces neeb no .
+txiv tias .
+xyov koj pom koj yam tsdav tsi li os tabsis kuv mus ua neeb .
+txheeb lawv ntsuj plig los saib .
+neeb qhia kuv tias lawv ntsuj plig mus sab ntuj tsaus dua puag dabtuag ntuj lawm ces kuv t5 au ua neeb mus raws cov plig rov los saum yaj dua mas .
+dhau ntawd ces wb tham personal lawm xwb .
+
+yav saum kuv piav kev neeb thiab kuv personal experience rau txoj kev vwm xwb .
+TABSIS cov los nrog kuv tham mas los sis paub kasmoos zoo kawg li thiab mas .
+lawv piav tias sai sai no hmoob yuav tsim tau ib daim av .
+hmoob yuav rov muaj ciam dej ciam av .
+lawv piav raws li hmoob kaw kabxev hais txog saub ntsuab xwm .
+nws hais tiasd hmoob yuav ua ob pab mus muab daim av nplog .
+thaum kawg yuav los xaus tiaj rawv zeb li lawv piav kabxev .
+
 TOM QAB NTAU TXHIAB XYOO UAS HMOOB TAWG TEB CHAWS PEM TUAM TSHOJ LOS LAWM HMOOB YUAV ROV SAWV TAU LOS TSHEEJ IB HAIV NEEG SAI SAI NO RAWS LI LAWV LOS HAIS .
+
 LAWV LOS PIAV KEV VWM RAU KUV HNOV XWB TSIS MUAJ LWM TUS NROG KUV HNOV NEJ TXHOB NTSEEG KUV OV .
-THAUM KUV VWM MAS KUV PAUB TEWJ YAM TSIS MUAJ NEEG PAUB . MUAB PIAV TEJ KEV VWM MUS LOS IB TSAM MAM MUAB PIV RAU LUB NEEJ KUV PAUB IN REALITY UA CAS HOV MUAB TSEEB TSEEB LI NTAWD TIAG THIAB NO NA . TSIS HAIS LWM TUS KUV TUS KHEEJ KIAG XWB IB TSAMN KUV TWB ROV AMAZE RAU TEJ YAM LAWV PIAV QHIA KUV LAWM . LAWV COV LOS NROG KUV THAM NO MAS PAUB TSEEB KAWG LAWV PIAV TXOG THAUM PEB UA CAUB FAB . LAWV PIAV TXOG THAUM PEB LOS NYOB VIBNAIS . LAWV PIAV TAS KUV ROV HAIS RAU KUV TIAS VUAG UA CAS YAV PAUB CUAG LAWV NYOB NRAIM NROG KUV UA KE LI NE . KUV NUG LAWV TIAD CAS LAWV PAUB TEJ NTAWD ZOO UA LUAJ . LAWV TIAS PEB HAM TSIS NYOB NRAIM NTAWD THAUM TEJ NTAWD TSHWM SIM LOS MAS .
-WOW PIAV NTAU KAWG LAWM . HO YUAV MUS NYEEM NEJ COV LAU .
 
-Koj tsis txhob txawjx piav nawj ... ib tsam tos paub xwb lawv twb coj
-koj mus loj rau tom tsev khomob Psychiatrist lawm os yawg !!
-Yog yuav hais li Hmoob piav ces Carl Gustav Jung - yawg Swiss
-psychiatrist - yog tawv - dawb thawj tus saub ntag . Cov neeg tawv - dawb
-tseem hais tias tejzaum Carl Jung tseem yuav yog thawj tus txiv neeb
-thiab vim yawg yeej muaj ib tug  neeg zoo li " leej - nkaub " yeej nrog
-nraim nws , thiab qhia nws ntau yam ... li tej koj piav txog .
-http ://en . wikipedia . org/wiki/Carl_Jung
-Interesting .... Well ... over to Her Lao to continue ....
-du
+THAUM KUV VWM MAS KUV PAUB TEWJ YAM TSIS MUAJ NEEG PAUB .
+MUAB PIAV TEJ KEV VWM MUS LOS IB TSAM MAM MUAB PIV RAU LUB NEEJ KUV PAUB IN REALITY UA CAS HOV MUAB TSEEB TSEEB LI NTAWD TIAG THIAB NO NA .
+TSIS HAIS LWM TUS KUV TUS KHEEJ KIAG XWB IB TSAMN KUV TWB ROV AMAZE RAU TEJ YAM LAWV PIAV QHIA KUV LAWM .
+LAWV COV LOS NROG KUV THAM NO MAS PAUB TSEEB KAWG LAWV PIAV TXOG THAUM PEB UA CAUB FAB .
+LAWV PIAV TXOG THAUM PEB LOS NYOB VIBNAIS .
+LAWV PIAV TAS KUV ROV HAIS RAU KUV TIAS VUAG UA CAS YAV PAUB CUAG LAWV NYOB NRAIM NROG KUV UA KE LI NE .
+KUV NUG LAWV TIAD CAS LAWV PAUB TEJ NTAWD ZOO UA LUAJ .
+LAWV TIAS PEB HAM TSIS NYOB NRAIM NTAWD THAUM TEJ NTAWD TSHWM SIM LOS MAS .
 
-koj yeej paub cov neeg vwm li ntawd tsis ntshai li lawm os . lawv coj mus zoj rau tom txaj kho mob mas zoj kom kho me ntsis ov tsam lawm tej kav hlau/txhuas ntawm lub txaj ho cia li nkhaus zij dwb das lawm ov . twb pom ib zaug lawv cov kav hlau/txhuas zij zij . lawv tias wow nws lam laus xwb nws zog tsis dog dig . lawv siv koob hno nws leeg nqus ntsav mus check . nws ib txwm tsis nyiam lawv nqus ntsav . zaum no nws pub lawv nqus ib raj li 5cc lawm lawv xav tau 5cc ntxiv . nws ntsub ntsub sab caj npab lawv rab koob uas twb nyob hauv txoj leeg cia li nkaus nkaus nqus tias tau ntsav lawm . tabsis kuv mas ho tsis muaj zog npaum li ntawd ne . kuv mas niag tes taw tuag e tsis muaj zog ces lawv yuav tsis pom tej ntawd tabsis yog lawv coj kuv mus yug tom tsev kho mob ces nej yuav tau so tsis nkees nyeem kuv cov niag ntawv ntau ntau hauv SCH  no xwb os .
-muaj ib yam txawv txawv kawg uas tsis tau hnov thiab pom dua li . thaum kuv vwm vwm li 4 hli tas los kuv tseem txawj teleport tib si . teleport mas xyov lus hmoob yog li cas tabsis teleport hauv movie thiab meskas term mas nej paub mas . kuv tsis tau sim deb heev tabsis kuv sim ib zaug tele port mus li 4 - 5 miles tabsis yog thaum lub 11 hlis no no . kuv cia li teleport rov los tsev lawm . tau 4 hlis los no lawv tsis los nrog kuv tham ntev lawv kuv lub communication system nrog lawv tham cia li tsis ua hauj lwm li thaum i lawm . thaum i mas kuv hais sau hlwb kom nta/turn on lub tshuab computer ces kuv yuav pom ib lub monitor cia ntsa iab . lub computer ntawd mas ho tsis siv mouse thiab keyboard li lub kuv sau sau ntawd rau nej hauv no ov . lub ntawd mas yuav siv li cas xav sau hlwb ces nws ua li siab xav lawm . thaum lub ntawd nta ciaj kiag ces koj yuav kom nws pub koj monitor thaj chaw twg los tau tib si . kuv tsis tau sim ntau tabsis kuv kom lub computer pub kuv pom bangkok . ham tsis zoo li lawv muaj ib lub camera yuj yuj li 1 kilometer saum huab cua ntsia ntsoov bangkok nyob sab hauv . yav kom mus deb mus ze los nws txawj zoom in zoom out . zoom in kom pom ib lub tsheb los tau .
+WOW PIAV NTAU KAWG LAWM .
+HO YUAV MUS NYEEM NEJ COV LAU .
+
+Koj tsis txhob txawjx piav nawj ...
+ib tsam tos paub xwb lawv twb coj koj mus loj rau tom tsev khomob Psychiatrist lawm os yawg !!
+
+Yog yuav hais li Hmoob piav ces Carl Gustav Jung - yawg Swiss psychiatrist - yog tawv - dawb thawj tus saub ntag .
+Cov neeg tawv - dawb tseem hais tias tejzaum Carl Jung tseem yuav yog thawj tus txiv neeb thiab vim yawg yeej muaj ib tug neeg zoo li " leej - nkaub " yeej nrog nraim nws , thiab qhia nws ntau yam ...
+li tej koj piav txog .
+
+http ://www . website . net/wiki/Carl_Jung Interesting ....
+Well ...
+over to Her Lao to continue ....
+
+du koj yeej paub cov neeg vwm li ntawd tsis ntshai li lawm os .
+lawv coj mus zoj rau tom txaj kho mob mas zoj kom kho me ntsis ov tsam lawm tej kav hlau/txhuas ntawm lub txaj ho cia li nkhaus zij dwb das lawm ov .
+twb pom ib zaug lawv cov kav hlau/txhuas zij zij .
+lawv tias wow nws lam laus xwb nws zog tsis dog dig .
+lawv siv koob hno nws leeg nqus ntsav mus check .
+nws ib txwm tsis nyiam lawv nqus ntsav .
+zaum no nws pub lawv nqus ib raj li 5cc lawm lawv xav tau 5cc ntxiv .
+nws ntsub ntsub sab caj npab lawv rab koob uas twb nyob hauv txoj leeg cia li nkaus nkaus nqus tias tau ntsav lawm .
+tabsis kuv mas ho tsis muaj zog npaum li ntawd ne .
+kuv mas niag tes taw tuag e tsis muaj zog ces lawv yuav tsis pom tej ntawd tabsis yog lawv coj kuv mus yug tom tsev kho mob ces nej yuav tau so tsis nkees nyeem kuv cov niag ntawv ntau ntau hauv SCH no xwb os .
+
+muaj ib yam txawv txawv kawg uas tsis tau hnov thiab pom dua li .
+thaum kuv vwm vwm li 4 hli tas los kuv tseem txawj teleport tib si .
+teleport mas xyov lus hmoob yog li cas tabsis teleport hauv movie thiab meskas term mas nej paub mas .
+kuv tsis tau sim deb heev tabsis kuv sim ib zaug tele port mus li 4 - 5 miles tabsis yog thaum lub 11 hlis no no .
+kuv cia li teleport rov los tsev lawm .
+tau 4 hlis los no lawv tsis los nrog kuv tham ntev lawv kuv lub communication system nrog lawv tham cia li tsis ua hauj lwm li thaum i lawm .
+thaum i mas kuv hais sau hlwb kom nta/turn on lub tshuab computer ces kuv yuav pom ib lub monitor cia ntsa iab .
+lub computer ntawd mas ho tsis siv mouse thiab keyboard li lub kuv sau sau ntawd rau nej hauv no ov .
+lub ntawd mas yuav siv li cas xav sau hlwb ces nws ua li siab xav lawm .
+thaum lub ntawd nta ciaj kiag ces koj yuav kom nws pub koj monitor thaj chaw twg los tau tib si .
+kuv tsis tau sim ntau tabsis kuv kom lub computer pub kuv pom bangkok .
+ham tsis zoo li lawv muaj ib lub camera yuj yuj li 1 kilometer saum huab cua ntsia ntsoov bangkok nyob sab hauv .
+yav kom mus deb mus ze los nws txawj zoom in zoom out .
+zoom in kom pom ib lub tsheb los tau .
+
 tus los qhia kuv mas nws tias xyoo 2012 no mus qhov monitor mas yuav tsis tau pub neeg lwm tus siv tabsis teleport mas yuav pub neeg siv mus .
-muaj ib yam ntawm teleport uas yuav tau paub mas tias : yus yuav teleport direct hauv ib lub teb chaws mus rau lwm lub teb chaws ncaj nraim mas cov tsoom fwm tseem tsis tau kam yam no li . yuav siv tele port mus txawv teb chaws mas yuav tau siv . nruab nrab myuj ua lub chaw xub xub mus . yuav tau teleport mus rau nruab nrab ntuj ua ntej . thaum txog nruab nrab ntuj lawm yuav teleport rau lub teb chaws twg los thiaj yuav tau .
-kuv lub siab thaum lawv los tham  tham . kuv thiaj nug tias nruab ntuj nyob twg kuv tsis paub li . nkawv tias nruabnrab ntuj mas tam sim no neeg ntiaj teb tsis tau pom tsis tau txog li . yuav yog xyoo 2012 no mas meskas muaj ib lub spaceship mam ya mus txog puag saum space thiaj mus pom thiab mus txog . nkawv tias neeg ntiaj teb yuav hu tias alternative universe no na . lub universe tod muaj ib lub planet me me . total land area mas luaj li teb chaws meskas no xwb . yam txawv rau lub ntuj meme tod mas . tsis muaj neeg coob li ntiaj teb . lub ntiaj teb tod nyuam qhuav muaj 20 yig/family nyob xwb . 15 yim yog meskas , 5 yim yog hmoob . yog hmoob cov coj ntev puag thaum ub thiab ib co saub hmoob lub ntuj ntawd . cov meskas mas feem ntau yog cov president ntev nram ntej ub lawm .
-lub ntuj tod mas neeg tsis txawj mob tsis txawj laus tsis txawj tuag . nyob li tus qub mus puas tsawg xyoo puas tsawg tiam neeg ntiaj teb lawm los nyias zoo nyias li qub rau cov nyob lub ntuj nruab nrab ntawd .
-lub ntuj ntawd mas ib tug txiv neej muaj sij hawm mus xaiv tus hlub ib xyoo 4 zaug . lawv mus coj lawv ib co poj niam deb deb tuaj nyob tom ib lub tsev . cov txiv neej ces txog sij hawm mus saib cov poj niam tom lub tsev . mus xaiv npaum li yus txawj xaiv . thaum nyias tus twg tseeb tseeb lawm no ces ua siab lees tias yees yuav . yog lees yuav tus twg lawm no ces yuav tau coj mus nyob ua ke . yam tsawg kawg 3 hli kom txog sij hawm rov mus xaiv dua lwm zaus . yog yus txiv mus xaiv lawm txaus siab rau tus yus twb xaiv yav tas los lawm no ces yus yuav yus tus qub tsis tab kaum sij hawm mus xaiv dua . yog yus ho nyiam tus yus xaiv thaum i no ces tom qab 3 hlis xa nws rov rau tom lub tsev thaum i koj mus cooj los nrog koj nyob . koj mam ho rov xaiv dua ib tug tom lub tsev tod . yog koj txaus siab yus nyob yus no ces yog ua raws koj siab nyiam rov los tsev los nyob koj ib leeg .
+
+muaj ib yam ntawm teleport uas yuav tau paub mas tias : yus yuav teleport direct hauv ib lub teb chaws mus rau lwm lub teb chaws ncaj nraim mas cov tsoom fwm tseem tsis tau kam yam no li .
+yuav siv tele port mus txawv teb chaws mas yuav tau siv .
+nruab nrab myuj ua lub chaw xub xub mus .
+yuav tau teleport mus rau nruab nrab ntuj ua ntej .
+thaum txog nruab nrab ntuj lawm yuav teleport rau lub teb chaws twg los thiaj yuav tau .
+
+kuv lub siab thaum lawv los tham tham .
+kuv thiaj nug tias nruab ntuj nyob twg kuv tsis paub li .
+nkawv tias nruabnrab ntuj mas tam sim no neeg ntiaj teb tsis tau pom tsis tau txog li .
+yuav yog xyoo 2012 no mas meskas muaj ib lub spaceship mam ya mus txog puag saum space thiaj mus pom thiab mus txog .
+nkawv tias neeg ntiaj teb yuav hu tias alternative universe no na .
+lub universe tod muaj ib lub planet me me .
+total land area mas luaj li teb chaws meskas no xwb .
+yam txawv rau lub ntuj meme tod mas .
+tsis muaj neeg coob li ntiaj teb .
+lub ntiaj teb tod nyuam qhuav muaj 20 yig/family nyob xwb .
+15 yim yog meskas , 5 yim yog hmoob .
+yog hmoob cov coj ntev puag thaum ub thiab ib co saub hmoob lub ntuj ntawd .
+cov meskas mas feem ntau yog cov president ntev nram ntej ub lawm .
+
+lub ntuj tod mas neeg tsis txawj mob tsis txawj laus tsis txawj tuag .
+nyob li tus qub mus puas tsawg xyoo puas tsawg tiam neeg ntiaj teb lawm los nyias zoo nyias li qub rau cov nyob lub ntuj nruab nrab ntawd .
+
+lub ntuj ntawd mas ib tug txiv neej muaj sij hawm mus xaiv tus hlub ib xyoo 4 zaug .
+lawv mus coj lawv ib co poj niam deb deb tuaj nyob tom ib lub tsev .
+cov txiv neej ces txog sij hawm mus saib cov poj niam tom lub tsev .
+mus xaiv npaum li yus txawj xaiv .
+thaum nyias tus twg tseeb tseeb lawm no ces ua siab lees tias yees yuav .
+yog lees yuav tus twg lawm no ces yuav tau coj mus nyob ua ke .
+yam tsawg kawg 3 hli kom txog sij hawm rov mus xaiv dua lwm zaus .
+yog yus txiv mus xaiv lawm txaus siab rau tus yus twb xaiv yav tas los lawm no ces yus yuav yus tus qub tsis tab kaum sij hawm mus xaiv dua .
+yog yus ho nyiam tus yus xaiv thaum i no ces tom qab 3 hlis xa nws rov rau tom lub tsev thaum i koj mus cooj los nrog koj nyob .
+koj mam ho rov xaiv dua ib tug tom lub tsev tod .
+yog koj txaus siab yus nyob yus no ces yog ua raws koj siab nyiam rov los tsev los nyob koj ib leeg .

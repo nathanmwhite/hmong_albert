@@ -1,20 +1,19 @@
-Tau 4 - 5 hnub los no kuv mus mloog lub xov tooj cua " Hmoob Tig Kho Hmoob ", muaj ob tug txwj laug tuaj piav txog Hmoob kev cai dab qhuas .  Hais txog thaum hu plig khi tes es Hmoob pheej hais tias " Txheeb Nyeej Vam Sawm ", ces tus los hais kab lus no txawm muab txhais hais tias :
-Txheeb = Thousand
-Nyeej = Ten thousand
-Vam = One hundred thousand
-Sawm = One million
-Kuv xav hais tias tus txwj laug no muab txhais tau yuam kev deb dhau heev lawm .  Yog kuv mas yuav txhais li no :
-Txheeb = Txhiab
-Nyeej = niaj
-Vam = Vam
-Sawm = Xyoo
-Cov PY nej sim ho txhais ntxiv thiab seb .
-Muab ib kab lus no ntxiv rau nej coj mus xav thiab txhais ua ntej , kuv mam tuaj teb nej tom qab .
-[Tshaj xeeb pov meem , tshaj meej hwj kij]
-TLK ,
+Tau 4 - 5 hnub los no kuv mus mloog lub xov tooj cua " Hmoob Tig Kho Hmoob ", muaj ob tug txwj laug tuaj piav txog Hmoob kev cai dab qhuas .
+Hais txog thaum hu plig khi tes es Hmoob pheej hais tias " Txheeb Nyeej Vam Sawm ", ces tus los hais kab lus no txawm muab txhais hais tias : Txheeb = Thousand Nyeej = Ten thousand Vam = One hundred thousand Sawm = One million Kuv xav hais tias tus txwj laug no muab txhais tau yuam kev deb dhau heev lawm .
+Yog kuv mas yuav txhais li no : Txheeb = Txhiab Nyeej = niaj Vam = Vam Sawm = Xyoo Cov PY nej sim ho txhais ntxiv thiab seb .
 
-hom lus suav qub qub uas hmoob siv ua neeb thiab khawv koob li ob peb lo koj hais no ces tus tseem2 suav los tsis paub xyov hais li cas yog koj xav paub mas kawg mus nug tus hmoob uas txawj ua khawv koob los yog txawj ua neeb mas muaj tus puav yuav paub . to kuv hais li los thaum kuv yawg tseem nyob mas kuv yawg qhia ib zaj khawv koob mas kuv yawg qhia tau ob fab lus . qhia lus suav tas mas qhia lus hmoob yog hais li cas . ib zaj uas nyuaj heev mas yog zaj tsa txhiaj meej . thaum kuv hnov fab lus suav xwb ces kuv zaum co co hau xwb tabsis muaj fab lus hmoob piav tas kiag xwb ces kuv yws li ob peb nasthis xwb ces kuv kawm tau tus tuaj hauv tsev feem lawm . tus tuaj sab nrau qhov rooj feem mas kuv thiaj tsis tau vim feem sab nraud mas hais ntau heev li ob peb nas this lus suav nkaus xwb . thaum kuv xub hnov kuv xav tias yog lus suav no kuv twb kawm ntawv suav thiab lus suav me me thaum peb nyob vibnais ces nyaj kuv yuav paub me me thiab no TABSIS ! tsis yog li kuv xav kiag li vim hom lus ntawd mas txawv lawm deb . muab piv txwv :
-#1 . lo lus hmoob tias kuv no mas suav tias uam tabsis lo lus khawv koob mas yog gub
-2 . lo lus hmoob tias koj no mas suav tias nim tabsis lo lus khawv koob mas yog gib .
+Muab ib kab lus no ntxiv rau nej coj mus xav thiab txhais ua ntej , kuv mam tuaj teb nej tom qab .
+
+[Tshaj xeeb pov meem , tshaj meej hwj kij] TLK , hom lus suav qub qub uas hmoob siv ua neeb thiab khawv koob li ob peb lo koj hais no ces tus tseem2 suav los tsis paub xyov hais li cas yog koj xav paub mas kawg mus nug tus hmoob uas txawj ua khawv koob los yog txawj ua neeb mas muaj tus puav yuav paub .
+to kuv hais li los thaum kuv yawg tseem nyob mas kuv yawg qhia ib zaj khawv koob mas kuv yawg qhia tau ob fab lus .
+qhia lus suav tas mas qhia lus hmoob yog hais li cas .
+ib zaj uas nyuaj heev mas yog zaj tsa txhiaj meej .
+thaum kuv hnov fab lus suav xwb ces kuv zaum co co hau xwb tabsis muaj fab lus hmoob piav tas kiag xwb ces kuv yws li ob peb nasthis xwb ces kuv kawm tau tus tuaj hauv tsev feem lawm .
+tus tuaj sab nrau qhov rooj feem mas kuv thiaj tsis tau vim feem sab nraud mas hais ntau heev li ob peb nas this lus suav nkaus xwb .
+thaum kuv xub hnov kuv xav tias yog lus suav no kuv twb kawm ntawv suav thiab lus suav me me thaum peb nyob vibnais ces nyaj kuv yuav paub me me thiab no TABSIS !
+tsis yog li kuv xav kiag li vim hom lus ntawd mas txawv lawm deb .
+muab piv txwv : #1 . lo lus hmoob tias kuv no mas suav tias uam tabsis lo lus khawv koob mas yog gub 2 . lo lus hmoob tias koj no mas suav tias nim tabsis lo lus khawv koob mas yog gib .
+
 txawv deb li no tus tseem2 suav los mloog tas tsis paub xyov yog hais dab tsi li lawm lau .
+
 ob lo lus no yog muab txhais ua lus hmoob nrog ua ke li saum toj lawm ces nkag siab sai sai thiab kawm tau yooj8 . yog tsis txhob muab txhais ua lus hmoob li no mas yuav coj mus hais kom tau zoo li bauv thoob khwbn cais mas tsis lam yooj8 kiag li .

@@ -1,111 +1,302 @@
-Cov Npoj yaig sawv daws ,
-Ib week dhau los , kuv thiab kuv ib tug kwv tij peb ua ke mus txwg tuag , wb ob leeg nyias hais rau nyias niag pog laus hais tias hmo no wb yuav mus nrog lawv zov hmo ntev li los , tab sis qhov tseeb ces kuv tug kwv tij twb teem tau cov nkauj nrab rau wb lawm , kuv los tsis paub thiab .
+Cov Npoj yaig sawv daws , Ib week dhau los , kuv thiab kuv ib tug kwv tij peb ua ke mus txwg tuag , wb ob leeg nyias hais rau nyias niag pog laus hais tias hmo no wb yuav mus nrog lawv zov hmo ntev li los , tab sis qhov tseeb ces kuv tug kwv tij twb teem tau cov nkauj nrab rau wb lawm , kuv los tsis paub thiab .
+
 Thaum tsav tsheb mus ua cas tsi mus rau tim tsev txias ne , cia li mus ncaj nraim rau tim ib lub tsev muaj 3 tug nkauj nrab sib koom rent ua ke , tab sis hmo ntawd muaj ib tus nkauj nrab mus rau lwm lub State lawm , tshauv ob tug nyob xwb .
-Wb mus txog ntua khob qhov rooj txawm qhib kiag caw wb nkag hauv lawv tsev , kuv ntsia ib muag rau tom chav pw txawm pom ib tus nkauj nrab ua ntsej muag luag ntxhi tawm tom los , ho muaj ib tug ces yeej los qhib wb qhov rooj ces xub pom nws lawm . Ob tus nkauj nrab ntawd kuj zoo nkauj sib xws pauv tsi ntxiv pes tsawg , tiam sis muaj ib tug mas kuv ntsia pom nws zoo nkauj zog thiab lub cev ntaj ntsug tseem zoo heev , duav nqia nqib pob tw nthuav hu , siab 5 . 2 feets cav ua rau kuv kas moos ploj tag nrho .
-Ho kuv yawm kwv tij ces nws nyiam tus qis zog cev npag tsawv , wb nrog nkawd sib hais lus ua si ntev loo li ib hours ntau ces yawg poj niam txawm hu xov tooj tuaj tias koj txiv koj mus lub tsev txias twg qhia kuv , kuv yuav tuaj tim ko thiab no ces yawg txawm hais tsi meej tsi pem rau yawg poj niam tias cia kuv mus nug lawv saib lub tsev txias no hu li cas no kuv li hu rov rau koj . No ces yawg cia li hais rau ob tug nkauj nrab tias wb tshuav num me ntsi tim tsev txias thiab ces wb mus suaj kaum num tim tso mam rov tuaj , tab sis qhov tseeb ces twb yog ntshai police .
-Hais kiag li ntawd rau ob niag nkauj nrab ces wb tawm plaws nkag kiag hauv tsheb ces yawg tsav tsheb kiav ceev tas kev nrho mus rau tim lub tsev txias uas muaj tuag pam hauv , mus twb tsi tau txog yawg twb hu rau yawg niag pog laus tias koj niam kuv nug lawv lawm yog lub tsev txias hu ua ...... no ces wb mus txog ntua zaum zoj me ntsis li 15 minutes ntau xwb yawg niag pog laus tuaj txog ntua .
-Yawg hais tias laus li no mas zaum no yog thawj zaug uas yawg ntshai tshaj thiab qhia tsi muaj npe tsi muaj chaws hlo li , yawg hais tias yus ua tej yam niag txhaum plaub mas hais tom ntej tom qab ua rau yawg poj niam tsis ntseeg hlo li , tab sis qhov yawg poj niam ho ib nyuag ntseeg mas vim muaj kuv nrog yawg thiab mas nyaj yuav tseeb li yawg hais lawm no , raws li yawg poj niam hais , yawg thiaj dim pa tsi mag kua nceb txhais . ob peb hnub tom qab yawm kwv tij tham hais tias ntshai neej mas tseem ntshai dua ntshai dab lawm thiab .
+
+Wb mus txog ntua khob qhov rooj txawm qhib kiag caw wb nkag hauv lawv tsev , kuv ntsia ib muag rau tom chav pw txawm pom ib tus nkauj nrab ua ntsej muag luag ntxhi tawm tom los , ho muaj ib tug ces yeej los qhib wb qhov rooj ces xub pom nws lawm .
+Ob tus nkauj nrab ntawd kuj zoo nkauj sib xws pauv tsi ntxiv pes tsawg , tiam sis muaj ib tug mas kuv ntsia pom nws zoo nkauj zog thiab lub cev ntaj ntsug tseem zoo heev , duav nqia nqib pob tw nthuav hu , siab 5 . 2 feets cav ua rau kuv kas moos ploj tag nrho .
+
+Ho kuv yawm kwv tij ces nws nyiam tus qis zog cev npag tsawv , wb nrog nkawd sib hais lus ua si ntev loo li ib hours ntau ces yawg poj niam txawm hu xov tooj tuaj tias koj txiv koj mus lub tsev txias twg qhia kuv , kuv yuav tuaj tim ko thiab no ces yawg txawm hais tsi meej tsi pem rau yawg poj niam tias cia kuv mus nug lawv saib lub tsev txias no hu li cas no kuv li hu rov rau koj .
+No ces yawg cia li hais rau ob tug nkauj nrab tias wb tshuav num me ntsi tim tsev txias thiab ces wb mus suaj kaum num tim tso mam rov tuaj , tab sis qhov tseeb ces twb yog ntshai police .
+
+Hais kiag li ntawd rau ob niag nkauj nrab ces wb tawm plaws nkag kiag hauv tsheb ces yawg tsav tsheb kiav ceev tas kev nrho mus rau tim lub tsev txias uas muaj tuag pam hauv , mus twb tsi tau txog yawg twb hu rau yawg niag pog laus tias koj niam kuv nug lawv lawm yog lub tsev txias hu ua ......
+no ces wb mus txog ntua zaum zoj me ntsis li 15 minutes ntau xwb yawg niag pog laus tuaj txog ntua .
+
+Yawg hais tias laus li no mas zaum no yog thawj zaug uas yawg ntshai tshaj thiab qhia tsi muaj npe tsi muaj chaws hlo li , yawg hais tias yus ua tej yam niag txhaum plaub mas hais tom ntej tom qab ua rau yawg poj niam tsis ntseeg hlo li , tab sis qhov yawg poj niam ho ib nyuag ntseeg mas vim muaj kuv nrog yawg thiab mas nyaj yuav tseeb li yawg hais lawm no , raws li yawg poj niam hais , yawg thiaj dim pa tsi mag kua nceb txhais .
+ob peb hnub tom qab yawm kwv tij tham hais tias ntshai neej mas tseem ntshai dua ntshai dab lawm thiab .
+
 Ua neeg yog tsi ua kam tej num qab rooj ntawd mas txhob lam ua , yus tsi yog neeg ua tub sab mas thaum twg yus ua ces lawv txawm pom ntag , thaum luag tsi tuaj yus ntshai ntshai tsi nyiag , tos tos tus tswv lawv twb tuaj ze lawm yus li nyiag kiag ces tab tom ncaj nkaus lawv tshwm plaws thiab .
+
 Ua tus neeg phem yeej tsi dim txoj kev txaj muag li .
-YTK
 
-Zoo saib tiag tiag
-http ://www . youtube . com/watch ? v=QJnFlgdYPfg
-YTK
+YTK Zoo saib tiag tiag http ://www . website . net/watch ?
+v=QJnFlgdYPfg YTK Hahaha ...
+Kuv twb hais koj lawm ne ..
+tias txhob tham kasmoos heev yeej pab tsis tau dabtsi .
+GVP lawv khabnab haib tag npaum twb tsis ciaj dabtsi .
+Tsuas yog mob hlwb xwb .
 
-Hahaha ... Kuv twb hais koj lawm ne .. tias txhob tham kasmoos heev yeej pab tsis tau dabtsi . GVP lawv khabnab haib tag npaum twb tsis ciaj dabtsi . Tsuas yog mob hlwb xwb .
-Tham hluas nkauj xwb kaj siab dua . Koj tseem mus txog tebchaws Plog thiab mas , xyov li lauj ,  haj yam lomzem . You ' d forget everything in the US . Years ago I just came back from visiting Laos and when I got back to my workplace I forgot all my computer passwords .... see how good the hmong girls in Laos are ? They made you forgot things .
+Tham hluas nkauj xwb kaj siab dua .
+Koj tseem mus txog tebchaws Plog thiab mas , xyov li lauj , haj yam lomzem .
+You ' d forget everything in the US .
+Years ago I just came back from visiting Laos and when I got back to my workplace I forgot all my computer passwords ....
+see how good the hmong girls in Laos are ?
+They made you forgot things .
 
-yog tais caus npaum li ntawd yuav mus tham nkauj nrab li koj hais thiab na ? yog yuav tham kuj tham kom txhob ntshai2 yog ntshai kuj pw twj ywm mus nuv ntses tom lake li kuv xwb pob . thaum i kuv tham hluas nkauj poj niam twb tshawb pom kuv cov receipt kuv yuav cookie thiab paj rau hluas nkauj thiab nrab nkauj cov menyuam . poj niam ua li ab ua ntsuab tias yeej yog kuv yuav khoom 6 hluas nkauj lawm xwb2 li ntag nws yuav coj receipt mus qhia kwvtij neej tsa li xwb kom lub siab nqeg . kuv txawm tias kub npaum ko es receipt nyob twg na ? nws nqa ib niag twm receipt li 4 - 5 daim receipt los kom kuv saib . nws tias nov na koj xav ntshe kuv tsis paub receipt no . daim no yog lub khw no ... nws piav tas cov khw thiab cov khoo m kuv yuav tib si . kuv txawm tias muab los kuv saib seb puas txaus koj kub npaum li ko no . nws cev kiag los 6 kuv . kuv txais tau kuv muab zom tsuag ua ib caj li  zaum gum . kuv muab pov kiag hauv lub toilet nyeem tus kais dej rau xwb ce ploj ntais lawm . kuv mus zaum zoo2 kuv mam rov nug poj niam tias koj yuav ua liab ua ntsuab kub2 av dub tas li ko es receipt nyob twg thiab . nws ham tsi tias koj phem es twb muab zom tas pov rau lub toilet tso dej 6 ces kuj tsis muaj receipt lawm . kuv tias tsis muaj receipt lawm ces tsis kuv lawm mas . mus wb mus pw os tsam kuv rov qab mus tom MPLS lawm thiab ov . poj niam haj cauj kawg los khawm los muab yus mos kom yus txhob tshuav me me mus faib 6 nkauj nrab li lawm xwb ntag . yog tswv8 tham nkauj nrab tseem tsawg zog lawm no ces kuj txhob mus thab xwb mas . nkauj nrab txawj ntxias kom yus tseg tsis taus kiag thiab ov . yus mas tsuas pom kwvtij neej tsa muaj sib tham tas li . muaj num neohom muaj nu7m paj kaub ib sij mus ntsib nkauj nrab tom nws tsev los yog tom hotel thiab xwb ov . BZ kawg rau cov hauj lwm politic no . tsam no cov nkauj nrab kuv paub khiav mus deb thiab mus yuav txiv tas lawm ces kuv thiaj mus pw nuv ntses lawm xwb khees dua li mus tham nkauj nrab . mus nuv ntses tau coj mus fillet thiab grill zoo2 mam rau kua qaub thiab kua txob kom haum2 ces #1 dua li nkauj nrab lawm os .
-lub ntuj twin city MN no tsis haum peb cov hmoob uas yug puag saum roob tim blog mam tuaj nyob nov na vim ntawm twincity AREA no tseem qe li 700 - 1 , 000 feet above sea level xwb . tim blog pem roob yug peb mas yog 2 , 000 feet rov lawm saum ub ces peb lub cev yoog tsis haum av qes2 li no ces peb muaj mob 6 lub cev li ntshav siab yog #1 vim environment pressure loj heev rau av qes dua 1 , 000 feet above sea level xwb . kuv pom mas MN muaj ib lub nroog thiab siab txog 1 , 500 - 1 , 800 feet above sea level xwb ces ntshe kuv yuav mus nyob lub nroog ntawd kom environment pressure haum yus lub cev zog li ntawm lub tsev tam sim no yog li 800 feet above sea level xwb . zoo tiag mas yuav tau mus MONTANA los yog colorado KOM SIAB DUA 2 , 000 FEET ABOVE SEA LEVEL thiaj yuav haum peb cov nrab nraug uas yug tim ub mam khiav tuaj teb chaws no . hais temperature xwb mas SAN DIEGO , CA yog number #1 lawm tabsis nws yog li20 - 100 feet above sea level xwb ces qes dhau 6 cov nrab nraug thiab nraug laus li peb lawm . yog nyob julian , CA uas yog li 2k - 4k feet above sea level mas haum yus xwb2 li ntag . ze ze SAN DIEGO thiab xwb tiag . qhov nyuaj mas yog tsev kim dhau thaj tsam pem julian , CA .
+yog tais caus npaum li ntawd yuav mus tham nkauj nrab li koj hais thiab na ?
+yog yuav tham kuj tham kom txhob ntshai2 yog ntshai kuj pw twj ywm mus nuv ntses tom lake li kuv xwb pob .
+thaum i kuv tham hluas nkauj poj niam twb tshawb pom kuv cov receipt kuv yuav cookie thiab paj rau hluas nkauj thiab nrab nkauj cov menyuam .
+poj niam ua li ab ua ntsuab tias yeej yog kuv yuav khoom 6 hluas nkauj lawm xwb2 li ntag nws yuav coj receipt mus qhia kwvtij neej tsa li xwb kom lub siab nqeg .
+kuv txawm tias kub npaum ko es receipt nyob twg na ?
+nws nqa ib niag twm receipt li 4 - 5 daim receipt los kom kuv saib .
+nws tias nov na koj xav ntshe kuv tsis paub receipt no .
+daim no yog lub khw no ...
+nws piav tas cov khw thiab cov khoo m kuv yuav tib si .
+kuv txawm tias muab los kuv saib seb puas txaus koj kub npaum li ko no .
+nws cev kiag los 6 kuv .
+kuv txais tau kuv muab zom tsuag ua ib caj li zaum gum .
+kuv muab pov kiag hauv lub toilet nyeem tus kais dej rau xwb ce ploj ntais lawm .
+kuv mus zaum zoo2 kuv mam rov nug poj niam tias koj yuav ua liab ua ntsuab kub2 av dub tas li ko es receipt nyob twg thiab .
+nws ham tsi tias koj phem es twb muab zom tas pov rau lub toilet tso dej 6 ces kuj tsis muaj receipt lawm .
+kuv tias tsis muaj receipt lawm ces tsis kuv lawm mas .
+mus wb mus pw os tsam kuv rov qab mus tom MPLS lawm thiab ov .
+poj niam haj cauj kawg los khawm los muab yus mos kom yus txhob tshuav me me mus faib 6 nkauj nrab li lawm xwb ntag .
+yog tswv8 tham nkauj nrab tseem tsawg zog lawm no ces kuj txhob mus thab xwb mas .
+nkauj nrab txawj ntxias kom yus tseg tsis taus kiag thiab ov .
+yus mas tsuas pom kwvtij neej tsa muaj sib tham tas li .
+muaj num neohom muaj nu7m paj kaub ib sij mus ntsib nkauj nrab tom nws tsev los yog tom hotel thiab xwb ov .
+BZ kawg rau cov hauj lwm politic no .
+tsam no cov nkauj nrab kuv paub khiav mus deb thiab mus yuav txiv tas lawm ces kuv thiaj mus pw nuv ntses lawm xwb khees dua li mus tham nkauj nrab .
+mus nuv ntses tau coj mus fillet thiab grill zoo2 mam rau kua qaub thiab kua txob kom haum2 ces #1 dua li nkauj nrab lawm os .
 
-Npoj yaig tej no mas thiaj yog txoj kev tsi muaj hnub hnov qab tau ...- Sexy Music Video Thai Lao Song .
-http ://www . youtube . com/watch ? v=mLMyFxytRKw
-Sao Sexy - Laos ສາວລາວ..ງາມໆນໍ!! Xav Tau Tej Tus Li mas Pw tsi tsaug zog li ov .
-http ://www . youtube . com/watch ? v=HVkdYKWkYuk
-Tej no ces yog nquas hu peb txiv neej txoj kev hlub xwb tias , Karaket TollMaNaiThaNaArRai
-http ://www . youtube . com/watch ? v=PzpB6 - IQoa8
-Nrhiav tus hlub li koj kuv peb ntag .
-http ://www . youtube . com/watch ? v=zhIn7I2PfMA
-yoo ,
-Yog koj zaj lawm laus , peb Hmoob li ces tus zoo txiv neej los yeej mus tsi dhau nkauj mos li lawm , qhov ntawd yog qhov zoo tshaj lawm .
-Tos hais tias cov Neohom , WHPC , ອປລ, thiab lwm pab ... etc mus tsi txog twg los vim txoj kev hluas nkauj loj hlob heev dhau lawm .
-idonotknow ,
-Koj tsi paub ces cov neeg tsi tau ua dua zaj ntawd ces yeej ua tau xom phij li ntawd xwb los mas . Tsi muaj ib tug txiv neej Hmoob dhia dhau qhov ntawd li ov , txeev muaj zoo politic li ntag yog pom kiag tej ntawd xwb ces yawg tsa taw hlo li lawm ov .
-YTK
+lub ntuj twin city MN no tsis haum peb cov hmoob uas yug puag saum roob tim blog mam tuaj nyob nov na vim ntawm twincity AREA no tseem qe li 700 - 1 , 000 feet above sea level xwb .
+tim blog pem roob yug peb mas yog 2 , 000 feet rov lawm saum ub ces peb lub cev yoog tsis haum av qes2 li no ces peb muaj mob 6 lub cev li ntshav siab yog #1 vim environment pressure loj heev rau av qes dua 1 , 000 feet above sea level xwb .
+kuv pom mas MN muaj ib lub nroog thiab siab txog 1 , 500 - 1 , 800 feet above sea level xwb ces ntshe kuv yuav mus nyob lub nroog ntawd kom environment pressure haum yus lub cev zog li ntawm lub tsev tam sim no yog li 800 feet above sea level xwb .
+zoo tiag mas yuav tau mus MONTANA los yog colorado KOM SIAB DUA 2 , 000 FEET ABOVE SEA LEVEL thiaj yuav haum peb cov nrab nraug uas yug tim ub mam khiav tuaj teb chaws no .
+hais temperature xwb mas SAN DIEGO , CA yog number #1 lawm tabsis nws yog li20 - 100 feet above sea level xwb ces qes dhau 6 cov nrab nraug thiab nraug laus li peb lawm .
+yog nyob julian , CA uas yog li 2k - 4k feet above sea level mas haum yus xwb2 li ntag .
+ze ze SAN DIEGO thiab xwb tiag .
+qhov nyuaj mas yog tsev kim dhau thaj tsam pem julian , CA .
 
-ytk -- yog lawm lau . yuav tau tso kas moos tseg es los lib kas mias lawm xwb mas  thiaj qhob peb cov hauv no ov .
-tab sis yog mus kho phom es tseem taj thiab ntshai police npaum neb ces kawg phom xeb xwb lau .  peb cov no mus kho phom sais peb yeej nraug mos txwv qoos nrias mus txog ntua ces qhau loo fawj zuaj kom xav xaws du lug ces yus los yus lawm xwb as haj .. haj .. haj ...
+Npoj yaig tej no mas thiaj yog txoj kev tsi muaj hnub hnov qab tau ...
+- Sexy Music Video Thai Lao Song .
 
-ua cas pom thiaj yuav tsis tsa taw hlo na . cov nom neohom tim vibnaib twb coj peb phaum hluas nkauj ob ob coj mus khawm las voos thiab puag tom LOEI HOTEL tseem coj mus lav nom tib si mus txog tom hotel ces kom peb cov hluas nkauj ob ob hle du l , ug mam lasvoos li ntawd3 hnub ob hmo mam coj rov los pov rau hauv vib nais vim lawv muaj ntawv tawm xun tau hos peb cov tub hluas ces twb mus tsis tau nrau tablaj thaib yog thaib tsis qeb tus daj ( n ). cov nom neohom ua li ntawd ces peb cia li tsis mus ua tub rog tom ntug dej naj khoos li lawm peb mus sau npe tim UN tuaj meskas xwb . gvp thiab thiab cov nom neohom los nyob tom ntug dej naj khoos kom cov txiv neej thiab tub hluas kaj tsij mus xyaum ua tub rog tom ntug dej hos tsis li ces kom mus xyaum nai xaim tim roob dub . nai xaim mas kuv tsis tau kawm tabsis kuv tij laug kawm ces kuv nrog kuv tij laug mus tau ib week rau tim roob dub . lawv ib leeg ib lub radio muab txuas xov kom muaj lub suab dib2 das2 ces lawv ntau ib hnub ib hnub . kuv ces nqa ib lub kib taj mus nplawm ua si xwb . tsis li ces nrog lawv ua phaib xislis ib hnub ib hnub seb leej twg tau ua qhev fab phaib xwb . kas moos ntog zoo kawg cov nom coj peb cov ob ob mus theev lawm ces peb tsis kam mus ua tub rog . lawv theev tas kom lawv lawv ua tub rog . peb mam pw tsaug zog hauv vibnais lawm xwb . lawv yuav ntxeev kom rov mus tim blog ces peb dhia mus meskas . vwj mais lawv thiaj coj ib co rov qab lawm . peb ib tug txeeb ze mas xyov tuaj tim thaib li 3 - 4 zaug tseem rov qab nrog vwj mais lawv mus tim ub dua ib zaug . tsam no ces ua siab mus nyob tsheej tim ub tsis khiav lawm . khiav tuaj tim thaib twb tuaj nyob vibnais tseem xam phaj rov qab 3 - 4 zaug ces yeej yog nco tim ub heev tiag2 li hos . mus zaum nrog vwj mais lawv rov qab ces tsis khiav tiaj li lawm . rov mus nyob tsheej kiag lawm .
+http ://www . website . net/watch ?
+v=mLMyFxytRKw Sao Sexy - Laos ສາວລາວ..
+ງາມໆນໍ!!
+Xav Tau Tej Tus Li mas Pw tsi tsaug zog li ov .
 
-tijlaug YTK ,
-txivneeg yawg , yuav tham dabtsi los tham kom muaj tshuaj nawb .... yus yuav ua los , nyob tsi qhia neej , tuag tsi qhia dab nawb .
+http ://www . website . net/watch ?
+v=HVkdYKWkYuk Tej no ces yog nquas hu peb txiv neej txoj kev hlub xwb tias , Karaket TollMaNaiThaNaArRai http ://www . website . net/watch ?
+v=PzpB6 - IQoa8 Nrhiav tus hlub li koj kuv peb ntag .
+
+http ://www . website . net/watch ?
+v=zhIn7I2PfMA yoo , Yog koj zaj lawm laus , peb Hmoob li ces tus zoo txiv neej los yeej mus tsi dhau nkauj mos li lawm , qhov ntawd yog qhov zoo tshaj lawm .
+
+Tos hais tias cov Neohom , WHPC , ອປລ, thiab lwm pab ...
+etc mus tsi txog twg los vim txoj kev hluas nkauj loj hlob heev dhau lawm .
+
+idonotknow , Koj tsi paub ces cov neeg tsi tau ua dua zaj ntawd ces yeej ua tau xom phij li ntawd xwb los mas .
+Tsi muaj ib tug txiv neej Hmoob dhia dhau qhov ntawd li ov , txeev muaj zoo politic li ntag yog pom kiag tej ntawd xwb ces yawg tsa taw hlo li lawm ov .
+
+YTK ytk -- yog lawm lau .
+yuav tau tso kas moos tseg es los lib kas mias lawm xwb mas thiaj qhob peb cov hauv no ov .
+
+tab sis yog mus kho phom es tseem taj thiab ntshai police npaum neb ces kawg phom xeb xwb lau .
+peb cov no mus kho phom sais peb yeej nraug mos txwv qoos nrias mus txog ntua ces qhau loo fawj zuaj kom xav xaws du lug ces yus los yus lawm xwb as haj ..
+haj ..
+haj ...
+
+ua cas pom thiaj yuav tsis tsa taw hlo na .
+cov nom neohom tim vibnaib twb coj peb phaum hluas nkauj ob ob coj mus khawm las voos thiab puag tom LOEI HOTEL tseem coj mus lav nom tib si mus txog tom hotel ces kom peb cov hluas nkauj ob ob hle du l , ug mam lasvoos li ntawd3 hnub ob hmo mam coj rov los pov rau hauv vib nais vim lawv muaj ntawv tawm xun tau hos peb cov tub hluas ces twb mus tsis tau nrau tablaj thaib yog thaib tsis qeb tus daj ( n ).
+cov nom neohom ua li ntawd ces peb cia li tsis mus ua tub rog tom ntug dej naj khoos li lawm peb mus sau npe tim UN tuaj meskas xwb .
+gvp thiab thiab cov nom neohom los nyob tom ntug dej naj khoos kom cov txiv neej thiab tub hluas kaj tsij mus xyaum ua tub rog tom ntug dej hos tsis li ces kom mus xyaum nai xaim tim roob dub .
+nai xaim mas kuv tsis tau kawm tabsis kuv tij laug kawm ces kuv nrog kuv tij laug mus tau ib week rau tim roob dub .
+lawv ib leeg ib lub radio muab txuas xov kom muaj lub suab dib2 das2 ces lawv ntau ib hnub ib hnub .
+kuv ces nqa ib lub kib taj mus nplawm ua si xwb .
+tsis li ces nrog lawv ua phaib xislis ib hnub ib hnub seb leej twg tau ua qhev fab phaib xwb .
+kas moos ntog zoo kawg cov nom coj peb cov ob ob mus theev lawm ces peb tsis kam mus ua tub rog .
+lawv theev tas kom lawv lawv ua tub rog .
+peb mam pw tsaug zog hauv vibnais lawm xwb .
+lawv yuav ntxeev kom rov mus tim blog ces peb dhia mus meskas .
+vwj mais lawv thiaj coj ib co rov qab lawm .
+peb ib tug txeeb ze mas xyov tuaj tim thaib li 3 - 4 zaug tseem rov qab nrog vwj mais lawv mus tim ub dua ib zaug .
+tsam no ces ua siab mus nyob tsheej tim ub tsis khiav lawm .
+khiav tuaj tim thaib twb tuaj nyob vibnais tseem xam phaj rov qab 3 - 4 zaug ces yeej yog nco tim ub heev tiag2 li hos .
+mus zaum nrog vwj mais lawv rov qab ces tsis khiav tiaj li lawm .
+rov mus nyob tsheej kiag lawm .
+
+tijlaug YTK , txivneeg yawg , yuav tham dabtsi los tham kom muaj tshuaj nawb ....
+yus yuav ua los , nyob tsi qhia neej , tuag tsi qhia dab nawb .
+
 yog koj muab coj los qhia neej li no lawm , kawg dab yeej yuav los cab xwb tiag tiag laud .
-hais ncaj nawb , yog tham mus tham los es los tham tej niag dabneeg li no ces yus tej ncaujlug tsi muaj tshuaj li lawm ntag laid ... brother .
+
+hais ncaj nawb , yog tham mus tham los es los tham tej niag dabneeg li no ces yus tej ncaujlug tsi muaj tshuaj li lawm ntag laid ...
+brother .
+
 nej cov ua tij ua tseem sawv lub samxeeb ua xav los tsa kom hmoob ciajtsav thiab haiv naj ...
+
 LOLz !
-Born
 
-kuv mus FRESNO , CA ib zaug kuv ntsib ib tug nkauj nrab nrog kuv mus hotel ib hmo xyov ua li cas zuaj kom xav xaws tas du lug los mos txwv tsis dhia li siab xav li .  xyov yog nws thiab yus tsis sib haum los yog li cas li thiab tiag . xav tiam tsam tim kuv lub cev tabsis los txog tsev mam nrog poj niam pw ua cas mos txwv dhia cauj kawg thiab tiag . tus nram hotel FRESNO mas pw zoo2 nrab dav dav tibn si los mos txwv tsis dhia kiag li tiag muab nws caij thiab theev ib hmos nws tsis pom ib lub mos txwv li . 2 tug ob ob tom U nyob WI mas mos txwv ho dhia cauj kawg . ib hmos 12 - 16 zaus .
-2 tug tom U no mas tseem ceev thiab nruj heev ces yog yus yeem lub cev nrog nkawd lawm ces mos txwv kawg dhia mus caum kom tau ob tug ob ob no . 2 tug tom U no muaj ib tug mas lub mis loj thiav kheej2 li lub txiv lws zoov rxaus siab nyiam kawg li tiag . ib tug mas lub mis me zog tabsis pib vhom kiag lawm mas zoo ntxim nyiam kawg li thiab . poj niam lub cev thaum nws lub mis pib chom kiag mas poj niam nyiam2 txiv neej heev lawm ov . mus txog tom nws lub apartment tom U ces ntshe yus tsis kam rau nws pib txoj kev lomzem xwb yog yus kav mas nws txawj muab yus khawm thiab tawb kiag yus 6 nram txaj los yog ntawm sofa nws mam pib daws yus li nws siab nyiam . neeg mloog lus li ob tug ob ob tom U no mastsim nyog yus yuav tau hlub thiab hos . nkawv thiaj nyiag tau tus txiv neej lub siab hlub siab nyiam . tus poj niam los hluas nkauj tawv ncauj mas xav muab pov tseg xwb tiag . tim vibnais kuv tham ob tug hluas nkauj . ib tug 02 mas tawv ncauj . tau khawm thiab puag zaum puav xwb . ib tug 08 mas mloog lus thiab nws tso lub cev ywj siab li yus nyiam . tus ntawm 02 ces ua siab muab pov tseg tsis nco tsis kk li lawm tus tim 08 mus yuav txiv lawm yog rov ntsib mas tseem xav nrog tus mloog lu li nws sib tawb ib cuam ua nyuj sib nrau seb leej twg yuav tawm lub tshav . yeej paub txiv neej tsis lam yeej˙tabsis mam siv lub mavtais kom nws txaus2 siab 5 - 10 minutes ces nws kawg thov kom tseg siav tsam nws thev tsis taus nws looj tsis hnov lawm . lub sij hawm zoo li ntawd mas nws mloog lus . yus hais li cas nws kam tas tibsi tsuav yog yus pub mos txwv dhia kom nws thev taus xwb ces nws kam txhua yam . nyias muaj nyias mavtais . poj niam paub txiv neej lub chaw kom txiv neej nyoo kiag . poj niam los ham tsi muaj poj niam lub chaw nyoo kiag ib yam . yog nws siv mavtais 6 yus los yus kawg qw thov . yus siv 6 nws los nws kawg qw thov . ntuj yeeb faib kom ncaj nruab nrab . 2 tug tom U qhia poj niam lub pub 6 kuv na . kuv tias yog nws siab phem tsis qhia no kuv mus tsev kuv tsis tuaj ib zaug ntxiv lawm no xwb ces nws qhia sai kawg . kuv xav tias tsam dag . kuv sim nws yog thawj tug . tus 2 tom U los kuv siv thiab verify tau tias siv lub mavtais ntawd 6 lady ces nws kawg qw thov . yus tsis tsum ces nws yeej qw kli lub cav tsheb uas muaj ib lubnrovhleb2 no tsis ntsiag li lawm . nws qw soob2 heev kuv kuj ntshai tsam nws tud apartment manager lam los saib ua cas nws yuav qw soob thiab nrov ua luaj li . kuv thiaj tsum tsis siv thaj ntawd lawm . 3 tug ladies ntsib lub mav ntawd mas nws lub ncaujkom yus tsum tabsis nws lub cev lub siab xav kom yus txhob tsum . nws kom yus tsum tabsis nws yog tus khawm yus khov khov kom yus txhob tsum . qhov tseeb tiag mas nws xav kom yus mos txwv dhia kiag tam sim ntawd yog tsis li ces yus pheej tseem muab nws tshiav ntev nws twb thev tsis taus lawm . yog yus ho tsum kiag no ces nws yuav plam tsis txog nws lub hom phiaj thiab ces thaum ntawd nws ua ob lub siab . 1 ) xav kom txog nws lub hom phiaj ces khawm yus khov2 kom yus txhob plam 2 ) nws thev tsis taus lawm ces xav kom yus nres .
+Born kuv mus FRESNO , CA ib zaug kuv ntsib ib tug nkauj nrab nrog kuv mus hotel ib hmo xyov ua li cas zuaj kom xav xaws tas du lug los mos txwv tsis dhia li siab xav li .
+xyov yog nws thiab yus tsis sib haum los yog li cas li thiab tiag .
+xav tiam tsam tim kuv lub cev tabsis los txog tsev mam nrog poj niam pw ua cas mos txwv dhia cauj kawg thiab tiag .
+tus nram hotel FRESNO mas pw zoo2 nrab dav dav tibn si los mos txwv tsis dhia kiag li tiag muab nws caij thiab theev ib hmos nws tsis pom ib lub mos txwv li .
+2 tug ob ob tom U nyob WI mas mos txwv ho dhia cauj kawg .
+ib hmos 12 - 16 zaus .
 
-Kwv Born2bH ,
-Koj cov sob lus saum yeej yog li koj hais lawm , kuv yeej paub li qhov koj hais , tab sis kuv tuaj hauv no tau 2 xyoo ntau no kuv muab sawv daws luj tag lawm , sawv daws nyiam tham fab hluas nkauj mas muaj zog zig , yog tias ho mus tham txog fab ciaj haiv no ces feem coob yuav ntau nqi tias yus yog niag neeg Vwm lawm , ntiaj teb tsi hais li yus hais , zoo li no thiaj qaug zog txog fab kev ua kom ciaj haiv lawm , cia yus ho rov los nrog cov coob tham hluas nkauj ces xaus rau qhov ntawd kom tag mus mas Hmoob  lub siab thiaj li yuav nqig .
-Koj ua  kwv koj yeej paub zoo lawm , hais txog txoj kev yuav ua kom Hmoob lub neej ciaj haiv mas muaj tsi txog 1% tuaj yus sab , yog hais txog fab kev ua si nrog hluas nkauj mas 100% txhua tus luag ntxhi qab siab lug tham tsi paub xaus li .
-idonotknow ,
-Koj kuj heev kawg thiab laiv , lawv yuav nco koj tshav ntuj heev .
-Kwvtijhmoob ,
-yog lawm laus , yog tias los nrog koj thiab nej coob tus hauv no kho phom mas zoo tshaj lawm , thaum twg muaj chaw kho phom ces hais qhia paub nawb , tab sis yuav tsum yog lub phiaj zoo kho phom mas thiaj xav kho phom thiab .
-YTK
+2 tug tom U no mas tseem ceev thiab nruj heev ces yog yus yeem lub cev nrog nkawd lawm ces mos txwv kawg dhia mus caum kom tau ob tug ob ob no .
+2 tug tom U no muaj ib tug mas lub mis loj thiav kheej2 li lub txiv lws zoov rxaus siab nyiam kawg li tiag .
+ib tug mas lub mis me zog tabsis pib vhom kiag lawm mas zoo ntxim nyiam kawg li thiab .
+poj niam lub cev thaum nws lub mis pib chom kiag mas poj niam nyiam2 txiv neej heev lawm ov .
+mus txog tom nws lub apartment tom U ces ntshe yus tsis kam rau nws pib txoj kev lomzem xwb yog yus kav mas nws txawj muab yus khawm thiab tawb kiag yus 6 nram txaj los yog ntawm sofa nws mam pib daws yus li nws siab nyiam .
+neeg mloog lus li ob tug ob ob tom U no mastsim nyog yus yuav tau hlub thiab hos .
+nkawv thiaj nyiag tau tus txiv neej lub siab hlub siab nyiam .
+tus poj niam los hluas nkauj tawv ncauj mas xav muab pov tseg xwb tiag .
+tim vibnais kuv tham ob tug hluas nkauj .
+ib tug 02 mas tawv ncauj .
+tau khawm thiab puag zaum puav xwb .
+ib tug 08 mas mloog lus thiab nws tso lub cev ywj siab li yus nyiam .
+tus ntawm 02 ces ua siab muab pov tseg tsis nco tsis kk li lawm tus tim 08 mus yuav txiv lawm yog rov ntsib mas tseem xav nrog tus mloog lu li nws sib tawb ib cuam ua nyuj sib nrau seb leej twg yuav tawm lub tshav .
+yeej paub txiv neej tsis lam yeej˙tabsis mam siv lub mavtais kom nws txaus2 siab 5 - 10 minutes ces nws kawg thov kom tseg siav tsam nws thev tsis taus nws looj tsis hnov lawm .
+lub sij hawm zoo li ntawd mas nws mloog lus .
+yus hais li cas nws kam tas tibsi tsuav yog yus pub mos txwv dhia kom nws thev taus xwb ces nws kam txhua yam .
+nyias muaj nyias mavtais .
+poj niam paub txiv neej lub chaw kom txiv neej nyoo kiag .
+poj niam los ham tsi muaj poj niam lub chaw nyoo kiag ib yam .
+yog nws siv mavtais 6 yus los yus kawg qw thov .
+yus siv 6 nws los nws kawg qw thov .
+ntuj yeeb faib kom ncaj nruab nrab .
+2 tug tom U qhia poj niam lub pub 6 kuv na .
+kuv tias yog nws siab phem tsis qhia no kuv mus tsev kuv tsis tuaj ib zaug ntxiv lawm no xwb ces nws qhia sai kawg .
+kuv xav tias tsam dag .
+kuv sim nws yog thawj tug .
+tus 2 tom U los kuv siv thiab verify tau tias siv lub mavtais ntawd 6 lady ces nws kawg qw thov .
+yus tsis tsum ces nws yeej qw kli lub cav tsheb uas muaj ib lubnrovhleb2 no tsis ntsiag li lawm .
+nws qw soob2 heev kuv kuj ntshai tsam nws tud apartment manager lam los saib ua cas nws yuav qw soob thiab nrov ua luaj li .
+kuv thiaj tsum tsis siv thaj ntawd lawm .
+3 tug ladies ntsib lub mav ntawd mas nws lub ncaujkom yus tsum tabsis nws lub cev lub siab xav kom yus txhob tsum .
+nws kom yus tsum tabsis nws yog tus khawm yus khov khov kom yus txhob tsum .
+qhov tseeb tiag mas nws xav kom yus mos txwv dhia kiag tam sim ntawd yog tsis li ces yus pheej tseem muab nws tshiav ntev nws twb thev tsis taus lawm .
+yog yus ho tsum kiag no ces nws yuav plam tsis txog nws lub hom phiaj thiab ces thaum ntawd nws ua ob lub siab .
+1 ) xav kom txog nws lub hom phiaj ces khawm yus khov2 kom yus txhob plam 2 ) nws thev tsis taus lawm ces xav kom yus nres .
 
-On Thursday , January 31 , 2013 7 : 40 : 06 AM UTC - 6 , Born2beHmong wrote : > tijlaug YTK , > > > > txivneeg yawg , yuav tham dabtsi los tham kom muaj tshuaj nawb .... yus yuav ua los , nyob tsi qhia neej , tuag tsi qhia dab nawb . > > > > yog koj muab coj los qhia neej li no lawm , kawg dab yeej yuav los cab xwb tiag tiag laud . > > > > hais ncaj nawb , yog tham mus tham los es los tham tej niag dabneeg li no ces yus tej ncaujlug tsi muaj tshuaj li lawm ntag laid ... brother . > > > > nej cov ua tij ua tseem sawv lub samxeeb ua xav los tsa kom hmoob ciajtsav thiab haiv naj ... > > > > LOLz ! > > > > Born Kwv Born2bH , Koj cov sob lus saum yeej yog li koj hais lawm , kuv yeej paub li qhov koj hais , tab sis kuv tuaj hauv no tau 2 xyoo ntau no kuv muab sawv daws luj tag lawm , sawv daws nyiam tham fab hluas nkauj mas muaj zog zig , yog tias ho mus tham txog fab ciaj haiv no ces feem coob yuav ntau nqi tias yus yog niag neeg Vwm lawm , ntiaj teb tsi hais li yus hais , zoo li no thiaj qaug zog txog fab kev ua kom ciaj haiv lawm , cia yus ho rov los nrog cov coob tham hluas nkauj ces xaus rau qhov ntawd kom tag mus mas Hmoob lub siab thiaj li yuav nqig . Koj ua kwv koj yeej paub zoo lawm , hais txog txoj kev yuav ua kom Hmoob lub neej ciaj haiv mas muaj tsi txog 1% tuaj yus sab , yog hais txog fab kev ua si nrog hluas nkauj mas 100% txhua tus luag ntxhi qab siab lug tham tsi paub xaus li . idonotknow , Koj kuj heev kawg thiab laiv , lawv yuav nco koj tshav ntuj heev . Kwvtijhmoob , yog lawm laus , yog tias los nrog koj thiab nej coob tus hauv no kho phom mas zoo tshaj lawm , thaum twg muaj chaw kho phom ces hais qhia paub nawb , tab sis yuav tsum yog lub phiaj zoo kho phom mas thiaj xav kho phom thiab . YTK
-YTK ,
-txawm muaj li koj los txhob hais dhau qhov dhau xwb os nawb .  kuv nkagsiab zoo ...
-dhau li ntawd , peb tsavneeg hmoob no peb tseem tsi tau qhib peb lub siab zoo kom txog qhov ciaj haiv ned ... ces qhov ua peb paub tham tshaj ces yog kev plees kev yis xwb ...
-li ntawd , leej twg los thiaj li tham tau xwb ned .  dhau ntawd lawm ces peb tsi paub tham lawm -- vim li no , peb thiaj li tsi tshua tham .
+Kwv Born2bH , Koj cov sob lus saum yeej yog li koj hais lawm , kuv yeej paub li qhov koj hais , tab sis kuv tuaj hauv no tau 2 xyoo ntau no kuv muab sawv daws luj tag lawm , sawv daws nyiam tham fab hluas nkauj mas muaj zog zig , yog tias ho mus tham txog fab ciaj haiv no ces feem coob yuav ntau nqi tias yus yog niag neeg Vwm lawm , ntiaj teb tsi hais li yus hais , zoo li no thiaj qaug zog txog fab kev ua kom ciaj haiv lawm , cia yus ho rov los nrog cov coob tham hluas nkauj ces xaus rau qhov ntawd kom tag mus mas Hmoob lub siab thiaj li yuav nqig .
+
+Koj ua kwv koj yeej paub zoo lawm , hais txog txoj kev yuav ua kom Hmoob lub neej ciaj haiv mas muaj tsi txog 1% tuaj yus sab , yog hais txog fab kev ua si nrog hluas nkauj mas 100% txhua tus luag ntxhi qab siab lug tham tsi paub xaus li .
+
+idonotknow , Koj kuj heev kawg thiab laiv , lawv yuav nco koj tshav ntuj heev .
+
+Kwvtijhmoob , yog lawm laus , yog tias los nrog koj thiab nej coob tus hauv no kho phom mas zoo tshaj lawm , thaum twg muaj chaw kho phom ces hais qhia paub nawb , tab sis yuav tsum yog lub phiaj zoo kho phom mas thiaj xav kho phom thiab .
+
+YTK On Thursday , January 31 , 2013 7 : 40 : 06 AM UTC - 6 , Born2beHmong wrote : > tijlaug YTK , > > > > txivneeg yawg , yuav tham dabtsi los tham kom muaj tshuaj nawb ....
+yus yuav ua los , nyob tsi qhia neej , tuag tsi qhia dab nawb .
+> > > > yog koj muab coj los qhia neej li no lawm , kawg dab yeej yuav los cab xwb tiag tiag laud .
+> > > > hais ncaj nawb , yog tham mus tham los es los tham tej niag dabneeg li no ces yus tej ncaujlug tsi muaj tshuaj li lawm ntag laid ...
+brother .
+> > > > nej cov ua tij ua tseem sawv lub samxeeb ua xav los tsa kom hmoob ciajtsav thiab haiv naj ...
+> > > > LOLz !
+> > > > Born Kwv Born2bH , Koj cov sob lus saum yeej yog li koj hais lawm , kuv yeej paub li qhov koj hais , tab sis kuv tuaj hauv no tau 2 xyoo ntau no kuv muab sawv daws luj tag lawm , sawv daws nyiam tham fab hluas nkauj mas muaj zog zig , yog tias ho mus tham txog fab ciaj haiv no ces feem coob yuav ntau nqi tias yus yog niag neeg Vwm lawm , ntiaj teb tsi hais li yus hais , zoo li no thiaj qaug zog txog fab kev ua kom ciaj haiv lawm , cia yus ho rov los nrog cov coob tham hluas nkauj ces xaus rau qhov ntawd kom tag mus mas Hmoob lub siab thiaj li yuav nqig .
+Koj ua kwv koj yeej paub zoo lawm , hais txog txoj kev yuav ua kom Hmoob lub neej ciaj haiv mas muaj tsi txog 1% tuaj yus sab , yog hais txog fab kev ua si nrog hluas nkauj mas 100% txhua tus luag ntxhi qab siab lug tham tsi paub xaus li .
+idonotknow , Koj kuj heev kawg thiab laiv , lawv yuav nco koj tshav ntuj heev .
+Kwvtijhmoob , yog lawm laus , yog tias los nrog koj thiab nej coob tus hauv no kho phom mas zoo tshaj lawm , thaum twg muaj chaw kho phom ces hais qhia paub nawb , tab sis yuav tsum yog lub phiaj zoo kho phom mas thiaj xav kho phom thiab .
+YTK YTK , txawm muaj li koj los txhob hais dhau qhov dhau xwb os nawb .
+kuv nkagsiab zoo ...
+
+dhau li ntawd , peb tsavneeg hmoob no peb tseem tsi tau qhib peb lub siab zoo kom txog qhov ciaj haiv ned ...
+ces qhov ua peb paub tham tshaj ces yog kev plees kev yis xwb ...
+
+li ntawd , leej twg los thiaj li tham tau xwb ned .
+dhau ntawd lawm ces peb tsi paub tham lawm -- vim li no , peb thiaj li tsi tshua tham .
+
 tsi tag li xwb , cov paub tham los zoo li lawv lubsiab tseem Paivtaub thiab Luv luv li -- tham me me tsi haum siab xwb lawv tham lus tavtojzas ces tsi huv thiab raug siab ces thiaj li tsi xav tham xwb .
-ua li nawb , txawm tham los tham kom meejpem zog xwb ... kawg thaum yus tsi yeej lawv lawm los , yuav tsum tau Join lawv thiab .... xwb yus thiaj li tsi muaj muaj stress os mog ...
-thanks ,
-Born
 
-Nyob zoo kwv Born ,
-Hmoob ces 5000 xyoo los lawm yeej tsuas hais daim me AV 2 nti ..... ntshai yuav tshuav 5000 ntxiv saib hmoob puas tso tseg tau hais daim AV 2 nti ..... koj saib maj
-Hmoob txawj mus kho phom lawm thiab ces tsis yog yuav ciaj tau HAIV ..... yog tseem yuav hais daim AV 2 nti xwb od .
-Kuv ces yeej tu siab nrho puag thaum 1975 los lawm as ..... lam ua lub neej npuab luag lwm haiv neeg ... luag taws tes siab mus siab taw tes qis mus qis tshuav luag pheej them nyiaj yus tus me nqi zog ces zoo kawg lawm .
+ua li nawb , txawm tham los tham kom meejpem zog xwb ...
+kawg thaum yus tsi yeej lawv lawm los , yuav tsum tau Join lawv thiab ....
+xwb yus thiaj li tsi muaj muaj stress os mog ...
 
-Nyob zoo kwv Born , Hmoob ces 5000 xyoo los lawm yeej tsuas hais daim me AV 2 nti ..... ntshai yuav tshuav 5000 ntxiv saib hmoob puas tso tseg tau hais daim AV 2 nti ..... koj saib maj Hmoob txawj mus kho phom lawm thiab ces tsis yog yuav ciaj tau HAIV ..... yog tseem yuav hais daim AV 2 nti xwb od . Kuv ces yeej tu siab nrho puag thaum 1975 los lawm as ..... lam ua lub neej npuab luag lwm haiv neeg ... luag taws tes siab mus siab taw tes qis mus qis tshuav luag pheej them nyiaj yus tus me nqi zog ces zoo kawg lawm .
-tijlaug Phwvnyawm ,
-ces koj ua  tij kom wb mus ua li wb me kwvtij Thai Yang no lawm xwb ntag lod .... LOLz !
-https ://www . youtube . com/watch ? v=fm_koQFSHV4
-Born
+thanks , Born Nyob zoo kwv Born , Hmoob ces 5000 xyoo los lawm yeej tsuas hais daim me AV 2 nti .....
+ntshai yuav tshuav 5000 ntxiv saib hmoob puas tso tseg tau hais daim AV 2 nti .....
+koj saib maj Hmoob txawj mus kho phom lawm thiab ces tsis yog yuav ciaj tau HAIV .....
+yog tseem yuav hais daim AV 2 nti xwb od .
 
-kuv mas lawv kawg nco . kuv tseem ntsai tsam lawv ho muab kuv nco dhau lawv rov tsis qabsia ua neej nrog lawv tus txiv lawm xwb . kuv xav kom lawv zoo siab nrog lawv tus txiv li thaum lawv nrog kuv nyob ua ke . yog tus twg tsis treat nws tus txiv li thaum i nws treat kuv ces yog pom kuv tsis kk hais hi 6 nws li lzawm txhob tusiab xwb mas . cov hluas nkauj kuv ntsib los lawm kuv paub muaj ib tug yog kuv tias tsis kk nws no ces nws kawg xum tuag vim ib lo lus no xwb ntag . tus no mas ua zoo ntxias ov . yog tsis ntxias nws txawj chim kom tuag taus ov .
-tus kuv hais no mas kawm tom U tim meskas no  ov . ib tug
-thaum kuv vwm muaj ob tug nrog kuv tham mas nkawd qhia tias kuv tus poj niam uas wb tau sib yuav los yog neeg ntiaj teb tau 9 tiam neeg yav tas los mas nyob vibnais nws thiab kuv twb sib pom ib zaug pem 03 kuv tsis paub nws tabsis nws paub kuv . thaum kuv twb yuav poj niam nws tseem tab tom yuav tiav hluas nkauj . nws tau tuaj ntsib kuv ib zaug tim tsev ua hauj lwm UN ntawm qaum kev ntug tshav ncaws npas . nws tuaj ntsib kuv zaum ob rau ntawm UB los nws paub kuv tabsis kuv tsis lees tsis paub nws kiag li ces nws chim heev nws rov mus tsev rau 03 . chim nws txaus vim nws thiab kuv yug los yog ib xeem neeg ces yuav tsis tau li lus cog cia pem ntuj ua ntej wb nqes los ntiaj teb . nws xav li cas los tws kev vim wb yog ib xeem . nws tus plig thiaj khiav rov pem ub . nws lub cev thiaj tuag kiag pem 03 nyob vibnais . tus nkawv los qhia kuv thaum kuv tseem vwm2 mas nkawd tias nws rov yug los ib zaug tshiab rau tim thaibteb nyob Chiangmai . zaum no nws los yug nws tsis yog kuv xeem lawm . nkawv tias xyoo 2008 kuv twb mus pom nws ib zaug tim thaib .
-tus tim thaib no mas yog thaum kuv VWM2 muaj ob tug los nrog kuv tham los qhia kuv xwb saum neej no kuv twb tsis tau nrog nws hais ib lo lus txoj kev hlub .  yog nkawv qhia tias nws thiab kuv yog niam txiv los tau 9 tiam neeg lawm thaum nyob pem ntuj ub wb yuav nqes 6 ntiaj teb mas wb cog lus kom rov los yog niam txiv rau tiam 10 . nkawv piav xwb kuj tseem ua 6 kuv cia siab kawg vim kuv nug nkawv tias kuv yog 40+ lawm nws yog 18 - 19 xwb nws puas kam rov yuav kuv rau tiam 10 ntawm kuv thiab nws lub neej . nkawv hais tias nws yeej kam xwb yog tsis yuav ces nws kawg rov qab li qub uas nws twb rov mus ib zaug lawm . yog tias txhob yog kev vwm xwb yog muaj tseeb2 li ob tug no qhia kuv mas kuj tsim nyog kuv yuav tau rov mus ntsib nws tsawg kawg los ib zaug ntxiv mus nug kom tseeb2 . tabsis thaum kuv tsis vwm ob tug ntawd kuj tsis rov los nrog kuv tham li lawm vim zaum tom qab nkawv lods nrog kuv tham yog OCTOBER - NOVEMBER 2010 dhau ntawd los ces nkawv tsis tau los nrog kuv tham li lawm . kuv thiaj xav tias yog kuv vwm xwb . 2008 kuv mus tim thaib kuv cim tau lawv tud phone # vim yog 10 tus lej xwb ces nkag kuv lub hlwb no yeej tsis lam ploj sai . tau ze 5 xyoo no kuj tseem nyob saum kuv lub hlwb tias yog 089191 - abcd muaj ib hnub twg ntshe kuv yuav lam mus nuv ntses tom lake xwb kuv twb nqa phon e mus hu rau nws tim ub lawm . xav paub tseeb tias puas yog kuv vwm los yog muaj tiag li ob tug los nrog kuv tham tau qhia kuv . tus abcd mas yog code kom nej txhob hu mus thab nws xwb vim yog qhia kom tas2 ces tsam nej leej twg hu mus nug nws seb yog kuv vwm los yog muaj tseeb . yog yuav nug lwm hnub kuv mam hu mus nug . yam kuv ntshai mas kuv ntshai tsam ob tug los nrog kuv tham nkawv siv double blind information . nkawv los qhia kuv li cas ces nkawv twb qhia tus tim ub ib yam nkaus . yog kuv rov nug tus tim ub nws kuj paub li kuv paub . yuav ua cas paub tseeb tias yog kuv vwm los yog muaj tseeb no ma ?
-finding the truth zoo li tsis yooj8 kiag li ntag . vim ob tug kuv hais no mas kuv lub hlwb xav li cas nkawv twb paub tas ua ntej kuv yuav gais lus tawm kom neeg hnov lawm . hom no lawv paub neeg lub siab vim yog lawv hom special talent .
-raws li nkag siab mas ntuj yeej tsim lawv hom special yog ( 1 ) yuav mus twg los teleport nrawm tshaj ib second . ( 2 ) lawv xav hnov leej twg lub tswv8 los lawv tsis tas yuav mus nyob ze ze thiaj hnov . lawv nyob lawv ib sab ntuj los yog lawv tig kiag lawv lub pob ntseg rau tus neeg ntawv lub chinnel xwb ces tus neeg ntawv hais li cas thiab xav li cas hau nws lub hlwb los lawv hnov du lug . yam peb ( 3 ) lub tuj muab rau hom no mas yog tsis muaj lub cev nqaij daim tawv li neeg ntiaj teb lawv yog energy form xwb ces lawv yuav tawm/nkag hauv tsev los tej phab ntsa yeej thaiv tsis tau lawv . yam 3 no qhov - yog tsis muaj feeling sensation .
-ntuj tsim neeg thiab tsiaj 6 ntiaj teb mas muaj ( 1 ) ib yam special yog lub qhov muag kom pom yog tsis muaj ib yam ntis/thaiv lub qhov muag . yam ( 2 ) ob yog lub cev nqaij daim tawv/body . lub cev/body yuav pass/hla tsis tau material wall/pab ntsa . qhov + yog lub cev/body muaj sensation/feeling
-ohyo SCH yuav mag nyab tiag tso tseg li no . lwm zaus mam sau ntxiv . mus rub ntses rau saum nkoj tso .
+Kuv ces yeej tu siab nrho puag thaum 1975 los lawm as .....
+lam ua lub neej npuab luag lwm haiv neeg ...
+luag taws tes siab mus siab taw tes qis mus qis tshuav luag pheej them nyiaj yus tus me nqi zog ces zoo kawg lawm .
 
-tus tsis tees koos loos no mas txaus hluag tiag2 . yog nej hais kwv txhiaj zaum puav mas nej yuav paub nws txoj kev lem ntawm nws txwm kwv txhiaj . nws hais tas tus hluas nkauj kawg nyiah nyiam tham nws li lawm . nws hai kwv txhiaj tus hluas nkauj twb muab nws ntau tej nrig ua ntej li hluas nkauj twb signal hluas nkauj yeem lawm .
+Nyob zoo kwv Born , Hmoob ces 5000 xyoo los lawm yeej tsuas hais daim me AV 2 nti .....
+ntshai yuav tshuav 5000 ntxiv saib hmoob puas tso tseg tau hais daim AV 2 nti .....
+koj saib maj Hmoob txawj mus kho phom lawm thiab ces tsis yog yuav ciaj tau HAIV .....
+yog tseem yuav hais daim AV 2 nti xwb od .
+Kuv ces yeej tu siab nrho puag thaum 1975 los lawm as .....
+lam ua lub neej npuab luag lwm haiv neeg ...
+luag taws tes siab mus siab taw tes qis mus qis tshuav luag pheej them nyiaj yus tus me nqi zog ces zoo kawg lawm .
 
-Kwv Born ... aw ,
-Ua cas tus ntxhais no yuav saib yawg kwv tij no mas ntxim qab - b kawg
-nkaus li os .... zoo nkauj tiag - g ...... ua cas yuav txawv hais kwv txhiaj
-zoo ua luaj tiag ...... kuv mas luag - g mob plab tag li lawm od .
+tijlaug Phwvnyawm , ces koj ua tij kom wb mus ua li wb me kwvtij Thai Yang no lawm xwb ntag lod ....
+LOLz !
+
+http ://www . website . net/watch ?
+v=fm_koQFSHV4 Born kuv mas lawv kawg nco .
+kuv tseem ntsai tsam lawv ho muab kuv nco dhau lawv rov tsis qabsia ua neej nrog lawv tus txiv lawm xwb .
+kuv xav kom lawv zoo siab nrog lawv tus txiv li thaum lawv nrog kuv nyob ua ke .
+yog tus twg tsis treat nws tus txiv li thaum i nws treat kuv ces yog pom kuv tsis kk hais hi 6 nws li lzawm txhob tusiab xwb mas .
+cov hluas nkauj kuv ntsib los lawm kuv paub muaj ib tug yog kuv tias tsis kk nws no ces nws kawg xum tuag vim ib lo lus no xwb ntag .
+tus no mas ua zoo ntxias ov .
+yog tsis ntxias nws txawj chim kom tuag taus ov .
+
+tus kuv hais no mas kawm tom U tim meskas no ov .
+ib tug thaum kuv vwm muaj ob tug nrog kuv tham mas nkawd qhia tias kuv tus poj niam uas wb tau sib yuav los yog neeg ntiaj teb tau 9 tiam neeg yav tas los mas nyob vibnais nws thiab kuv twb sib pom ib zaug pem 03 kuv tsis paub nws tabsis nws paub kuv .
+thaum kuv twb yuav poj niam nws tseem tab tom yuav tiav hluas nkauj .
+nws tau tuaj ntsib kuv ib zaug tim tsev ua hauj lwm UN ntawm qaum kev ntug tshav ncaws npas .
+nws tuaj ntsib kuv zaum ob rau ntawm UB los nws paub kuv tabsis kuv tsis lees tsis paub nws kiag li ces nws chim heev nws rov mus tsev rau 03 . chim nws txaus vim nws thiab kuv yug los yog ib xeem neeg ces yuav tsis tau li lus cog cia pem ntuj ua ntej wb nqes los ntiaj teb .
+nws xav li cas los tws kev vim wb yog ib xeem .
+nws tus plig thiaj khiav rov pem ub .
+nws lub cev thiaj tuag kiag pem 03 nyob vibnais .
+tus nkawv los qhia kuv thaum kuv tseem vwm2 mas nkawd tias nws rov yug los ib zaug tshiab rau tim thaibteb nyob Chiangmai .
+zaum no nws los yug nws tsis yog kuv xeem lawm .
+nkawv tias xyoo 2008 kuv twb mus pom nws ib zaug tim thaib .
+
+tus tim thaib no mas yog thaum kuv VWM2 muaj ob tug los nrog kuv tham los qhia kuv xwb saum neej no kuv twb tsis tau nrog nws hais ib lo lus txoj kev hlub .
+yog nkawv qhia tias nws thiab kuv yog niam txiv los tau 9 tiam neeg lawm thaum nyob pem ntuj ub wb yuav nqes 6 ntiaj teb mas wb cog lus kom rov los yog niam txiv rau tiam 10 .
+nkawv piav xwb kuj tseem ua 6 kuv cia siab kawg vim kuv nug nkawv tias kuv yog 40+ lawm nws yog 18 - 19 xwb nws puas kam rov yuav kuv rau tiam 10 ntawm kuv thiab nws lub neej .
+nkawv hais tias nws yeej kam xwb yog tsis yuav ces nws kawg rov qab li qub uas nws twb rov mus ib zaug lawm .
+yog tias txhob yog kev vwm xwb yog muaj tseeb2 li ob tug no qhia kuv mas kuj tsim nyog kuv yuav tau rov mus ntsib nws tsawg kawg los ib zaug ntxiv mus nug kom tseeb2 . tabsis thaum kuv tsis vwm ob tug ntawd kuj tsis rov los nrog kuv tham li lawm vim zaum tom qab nkawv lods nrog kuv tham yog OCTOBER - NOVEMBER 2010 dhau ntawd los ces nkawv tsis tau los nrog kuv tham li lawm .
+kuv thiaj xav tias yog kuv vwm xwb .
+2008 kuv mus tim thaib kuv cim tau lawv tud phone # vim yog 10 tus lej xwb ces nkag kuv lub hlwb no yeej tsis lam ploj sai .
+tau ze 5 xyoo no kuj tseem nyob saum kuv lub hlwb tias yog 089191 - abcd muaj ib hnub twg ntshe kuv yuav lam mus nuv ntses tom lake xwb kuv twb nqa phon e mus hu rau nws tim ub lawm .
+xav paub tseeb tias puas yog kuv vwm los yog muaj tiag li ob tug los nrog kuv tham tau qhia kuv .
+tus abcd mas yog code kom nej txhob hu mus thab nws xwb vim yog qhia kom tas2 ces tsam nej leej twg hu mus nug nws seb yog kuv vwm los yog muaj tseeb .
+yog yuav nug lwm hnub kuv mam hu mus nug .
+yam kuv ntshai mas kuv ntshai tsam ob tug los nrog kuv tham nkawv siv double blind information .
+nkawv los qhia kuv li cas ces nkawv twb qhia tus tim ub ib yam nkaus .
+yog kuv rov nug tus tim ub nws kuj paub li kuv paub .
+yuav ua cas paub tseeb tias yog kuv vwm los yog muaj tseeb no ma ?
+
+finding the truth zoo li tsis yooj8 kiag li ntag .
+vim ob tug kuv hais no mas kuv lub hlwb xav li cas nkawv twb paub tas ua ntej kuv yuav gais lus tawm kom neeg hnov lawm .
+hom no lawv paub neeg lub siab vim yog lawv hom special talent .
+
+raws li nkag siab mas ntuj yeej tsim lawv hom special yog ( 1 ) yuav mus twg los teleport nrawm tshaj ib second .
+( 2 ) lawv xav hnov leej twg lub tswv8 los lawv tsis tas yuav mus nyob ze ze thiaj hnov .
+lawv nyob lawv ib sab ntuj los yog lawv tig kiag lawv lub pob ntseg rau tus neeg ntawv lub chinnel xwb ces tus neeg ntawv hais li cas thiab xav li cas hau nws lub hlwb los lawv hnov du lug .
+yam peb ( 3 ) lub tuj muab rau hom no mas yog tsis muaj lub cev nqaij daim tawv li neeg ntiaj teb lawv yog energy form xwb ces lawv yuav tawm/nkag hauv tsev los tej phab ntsa yeej thaiv tsis tau lawv .
+yam 3 no qhov - yog tsis muaj feeling sensation .
+
+ntuj tsim neeg thiab tsiaj 6 ntiaj teb mas muaj ( 1 ) ib yam special yog lub qhov muag kom pom yog tsis muaj ib yam ntis/thaiv lub qhov muag .
+yam ( 2 ) ob yog lub cev nqaij daim tawv/body .
+lub cev/body yuav pass/hla tsis tau material wall/pab ntsa .
+qhov + yog lub cev/body muaj sensation/feeling ohyo SCH yuav mag nyab tiag tso tseg li no .
+lwm zaus mam sau ntxiv .
+mus rub ntses rau saum nkoj tso .
+
+tus tsis tees koos loos no mas txaus hluag tiag2 . yog nej hais kwv txhiaj zaum puav mas nej yuav paub nws txoj kev lem ntawm nws txwm kwv txhiaj .
+nws hais tas tus hluas nkauj kawg nyiah nyiam tham nws li lawm .
+nws hai kwv txhiaj tus hluas nkauj twb muab nws ntau tej nrig ua ntej li hluas nkauj twb signal hluas nkauj yeem lawm .
+
+Kwv Born ...
+aw , Ua cas tus ntxhais no yuav saib yawg kwv tij no mas ntxim qab - b kawg nkaus li os ....
+zoo nkauj tiag - g ......
+ua cas yuav txawv hais kwv txhiaj zoo ua luaj tiag ......
+kuv mas luag - g mob plab tag li lawm od .
 
 lub cev yav saum mas zoo nkauj lawm tabsis poj blog poj thaib hauv daim VDO no ob sab ceg thiab ncej puab kuv xav muab hlais pov tseg pauv ob sab txawv 6 .
 
-On Thursday , January 31 , 2013 12 : 49 : 01 PM UTC - 6 , Born2beHmong wrote :
-Kwv Born2bH ,
-Koj ob qhov post mas zoo sib nrawg nroos , thawj qhov post mas tus ntxhais ib leeg hais kwv txhiaj , nws tus yam ntxwv nrog rau lub ntsej muag los zoo dawb mos , kuv ntsia nws ob txhais tes mas zoo nkauj thiab mos kawg li , yog cov nraug nrab tau mas yuav hlub nws heev , rau qhov tias tej me ntiv tes yiag yiag zoo tas zog ntxim tawb txiv neej nyiam kawg .
-Qhov post ob mas nws nrog tus txiv neej sib lwv , ntsia mas ntxim nws nyiam tus txiv neej hais kwv txhiaj heev , nws ob lub qhov muag mas ntsia tib neeg tau ntxim nyiam kawg , nws ua tau qhov muag qab zib kawg nkaus rau tus txiv neej , nws lub qhov muag mas ntsia ib muag ib muag rau tus txiv neej , laj muag qas yeeb saib ib muag ib muag li ntawd mas kuj tawv txiv neej nyiam kawg thiab .
-Ua tsaug rau koj ob qhov post no .
-YTK
+On Thursday , January 31 , 2013 12 : 49 : 01 PM UTC - 6 , Born2beHmong wrote : Kwv Born2bH , Koj ob qhov post mas zoo sib nrawg nroos , thawj qhov post mas tus ntxhais ib leeg hais kwv txhiaj , nws tus yam ntxwv nrog rau lub ntsej muag los zoo dawb mos , kuv ntsia nws ob txhais tes mas zoo nkauj thiab mos kawg li , yog cov nraug nrab tau mas yuav hlub nws heev , rau qhov tias tej me ntiv tes yiag yiag zoo tas zog ntxim tawb txiv neej nyiam kawg .
 
-Cov npoj yaig ,
-Ua cas peb txiv neej saib tsi taus cov poj niam li nes , peb twb yog tawm hauv poj niam lub plab los txhua tus xwb sub nev ua cas yuav saib tej poj niam qaij npaum ntawd .
-https ://www . youtube . com/watch ? v=ayCFZ5KuUO0
-YTK
+Qhov post ob mas nws nrog tus txiv neej sib lwv , ntsia mas ntxim nws nyiam tus txiv neej hais kwv txhiaj heev , nws ob lub qhov muag mas ntsia tib neeg tau ntxim nyiam kawg , nws ua tau qhov muag qab zib kawg nkaus rau tus txiv neej , nws lub qhov muag mas ntsia ib muag ib muag rau tus txiv neej , laj muag qas yeeb saib ib muag ib muag li ntawd mas kuj tawv txiv neej nyiam kawg thiab .
+
+Ua tsaug rau koj ob qhov post no .
+
+YTK Cov npoj yaig , Ua cas peb txiv neej saib tsi taus cov poj niam li nes , peb twb yog tawm hauv poj niam lub plab los txhua tus xwb sub nev ua cas yuav saib tej poj niam qaij npaum ntawd .
+
+http ://www . website . net/watch ?
+v=ayCFZ5KuUO0 YTK

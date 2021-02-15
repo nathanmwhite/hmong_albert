@@ -1,84 +1,82 @@
-cov phooj ywg sawv daws -- kuv lub computer pheej khiav qeeb qeeb ( very
-slow ) lawm .  yuav ua li cas rau thiaj rov qab khiav ceev tuaj .  kuv
-hnov tias kuj muaj ib cov cleaning programs out there ( not virus scan/
-protection program ) that can clean up your computer to make it go
-faster no , nej leej twg puas paub puas muaj tej cov program yus mus
-download free from the internet cov los siv tau thiab .  ho yog mus
-yuav tom taj laj no ho muaj nyob qhov twg , what are they and how much ?
+cov phooj ywg sawv daws -- kuv lub computer pheej khiav qeeb qeeb ( very slow ) lawm .
+yuav ua li cas rau thiaj rov qab khiav ceev tuaj .
+kuv hnov tias kuj muaj ib cov cleaning programs out there ( not virus scan/ protection program ) that can clean up your computer to make it go faster no , nej leej twg puas paub puas muaj tej cov program yus mus download free from the internet cov los siv tau thiab .
+ho yog mus yuav tom taj laj no ho muaj nyob qhov twg , what are they and how much ?
+
 ua tsaug nawb ..
 
-ntshe yuav kawg zaj koj hais koj lawm xwb lauv .  ua tsaug nawb .
+ntshe yuav kawg zaj koj hais koj lawm xwb lauv .
+ua tsaug nawb .
 
-ntshe yuav kawg zaj koj hais koj lawm xwb lauv .  ua tsaug nawb .
+ntshe yuav kawg zaj koj hais koj lawm xwb lauv .
+ ua tsaug nawb .
+
 Not necessary reformat the HDD and reinstall from scratch !
-Tiam sis Free Programs tsis zoo thiab nawj .  Muaj tej yam
-advertisements uas haj yam ua rau koj lub computer freeze thiab tseem
-mag virus thiab .
-here is what I usually do to my computer ( s ):
-1 .  Use Anti - virus program ( i . e . MaCafee , Norton , etc .) scan the
-entire HDD for viruses .  Yog muaj virus yuav tsum muab tshem .  Tshem
-tsis tau yuav tsum reformat HDD es pib dua tshiab koj tej nyuam nyiaj
-kub ( refering to your files ) thiaj li tsis piam .
-2 .  Yog tsis muaj viruses , mus rau hauv Control Panel , Add/delete
-programs .  Go through cov programs uas automatically install los yog
-tej yam programs uas koj tsis siv lawm - un - install kom tag .
-3 .  Mus rau hauv Internet explorer .  Tools -> Internet Options .  Click
-Delete ...  Thaum tawm qhov windows tshiab tuaj , click qhov uas hais
-tias Delete all .  Qhov delete tag nrho ib puas tsav yam files uas IE
-khaws tseg rau hauv koj lub computer under koj tus login/password .
-4 .  Mus rau system Tools thiab siv Disk Cleanup program .  Delete kom
-tag ib puas tsav yam files .
-5 .  Mus rau System Tools thiab siv Disk Defragmenter program .  Qhov no
-yuav muab koj cov files coj los tso ua ke physically thiag logically
-rau hauv koj lub HDD .  Yog koj tsis tau ua dua li no li mas qhov step
-4 thiab 5 no tej zaum yuav siv tsheej hnub tej .
-Sim li no tag yog tias tseem nkag li vaub kib xwb no ces mus hauv Task
-Manager seb muaj pes tsawg qhov " tasks " running .  Average mas yog
-30 - 40 los yog ntau mas 50 tej xwb nawj .  Tshaj ntawv lawm ces for sure
-koj lub computer yuav khiav qeeb .  Saib seb qhov task twg uas koj tsis
-recognize .  Yog koj tsis paub no ces mus tshawb hauv internet los yog
-Microsoft lub website .   Tej thaum yog tasks uas yuav tsum muaj , tej
-thaum yog spyware programs xwb .
-Ultimately , yog ua li cas tsis tau li no los yeej yuav tsum yog
-reformat xwb .
-Thaum koj reformat , nco ntsoov backup koj cov files uas koj need nawj
-tsis li pab tsis tau .
+
+Tiam sis Free Programs tsis zoo thiab nawj .
+Muaj tej yam advertisements uas haj yam ua rau koj lub computer freeze thiab tseem mag virus thiab .
+
+here is what I usually do to my computer ( s ): 1 . Use Anti - virus program ( i .
+e . MaCafee , Norton , etc .)
+scan the entire HDD for viruses .
+Yog muaj virus yuav tsum muab tshem .
+Tshem tsis tau yuav tsum reformat HDD es pib dua tshiab koj tej nyuam nyiaj kub ( refering to your files ) thiaj li tsis piam .
+
+2 . Yog tsis muaj viruses , mus rau hauv Control Panel , Add/delete programs .
+Go through cov programs uas automatically install los yog tej yam programs uas koj tsis siv lawm - un - install kom tag .
+
+3 . Mus rau hauv Internet explorer .
+Tools -> Internet Options .
+Click Delete ...
+Thaum tawm qhov windows tshiab tuaj , click qhov uas hais tias Delete all .
+Qhov delete tag nrho ib puas tsav yam files uas IE khaws tseg rau hauv koj lub computer under koj tus login/password .
+
+4 . Mus rau system Tools thiab siv Disk Cleanup program .
+Delete kom tag ib puas tsav yam files .
+
+5 . Mus rau System Tools thiab siv Disk Defragmenter program .
+Qhov no yuav muab koj cov files coj los tso ua ke physically thiag logically rau hauv koj lub HDD .
+Yog koj tsis tau ua dua li no li mas qhov step 4 thiab 5 no tej zaum yuav siv tsheej hnub tej .
+
+Sim li no tag yog tias tseem nkag li vaub kib xwb no ces mus hauv Task Manager seb muaj pes tsawg qhov " tasks " running .
+Average mas yog 30 - 40 los yog ntau mas 50 tej xwb nawj .
+Tshaj ntawv lawm ces for sure koj lub computer yuav khiav qeeb .
+Saib seb qhov task twg uas koj tsis recognize .
+Yog koj tsis paub no ces mus tshawb hauv internet los yog Microsoft lub website .
+Tej thaum yog tasks uas yuav tsum muaj , tej thaum yog spyware programs xwb .
+
+Ultimately , yog ua li cas tsis tau li no los yeej yuav tsum yog reformat xwb .
+
+Thaum koj reformat , nco ntsoov backup koj cov files uas koj need nawj tsis li pab tsis tau .
+
 Hopefully , this helps .
-Boua Ger Lo
 
-boua -- yog ov ... mam li ua li qhov koj hais no thiab saib ho puas pab
-tau li cas .  cov li koj piav no ces kuv kuj paub siv lawm thiab los
-mas .  tab sis niag laus tem toob lawm ces thiaj tsis nco txog lawm
-thiab tiag .  xav hais hais ntshe niam no ces yuav muaj ib co program
-clean rau yus yooj yooj lawm xwb no ne .
+Boua Ger Lo boua -- yog ov ...
+mam li ua li qhov koj hais no thiab saib ho puas pab tau li cas .
+cov li koj piav no ces kuv kuj paub siv lawm thiab los mas .
+tab sis niag laus tem toob lawm ces thiaj tsis nco txog lawm thiab tiag .
+xav hais hais ntshe niam no ces yuav muaj ib co program clean rau yus yooj yooj lawm xwb no ne .
+
 ua tsaug nawb .
 
-Muaj tiam sis koj yuav tau poob nyiaj xwb .  Tsis muaj cov
-free .... txawm muaj los kuv yuav tsis recommend rau koj .
-Boua
+Muaj tiam sis koj yuav tau poob nyiaj xwb .
+Tsis muaj cov free ....
+txawm muaj los kuv yuav tsis recommend rau koj .
 
-Post by k***@aol . com
-boua -- yog ov ... mam li ua li qhov koj hais no thiab saib ho puas pab
-tau li cas .  cov li koj piav no ces kuv kuj paub siv lawm thiab los
-mas .  tab sis niag laus tem toob lawm ces thiaj tsis nco txog lawm
-thiab tiag .  xav hais hais ntshe niam no ces yuav muaj ib co program
-clean rau yus yooj yooj lawm xwb no ne .
+Boua Post by k***@aol . com boua -- yog ov ...
+mam li ua li qhov koj hais no thiab saib ho puas pab tau li cas .
+ cov li koj piav no ces kuv kuj paub siv lawm thiab los mas .
+ tab sis niag laus tem toob lawm ces thiaj tsis nco txog lawm thiab tiag .
+ xav hais hais ntshe niam no ces yuav muaj ib co program clean rau yus yooj yooj lawm xwb no ne .
+
 ua tsaug nawb .
-Muaj tiam sis koj yuav tau poob nyiaj xwb .  Tsis muaj cov
-free .... txawm muaj los kuv yuav tsis recommend rau koj .
-Boua
-Kwv ,
-Qhov koj lub computer pheej qeeb - b lawm ntshe koj pheej mus saib cov
-XXXXXXXXXXX heev dhau lawm pob .   Cov ntawd ses koj saib xwb los yeej
-tau kab mob tseem heev tshaj tus kab mob HIV hos .
 
-kwv es , koj tsov qaab reconfig koj cov programs xwb los mas , koj moog
-tsua RUN ces sau msconfig , koj maam xaiv cov programs kws koj xaav
-kuam dhla xwb , qhov hov ces yog koj ua kuam koj lub koompimtawj sob ua
-haujlwm heevx xwb ,
-vmged
-phmd saab khaumpimtawj
+Muaj tiam sis koj yuav tau poob nyiaj xwb .
+ Tsis muaj cov free ....
+txawm muaj los kuv yuav tsis recommend rau koj .
 
-cov py aw -- ua tsaug rua mej suav quas dhawg .  nag hmo kuv twb ua le
-vimhlub haa lawm , tam sim nuav kuv lub nam computer kuj dha ceev lawm
-hov ntau haab taag .
+Boua Kwv , Qhov koj lub computer pheej qeeb - b lawm ntshe koj pheej mus saib cov XXXXXXXXXXX heev dhau lawm pob .
+Cov ntawd ses koj saib xwb los yeej tau kab mob tseem heev tshaj tus kab mob HIV hos .
+
+kwv es , koj tsov qaab reconfig koj cov programs xwb los mas , koj moog tsua RUN ces sau msconfig , koj maam xaiv cov programs kws koj xaav kuam dhla xwb , qhov hov ces yog koj ua kuam koj lub koompimtawj sob ua haujlwm heevx xwb , vmged phmd saab khaumpimtawj cov py aw -- ua tsaug rua mej suav quas dhawg .
+nag hmo kuv twb ua le vimhlub haa lawm , tam sim nuav kuv lub nam computer kuj dha ceev lawm hov ntau haab taag .

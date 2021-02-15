@@ -1,205 +1,260 @@
-cov phooj ywg sawvdaws -- kuv muaj ib case li nram no xav tau tswv yim
-los ntawm nej .
-muaj 1 nkawv niam txiv muaj 2 tug me nyuam , 1 tug tub thiab 1 tug
-ntxhais .  10 xyoo dhau los nkawv tau sib nrauj ces court muab tus tub
-rau leej txiv ho muab tus ntxhais rau leej niam .  sib nrauj tas ces
-leej niam coj tus ntxhais rov mus nrog niam tais nyob .  thaum ntawd 2
-tug me nyuam tseem yau yau tsuas muaj li 7 - 8 xyoo xwb ces 2 tug me
-nyuam pheej mus nrog leej niam thiab nrog niam tais lawv nyob ntau xwb
-ces niam tais thiab leej niam rov mus hais rau court tias vim 2 tug me
-nyuam nrog niam thiab niam tais nyob xwb yog li thov kom court muab
-tus tub rau leej niam thiab no ces court kuj ci li muab tus tub rau
-leej niam lawm thiab .
-nyob nrog niam tais lawv tau li 3 - 4 xyoos ces leej niam mus yuav dua
-txiv tshiab lawm .  2 tug me nyuam los kuj mus nrog niam thiab txiv
-tshiab nyob lawm .  tam sim no tus tub muaj 18 xyoo lawm .  tus tub yuav
-pojniam , coj nyab los txog rau hauv niam thiab txiv tshiab tsev ces
-niam thiab txiv tshiab muab tus tub thiab tus nyab ntiab tawm kom
-nkawv rov qab los mus rau tom tus txiv qub tsev es kom tus txiv qub
-mus fi xov thiab nta rooj tshoob vim nkawv tsis kam nta .  tus tub
-thiab tus nyab thiaj tau los txog rau tom tus txiv qub tsev ces tus
-txiv qub thiab nws cov kwvtij kuj ua tsis tau tes ces lawv kuj tau mus
-fiv xov tag lawm .
-qhov teeb meem tab sim no yog :
-tus txiv qub thiab nws cov kwvtij muab xav mus xav los ces lawv tsis
-kam nta tus tub noj rooj tshoob vim lawv hais tias thauv ub leej niam
-thiab niam tais twb mus hais kom court muab tus tub rau leej niam lawm
-thiab thaum leej niam mus yuav tus txiv tshiab ces leej niam twb coj
-tus tub mus lawb dawb ua vajtswv lawm .  tam sim no tus tub yuav nyab
-no ces ho muab ntiab los rau leej txiv nta no mas tsis yog cai lawm .
-hos qhov leej niam tsis kam nta tus tub rooj tshoob mas nws hais tias
-vim thaum xub thauj ( initially ) nkawv sib nrauj es faib 2 tug me nyuam
-mas court yeej muab tus tub no rau leej txiv muaj nyob rau ntaub ntawv
-lawm .  qhov niam tais thiab leej niam nkawv mus ua tom qab no nram
-court mas tsuas yog kom court tso cai rau nkawv coj tus tub los nrog
-lawv nyob thiab yug temporary kom puv 18 xwb , tsis muaj ntaub ntawv
-tias yog muab rau leej niam take custody .  leej niam argue hais tias
-tam sim no tus tub muaj 18 xyoo lawm ces leej niam tsis muaj xuaj
-lawm , yuav tsum yog tus txiv qub take care lawm xwb no .
+cov phooj ywg sawvdaws -- kuv muaj ib case li nram no xav tau tswv yim los ntawm nej .
+
+muaj 1 nkawv niam txiv muaj 2 tug me nyuam , 1 tug tub thiab 1 tug ntxhais .
+10 xyoo dhau los nkawv tau sib nrauj ces court muab tus tub rau leej txiv ho muab tus ntxhais rau leej niam .
+sib nrauj tas ces leej niam coj tus ntxhais rov mus nrog niam tais nyob .
+thaum ntawd 2 tug me nyuam tseem yau yau tsuas muaj li 7 - 8 xyoo xwb ces 2 tug me nyuam pheej mus nrog leej niam thiab nrog niam tais lawv nyob ntau xwb ces niam tais thiab leej niam rov mus hais rau court tias vim 2 tug me nyuam nrog niam thiab niam tais nyob xwb yog li thov kom court muab tus tub rau leej niam thiab no ces court kuj ci li muab tus tub rau leej niam lawm thiab .
+
+nyob nrog niam tais lawv tau li 3 - 4 xyoos ces leej niam mus yuav dua txiv tshiab lawm .
+2 tug me nyuam los kuj mus nrog niam thiab txiv tshiab nyob lawm .
+tam sim no tus tub muaj 18 xyoo lawm .
+tus tub yuav pojniam , coj nyab los txog rau hauv niam thiab txiv tshiab tsev ces niam thiab txiv tshiab muab tus tub thiab tus nyab ntiab tawm kom nkawv rov qab los mus rau tom tus txiv qub tsev es kom tus txiv qub mus fi xov thiab nta rooj tshoob vim nkawv tsis kam nta .
+tus tub thiab tus nyab thiaj tau los txog rau tom tus txiv qub tsev ces tus txiv qub thiab nws cov kwvtij kuj ua tsis tau tes ces lawv kuj tau mus fiv xov tag lawm .
+
+qhov teeb meem tab sim no yog : tus txiv qub thiab nws cov kwvtij muab xav mus xav los ces lawv tsis kam nta tus tub noj rooj tshoob vim lawv hais tias thauv ub leej niam thiab niam tais twb mus hais kom court muab tus tub rau leej niam lawm thiab thaum leej niam mus yuav tus txiv tshiab ces leej niam twb coj tus tub mus lawb dawb ua vajtswv lawm .
+tam sim no tus tub yuav nyab no ces ho muab ntiab los rau leej txiv nta no mas tsis yog cai lawm .
+
+hos qhov leej niam tsis kam nta tus tub rooj tshoob mas nws hais tias vim thaum xub thauj ( initially ) nkawv sib nrauj es faib 2 tug me nyuam mas court yeej muab tus tub no rau leej txiv muaj nyob rau ntaub ntawv lawm .
+qhov niam tais thiab leej niam nkawv mus ua tom qab no nram court mas tsuas yog kom court tso cai rau nkawv coj tus tub los nrog lawv nyob thiab yug temporary kom puv 18 xwb , tsis muaj ntaub ntawv tias yog muab rau leej niam take custody .
+leej niam argue hais tias tam sim no tus tub muaj 18 xyoo lawm ces leej niam tsis muaj xuaj lawm , yuav tsum yog tus txiv qub take care lawm xwb no .
+
 zaum no hais txog tus tub no rooj tshoob no nej xav li cas ?
-1 .  yuav tsum yog niam ua tus nta lov ?
-2 .  yuav tsum yog tus txiv qub nta lov ?
-3 .  yuav tsum yog 2 leeg nta lov ?
+
+1 . yuav tsum yog niam ua tus nta lov ?
+
+2 . yuav tsum yog tus txiv qub nta lov ?
+
+3 . yuav tsum yog 2 leeg nta lov ?
+
 ua tsaug !
 
-thaum qabzib lawv tus twg los yog lawv li . thaum iab tuaj no ces tus twg los nti pov tseg . tus tub 18 ntawv los kom nws paub lo no zoo . yus mus twg lawm ces mus kom txog chaw tsis yog mus nrog niam thiab txiv tshiab nyob xyoo puav . xav tau poj niam no ces ho kom txiv qub them nyiaj no mas tim tus tub thiab leej niam lawm ne . TABSIS lweej txiv los txhob yuam kev thiab ov . dej hlob zoo dov cav . yog xav kom tau tub/nyab ces kaj tsij maj nroos them nyiaj leg qav num kom tiav ces dhau nov mus tus tub haj yuav paub nws plaub mob leej twg thiaj cawm tau . yog nws tsis paub los kom nws mus nws .
+thaum qabzib lawv tus twg los yog lawv li .
+thaum iab tuaj no ces tus twg los nti pov tseg .
+tus tub 18 ntawv los kom nws paub lo no zoo .
+yus mus twg lawm ces mus kom txog chaw tsis yog mus nrog niam thiab txiv tshiab nyob xyoo puav .
+xav tau poj niam no ces ho kom txiv qub them nyiaj no mas tim tus tub thiab leej niam lawm ne .
+TABSIS lweej txiv los txhob yuam kev thiab ov .
+dej hlob zoo dov cav .
+yog xav kom tau tub/nyab ces kaj tsij maj nroos them nyiaj leg qav num kom tiav ces dhau nov mus tus tub haj yuav paub nws plaub mob leej twg thiaj cawm tau .
+yog nws tsis paub los kom nws mus nws .
 
-cov phooj ywg sawvdaws -- kuv muaj ib case li nram no xav tau tswv yim los ntawm nej . muaj 1 nkawv niam txiv muaj 2 tug me nyuam , 1 tug tub thiab 1 tug ntxhais . 10 xyoo dhau los nkawv tau sib nrauj ces court muab tus tub rau leej txiv ho muab tus ntxhais rau leej niam . sib nrauj tas ces leej niam coj tus ntxhais rov mus nrog niam tais nyob . thaum ntawd 2 tug me nyuam tseem yau yau tsuas muaj li 7 - 8 xyoo xwb ces 2 tug me nyuam pheej mus nrog leej niam thiab nrog niam tais lawv nyob ntau xwb ces niam tais thiab leej niam rov mus hais rau court tias vim 2 tug me nyuam nrog niam thiab niam tais nyob xwb yog li thov kom court muab tus tub rau leej niam thiab no ces court kuj ci li muab tus tub rau leej niam lawm thiab . nyob nrog niam tais lawv tau li 3 - 4 xyoos ces leej niam mus yuav dua txiv tshiab lawm . 2 tug me nyuam los kuj mus nrog niam thiab txiv tshiab nyob lawm . tam sim no tus tub muaj 18 xyoo lawm . tus tub yuav pojniam , coj nyab los txog rau hauv niam thiab txiv tshiab tsev ces niam thiab txiv tshiab muab tus tub thiab tus nyab ntiab tawm kom nkawv rov qab los mus rau tom tus txiv qub tsev es kom tus txiv qub mus fi xov thiab nta rooj tshoob vim nkawv tsis kam nta . tus tub thiab tus nyab thiaj tau los txog rau tom tus txiv qub tsev ces tus txiv qub thiab nws cov kwvtij kuj ua tsis tau tes ces lawv kuj tau mus fiv xov tag lawm . qhov teeb meem tab sim no yog : tus txiv qub thiab nws cov kwvtij muab xav mus xav los ces lawv tsis kam nta tus tub noj rooj tshoob vim lawv hais tias thauv ub leej niam thiab niam tais twb mus hais kom court muab tus tub rau leej niam lawm thiab thaum leej niam mus yuav tus txiv tshiab ces leej niam twb coj tus tub mus lawb dawb ua vajtswv lawm . tam sim no tus tub yuav nyab no ces ho muab ntiab los rau leej txiv nta no mas tsis yog cai lawm . hos qhov leej niam tsis kam nta tus tub rooj tshoob mas nws hais tias vim thaum xub thauj ( initially ) nkawv sib nrauj es faib 2 tug me nyuam mas court yeej muab tus tub no rau leej txiv muaj nyob rau ntaub ntawv lawm . qhov niam tais thiab leej niam nkawv mus ua tom qab no nram court mas tsuas yog kom court tso cai rau nkawv coj tus tub los nrog lawv nyob thiab yug temporary kom puv 18 xwb , tsis muaj ntaub ntawv tias yog muab rau leej niam take custody . leej niam argue hais tias tam sim no tus tub muaj 18 xyoo lawm ces leej niam tsis muaj xuaj lawm , yuav tsum yog tus txiv qub take care lawm xwb no . zaum no hais txog tus tub no rooj tshoob no nej xav li cas ? 1 . yuav tsum yog niam ua tus nta lov ? 2 . yuav tsum yog tus txiv qub nta lov ? 3 . yuav tsum yog 2 leeg nta lov ? ua tsaug !
-Kwvtij , tej niag no ces peb Hmoob yeej niaj hnub muaj sib hais tsis paub tag li os .. Hais raws li kuv xav xwb , yog kuv yog leejtxiv ces ua tsaug uas leejniam tseem cia yus tus tub rov los rau yus tsa cuab tsa yim , kom nws thiaj li paub hais tias yus yog nws txiv tiag - g . Txawm tsis tau hlub nws thaum tseem yau los tam sim no yus tseem muaj opportunity hlub nws ces yeej tsis tau lig li os ....
+cov phooj ywg sawvdaws -- kuv muaj ib case li nram no xav tau tswv yim los ntawm nej .
+muaj 1 nkawv niam txiv muaj 2 tug me nyuam , 1 tug tub thiab 1 tug ntxhais .
+10 xyoo dhau los nkawv tau sib nrauj ces court muab tus tub rau leej txiv ho muab tus ntxhais rau leej niam .
+sib nrauj tas ces leej niam coj tus ntxhais rov mus nrog niam tais nyob .
+thaum ntawd 2 tug me nyuam tseem yau yau tsuas muaj li 7 - 8 xyoo xwb ces 2 tug me nyuam pheej mus nrog leej niam thiab nrog niam tais lawv nyob ntau xwb ces niam tais thiab leej niam rov mus hais rau court tias vim 2 tug me nyuam nrog niam thiab niam tais nyob xwb yog li thov kom court muab tus tub rau leej niam thiab no ces court kuj ci li muab tus tub rau leej niam lawm thiab .
+nyob nrog niam tais lawv tau li 3 - 4 xyoos ces leej niam mus yuav dua txiv tshiab lawm .
+2 tug me nyuam los kuj mus nrog niam thiab txiv tshiab nyob lawm .
+tam sim no tus tub muaj 18 xyoo lawm .
+tus tub yuav pojniam , coj nyab los txog rau hauv niam thiab txiv tshiab tsev ces niam thiab txiv tshiab muab tus tub thiab tus nyab ntiab tawm kom nkawv rov qab los mus rau tom tus txiv qub tsev es kom tus txiv qub mus fi xov thiab nta rooj tshoob vim nkawv tsis kam nta .
+tus tub thiab tus nyab thiaj tau los txog rau tom tus txiv qub tsev ces tus txiv qub thiab nws cov kwvtij kuj ua tsis tau tes ces lawv kuj tau mus fiv xov tag lawm .
+qhov teeb meem tab sim no yog : tus txiv qub thiab nws cov kwvtij muab xav mus xav los ces lawv tsis kam nta tus tub noj rooj tshoob vim lawv hais tias thauv ub leej niam thiab niam tais twb mus hais kom court muab tus tub rau leej niam lawm thiab thaum leej niam mus yuav tus txiv tshiab ces leej niam twb coj tus tub mus lawb dawb ua vajtswv lawm .
+tam sim no tus tub yuav nyab no ces ho muab ntiab los rau leej txiv nta no mas tsis yog cai lawm .
+hos qhov leej niam tsis kam nta tus tub rooj tshoob mas nws hais tias vim thaum xub thauj ( initially ) nkawv sib nrauj es faib 2 tug me nyuam mas court yeej muab tus tub no rau leej txiv muaj nyob rau ntaub ntawv lawm .
+qhov niam tais thiab leej niam nkawv mus ua tom qab no nram court mas tsuas yog kom court tso cai rau nkawv coj tus tub los nrog lawv nyob thiab yug temporary kom puv 18 xwb , tsis muaj ntaub ntawv tias yog muab rau leej niam take custody .
+leej niam argue hais tias tam sim no tus tub muaj 18 xyoo lawm ces leej niam tsis muaj xuaj lawm , yuav tsum yog tus txiv qub take care lawm xwb no .
+zaum no hais txog tus tub no rooj tshoob no nej xav li cas ?
+1 . yuav tsum yog niam ua tus nta lov ?
+2 . yuav tsum yog tus txiv qub nta lov ?
+3 . yuav tsum yog 2 leeg nta lov ?
+ua tsaug !
 
-Kwvtijhmoob ,
-teb koj cov lus lino :
-Nws yog leej txiv lub luag num los nta tus tub period .
-Nws yog tsob noob ntawm leej txiv . if mom could help some that would be good .
-Vim tus tub yuav mus ua tsis tau leej txiv tshiab xeem , unless nws mus kiav xeem
-ua tus txiv tshiab xeem lawm no ces yog tus txiv tshiab haujlwm .
+Kwvtij , tej niag no ces peb Hmoob yeej niaj hnub muaj sib hais tsis paub tag li os ..
+Hais raws li kuv xav xwb , yog kuv yog leejtxiv ces ua tsaug uas leejniam tseem cia yus tus tub rov los rau yus tsa cuab tsa yim , kom nws thiaj li paub hais tias yus yog nws txiv tiag - g .
+Txawm tsis tau hlub nws thaum tseem yau los tam sim no yus tseem muaj opportunity hlub nws ces yeej tsis tau lig li os ....
+
+Kwvtijhmoob , teb koj cov lus lino : Nws yog leej txiv lub luag num los nta tus tub period .
+
+Nws yog tsob noob ntawm leej txiv .
+if mom could help some that would be good .
+
+Vim tus tub yuav mus ua tsis tau leej txiv tshiab xeem , unless nws mus kiav xeem ua tus txiv tshiab xeem lawm no ces yog tus txiv tshiab haujlwm .
+
 Nov yog hmoob kevcai ua niaj hnub niam no peb ua .
 
-Nej cov paub tej jiab lus thaum pib txog thaum xaus yuav tau sau ib tsab ntawv certified xa rau tus Judge uas nws muab tus tub rau leej niam lawm . Tus txiv qub  blame tus Judge qhov nws violated peb haiv Hmoob txoj tus culture lawm mam tamsim no thiaj muaj tej teebmeem no los ua ntuzus . Tus txiv yug yuav tau lis kom tag rooj tshoob mas nej thiaj muaj povthawj yuav mus nrog tus Judge sib cav . Nej yuav tau yees duab kom meejpem thaum nej ua tshoob rau tus tub thiab nyab . Nov tsuas yog tswvyim xwb . Neeg ua tus sau cai . Neeg muaj cai lhoov tus cai !!
+Nej cov paub tej jiab lus thaum pib txog thaum xaus yuav tau sau ib tsab ntawv certified xa rau tus Judge uas nws muab tus tub rau leej niam lawm .
+Tus txiv qub blame tus Judge qhov nws violated peb haiv Hmoob txoj tus culture lawm mam tamsim no thiaj muaj tej teebmeem no los ua ntuzus .
+Tus txiv yug yuav tau lis kom tag rooj tshoob mas nej thiaj muaj povthawj yuav mus nrog tus Judge sib cav .
+Nej yuav tau yees duab kom meejpem thaum nej ua tshoob rau tus tub thiab nyab .
+Nov tsuas yog tswvyim xwb .
+Neeg ua tus sau cai .
+Neeg muaj cai lhoov tus cai !!
 
 Yog hais raws li kevcai ( laws ) nyob US mas , yog txiv - tshiab legally married rog nws niam lawm ces , ob tug niam - txiv tshiab ntawd is responsible xwb .
+
 Sounds like this new guy is dirt poor and does not want to pay for the dowry .
 
-Kwvtijhmoob .... aw ,
-Ua cas es nej tus kwv tij ( tus txiv qub ) ntawd es yuav mus cuaj khaum
-ua luaj ...... tus tub ntawd yog nws tus tub nad ...... yuav tus nyab rau
-yus tus tub es tseem khuv xim nyiaj thiab los ....... ntshai yawg los
-zaub twb tsis qab ntsev lawm thiaj nroo - oo tsis kam tsa tus tub yim
-pob ........ txawm muab tus tub rau niam lawm los yus yog leej txiv
-ntawm tus tub yuav tsum them tus nqi tshoob mas thiaj yog ...... leej
-niam twb pab yus tu - u hlob 18 xyoo es yus tseem ho nyom tsis xav them
-tus tub nqi poj niam thiab mas yus yeej ua tsis tau txiv es niag pog
-laus thiaj khiav mus yuav txiv tshiab lawm ntag ....... hais koj tus kwv
-tij ntawd hais tias peb cov hauv SCH pom zoo kom yawg cia li them tus
-nqi nyab no nawb ..... hais mus hais los ces zoo li nej cuab kwv tij
-yeej nkhaus tsawv laid yom ........ koj puas nco 2 hnub ntawm i koj
-hais  tias nej khiav tsis yuav peb cov niag muam hmoob yaj 2 tug
-nab ....... tus tub no los ntshai nej yuav khiav ib yam thiab ..... xav
-yuav nyab dawb thiab pob ........ ua neeg nyob yog yus nyom 1 - 2 rooj ces
-luag tsis ntaus nqi dab tsi .... 3 rooj lawm sais yus yog tus nkhaus
-lawm no laid ......... tuaj wb mus noj fawm mam tham saib .
+Kwvtijhmoob ....
+aw , Ua cas es nej tus kwv tij ( tus txiv qub ) ntawd es yuav mus cuaj khaum ua luaj ......
+tus tub ntawd yog nws tus tub nad ......
+yuav tus nyab rau yus tus tub es tseem khuv xim nyiaj thiab los .......
+ntshai yawg los zaub twb tsis qab ntsev lawm thiaj nroo - oo tsis kam tsa tus tub yim pob ........
+txawm muab tus tub rau niam lawm los yus yog leej txiv ntawm tus tub yuav tsum them tus nqi tshoob mas thiaj yog ......
+leej niam twb pab yus tu - u hlob 18 xyoo es yus tseem ho nyom tsis xav them tus tub nqi poj niam thiab mas yus yeej ua tsis tau txiv es niag pog laus thiaj khiav mus yuav txiv tshiab lawm ntag .......
+hais koj tus kwv tij ntawd hais tias peb cov hauv SCH pom zoo kom yawg cia li them tus nqi nyab no nawb .....
+hais mus hais los ces zoo li nej cuab kwv tij yeej nkhaus tsawv laid yom ........
+koj puas nco 2 hnub ntawm i koj hais tias nej khiav tsis yuav peb cov niag muam hmoob yaj 2 tug nab .......
+tus tub no los ntshai nej yuav khiav ib yam thiab .....
+xav yuav nyab dawb thiab pob ........
+ua neeg nyob yog yus nyom 1 - 2 rooj ces luag tsis ntaus nqi dab tsi ....
+3 rooj lawm sais yus yog tus nkhaus lawm no laid .........
+tuaj wb mus noj fawm mam tham saib .
+
 Sib ntsib dua .
 
-Yog vim ua li cas es thaum leej niam coj tus tub mus nrog leej niam nyob cas leej txiv ho tso mus lawm thiab . Yog leej txiv twb tso lawm es nws twb tsis fight nyob rau lub sij hawm ntawm ces yeej txhais tau tias leej txiv yeej hlub tsis taus tus tub thiaj li tsis yuav nws lawm . Yog kuv yog leej niam thiab txiv tshiab ces kuv yeej tsis tso rov los rau leej txiv qub leg li lawm . Tab kuv yog tus txiv qub los kuv yeej tsis xav them thiab vim hais tias yog yus them tas lwm hnub niag tub/nyab ntawd khiav rov qab mus nrog niame thiab txiv tshiab nyob xwb ces yuav mob mob yus siab xwb .
-Hais raws li peb xav xwb peb yuav hais tsis tau ib qho los yuav/siv vim hais tias peb cov hauv no tsis muaj leej twg paub qhov tseeb - xxxxxxxxxxxxxx
-HM213
+Yog vim ua li cas es thaum leej niam coj tus tub mus nrog leej niam nyob cas leej txiv ho tso mus lawm thiab .
+Yog leej txiv twb tso lawm es nws twb tsis fight nyob rau lub sij hawm ntawm ces yeej txhais tau tias leej txiv yeej hlub tsis taus tus tub thiaj li tsis yuav nws lawm .
+Yog kuv yog leej niam thiab txiv tshiab ces kuv yeej tsis tso rov los rau leej txiv qub leg li lawm .
+Tab kuv yog tus txiv qub los kuv yeej tsis xav them thiab vim hais tias yog yus them tas lwm hnub niag tub/nyab ntawd khiav rov qab mus nrog niame thiab txiv tshiab nyob xwb ces yuav mob mob yus siab xwb .
 
-sawvdaws -- ua tsaug rau nej cov tswv yim .  hais ncaj case no yog leej
-txiv ua taus txiv ces luag hais tias phem zoo los yus tub , yus yug ,
-yog yus roj yus ntshav ces tsis txhob hais dab tsis , ci li nta kiag
-xwb .  nta tas tus tub txawm yuav nrog yus nyob thiab tsis nyob los kav
-liam .  tab sis peb yeej paub cov nkawv niam txiv zoo li no ces txiv
-los yeej yog neeg tsis tsheej haj ho niam los yeej yog neeg tsis
-tsheej haj es thiaj zoo li no .
-piav me me rau nej ... tus me nyuam no leej niam yeej coj mus nrog leej
-niam nyob puag thaum tseem muaj 7 - 8 xyoos lawm .  leej niam yeej rov
-coj mus ua ntaub ntawv nram court dua tshiab ua niam tus me nyuam
-lawm .  ib qho yog qhov hais tias leej niam yeej coj mus ntxhuav plig
-ua vajtswv tas lawm thaum niam yuav tus txiv tshiab .  thaum leej niam
-coj mus church ntawd , leej txiv kuj tau hu mus rau leej niam kom tsis
-txhob coj mus church vim initially tus me nyuam no yog court muab rau
-leej txiv , tab sis leej niam yeej khav ntxhia tias court twb muab rau
-leej niam lawm .  yog leej txiv tsis txaus siab kom ntiav lawyer nkawv
-mam mus sib peg nrav court .  yog leej txiv yeej nws mam li mus coj tus
-me nyuam los .  leej txiv los kuj ua tsis tau txiv thiab ces thiaj kav
-liam .  thaum tus me nyuam no tseem under 18 nws yeej tau nyiaj welfare
-noj , tab sis leej niam muab qhe tas xwb .  tam sim no tus tub puv 18
-xyoo lawm ces tsoom fwv tsis yug lawm , leej niam tsis tau nyiaj lawm
-thiab leej niam yuav poob nyiaj ua rooj tshoob no ces leej niam ci li
-tsis kam yuav tus me nyuam lawm .
-cov nkawv niam txiv zoo li no mas kuj pab tej me nyuam tu siab kawg
-li .
+Hais raws li peb xav xwb peb yuav hais tsis tau ib qho los yuav/siv vim hais tias peb cov hauv no tsis muaj leej twg paub qhov tseeb - xxxxxxxxxxxxxx HM213 sawvdaws -- ua tsaug rau nej cov tswv yim .
+hais ncaj case no yog leej txiv ua taus txiv ces luag hais tias phem zoo los yus tub , yus yug , yog yus roj yus ntshav ces tsis txhob hais dab tsis , ci li nta kiag xwb .
+nta tas tus tub txawm yuav nrog yus nyob thiab tsis nyob los kav liam .
+tab sis peb yeej paub cov nkawv niam txiv zoo li no ces txiv los yeej yog neeg tsis tsheej haj ho niam los yeej yog neeg tsis tsheej haj es thiaj zoo li no .
 
-On Friday , July 27 , 2012 11 : 21 : 38 AM UTC - 5 , kwvtijhmoob wrote :
-Kwvtijhmoob ,
-Muab saib raws li koj cov lus nqua kev pab ntawm nkawm niam txiv sib nrauj no mas xws li tus txiv neej tsi tshua yog neeg tsheej haj , tsi khov sim rau lub neej .
+piav me me rau nej ...
+tus me nyuam no leej niam yeej coj mus nrog leej niam nyob puag thaum tseem muaj 7 - 8 xyoos lawm .
+leej niam yeej rov coj mus ua ntaub ntawv nram court dua tshiab ua niam tus me nyuam lawm .
+ib qho yog qhov hais tias leej niam yeej coj mus ntxhuav plig ua vajtswv tas lawm thaum niam yuav tus txiv tshiab .
+thaum leej niam coj mus church ntawd , leej txiv kuj tau hu mus rau leej niam kom tsis txhob coj mus church vim initially tus me nyuam no yog court muab rau leej txiv , tab sis leej niam yeej khav ntxhia tias court twb muab rau leej niam lawm .
+yog leej txiv tsis txaus siab kom ntiav lawyer nkawv mam mus sib peg nrav court .
+yog leej txiv yeej nws mam li mus coj tus me nyuam los .
+leej txiv los kuj ua tsis tau txiv thiab ces thiaj kav liam .
+thaum tus me nyuam no tseem under 18 nws yeej tau nyiaj welfare noj , tab sis leej niam muab qhe tas xwb .
+tam sim no tus tub puv 18 xyoo lawm ces tsoom fwv tsis yug lawm , leej niam tsis tau nyiaj lawm thiab leej niam yuav poob nyiaj ua rooj tshoob no ces leej niam ci li tsis kam yuav tus me nyuam lawm .
+
+cov nkawv niam txiv zoo li no mas kuj pab tej me nyuam tu siab kawg li .
+
+On Friday , July 27 , 2012 11 : 21 : 38 AM UTC - 5 , kwvtijhmoob wrote : Kwvtijhmoob , Muab saib raws li koj cov lus nqua kev pab ntawm nkawm niam txiv sib nrauj no mas xws li tus txiv neej tsi tshua yog neeg tsheej haj , tsi khov sim rau lub neej .
+
 Yog muab soj ntsuam txog li ntawm uas court tau muab faib ib leeg yuav ib tug me nyuam ces , tus tub twb muab faib rau txiv lawm , txiv tsi saib xyuas tus me nyuam lub neej thaum tseem yau thiaj mus nyob tim niam tais ua dog ua dig li ntawd , ces niam tais thiab me nyuam niam thiaj tau mus thov court kev tso cai kom tus me nyuam tuaj nrog niam nyob tau , qhov no niam tais thiab yawg tus niam nrauj no yeej ua tau raug cai kawg nkaus lawm , yog niam tais thiab me nyuam niam tsi mus ua ntawv li ntawd ces tus me nyuam tsi muaj chaw nyob , nyob teb chaws no yam twg los yuav tau ua nrog txoj cai .
+
 Li hais los saum no ces ntawm tus me nyuam yog yawg li caj ces roj ntshav noob , yawg yuav tsum tau thaj tsob lis rooj tshoob , tsuas muaj qhov tias thov saib seb leej niam puas pab me ntsis vim ob leeg yug .
-tus txiv qub thiab nws cov kwvtij muab xav mus xav los ces lawv tsis
-Txawm muaj li hais no los vim yog me nyuam leej txiv tsi ua txiv neej khov thiaj tshwm sim mus ua li hais no kom tus me nyuam muaj chaw nyob xwb , tus txiv yuav tau nta rooj tshoob mus li mas thiaj tag plaub .
+
+tus txiv qub thiab nws cov kwvtij muab xav mus xav los ces lawv tsis Txawm muaj li hais no los vim yog me nyuam leej txiv tsi ua txiv neej khov thiaj tshwm sim mus ua li hais no kom tus me nyuam muaj chaw nyob xwb , tus txiv yuav tau nta rooj tshoob mus li mas thiaj tag plaub .
+
 Leej niam cov lus yog muaj tseeb li koj hais los saum no ces leej niam tej lus nws hais yeej yog lus kawg lawm , leej niam thiaj yog neeg noj mov hlob , li cas los poob mus rau leej txiv nta rooj tshoob lawm ov .
+
 Hais txog koj peb nqai lus hauv qab no tias ...
+
 Yuav tsum yog tus txiv nta , tab sis hais mus rau leej niam seb nws puas pab me ntsis rau tus tub nyab lub neej rau qhov yog ob leeg yug saib seb leej niam puas pab xwb , yog leej niam pab me ntsis los nqa tes uas tsaug xwb , ho yog leej niam tsi pab los kawg leej txiv tuaj kheej .
+
 Lub neej me nyuam tsi tau chaw nyob vim yus tsi khov txaus , tsim tsi muaj chaw nyob rau tej me nyuam nyob es thiaj zoo li koj hais los no .
-YTK
 
-On Jul 30 , 7 : 42 am , Yaj Tshaj Koob <***@gmail . com> wrote :
-ytk -- tseeb li koj hais .  yog leej txiv ua taus txiv ces no question
-li lawm .
-ib qho kuv xav point out ntxiv yog qhov hais tias , tus tub no los yog
-tub laib xwb thiab ho tus nyab los yog niag poj laib thiab xwb .  vim
-zoo li no es tog twg los thiaj tsis xav nta li vim nta tas los yeej
-paub hais tias plaub qaib yeej yuav tsis caij ncaig .  lam yog 2 leeg
-yeej yog neeg tsim txiaj hlo no ces 2 niam txiv ntawd txawm tsis nta
-los kuv ntseeg hais tias tej kwvtij yeej pab nta kiag rau lawm thiab
-los mas .  tab sis sawvdaws yeej muab xav mus xav los ces yeej pom tau
-tias plaub qaib yeej ciaj tsis ciaj ncaig no ces sawvdaws thiaj li
-muab pov rau ub rau no xwb .  cov cases zoo li no ces niaj hnub niam no
-yeej muaj ntau ntau cases kawg li lawm .  peb pawg kwvtij kiag twb muaj
-2 tug ntxhais similar li case no hmoob yeej tsis tuaj ua tshoob li
-thiab .  peb yeej hais tsis tau li lawm .
+YTK On Jul 30 , 7 : 42 am , Yaj Tshaj Koob <***@gmail . com> wrote : ytk -- tseeb li koj hais .
+yog leej txiv ua taus txiv ces no question li lawm .
 
-Kwvtij ... aw ,
-Ua cas thaum pib es koj ho tsis hais tias yog laib no maj ? oib ... oib .... koj mas hais lus tsis meej hlo li nawb ....... yog laib tiag ces tsis tas yuav pov ub pov no li nad .... hais kiag rau tus ntxhais niam thiab txiv tias nkawv yog laib xwb tsis ua tshoob li .... yog nkawv ho tsis zoo siab ces mus foob rau cov koos tsis haum los nram court mam nrog nkawv hais no xwb los pob . Nram peb Fresno no ces ntuj aw ...... muaj tej tus twb yug 2 - 3 tug me nyuam tseem tsis tau - au ua tshoob nawb ...... tseem niaj hnub mus ua laib ces tej laus yeej tseem tsis tau ntseeg os .
+ib qho kuv xav point out ntxiv yog qhov hais tias , tus tub no los yog tub laib xwb thiab ho tus nyab los yog niag poj laib thiab xwb .
+vim zoo li no es tog twg los thiaj tsis xav nta li vim nta tas los yeej paub hais tias plaub qaib yeej yuav tsis caij ncaig .
+lam yog 2 leeg yeej yog neeg tsim txiaj hlo no ces 2 niam txiv ntawd txawm tsis nta los kuv ntseeg hais tias tej kwvtij yeej pab nta kiag rau lawm thiab los mas .
+tab sis sawvdaws yeej muab xav mus xav los ces yeej pom tau tias plaub qaib yeej ciaj tsis ciaj ncaig no ces sawvdaws thiaj li muab pov rau ub rau no xwb .
+cov cases zoo li no ces niaj hnub niam no yeej muaj ntau ntau cases kawg li lawm .
+peb pawg kwvtij kiag twb muaj 2 tug ntxhais similar li case no hmoob yeej tsis tuaj ua tshoob li thiab .
+peb yeej hais tsis tau li lawm .
 
-On Jul 30 , 11 : 19 am , ***@yahoo . com wrote :
-phwvnyawm -- koj mas tseem tseem hmoob thaj tiag laus ... tsis nug qab
-nug hauv .  tsis to taub qhov twg kuj nug xwb .  twb muab luag cem cuaj
-khaum tsis muaj cuaj khaum thiab tseem muab tej qub case puag nram
-ntej ub coj rov los ntsw luag tas no ces tsam no mam hais li koj .  kuj
-tsis yog khav thiab , tab sis qhia koj paub tias txog txij tus kuv no
-yuav tsis tau lawm ces dab kiag los yeej tsis kav yuav lawm no los mas
-nawb .
+Kwvtij ...
+aw , Ua cas thaum pib es koj ho tsis hais tias yog laib no maj ?
+oib ...
+oib ....
+koj mas hais lus tsis meej hlo li nawb .......
+yog laib tiag ces tsis tas yuav pov ub pov no li nad ....
+hais kiag rau tus ntxhais niam thiab txiv tias nkawv yog laib xwb tsis ua tshoob li ....
+yog nkawv ho tsis zoo siab ces mus foob rau cov koos tsis haum los nram court mam nrog nkawv hais no xwb los pob .
+Nram peb Fresno no ces ntuj aw ......
+muaj tej tus twb yug 2 - 3 tug me nyuam tseem tsis tau - au ua tshoob nawb ......
+tseem niaj hnub mus ua laib ces tej laus yeej tseem tsis tau ntseeg os .
 
-KTH ,
-Yeej yog li kuv hais lawm . Peb cov hauv no yeej tsis muaj leej twg paub case no qhov tseeb tseeb tias paus ntsis thiab tus neeg ntawd zoo li cas . Tsam no ces tsis thas yuav nug - xx cov hauv no li os . Koj ( KTH ) twb paub qhov answer rau case no lawm . Hais txog plaub ntug thiab nyiaj txiag lawm mas yuav tsum paub paus ntsis tseeb tseeb mas thiaj li paub txiav txim nawb cov yawg . Just my own opinion xwb .
-HM213
+On Jul 30 , 11 : 19 am , ***@yahoo . com wrote : phwvnyawm -- koj mas tseem tseem hmoob thaj tiag laus ...
+tsis nug qab nug hauv .
+tsis to taub qhov twg kuj nug xwb .
+twb muab luag cem cuaj khaum tsis muaj cuaj khaum thiab tseem muab tej qub case puag nram ntej ub coj rov los ntsw luag tas no ces tsam no mam hais li koj .
+kuj tsis yog khav thiab , tab sis qhia koj paub tias txog txij tus kuv no yuav tsis tau lawm ces dab kiag los yeej tsis kav yuav lawm no los mas nawb .
 
-Kwvtij .... aw ,
-Niag tsov tom ko ..... twb yog tuaj txog MN tsis tau Dr Suav neb cov tawv npua teb noj ces muaj tsis chim siab  es thiaj hais lus ntsw - w los mas ....... ha .. ha ... ha .. thov txim nawb ........ lwm zaus yuav tau piav kom meej zog .
-Nyob pem ko puas kub thiab os ? ua cas nyob CA sab qab teb no kub kawg li os .
-Dab laug Hmong213 ,
-Hnub tim 4 lu 8hli lub weekend tom ntej no . Kuv yuav tuaj rau ntawm Church hmoob Vwj yog koj tuaj no wb mam sib ntsib thaum 3 : 00pm - 6 : 00pm kuv los rau ntawd church nawb .
+KTH , Yeej yog li kuv hais lawm .
+Peb cov hauv no yeej tsis muaj leej twg paub case no qhov tseeb tseeb tias paus ntsis thiab tus neeg ntawd zoo li cas .
+Tsam no ces tsis thas yuav nug - xx cov hauv no li os .
+Koj ( KTH ) twb paub qhov answer rau case no lawm .
+Hais txog plaub ntug thiab nyiaj txiag lawm mas yuav tsum paub paus ntsis tseeb tseeb mas thiaj li paub txiav txim nawb cov yawg .
+Just my own opinion xwb .
+
+HM213 Kwvtij ....
+aw , Niag tsov tom ko .....
+twb yog tuaj txog MN tsis tau Dr Suav neb cov tawv npua teb noj ces muaj tsis chim siab es thiaj hais lus ntsw - w los mas .......
+ha ..
+ha ...
+ha ..
+thov txim nawb ........
+lwm zaus yuav tau piav kom meej zog .
+
+Nyob pem ko puas kub thiab os ?
+ua cas nyob CA sab qab teb no kub kawg li os .
+
+Dab laug Hmong213 , Hnub tim 4 lu 8hli lub weekend tom ntej no .
+Kuv yuav tuaj rau ntawm Church hmoob Vwj yog koj tuaj no wb mam sib ntsib thaum 3 : 00pm - 6 : 00pm kuv los rau ntawd church nawb .
 
 Kwvtij Hmoob , koj case no ces kuv twb muaj ib case similar kiag koj qhov no lawm ntag .
-Kuv case mas cov menyuam yeej ib txwm nrog leej niam , leej txiv them child support tiam sis nyiam qhuav yog ib xyoo los no xwb , tus tub mus coj tau pojniam los ces thiaj tshaj xo 6 leej txiv paub , thaum kawg leej txiv hles hlos yeej tsis kam lees txog tej tshoob kos no , cov neej tsa thiab leej niam ua tus them thiab mus ua roojtshoob , leej txiv ces xam hais tias tsis muaj lawm no . Cov menyuam no tseem hniaj tamsim no tseem nrog kuv nyob ntawm nos .
+
+Kuv case mas cov menyuam yeej ib txwm nrog leej niam , leej txiv them child support tiam sis nyiam qhuav yog ib xyoo los no xwb , tus tub mus coj tau pojniam los ces thiaj tshaj xo 6 leej txiv paub , thaum kawg leej txiv hles hlos yeej tsis kam lees txog tej tshoob kos no , cov neej tsa thiab leej niam ua tus them thiab mus ua roojtshoob , leej txiv ces xam hais tias tsis muaj lawm no .
+Cov menyuam no tseem hniaj tamsim no tseem nrog kuv nyob ntawm nos .
+
 Cov pojyaig , yeej tsis muaj leej twg pom pemsuab tias yuav zoo los yuav phem yom !
+
 Ua ib leej tibneeg nyob , yog yus tsis kam paub thiab pab yus cov roj cov ntshav lawm ces , kuv xam tias yog txomnyem kawg kiag , los pua sis xam khib tas2 .
+
 Kuv xav tias muaj ib hnub cov menyuam no lawv yeej yuav txawjxav , thiab yog avluaj tsis npog muag lawm yeej yuav txawj ua lub neej zoo , thaum zoo lis nos yus tus au txiv pua txawj txaj muag rau lub ntuj daim av .
+
 Peb hmoob txivneej muaj cov xav yuam kev coob2 kawg , tiam si kuv paub tia tejzaum yog kev txomnyem los caum cuag , thiaj ua tej tus niag xiam piaj poob ntsejmuag zoo li no .
-tou
 
-txog txij tus txiv hle hlo tsis kam lees los nws yuav muaj nws feem mob mob siab uas koj kuv peb tsis paub . kom nws piav yog nws yeem . muaj tej tug mas yuav tsis kam piav qhia leej twg cia li yuav tsis kam ces tsis kam xwb . chiv keeb yog tim tus niam nyiag coj menyuam kom nws tau nyiaj child support tsam no ces 4 ntug los tsis yog khi tus txiv ib leeg . nkawv ob tug tib si ntag . pom tsiaj sib txeeb hlua 4ntug sib txeeb lus ces yog tej tsam zoo li no ntag laud .
+tou txog txij tus txiv hle hlo tsis kam lees los nws yuav muaj nws feem mob mob siab uas koj kuv peb tsis paub .
+kom nws piav yog nws yeem .
+muaj tej tug mas yuav tsis kam piav qhia leej twg cia li yuav tsis kam ces tsis kam xwb .
+chiv keeb yog tim tus niam nyiag coj menyuam kom nws tau nyiaj child support tsam no ces 4 ntug los tsis yog khi tus txiv ib leeg .
+nkawv ob tug tib si ntag .
+pom tsiaj sib txeeb hlua 4ntug sib txeeb lus ces yog tej tsam zoo li no ntag laud .
 
-Niag tsov tom ko ..... twb yog tuaj txog MN tsis tau Dr Suav neb cov tawv npua teb noj ces muaj tsis chim siab  es thiaj hais lus ntsw - w los mas ....... ha .. ha ... ha .. thov txim nawb ........ lwm zaus yuav tau piav kom meej zog .
-Nyob pem ko puas kub thiab os ? ua cas nyob CA sab qab teb no kub kawg li os .
-Dab laug Hmong213 ,
-Hnub tim 4 lu 8hli lub weekend tom ntej no . Kuv yuav tuaj rau ntawm Church hmoob Vwj yog koj tuaj no wb mam sib ntsib thaum 3 : 00pm - 6 : 00pm kuv los rau ntawd church nawb .
-haj .. haj .. haj ... phwv -- tau ib ntus no zoo li koj muaj ntsis ua zab
-pauv nees lawm ces kuv txawm tsis tshuav ntseeg koj lawm nav .  tab sis
-yog tuaj tseeb li koj hais tiag no , kuv yuav tsis kam tuaj ntsib koj
-tom hmoob vwj lub tsev txias ko .  kuv mam li coj koj wb mus noj fawm
-tim yaj txhim lawv lub lab qhib tshiab nyob ze ze ntawm lub tsev txias
-ko thiab .
-cuag li pheej yuav thuam , tab sis hmoob vwj lub niag tsev txia ko ces
-kuv dhuav dhuav kawg li lawm .  lub niag hoob nab mas me me , tsuas muaj
-1 lub dab tso zis thiab 1 lub dab tso quav xwb .  lawv yeej tsis clean
-li mas tsw phem tshaj plaws li .  lub hoob nab ho nyob hauv basement ,
-lub niag qhov rooj qhib lug tuaj rau xab saum neeg nyob thiab mas ntuj
-aw ... mus nyob hauv ces yeej nyob tsis taus li .  kuv mus thaum twg ces
-kuv yeej ntuav tas li xwb .  kuv yuav tsis tuaj mus rau hauv lawv lub
-tsev txias hauv li lawm .  peb cov kwvtij ces peb yeej tsis pam tuag
-hauv li lawm vim lub hoob nab tsw phem dhau hwv lawm .  yog thaum twg
-neeg tuaj thov kom kuv mus pab ua hauj lwm , kuv yeej xub nug .. yog pam
-tom hmoob vwj lub tsev txias lawm no ces kuv yeej ua txoj hais tias
-muaj lwm mus kev deb lawm no kom dim xwb ov .
+Niag tsov tom ko .....
+twb yog tuaj txog MN tsis tau Dr Suav neb cov tawv npua teb noj ces muaj tsis chim siab  es thiaj hais lus ntsw - w los mas .......
+ha ..
+ha ...
+ha ..
+thov txim nawb ........
+lwm zaus yuav tau piav kom meej zog .
 
-Kwvtij , Phwv tsis yog yuav tuaj Hmoob Vwj lub tsev txias tom St . Paul nawb yawg yuav mus rau Hmoob Vwj lub Church nyob nram San Diego . Koj to taub yuam kev lawm nawb ! Yog yuav mus tom Hmoob Vwj lub tsev txias hauv St . paul mas kawg koj thiab kuv wb mus xwb nawb . Thaum twg koj npaj mus ces hais qhia kuv mam li tuaj ntsib koj ....
-Suav
+Nyob pem ko puas kub thiab os ?
+ua cas nyob CA sab qab teb no kub kawg li os .
 
-dr . suav -- kuv xav tias yog li koj hais lawm , phwvnyawm yeej tsis lam
-tuaj MN no 1 xyoo 2 lwm ib zaug .
-ua cas 2 lub weekend tas los no sov sov kawg li .  kuv twb tuaj da dej
-thiab tuaj khiav tom lub me nyuam pa dej koj nyob .  kuv xam tas zog
-tsis pom koj li .  qhia chaw nyob rau kuv es lwm zaus kuv mam tuaj khob
-kiag koj qhov rooj saib es wb mam li mus khiav thiab da dej seb .
+Dab laug Hmong213 , Hnub tim 4 lu 8hli lub weekend tom ntej no .
+Kuv yuav tuaj rau ntawm Church hmoob Vwj yog koj tuaj no wb mam sib ntsib thaum 3 : 00pm - 6 : 00pm kuv los rau ntawd church nawb .
+
+haj ..
+haj ..
+haj ...
+phwv -- tau ib ntus no zoo li koj muaj ntsis ua zab pauv nees lawm ces kuv txawm tsis tshuav ntseeg koj lawm nav .
+tab sis yog tuaj tseeb li koj hais tiag no , kuv yuav tsis kam tuaj ntsib koj tom hmoob vwj lub tsev txias ko .
+kuv mam li coj koj wb mus noj fawm tim yaj txhim lawv lub lab qhib tshiab nyob ze ze ntawm lub tsev txias ko thiab .
+
+cuag li pheej yuav thuam , tab sis hmoob vwj lub niag tsev txia ko ces kuv dhuav dhuav kawg li lawm .
+lub niag hoob nab mas me me , tsuas muaj 1 lub dab tso zis thiab 1 lub dab tso quav xwb .
+lawv yeej tsis clean li mas tsw phem tshaj plaws li .
+lub hoob nab ho nyob hauv basement , lub niag qhov rooj qhib lug tuaj rau xab saum neeg nyob thiab mas ntuj aw ...
+mus nyob hauv ces yeej nyob tsis taus li .
+kuv mus thaum twg ces kuv yeej ntuav tas li xwb .
+kuv yuav tsis tuaj mus rau hauv lawv lub tsev txias hauv li lawm .
+peb cov kwvtij ces peb yeej tsis pam tuag hauv li lawm vim lub hoob nab tsw phem dhau hwv lawm .
+yog thaum twg neeg tuaj thov kom kuv mus pab ua hauj lwm , kuv yeej xub nug ..
+yog pam tom hmoob vwj lub tsev txias lawm no ces kuv yeej ua txoj hais tias muaj lwm mus kev deb lawm no kom dim xwb ov .
+
+Kwvtij , Phwv tsis yog yuav tuaj Hmoob Vwj lub tsev txias tom St .
+Paul nawb yawg yuav mus rau Hmoob Vwj lub Church nyob nram San Diego .
+Koj to taub yuam kev lawm nawb !
+Yog yuav mus tom Hmoob Vwj lub tsev txias hauv St .
+paul mas kawg koj thiab kuv wb mus xwb nawb .
+Thaum twg koj npaj mus ces hais qhia kuv mam li tuaj ntsib koj ....
+
+Suav dr .
+suav -- kuv xav tias yog li koj hais lawm , phwvnyawm yeej tsis lam tuaj MN no 1 xyoo 2 lwm ib zaug .
+
+ua cas 2 lub weekend tas los no sov sov kawg li .
+kuv twb tuaj da dej thiab tuaj khiav tom lub me nyuam pa dej koj nyob .
+kuv xam tas zog tsis pom koj li .
+qhia chaw nyob rau kuv es lwm zaus kuv mam tuaj khob kiag koj qhov rooj saib es wb mam li mus khiav thiab da dej seb .

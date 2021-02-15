@@ -1,43 +1,35 @@
-Luaj Teb
-Lub neej nyob rau pem toj roob hauv pes mas tsis yooj yim kiag li .
-Muab Tsiab Peb Caug noj tas ces twb yuav rov qab mus pib teb ua . Cov poj
-niam yuav mus tom teb yeeb , thiab cov txiv neej yuav mus luaj teb . Mus luaj
-teb yog ib lub caij ua sawv daws yuav tau mus pw teb yog hais tias cov teb nyob
-deb ntawm zos . Lub caij no yog lub caij uas pib sov zuj zus uas lub caij ntuj no
-twb dua lawm .
-Mus pw luaj teb mov noj , los sis puas teb npleg yog hais tias cov teb nyob deb
-rau ntawm zos mas yog ib lub caij uas sawv daws ti tes kawg nkaus . Daim
-teb uas yog hav zoov laus , yuav tsum tau luaj tas mam li ntov cov ntoo loj .
-Thaum luaj mas cov poj niam mi nyuam sawv daws sib pab , thaum ntov cov
-ntoo loj lawm , ces kawg cov txiv neej lawm xwb . Lub sij hawm no yog tsis
-muaj zaub mov zoo noj mas cov txiv neej yuav mus ntov ntoo tsis muaj zog
-kiag . Vim yog li no , Hmoob thiaj tseg lawv cov nqaij sawb los mus noj rau lub
-sij hawm no . Tej daim teb hav zoov laus laus ua muaj cov ntoo loj loj ntau
-tus mas thaum luaj teb tas ntawd cov txiv neej yeej yuag lawm hov ntau .
-Muaj tus puav ntoo loj heev , yuav tsum tau tuaj yaj choj mus rau saum qhov
-me zog thiab mam li ntov .
-Pw rau nram teb thaum yuav tsaus ntuj yeej hnov kab noog , tej nraj yig
-lauv tsaw thiab lwm yam tsiaj tau los mus quaj xa lub hnub thiab sau ua npoj
-ntws los mus muab lawv lub chaw pw . Cov muaj phom kuj tau mus zov tej
-tsiaj qus no tua . Cov mi nyuam kuj mus sawb lwm yam , xws ntov txiv tsawb
-thiab dawj roob ris tej no los mus ua noj . Lub sij hawm pw lawm kuj tseem
-hnov lwm yam tsiaj tsaus ntuj los mus quaj . Ntau zaus mas yog tej nyuag
-noog los sis puas kab ub kab no xwb , kuj muaj tej zaum hnov tsov los quaj
-pug tim tej tuaj . Yog hais tias hnov li no lawm thiab yus ho tsis muaj phom
-mas nws kuj ua rau yus ib ce xob zom zaws . Nws muaj tej zaum yog hais tias
-hnov los quaj ze rau ntawm yus daim teb los sis puas qhov chaw pwm , tej
-zaum no kawg yuav tau sawv los rauv taws kom cig loj loj thiab pom pom
-kev thiab yuav tau hu dab poj yawm txwv txoob los mus rau dab teb dab chaw
-kom los yob tus tsov ntawd mus lawm lwm qhov .
-lb tag kis twg yeej hnov qaib qus qua tiab nraj yig lauv tsaw quaj cuag li
-cas tim tej tuaj . Kuj muaj hmo puav uas nws kuj tseem no no thiab tag kis
-ntawd pom lwg dai cuag li cas rau ntawm tej . Kuj muaj tag kis puav uas pom
-huab pw hav , ua tej niag hav huab dawb paug . Twb yog li yuav tav su huab
-thiaj li sawv dua tas .
-Lub sij hawm luaj teb tas ces yuav tau los tsev cia cov teb ntawd ziab
-qhuav tas lawm mam li mus hlawv . Thaum hlawv teb ces twb yog lub sij
-hawm ua twb sov heev heev lawm . Lub sij hawm no ces twb yog lub caij ntuj
-sov yuav dua . Tsis tas li ntawd , lub sij hawm no yog lub sij hawm ua nyob
-rau pem toj siab uas muaj faj suab iab oo sawv puv ntuj thiab tuab heev . Cov
-faj suab iab oo no yuav nyob txog thaum nag tshiab nqes , thiab nws thiaj li
-yuav yaj tas . 
+Luaj Teb Lub neej nyob rau pem toj roob hauv pes mas tsis yooj yim kiag li .
+
+Muab Tsiab Peb Caug noj tas ces twb yuav rov qab mus pib teb ua .
+Cov poj niam yuav mus tom teb yeeb , thiab cov txiv neej yuav mus luaj teb .
+Mus luaj teb yog ib lub caij ua sawv daws yuav tau mus pw teb yog hais tias cov teb nyob deb ntawm zos .
+Lub caij no yog lub caij uas pib sov zuj zus uas lub caij ntuj no twb dua lawm .
+
+Mus pw luaj teb mov noj , los sis puas teb npleg yog hais tias cov teb nyob deb rau ntawm zos mas yog ib lub caij uas sawv daws ti tes kawg nkaus .
+Daim teb uas yog hav zoov laus , yuav tsum tau luaj tas mam li ntov cov ntoo loj .
+
+Thaum luaj mas cov poj niam mi nyuam sawv daws sib pab , thaum ntov cov ntoo loj lawm , ces kawg cov txiv neej lawm xwb .
+Lub sij hawm no yog tsis muaj zaub mov zoo noj mas cov txiv neej yuav mus ntov ntoo tsis muaj zog kiag .
+Vim yog li no , Hmoob thiaj tseg lawv cov nqaij sawb los mus noj rau lub sij hawm no .
+Tej daim teb hav zoov laus laus ua muaj cov ntoo loj loj ntau tus mas thaum luaj teb tas ntawd cov txiv neej yeej yuag lawm hov ntau .
+
+Muaj tus puav ntoo loj heev , yuav tsum tau tuaj yaj choj mus rau saum qhov me zog thiab mam li ntov .
+
+Pw rau nram teb thaum yuav tsaus ntuj yeej hnov kab noog , tej nraj yig lauv tsaw thiab lwm yam tsiaj tau los mus quaj xa lub hnub thiab sau ua npoj ntws los mus muab lawv lub chaw pw .
+Cov muaj phom kuj tau mus zov tej tsiaj qus no tua .
+Cov mi nyuam kuj mus sawb lwm yam , xws ntov txiv tsawb thiab dawj roob ris tej no los mus ua noj .
+Lub sij hawm pw lawm kuj tseem hnov lwm yam tsiaj tsaus ntuj los mus quaj .
+Ntau zaus mas yog tej nyuag noog los sis puas kab ub kab no xwb , kuj muaj tej zaum hnov tsov los quaj pug tim tej tuaj .
+Yog hais tias hnov li no lawm thiab yus ho tsis muaj phom mas nws kuj ua rau yus ib ce xob zom zaws .
+Nws muaj tej zaum yog hais tias hnov los quaj ze rau ntawm yus daim teb los sis puas qhov chaw pwm , tej zaum no kawg yuav tau sawv los rauv taws kom cig loj loj thiab pom pom kev thiab yuav tau hu dab poj yawm txwv txoob los mus rau dab teb dab chaw kom los yob tus tsov ntawd mus lawm lwm qhov .
+
+lb tag kis twg yeej hnov qaib qus qua tiab nraj yig lauv tsaw quaj cuag li cas tim tej tuaj .
+Kuj muaj hmo puav uas nws kuj tseem no no thiab tag kis ntawd pom lwg dai cuag li cas rau ntawm tej .
+Kuj muaj tag kis puav uas pom huab pw hav , ua tej niag hav huab dawb paug .
+Twb yog li yuav tav su huab thiaj li sawv dua tas .
+
+Lub sij hawm luaj teb tas ces yuav tau los tsev cia cov teb ntawd ziab qhuav tas lawm mam li mus hlawv .
+Thaum hlawv teb ces twb yog lub sij hawm ua twb sov heev heev lawm .
+Lub sij hawm no ces twb yog lub caij ntuj sov yuav dua .
+Tsis tas li ntawd , lub sij hawm no yog lub sij hawm ua nyob rau pem toj siab uas muaj faj suab iab oo sawv puv ntuj thiab tuab heev .
+Cov faj suab iab oo no yuav nyob txog thaum nag tshiab nqes , thiab nws thiaj li yuav yaj tas .

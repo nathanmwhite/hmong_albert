@@ -1,255 +1,248 @@
-Ib tsoom npoj yaig ,
-Nyob rau hauv phau ntawv qhuab qhia txoj zaj no yog qhia txog cov tib neeg com kawb dai qhuav , mas muaj ib so lus hais tseg li no tias , Ntsev yog yam uas zoo , tiam sis nws tsuag lawm tsi muaj leej twg yuav txawj ua kom cov ntsev ntawd rov qab qab dua tuaj tau , cov ntsev ntawd tsi zoo siv ua dab tsi lawm , muab rau av los tsi txawj ua kom av zoo , thiab tsi zoo ua chiv dab tsi lawm tsuas muaj yuav muab pov tseg xwb . Yog leej twg muaj pob ntseg cia li khaws zaj no cia .
+Ib tsoom npoj yaig , Nyob rau hauv phau ntawv qhuab qhia txoj zaj no yog qhia txog cov tib neeg com kawb dai qhuav , mas muaj ib so lus hais tseg li no tias , Ntsev yog yam uas zoo , tiam sis nws tsuag lawm tsi muaj leej twg yuav txawj ua kom cov ntsev ntawd rov qab qab dua tuaj tau , cov ntsev ntawd tsi zoo siv ua dab tsi lawm , muab rau av los tsi txawj ua kom av zoo , thiab tsi zoo ua chiv dab tsi lawm tsuas muaj yuav muab pov tseg xwb .
+Yog leej twg muaj pob ntseg cia li khaws zaj no cia .
+
 Zaj lus saum yog qhia rau cov neeg uas ruam tsab ntse uas nws tsi paub tias nws cov ntsev twb tsuag lawm , tab txawm muab rau zaub rau neeg noj los twb tsi qab lawm , los sij yuav muab nws tej ntsev los rau zaub tag zog rau neeg noj .
-YTK
 
-Tijlaug Yajtshajkoob ;
-Daim post dhau los lawm Uncle Tseem Yeej neb sib tham txog Vaj Nas .  Neb yeej hais tib tug Vaj Nas lawm ntag tabsi neb hais cov lus tsis sib koos xwb .  Vaj Nas ( Dr . Vang Jonas ) mas Uncle TseemYeej paub zoo vim lawv kawm Lycee Vientiane ua ke thaum 1964 - 1973 .  1973 Vaj Nas xeem tau tuaj mus kawm Mathematics & Physic nyob rau University of Lyon , Uncle Tseemyeej mus kawm French nyob rau University Sisavangvong - Dong Dok .  Uncle Tseemyeej paub Vaj Nas zoo , vim lawv yog classmath  thiab nyob Merced , California ua ke los lawm .
-Vaj Nas yuav pojniam ua ntej yuav tuaj mus Fankisteb thaum 1973 , 1992 or 93 nkawd sib nraug ces Yaj Cib thiaj mus yuav Vaj Nas tus ex ... uas yog T - 28 & C - 47 Pilot Muas Tswb muam .  Vaj Nas thiaj mus yuav tus niam tam sim no uas yog GVP niam hluas thiab yog Naikong Nyiaj Tsus Muas ntxhais .  Raws li kuv paub mas 1975 thaum Hmoob khiav tuaj Nong Khai Vaj Nas tsis tau Nong Khai .
-Uncle TseemYeej ;
-Tham txog qhov uas FAG Yaj Nyiaj hu T - 28s bombs cov Hmoob Pathet Lao nyob Kham Kheuth Kham Mouan mas vim cov Hmoob Pathet Lao pheej tuaj lawv .  Maj . Tshuas Ntaj Xyooj lawv twb mus pov ntawv kom lawv tseg vim sawvdaws yog Hmoob tib yam , txawm li ntawd los lawv ( Hmoob Pathet Lao ) tsis tseg , ib sij ib phom Deka 82 tuaj rau Maj . Tshuaj Ntaj Xyooj lawv tog .  Thaum kawg Maj . Tshuas Ntaj thiaj xaj kom Yaj Nyiaj hu T - 28s bombs .
-Vajncuab5
+YTK Tijlaug Yajtshajkoob ; Daim post dhau los lawm Uncle Tseem Yeej neb sib tham txog Vaj Nas .
+Neb yeej hais tib tug Vaj Nas lawm ntag tabsi neb hais cov lus tsis sib koos xwb .
+Vaj Nas ( Dr .
+Vang Jonas ) mas Uncle TseemYeej paub zoo vim lawv kawm Lycee Vientiane ua ke thaum 1964 - 1973 . 1973 Vaj Nas xeem tau tuaj mus kawm Mathematics & Physic nyob rau University of Lyon , Uncle Tseemyeej mus kawm French nyob rau University Sisavangvong - Dong Dok .
+Uncle Tseemyeej paub Vaj Nas zoo , vim lawv yog classmath thiab nyob Merced , California ua ke los lawm .
 
-txhua yam yeej muaj tas sij hawm EXPIRE . thaum kuv xub tuaj poob hauv MN peb cov kwvtij xyooj muaj ib lub khw muag khoom noj deb ntawm peb lub APARTMENT li 3 miles xwb nyob2 uas cas muaj ib hnub lawv kom peb mus nqa khoom los noj dawb2 pem lub khw kwvtij no mas kuv RUAM tas tias VUAG ua cas ho kom peb mus nqa DAWB2 . kuv mam li soj qab tau moo mus nug kom tseeb2 na yog cov khoom uas muaj EXPIRE DATE sau 6 ntawm ib sab thawv ntawv . lub hnub nyoob lawv sau no los ze2 ces lawv muag tsis tas ces teeb meem yog state/countt tus INSPECTOR tuaj KUAJ pom cov khoom tas sij hawm no ces lawv thim ib co license  ces yuav muab lub khw TXWV tsis pub muag tej yam khoom specific . thaum lub sij hawm los ze dhau neeg yuav tsis tas ces lawv kom peb mus nqa DAWB kuj khees zogli yuav muab pov tseg 6 trashcan . txhua yam hauvlub qab ntuj no yeej muaj TAS SIJ HAWM/ EXPIRATION . lub sij hawm ib yam EXPIRED lawm mas maj2 coj mus zais los yog PUB DAWB 6 tom free food organization . yam uas tsis yog khoom noj los muaj tas sij hawm ib yam nkaus . muab piv txwv li BLOG cov huab tais twvb pib thAUM 1300 LOS TXOG RAU 1976 NO CES TWB NTEV TSHAJ 600 xyoo lawm siv hom qub2 xwb ces EXPIRE lawm huab tais BLOG tus kwv thiaj li mus nrhiav kev tawm coj COMMIE tuaj 6 daim AV BLOG . COMMIE los yuav tsis yog permanent nws yeej yuav EXPIRE tsis ntev tom ntej no . CAPITALISM li meskas ntawm peb nyob nov los tsis yog yuav KAV kom ntev nroglub hnub lub hli . lub hnub lub hli kiag los twb muaj SIJ HAWM TAS . lub hnub yuav txawj tas GAS ces yuav tsis txawj cig/ntsa tuaj lawm . lub sij hawm yog yam ua kom txhua yam tas sij hawm .
+Vaj Nas yuav pojniam ua ntej yuav tuaj mus Fankisteb thaum 1973 , 1992 or 93 nkawd sib nraug ces Yaj Cib thiaj mus yuav Vaj Nas tus ex ...
+uas yog T - 28 & C - 47 Pilot Muas Tswb muam .
+Vaj Nas thiaj mus yuav tus niam tam sim no uas yog GVP niam hluas thiab yog Naikong Nyiaj Tsus Muas ntxhais .
+Raws li kuv paub mas 1975 thaum Hmoob khiav tuaj Nong Khai Vaj Nas tsis tau Nong Khai .
 
-lawv lo lus ntawm BIBLE koj piav no mas lub intenional idea yog lawv kom neeg muab yam kev ntseeg qub pov tseg kom mus LAWB DAB . yog kuv tsim ib hom religion tshiab loskuv yuav SIV technique no los ntxias kom tau member coob2 los koom kuv lub church==$ lo lus tom ntej ces lawv yuav piv tuaj tias koj hom qub2 neeg twb sis SIVlawm ces los koom kuv lub church uas yog hom tshiab2 . hom tshiab yeej khees zog me2 TABSIS yog $ ua ntej xwb ov . kuv twb copj kuv lub mobile phone tau 10 xyoo no tseem siv lub qub . qub2 tabsis kuj tseem SIV tau los hu neeg ces sij ho yuav muab pov tseg mus yuav cov tshiab2 li lub note3 kom yog 1920x1080 nyob HD format no mas kuj RUAM ZOG vin tej ntawd yog $ xwb . qhov functions nyaj ntxiv yam puav ntxiv tabsis lub main function tseem yog li qub . 6siab muab nej tej pov tseg kom tas kuv mamli khaws tej yam tseem SIV NYOG mus 6 kuv tau siv . nej leej twg xav2 tau tus tshiab2 mos2 22 xwb kaj tsij mus tim ub mus coj ntau2 tus tuaj 3 - 4 xyoo xwb lawv muaj nej pov tseg no kuv mamli hu mus nrog tham me2 thiab yaum kom nrog kuv mus nuvntses tom BIG STONE LAKE li hunb puav . tej mus nrhiav tau tus tshiab2 los xyoo puav txawj EXPIRE qub2 tuaj ib yam nkaus . tus uas tamsim no yog 14 22 heev los 26 xyoo tom ntej xwb nws yog POG LAUS muaj PMStuaj ib yam nkaus .
+Uncle TseemYeej ; Tham txog qhov uas FAG Yaj Nyiaj hu T - 28s bombs cov Hmoob Pathet Lao nyob Kham Kheuth Kham Mouan mas vim cov Hmoob Pathet Lao pheej tuaj lawv .
+Maj .
+Tshuas Ntaj Xyooj lawv twb mus pov ntawv kom lawv tseg vim sawvdaws yog Hmoob tib yam , txawm li ntawd los lawv ( Hmoob Pathet Lao ) tsis tseg , ib sij ib phom Deka 82 tuaj rau Maj .
+Tshuaj Ntaj Xyooj lawv tog .
+Thaum kawg Maj .
+Tshuas Ntaj thiaj xaj kom Yaj Nyiaj hu T - 28s bombs .
 
-Kwv Vajncuab ,
-Yog muaj li koj sob lus saum no ces tus kuv ntsib tsi yog tus uas nrauj poj niam es Yaj Cib ho yuav nws tus qub poj niam ntawd lawm , rau qhov kuv hnov tias Yaj Cib yuav Vaj Nas poj niam no ces kuv txawm xav tias ntshe yog tus Vaj Nas uas kuv ntsib Noom Qhais lawm no tab sis yog li ces tsi yog tus kuv ntsib lawm ov .
+Vajncuab5 txhua yam yeej muaj tas sij hawm EXPIRE .
+thaum kuv xub tuaj poob hauv MN peb cov kwvtij xyooj muaj ib lub khw muag khoom noj deb ntawm peb lub APARTMENT li 3 miles xwb nyob2 uas cas muaj ib hnub lawv kom peb mus nqa khoom los noj dawb2 pem lub khw kwvtij no mas kuv RUAM tas tias VUAG ua cas ho kom peb mus nqa DAWB2 . kuv mam li soj qab tau moo mus nug kom tseeb2 na yog cov khoom uas muaj EXPIRE DATE sau 6 ntawm ib sab thawv ntawv .
+lub hnub nyoob lawv sau no los ze2 ces lawv muag tsis tas ces teeb meem yog state/countt tus INSPECTOR tuaj KUAJ pom cov khoom tas sij hawm no ces lawv thim ib co license ces yuav muab lub khw TXWV tsis pub muag tej yam khoom specific .
+thaum lub sij hawm los ze dhau neeg yuav tsis tas ces lawv kom peb mus nqa DAWB kuj khees zogli yuav muab pov tseg 6 trashcan .
+txhua yam hauvlub qab ntuj no yeej muaj TAS SIJ HAWM/ EXPIRATION .
+lub sij hawm ib yam EXPIRED lawm mas maj2 coj mus zais los yog PUB DAWB 6 tom free food organization .
+yam uas tsis yog khoom noj los muaj tas sij hawm ib yam nkaus .
+muab piv txwv li BLOG cov huab tais twvb pib thAUM 1300 LOS TXOG RAU 1976 NO CES TWB NTEV TSHAJ 600 xyoo lawm siv hom qub2 xwb ces EXPIRE lawm huab tais BLOG tus kwv thiaj li mus nrhiav kev tawm coj COMMIE tuaj 6 daim AV BLOG .
+COMMIE los yuav tsis yog permanent nws yeej yuav EXPIRE tsis ntev tom ntej no .
+CAPITALISM li meskas ntawm peb nyob nov los tsis yog yuav KAV kom ntev nroglub hnub lub hli .
+lub hnub lub hli kiag los twb muaj SIJ HAWM TAS .
+lub hnub yuav txawj tas GAS ces yuav tsis txawj cig/ntsa tuaj lawm .
+lub sij hawm yog yam ua kom txhua yam tas sij hawm .
+
+lawv lo lus ntawm BIBLE koj piav no mas lub intenional idea yog lawv kom neeg muab yam kev ntseeg qub pov tseg kom mus LAWB DAB .
+yog kuv tsim ib hom religion tshiab loskuv yuav SIV technique no los ntxias kom tau member coob2 los koom kuv lub church==$ lo lus tom ntej ces lawv yuav piv tuaj tias koj hom qub2 neeg twb sis SIVlawm ces los koom kuv lub church uas yog hom tshiab2 . hom tshiab yeej khees zog me2 TABSIS yog $ ua ntej xwb ov .
+kuv twb copj kuv lub mobile phone tau 10 xyoo no tseem siv lub qub .
+qub2 tabsis kuj tseem SIV tau los hu neeg ces sij ho yuav muab pov tseg mus yuav cov tshiab2 li lub note3 kom yog 1920x1080 nyob HD format no mas kuj RUAM ZOG vin tej ntawd yog $ xwb .
+qhov functions nyaj ntxiv yam puav ntxiv tabsis lub main function tseem yog li qub .
+6siab muab nej tej pov tseg kom tas kuv mamli khaws tej yam tseem SIV NYOG mus 6 kuv tau siv .
+nej leej twg xav2 tau tus tshiab2 mos2 22 xwb kaj tsij mus tim ub mus coj ntau2 tus tuaj 3 - 4 xyoo xwb lawv muaj nej pov tseg no kuv mamli hu mus nrog tham me2 thiab yaum kom nrog kuv mus nuvntses tom BIG STONE LAKE li hunb puav .
+tej mus nrhiav tau tus tshiab2 los xyoo puav txawj EXPIRE qub2 tuaj ib yam nkaus .
+tus uas tamsim no yog 14 22 heev los 26 xyoo tom ntej xwb nws yog POG LAUS muaj PMStuaj ib yam nkaus .
+
+Kwv Vajncuab , Yog muaj li koj sob lus saum no ces tus kuv ntsib tsi yog tus uas nrauj poj niam es Yaj Cib ho yuav nws tus qub poj niam ntawd lawm , rau qhov kuv hnov tias Yaj Cib yuav Vaj Nas poj niam no ces kuv txawm xav tias ntshe yog tus Vaj Nas uas kuv ntsib Noom Qhais lawm no tab sis yog li ces tsi yog tus kuv ntsib lawm ov .
+
 Tus Vaj Nas kuv ntsib mas xyoo 1975 Hmoob tawg los nyob Noom Qhais mas nws tsi tau yuav poj niam , tus Vaj Nas kuv ntsib mas nws tug neeg loj siab yog hom neeg doog ntsej muag tuab did ncauj tuab npawv , nws tsi yog neeg nqaij tawv dawb daj , tus Vaj Nas kuv piav no nyob lub zos Moos Peej uas tuaj nej sab teb chaws tuaj txog ntawm lawv zos ces kev ncaim hauv lawv lub zos mus rau Looj Ceeb , thiab ncaim mus rau Xaas Thoog .
-Yog li ces tsi yog kuv dag li nws hais yog kuv muab ob tus Vaj Nas los ua ib tug Vaj Nas lawm xwb , mas yog tias ອາຈານ- yog neeg paub coj tog mas nws yuav tsi hais tej lus li ntawd , twb tsim nyog nws yuav tuaj hais rau hauv no tias koj tham hais li ntawd lawm uas peb muaj ob tug Vaj Nas mas seb yog tus Vaj Nas twg tiag tej zaum koj hais yuam kev lawm no pob , pom tawm plaws ອາຈານ- TseemYeej lub npe ces tsuas pom cem tias Dag Muaj tau Dag xwb no es leej twg lam yuav siv tau nab . Nyuj kav ib pab maum tab txawm yuag pes tsawg los twb yuav rau ib cuam nrug cov uas caj dab ntug ntoob tsi yeej mam dhia hos .
-YTK
 
-tus MAUM ntawd ho SPECIAL npaumli cas sawv daws ho muab piav lawv tej kev sib nrauj sib yuav thiab na ?
+Yog li ces tsi yog kuv dag li nws hais yog kuv muab ob tus Vaj Nas los ua ib tug Vaj Nas lawm xwb , mas yog tias ອາຈານ- yog neeg paub coj tog mas nws yuav tsi hais tej lus li ntawd , twb tsim nyog nws yuav tuaj hais rau hauv no tias koj tham hais li ntawd lawm uas peb muaj ob tug Vaj Nas mas seb yog tus Vaj Nas twg tiag tej zaum koj hais yuam kev lawm no pob , pom tawm plaws ອາຈານ- TseemYeej lub npe ces tsuas pom cem tias Dag Muaj tau Dag xwb no es leej twg lam yuav siv tau nab .
+Nyuj kav ib pab maum tab txawm yuag pes tsawg los twb yuav rau ib cuam nrug cov uas caj dab ntug ntoob tsi yeej mam dhia hos .
 
-VajNcuab ,
-Koj yuav hais li cas los tau , nco ntsoov tias hais tuaj nruab nrab me ntsis , txhob lam tau lam phlom moj liam tus ub tus no li li yawm TYK . Tos kuv ho ib nyuag hais koj los vim koj hais nchav zog rau lawv tog PathetLao lawm nas . Koj hais li no ne : " Yaj Nyiaj thiaj hu cov T - 28 Hmoob pem Phaj 2 ( MR 2 ) tuaj tua ; Vang Bee , Yang Bee thiab Xiong Koua lawv thiaj tuaj bombs ua nws yawm Naiban Hmoob Pathet Lao tuag kiag , Zos kub nyiab tag .  Hmoob Pathet Lao mas ntshai cov T - 28 pem Looj Ceeb kawg kiag ." Hais li no ces cuag li yus tshum taws kom taws cig hlob rov tuaj xwb las as .
-Koj yeej paub tias kuv yog neeg nruab nrab , ncog taus 2 togt nyob , kuv yeej tau nrog 2 tog tham lawm . Kuv mus txog cov kwvtij phoojywg Hmoob ua tseem coj tim ub , luag yeej xav kom tso tej no tseg , kuv yeej tau tham me ntsis lawm . Twb tsis hais txog tej koj hais tias tua nainban Hmoob tuag kiag nav , lawv tseem xav kom txhob hais tej lub :" NyabLaj Liab " or " Nplog Liab " no thiaj tsis sib mob siab no nav .
-By the way , VajNas aka dr . Jonas , tsis nyob Merced lawm os , tabsis , nws tseem qhia ntawv ntawd xwb . Kuv nyuam qhuav nrog nws tham last month .
-Yawg hlob YTK ,
-Koj cov NTSEV mas , kuv xav tias koj xav yuam ke loj dhau hwv lawm nawb . Kuv tsis yog hom neeg ntshaw nom ntshaw tswv li koj es pheej yuav hais kom yus yeej xwb nawb . Kuv tu kheej ho totaub tias ; scientifically NTSEV yim tsuag yim zoo xwb no laiv . Koj hais mas koj xav kom NTSEV daw li qub los yog daw tshaj qub thiaj li no puas yog ?
-Tsam no muaj 2 tug ( dr . Suav & VajNcuab ) confirm tias VajNas yuav NTxawm NyiajTsu tsis yog tus koj pom no lawm laiv . Yog yus tsis paub mas , txhob maj - j phlom moj mas . Tib yam tsam no , koj hais tias YT & DYD yog tib qhab nab caum nom Hmoob tawm no mas yog neeg DAG lawm xwb . Yog TSEEB mam hais tias TSEEB CUAV mas ua tsis tau TSEEB nawb .
-Txij no lawm tod , yam yus tsis paub txhob maj - j hais cuag li yus paub - b nawb . Koj twb tsis paub txog Lis Kaub PajLwj tseeb npaum kuv ne . Koj cia li lam tau lam hais tias nws yog tus txhais cov lus CobFab ntawd xwb ne . Kuv twb muab Phone rau koj hu mus nug nws ne . Ua cas ho tsis hu ?
-Yog xav paub tus philosophy NTSEV no ces rov mus rau hauv ncoo siab - b xav kom thoob - b thiaj totaub nawb . Koj puas paub tias neeg tuag rau NTSEV daw no maj ?
+YTK tus MAUM ntawd ho SPECIAL npaumli cas sawv daws ho muab piav lawv tej kev sib nrauj sib yuav thiab na ?
+
+VajNcuab , Koj yuav hais li cas los tau , nco ntsoov tias hais tuaj nruab nrab me ntsis , txhob lam tau lam phlom moj liam tus ub tus no li li yawm TYK .
+Tos kuv ho ib nyuag hais koj los vim koj hais nchav zog rau lawv tog PathetLao lawm nas .
+Koj hais li no ne : " Yaj Nyiaj thiaj hu cov T - 28 Hmoob pem Phaj 2 ( MR 2 ) tuaj tua ; Vang Bee , Yang Bee thiab Xiong Koua lawv thiaj tuaj bombs ua nws yawm Naiban Hmoob Pathet Lao tuag kiag , Zos kub nyiab tag .
+Hmoob Pathet Lao mas ntshai cov T - 28 pem Looj Ceeb kawg kiag ."
+Hais li no ces cuag li yus tshum taws kom taws cig hlob rov tuaj xwb las as .
+
+Koj yeej paub tias kuv yog neeg nruab nrab , ncog taus 2 togt nyob , kuv yeej tau nrog 2 tog tham lawm .
+Kuv mus txog cov kwvtij phoojywg Hmoob ua tseem coj tim ub , luag yeej xav kom tso tej no tseg , kuv yeej tau tham me ntsis lawm .
+Twb tsis hais txog tej koj hais tias tua nainban Hmoob tuag kiag nav , lawv tseem xav kom txhob hais tej lub :" NyabLaj Liab " or " Nplog Liab " no thiaj tsis sib mob siab no nav .
+
+By the way , VajNas aka dr .
+Jonas , tsis nyob Merced lawm os , tabsis , nws tseem qhia ntawv ntawd xwb .
+Kuv nyuam qhuav nrog nws tham last month .
+
+Yawg hlob YTK , Koj cov NTSEV mas , kuv xav tias koj xav yuam ke loj dhau hwv lawm nawb .
+Kuv tsis yog hom neeg ntshaw nom ntshaw tswv li koj es pheej yuav hais kom yus yeej xwb nawb .
+Kuv tu kheej ho totaub tias ; scientifically NTSEV yim tsuag yim zoo xwb no laiv .
+Koj hais mas koj xav kom NTSEV daw li qub los yog daw tshaj qub thiaj li no puas yog ?
+
+Tsam no muaj 2 tug ( dr .
+Suav & VajNcuab ) confirm tias VajNas yuav NTxawm NyiajTsu tsis yog tus koj pom no lawm laiv .
+Yog yus tsis paub mas , txhob maj - j phlom moj mas .
+Tib yam tsam no , koj hais tias YT & DYD yog tib qhab nab caum nom Hmoob tawm no mas yog neeg DAG lawm xwb .
+Yog TSEEB mam hais tias TSEEB CUAV mas ua tsis tau TSEEB nawb .
+
+Txij no lawm tod , yam yus tsis paub txhob maj - j hais cuag li yus paub - b nawb .
+Koj twb tsis paub txog Lis Kaub PajLwj tseeb npaum kuv ne .
+Koj cia li lam tau lam hais tias nws yog tus txhais cov lus CobFab ntawd xwb ne .
+Kuv twb muab Phone rau koj hu mus nug nws ne .
+Ua cas ho tsis hu ?
+
+Yog xav paub tus philosophy NTSEV no ces rov mus rau hauv ncoo siab - b xav kom thoob - b thiaj totaub nawb .
+Koj puas paub tias neeg tuag rau NTSEV daw no maj ?
+
 TseemYeej .
 
-ອາຈານ- TseemYeej ,
-Hais txog Kaub Lis Paj Lwj mas kuv thiab nws wb sib paub zoo heev , thaum nyob tim ub mas peb tawg rog los nyob ua koom ib lub zos .
+ອາຈານ- TseemYeej , Hais txog Kaub Lis Paj Lwj mas kuv thiab nws wb sib paub zoo heev , thaum nyob tim ub mas peb tawg rog los nyob ua koom ib lub zos .
+
 Kuv yuav hu thiab tsi hu los Kaub wb yeej tau noj nyob koom zos ua ke los tau ntau xyoo , Daim ntawv uas muab txhais ua lus Fab Kis yeej yog Kaub Lis txhais nyob Vib Nais , tus muab daim ntawv rau Kaub Lis Txhais mas yog Maj Nao Bee Yang uas yog Col Ntxhoov Tswv Yaj tus kwv muab rau Kaub Txhais ntag .
-Koj yuav hais li cas los tau , nco ntsoov tias hais tuaj nruab nrab me ntsis , txhob lam tau lam phlom moj liam tus ub tus no li li yawm TYK . Tos kuv ho ib nyuag hais koj los vim koj hais nchav zog rau lawv tog PathetLao lawm nas .
-Yog yuav hais qhov hais lus hais lus nchav mas ອາຈານ- TseemYeej koj yog ib tug uas #1 uas hais nchav tshaj plaws tsi muaj lwm tus yuav piv tau li lawm los mas ,  kuv tsi tau plhom moj npaum li koj hais ov cov neeg hauv SCH no yeej paub zoo lawm tsi tas yus yuav rov nra yus pob tawb li os , xav paub tus neeg nplom moj mas koj teg rov mus ntsia tus neeg ua li koj tij laug Yeej Paj Tsab Lis mas thiaj yog plhom moj tiag tiag li laus , muab Xab Chob rau Maum Dev lub pim mas thiaj yog neeg plhom moj pob , Dev puas tau ua txhaum rau Yeej Lis no ? Ua cas ho tsi coj mus chob pim dev rau pem Looj Ceeb , es tseem coj mus chob rau puag tim Pham Qhaum no .
+
+Koj yuav hais li cas los tau , nco ntsoov tias hais tuaj nruab nrab me ntsis , txhob lam tau lam phlom moj liam tus ub tus no li li yawm TYK .
+Tos kuv ho ib nyuag hais koj los vim koj hais nchav zog rau lawv tog PathetLao lawm nas .
+
+Yog yuav hais qhov hais lus hais lus nchav mas ອາຈານ- TseemYeej koj yog ib tug uas #1 uas hais nchav tshaj plaws tsi muaj lwm tus yuav piv tau li lawm los mas , kuv tsi tau plhom moj npaum li koj hais ov cov neeg hauv SCH no yeej paub zoo lawm tsi tas yus yuav rov nra yus pob tawb li os , xav paub tus neeg nplom moj mas koj teg rov mus ntsia tus neeg ua li koj tij laug Yeej Paj Tsab Lis mas thiaj yog plhom moj tiag tiag li laus , muab Xab Chob rau Maum Dev lub pim mas thiaj yog neeg plhom moj pob , Dev puas tau ua txhaum rau Yeej Lis no ?
+Ua cas ho tsi coj mus chob pim dev rau pem Looj Ceeb , es tseem coj mus chob rau puag tim Pham Qhaum no .
+
 Tej lus Vajncuab hais los saum yeej hais tau yog lus siv tau lawm , qhov tseeb tiag mas koj taug kev koj yuav tau xyuas koj tus hneev taw saib koj tsuj li cas thiab , li mam hais luag tej , ntiaj teb Neeg sau keeb kwm hauv txhua haiv nyias yeej sau rau nyias sab zoo tshaj sad .
-YTK
 
-Yawg hlob YTK NplobCiab ,
-Koj tseem yuav DAG dua ib lwm tias koj paub Kaub Lis nyob Noom Qhais no puas yog ? Hahaha ...
-Sub Kaub neb nim nyob uake tau ntau xyoo nyob Noomqhais os ? Koj pab tshabtxhais koj lo lus " Would Vision " pub kuv paub thiab soj , txhais hais cas thiab sau li cas tiag ne , tus neeg txawj Ntse awd ..
-Leej twg yog Maj Nao Bee Yang nab ? Hla dhau Najkhoom lawm ces nej tej nyuag Xaab hamtsis poob tag lawm les es . Nws muaj qabntxhiab dab tsi es thiaj kom Kaub txhais maj ? Hais lus mas hais kom muaj paus muaj ntsis thiab pob . Nyob - b es Kaub ciali lam txhais ntaw rau tus ub tus no ntag ? Yog koj nrog nws nojnyob uake tim Vibnais no koj paub Kaub ua dabtsi tid thiab maj ?
-Qhov kuv hais lus NCHAV mas muaj reason ov , kuv tsuas hais tiv thaiv kuv thiab kuv pabpawg xwb laiv . Hos koj mas thiaj cem masphab masli li tej niag dev dhuas dejkub li nawj . Seb tsam no koj txawm siv tig loos mus cem TswvPheej Lis thiab Lee Pao Yang lawv lawm lawm ne . Koj pheej cem lawv tau dabtsi maj ? Ua cas koj ho tsis tuaj nrog lawv sib txeeb tej nyuag nyiaj ntawd noj maj ? Los yog khib - b koj li nab ?
-Nev - v txawm siv rov DAG dua lawm thiab nev . Twg hais rau koj tias kuv tijlaug Yeej muab XAb chob maumdev pim tim Pham Qhaum nab ? Niag YTK Nplob Ciab awd ...
+YTK Yawg hlob YTK NplobCiab , Koj tseem yuav DAG dua ib lwm tias koj paub Kaub Lis nyob Noom Qhais no puas yog ?
+Hahaha ...
+
+Sub Kaub neb nim nyob uake tau ntau xyoo nyob Noomqhais os ?
+Koj pab tshabtxhais koj lo lus " Would Vision " pub kuv paub thiab soj , txhais hais cas thiab sau li cas tiag ne , tus neeg txawj Ntse awd ..
+
+Leej twg yog Maj Nao Bee Yang nab ?
+Hla dhau Najkhoom lawm ces nej tej nyuag Xaab hamtsis poob tag lawm les es .
+Nws muaj qabntxhiab dab tsi es thiaj kom Kaub txhais maj ?
+Hais lus mas hais kom muaj paus muaj ntsis thiab pob .
+Nyob - b es Kaub ciali lam txhais ntaw rau tus ub tus no ntag ?
+Yog koj nrog nws nojnyob uake tim Vibnais no koj paub Kaub ua dabtsi tid thiab maj ?
+
+Qhov kuv hais lus NCHAV mas muaj reason ov , kuv tsuas hais tiv thaiv kuv thiab kuv pabpawg xwb laiv .
+Hos koj mas thiaj cem masphab masli li tej niag dev dhuas dejkub li nawj .
+Seb tsam no koj txawm siv tig loos mus cem TswvPheej Lis thiab Lee Pao Yang lawv lawm lawm ne .
+Koj pheej cem lawv tau dabtsi maj ?
+Ua cas koj ho tsis tuaj nrog lawv sib txeeb tej nyuag nyiaj ntawd noj maj ?
+Los yog khib - b koj li nab ?
+
+Nev - v txawm siv rov DAG dua lawm thiab nev .
+Twg hais rau koj tias kuv tijlaug Yeej muab XAb chob maumdev pim tim Pham Qhaum nab ?
+Niag YTK Nplob Ciab awd ...
+
 Yog lawm , tos lawv pheej ib sij muab thais khej khem ib lwm los vim nej yeej tsis lees paub txog qhov " Hla dej yuav tau hle khau , hlateb hlachaw yuav tau hle mom " li ne yom .
-Kav tsij 6siab ntso cem ntag nawb yawg hlob YTK DAG nawb . Kuv saib tej koj sau - au lus Nplog rau Nplog twm ntawd yeej ok lawm ntag ov ....
+
+Kav tsij 6siab ntso cem ntag nawb yawg hlob YTK DAG nawb .
+Kuv saib tej koj sau - au lus Nplog rau Nplog twm ntawd yeej ok lawm ntag ov ....
+
 Kuv yuav mus saib Football laqwm os ...
+
 TseemYeej .
 
-T24gTW9uZGF5LCBOb3ZlbWJlciAyNSwgMjAxMyA4OjIwOjQwIFBNIFVUQy02LCBUc2VlbVllZWog
-d3JvdGU6DQo+IFlhd2cgaGxvYiBZVEsgTnBsb2JDaWFiLA0KPiANCj4gDQo+IA0KPiBPbiBNb25k
-YXksIE5vdmVtYmVyIDI1LCAyMDEzIDM6NTI6NDggUE0gVVRDLTgsIFlhaiBUc2hhaiBLb29iIHdy
-b3RlOiANCj4gDQo+ID4gSGFpcyB0eG9nIEthdWIgTGlzIFBhaiBMd2ogbWFzIGt1diB0aGlhYiBu
-d3Mgd2Igc2liIHBhdWIgem9vIGhlZXYsIHRoYXVtIG55b2IgdGltIHViIG1hcyBwZWIgdGF3ZyBy
-b2cgbG9zIG55b2IgdWEga29vbSBpYiBsdWIgem9zLg0KPiANCj4gS29qIHRzZWVtIHl1YXYgREFH
-IGR1YSBpYiBsd20gdGlhcyBrb2ogcGF1YiBLYXViIExpcyBueW9iIE5vb20gUWhhaXMgbm8gcHVh
-cyB5b2c/IEhhaGFoYS4uLg0KPiANCj4gPiAuLi4gS2F1YiB3YiB5ZWVqIHRhdSBub2ogbnlvYiBr
-b29tIHpvcyB1YSBrZSBsb3MgdGF1IG50YXUgeHlvbywgDQo+IA0KPiBTdWIgS2F1YiBuZWIgbmlt
-IG55b2IgdWFrZSB0YXUgbnRhdSB4eW9vIG55b2IgTm9vbXFoYWlzIG9zPyBLb2ogcGFiIHRzaGFi
-dHhoYWlzIGtvaiBsbyBsdXMgIldvdWxkIFZpc2lvbiIgcHViIGt1diBwYXViIHRoaWFiIHNvaiwg
-dHhoYWlzIGhhaXMgY2FzIHRoaWFiIHNhdSBsaSBjYXMgdGlhZyBuZSwgdHVzIG5lZWcgdHhhd2og
-TnRzZSBhd2QuLg0KPiANCj4gDQo+IA0KPiA+IERhaW0gbnRhd3YgdWFzIG11YWIgdHhoYWlzIHVh
-IGx1cyBGYWIgS2lzIHllZWogeW9nIEthdWIgTGlzIHR4aGFpcyBueW9iIFZpYiANCj4gDQo+ID4g
-TmFpcywgdHVzIG11YWIgZGFpbSBudGF3diByYXUgS2F1YiBMaXMgVHhoYWlzIG1hcyB5b2cgTWFq
-IE5hbyBCZWUgWWFuZyB1YXMgDQo+IA0KPiA+IHlvZyBDb2wgTnR4aG9vdiBUc3d2IFlhaiB0dXMg
-a3d2IG11YWIgcmF1IEthdWIgVHhoYWlzIG50YWcuDQo+IA0KPiBMZWVqIHR3ZyB5b2cgTWFqIE5h
-byBCZWUgWWFuZyBuYWI/IEhsYSBkaGF1IE5hamtob29tIGxhd20gY2VzIG5laiB0ZWogbnl1YWcg
-WGFhYiBoYW10c2lzIHBvb2IgdGFnIGxhd20gbGVzIGVzLiBOd3MgbXVhaiBxYWJudHhoaWFiIGRh
-YiB0c2kgZXMgdGhpYWoga29tIEthdWIgdHhoYWlzIG1haj8gSGFpcyBsdXMgbWFzIGhhaXMga29t
-IG11YWogcGF1cyBtdWFqIG50c2lzIHRoaWFiIHBvYi4gTnlvYi1iIGVzIEthdWIgY2lhbGkgbGFt
-IHR4aGFpcyBudGF3IHJhdSB0dXMgdWIgdHVzIG5vIG50YWc/IFlvZyBrb2ogbnJvZyBud3Mgbm9q
-bnlvYiB1YWtlIHRpbSBWaWJuYWlzIG5vIGtvaiBwYXViIEthdWIgdWEgZGFidHNpIHRpZCB0aGlh
-YiBtYWo/IA0KPiANCj4gDQo+IA0KPiA+IFlvZyB5dWF2IGhhaXMgcWhvdiBoYWlzIGx1cyBoYWlz
-IGx1cyBuY2hhdiBtYXMg4Lqt4Lqy4LqI4Lqy4LqZLVRzZWVtWWVlaiBrb2ogeW9nIGliIHR1ZyB1
-YXMgIzEgdWFzIGhhaXMgbmNoYXYgdHNoYWogcGxhd3MgdHNpIG11YWogbHdtIHR1cyB5dWF2IHBp
-diB0YXUgbGkgbGF3bSBsb3MgbWFzLCAgDQo+IA0KPiBRaG92IGt1diBoYWlzIGx1cyBOQ0hBViBt
-YXMgbXVhaiByZWFzb24gb3YsIGt1diB0c3VhcyBoYWlzIHRpdiB0aGFpdiBrdXYgdGhpYWIga3V2
-IHBhYnBhd2cgeHdiIGxhaXYuIEhvcyBrb2ogbWFzIHRoaWFqIGNlbSBtYXNwaGFiIG1hc2xpIGxp
-IHRlaiBuaWFnIGRldiBkaHVhcyBkZWprdWIgbGkgbmF3ai4gU2ViIHRzYW0gbm8ga29qIHR4YXdt
-IHNpdiB0aWcgbG9vcyBtdXMgY2VtIFRzd3ZQaGVlaiBMaXMgdGhpYWIgTGVlIFBhbyBZYW5nIGxh
-d3YgbGF3bSBsYXdtIG5lLiBLb2ogcGhlZWogY2VtIGxhd3YgdGF1IGRhYnRzaSBtYWo/IFVhIGNh
-cyBrb2ogaG8gdHNpcyB0dWFqIG5yb2cgbGF3diBzaWIgdHhlZWIgdGVqIG55dWFnIG55aWFqIG50
-YXdkIG5vaiBtYWo/IExvcyB5b2cga2hpYi1iIGtvaiBsaSBuYWI/DQo+IA0KPiANCj4gDQo+IA0K
-PiANCj4gPiB4YXYgcGF1YiB0dXMgbmVlZyBucGxvbSBtb2ogbWFzIGtvaiB0ZWcgcm92IG11cyBu
-dHNpYSB0dXMgbmVlZyB1YSBsaSBrb2ogdGlqID4gbGF1ZyBZZWVqIFBhaiBUc2FiIExpcyBtYXMg
-dGhpYWogeW9nIHBsaG9tIG1vaiB0aWFnIHRpYWcgbGkgbGF1cywgbXVhYiBYYWIgDQo+IA0KPiA+
-IENob2IgcmF1IE1hdW0gRGV2IGx1YiBwaW0gbWFzIHRoaWFqIHlvZyBuZWVnIHBsaG9tIG1vaiBw
-b2IsIERldiBwdWFzIHRhdSB1YSANCj4gDQo+ID4gdHhoYXVtIHJhdSBZZWVqIExpcyBubz8gVWEg
-Y2FzIGhvIHRzaSBjb2ogbXVzIGNob2IgcGltIGRldiByYXUgcGVtIExvb2ogQ2VlYiwgPiBlcyB0
-c2VlbSBjb2ogbXVzIGNob2IgcmF1IHB1YWcgdGltIFBoYW0gUWhhdW0gbm8uDQo+IA0KPiBOZXYt
-diB0eGF3bSBzaXYgcm92IERBRyBkdWEgbGF3bSB0aGlhYiBuZXYuIFR3ZyBoYWlzIHJhdSBrb2og
-dGlhcyBrdXYgdGlqbGF1ZyBZZWVqIG11YWIgWEFiIGNob2IgbWF1bWRldiBwaW0gdGltIFBoYW0g
-UWhhdW0gbmFiPyBOaWFnIFlUSyBOcGxvYiBDaWFiIGF3ZC4uLg0KPiANCj4gIA0KPiANCj4gPiBU
-ZWogbHVzIFZham5jdWFiIGhhaXMgbG9zIHNhdW0geWVlaiBoYWlzIHRhdSB5b2cgbHVzIHNpdiB0
-YXUgbGF3bSwgcWhvdiB0c2VlYiA+IHRpYWcgbWFzIGtvaiB0YXVnIGtldiBrb2ogeXVhdiB0YXUg
-eHl1YXMga29qIHR1cyBobmVldiB0YXcgc2FpYiBrb2ogdHN1aiBsaSANCj4gDQo+ID4gY2FzIHRo
-aWFiLCBsaSBtYW0gaGFpcyBsdWFnIHRlaiwgbnRpYWogdGViIE5lZWcgc2F1IGtlZWIga3dtIGhh
-dXYgdHhodWEgaGFpdiA+IG55aWFzIHllZWogc2F1IHJhdSBueWlhcyBzYWIgem9vIHRzaGFqIHNh
-ZC4NCj4gDQo+IFlvZyBsYXdtLCB0b3MgbGF3diBwaGVlaiBpYiBzaWogbXVhYiB0aGFpcyBraGVq
-IGtoZW0gaWIgbHdtIGxvcyB2aW0gbmVqIHllZWogdHNpcyBsZWVzIHBhdWIgdHhvZyBxaG92ICIg
-SGxhIGRlaiB5dWF2IHRhdSBobGUga2hhdSwgaGxhdGViIGhsYWNoYXcgeXVhdiB0YXUgaGxlIG1v
-bSIgbGkgbmUgeW9tLg0KPiANCj4gDQo+IA0KPiBLYXYgdHNpaiA2c2lhYiBudHNvIGNlbSBudGFn
-IG5hd2IgeWF3ZyBobG9iIFlUSyBEQUcgbmF3Yi4gS3V2IHNhaWIgdGVqIGtvaiBzYXUtYXUgbHVz
-IE5wbG9nIHJhdSBOcGxvZyB0d20gbnRhd2QgeWVlaiBvayBsYXdtIG50YWcgb3YuLi4uDQo+IA0K
-PiANCj4gDQo+IA0KPiANCj4gS3V2IHl1YXYgbXVzIHNhaWIgRm9vdGJhbGwgbGFxd20gb3MuLi4N
-Cj4gDQo+IA0KPiANCj4gDQo+IA0KPiANCj4gDQo+IFRzZWVtWWVlai4NCg0KDQrguq3gurLguojg
-urLgupktVHNlZW1ZZWVqLCANCg0KPiBTdWIgS2F1YiBuZWIgbmltIG55b2IgdWFrZSB0YXUgbnRh
-dSB4eW9vIG55b2IgTm9vbXFoYWlzIG9zPyBLb2ogcGFiIHRzaGFidHhoYWlzIGtvaiBsbyBsdXMg
-IldvdWxkIFZpc2lvbiIgcHViIGt1diBwYXViIHRoaWFiIHNvaiwgdHhoYWlzIGhhaXMgY2FzIHRo
-aWFiIHNhdSBsaSBjYXMgdGlhZyBuZSwgdHVzIG5lZWcgdHhhd2ogTnRzZSBhd2QuLg0KDQpYeW9v
-IDE5NzUgbnRhd2Qga29qIHRzZWVtIHRhYiB0b20gbnJvZyBucGxvZyBsaWFiIHNpYiB6b2cgbnRz
-b3MgZGhpYSBoYXVqIGx3bSByYXUg4Lqe4Lqx4LqB4LuB4Lql4Lqw4Lql4Lqx4LqULXB3IHRzYXVn
-IHpvZyBucmlzIGthaiBzaWFiIGx1ZyB0aW0gbnBsb2csIHRhYiB0eGF3bSBxaGlhIHR4b2cgIldv
-cmxkIFZpc2lvbiIgbG9zIGtvaiB5dWF2IHRzaSBwYXViIGthaiEgbHViIGNhaWogbnRhd2Qga29q
-IHRzZWVtIHRzYXVnIHpvZyB0aW0gbnBsb2cgdGF1IHNhd3YgbmUsIGx1YiBjYWlqIG50YXdkIGt1
-diB0c2kgeW9nIHl1YXYgdWEgbnVtIHRhcyBsaSByYXUgbHVhZyBrdXYgdHN1YXMgbG9zIHRpYiBs
-d20gdGhhdW0geHViIHRoYXdqIHVhcyBuZWVnIGxvcyB0c2hpYWIgbnRhd2QgeHdiLCBrb2ogcHVh
-cyBwYXViIGxvIGx1cyBIbW9vYiBoYWlzIHRpYXMgIm1lIG50c2lzIiBuby4NCg0KS2F1YiBMaXMg
-dHNpIHRhdSBueW9iIE5vb20gUWhhaXMsIGt1diBwYXViIG1hcyBLYXViIG55b2IgVmliIE5haXMs
-IHFob3YgdWFzIHBlYiB0YXdnIHJvZyBsb3MgbnlvYiB1YSBrZSB5b2cgbnlvYiBQaHd2IFhhbSB1
-YXMgdHVhaiB0aW0gcGhhdiBraGViIG50c2lhIG50c29vdiB0aW0gc2FiIGhudWIgcG9vYiB1YXMg
-eW9nIGx1YiByb29iIHVhcyBzaWFiIGR1YSBjb3YgbnlvYiB0aGFqIHRzYW0gbnRhd2QuIEtvaiBy
-b3YgbXVzIG51ZyBzYWliIEthdWIgcHVhcyB0YXUgbG9zIG55b2IgdGhhaiBudGF3ZCB4d2IgbWFz
-Lg0KDQo+IFlvZyBrb2ogbnJvZyBud3Mgbm9qbnlvYiB1YWtlIHRpbSBWaWJuYWlzIG5vIGtvaiBw
-YXViIEthdWIgdWEgZGFidHNpIHRpZCB0aGlhYiBtYWo/IA0KDQpSYXdzIGxpIGt1diBwYXViIG1h
-cyBLYXViIHFoaWEgbnRhd3YgcmF1IGNvdiB0dWIgbnR4aGFpcyBobHVhcyB4d2IgbHdtIHlhbSBr
-dXYgaG8gdHNpIHBhdWIgdHhvZyBsYXdtIC4NCg0KTHViIENhaWogMTk3NSBudGF3ZCBrb2ogdHNl
-ZW0gdGFiIHRvbSBucm9nIG5wbG9nIGxpYWIgdWEgbXVhaiBjZWVtIGhlZXYgaGxvIHJhdSBsYXd2
-IHNhYizguq3gurLguojgurLgupnguoHgu43gu4jguoTgurvguofguq7gurngu4nguqLgurngu4jg
-u4HguqXgu4nguqfguqfgu4jgurIt4Lqe4Lqy4LqN4Lqr4Lql4Lqx4LqH4LqX4Lq14LuI4Lqe4Lqx
-4LqB4Lqb4Lqw4LqK4Lqy4LqK4Lq74LqZ4Lqb4Lqw4LqV4Lq04Lqn4Lqx4LqU4Lql4Lqy4Lqn4LqC
-4Lqy4LqN4LqK4Lqy4LqU4LuE4LqU4LuJ4LqC4Lq34LuJ4LqZ4LqE4Lqt4LqH4Lqt4LuN4Lqy4LqZ
-4Lqy4LqU4LuB4Lql4LuJ4LqnLOC6nuC6p+C6geC7gOC6guC6u+C6siDguoHgu43gu4jguqXgurXg
-u4nguqHgupTgurPgu4DgupngurXgupngupngurDgu4Lguo3guprgurLguo3gupvgurLguprgupvg
-urLguqHgupvgurDguorgurLguorgurvgupnguprgurHgupngupTgurLguorgurvgupnguorgurLg
-upTguqLgu4jgurLguofgu4LguqvgupTguq7gu4ngurLguo3gupfgurLguqPgurjgupngu4LgupTg
-uo3guqHgurXguoHguq3guofgupfgurDguqvgurLgupnguqfgur3gupTgupngurLguqHgupXgu4jg
-urLguofgupTgu4ngurLguqct4LqI4LuN4Lqy4LqZ4Lqt4LqZ4Lqt4Lqx4LqZ4Lqh4Lqw4Lqr4Lqy
-4LqZ4Lqq4Lqy4LqZ4Lqb4Lqw4Lqq4Lq74Lqh4LqB4Lqx4LqZ4LuC4LqU4LqN4LqB4Lq74LqHLiDg
-uo3gu4nguq3gupnguqfgu4jgurLguqPgurHgupbguprgurLgupngupzgurDgu4DgupTgurHgupTg
-uoHgurLgupkt4LuE4LqU4LuJ4Lqb4Lqw4LqV4Lq04Lqa4Lqx4LqU4LqZ4Lqw4LuC4LqN4Lqa4Lqy
-4LqN4LuA4LqC4Lqx4LqZ4LqC4LuJ4Lqy4LqX4LuN4Lqy4Lql4Lqy4LqNLeC7geC6peC6sC0g4Lqb
-4Lqy4Lqa4Lqb4Lqy4Lqh4Lqb4Lqw4LqK4Lqy4LqK4Lq74LqZ4Lqa4Lqx4LqZ4LqU4Lqy4LqK4Lq7
-4LqZ4LqK4Lqy4LqULeC7guC6lOC6jeC6quC6sOC7gOC6nuC6o+C6suC6sOC7geC6oeC7iOC6meC6
-iuC6u+C6meC7gOC6nOC6u+C7iOC6suC6oeC6u+C7ieC6h+C6l+C6teC7iOC6leC6u+C6geC7gOC6
-m+C6seC6meC7gOC6m+C6u+C7ieC6suC7neC6suC6jS3guoLgu4ngurLguqXgu4ngurLguofgu4Dg
-upzgurvgu4jgurLgup7gurHgupnguoLguq3guofgup7guqfguoHgu4DguoLgurvgurIuIOC6quC6
-sOC6meC6seC7ieC6meC6iuC6suC6p+C6oeC6u+C7ieC6h+C6iOC6t+C7iOC6h+C6iOC7jeC6suC7
-gOC6m+C6seC6meC6leC7ieC6reC6h+C6peC6uOC6geC6ruC6t+C6guC6t+C7ieC6meC6leC7jeC7
-iOC6quC6ueC7ieC7gOC6nuC6t+C7iOC6reC6m+C7ieC6reC6h+C6geC6seC6meC6leC6u+C6meC7
-gOC6reC6h+C6leC6seC7ieC6h+C7geC6leC7iOC6m+C6tS0xOTc1LeC7gOC6m+C6seC6meC6leC6
-u+C7ieC6meC6oeC6si4g4LuD4LqZ4LuA4Lqn4Lql4Lqy4LqZ4Lqx4LuJ4LqZ4Lqt4Lqy4LqI4Lqy
-4LqZIOC6geC7jeC6suC6peC6seC6h+C6oeC6teC6hOC6p+C6suC6oeC6quC6peC6suC6lOC6quC7
-iOC6reC6h+C7g+C6qi3gu4HguqXgurAt4Lqr4LuJ4Lqy4Lqn4Lqr4Lqy4LqZLeC6ouC7iOC6suC6
-h+C7gOC6reC6u+C6suC6iOC6tOC6h+C7gOC6reC6u+C6suC6iOC6seC6h+C6geC6seC6muC6nuC6
-p+C6geC6nuC6seC6geC6m+C6sOC6iuC6suC6iuC6u+C6meC6m+C6sOC6leC6tOC6p+C6seC6lOC6
-peC6suC6p+C6guC6suC6jeC6iuC6suC6lC3gupTgu4nguqfguo3guoTguqfgurLguqHguqvguqHg
-urngu4jguofguqvguqHgurHgu4ngupngupvgurLgupbgurDgu5zgurLguoLguq3guofguq3gurLg
-uojgurLgupnguqLgu4jgurLguofguqrgurjgupTguoLgurXgupQt4LuB4LqV4LuI4LuA4LqW4Lq1
-4LqH4LqX4Lq14LuI4Lqq4Lq44LqU4LqB4LuN4LuI4LuA4Lql4Lq14LqN4Lqr4LqZ4Lq14Lqu4LuJ
-4Lqt4LqZ4LuE4Lqb4LuA4Lqe4Lq04LuI4LqH4LuA4Lqi4Lqx4LqZ4LqE4Lq34Lud4Lq54LuI4Lqe
-4Lqn4LqB4LuA4LqX4Lq74LuI4Lqy4LqZ4Lqx4LuJ4LqZLg0KDQo+IEhvcyBrb2ogbWFzIHRoaWFq
-IGNlbSBtYXNwaGFiIG1hc2xpIGxpIHRlaiBuaWFnIGRldiBkaHVhcyBkZWprdWIgbGkgbmF3ai4g
-U2ViIHRzYW0gbm8ga29qIHR4YXdtIHNpdiB0aWcgbG9vcyBtdXMgY2VtIFRzd3ZQaGVlaiBMaXMg
-dGhpYWIgTGVlIFBhbyBZYW5nIGxhd3YgbGF3bSBsYXdtIG5lLiANCg0KS3V2IHRzaSB0YXUgY2Vt
-IGxpIGxhaXYsIGt1diB0c3VhcyB0aWFzIHVhIGNhcyBMZWUgUG92IFlhaiBsYXd2IHVhIHBsYXVi
-IHh5dWFtIHBoYWosIHR3YiBtdWFiIGhhaXMgcGxhdWIgbnR1ZyB0aWF2IHRhZyBsYXdtIGxvcyB0
-c2VlbSByb3YgbXVhYiBsb3MgaGFpcyBkdWEsIHVhIGNhcyB0c2kgcGF1YiB0eGFqIHFob3YgbXVh
-ZyByYXUgbmVlZyBudGlhaiB0ZWIgaGFpcyBIbW9vYiBsdWIgcGxodSB1YXMgbnlpYW0gcGxhdWIg
-bnR1ZyB4d2Igbm92IG92LiBIb3MgVHN3diBQaGVlaiBMaXMgbGF3diBsb3MgdWEgY2FzIHl1c3Yg
-Y29qIHRzaSBuY2FqIHhhdiBub2oga2hlZWogeHdiIHRoaWFiIG5vIG92IHRzaSB0YXUgY2VtIGxp
-IGtvaiBjZW0ga3V2IGxhaXYsIGtvaiB0c2kgcGF1YiB0aWFzIGhudWIgbm8gdGhhdW0gNTowMFBN
-IG5vIGxhd3YgdHNlZW0gdGFiIHRvbSB5dWF2IHNpYiB0aGFtIGtldiB0eGhpbSBraG8gdHUgcGxh
-dWIgbnR1ZyB0eG9nIG50YXdtIDMgbHViIGhvb20gaGF1bSBzaWIgdHhlZWIgbm9qIDMgY2F1ZyBz
-YWliIHRlaiB0ZWogeHdtIHR4aGVlaiB1YXMga3V2IGhhaXMgbG9zIHNhdW0gcmF1IGhhdXYgSG1v
-bmcgVmlsbGFnZSBudGF3ZCBwdWFzIHl1YXYgbXVhaiBjaGF3IGhhdW0geGVlYiB0YXVzIG5vLiBU
-ZWogeHdtIHR4aGVlaiBIbW9vYiBuaWFqIGhudWIgdWEgcGxhdWIgbnR1ZyBubyB5b2cgdHNlZW0g
-dHNpIHB1YiBoYWlzIHRoaWFiIGNlcyBwZWIgdHNpIHRhcyB5dWF2IHR1YWogaGFpcyBsdXMgcmF1
-IGhhdXYgU0NIIG5vIGxpISEhISAgDQoNCj4gS29qIHBoZWVqIGNlbSBsYXd2IHRhdSBkYWJ0c2kg
-bWFqPyBVYSBjYXMga29qIGhvIHRzaXMgdHVhaiBucm9nIGxhd3Ygc2liIHR4ZWViIHRlaiBueXVh
-ZyBueWlhaiBudGF3ZCBub2ogbWFqPyBMb3MgeW9nIGtoaWItYiBrb2ogbGkgbmFiPw0KDQpMYXd2
-IGxvcyBrdXYgdHNpIHRhdSBjZW0gc2liIHR4ZWViIG5vaiBsb3Mga3V2IHRzaSBueWlhbSB1YSwg
-a2hpYiBsb3Mga3V2IHllZWogdHNpIGtoaWIgbGksIHRhYiBzaXMgcWhvdiB0c2VlYiB5b2cga3V2
-IHhhdiBrb20gc2F3diBkYXdzIHNpYiBoYXVtIHhlZWIgeHdiIG92Lg0KDQoNCllUSw0KDQoNCg==
+T24gTW9uZGF5LCBOb3ZlbWJlciAyNSwgMjAxMyA4OjIwOjQwIFBNIFVUQy02LCBUc2VlbVllZWog d3JvdGU6DQo+IFlhd2cgaGxvYiBZVEsgTnBsb2JDaWFiLA0KPiANCj4gDQo+IA0KPiBPbiBNb25k YXksIE5vdmVtYmVyIDI1LCAyMDEzIDM6NTI6NDggUE0gVVRDLTgsIFlhaiBUc2hhaiBLb29iIHdy b3RlOiANCj4gDQo+ID4gSGFpcyB0eG9nIEthdWIgTGlzIFBhaiBMd2ogbWFzIGt1diB0aGlhYiBu d3Mgd2Igc2liIHBhdWIgem9vIGhlZXYsIHRoYXVtIG55b2IgdGltIHViIG1hcyBwZWIgdGF3ZyBy b2cgbG9zIG55b2IgdWEga29vbSBpYiBsdWIgem9zLg0KPiANCj4gS29qIHRzZWVtIHl1YXYgREFH IGR1YSBpYiBsd20gdGlhcyBrb2ogcGF1YiBLYXViIExpcyBueW9iIE5vb20gUWhhaXMgbm8gcHVh cyB5b2c/IEhhaGFoYS4uLg0KPiANCj4gPiAuLi4gS2F1YiB3YiB5ZWVqIHRhdSBub2ogbnlvYiBr b29tIHpvcyB1YSBrZSBsb3MgdGF1IG50YXUgeHlvbywgDQo+IA0KPiBTdWIgS2F1YiBuZWIgbmlt IG55b2IgdWFrZSB0YXUgbnRhdSB4eW9vIG55b2IgTm9vbXFoYWlzIG9zPyBLb2ogcGFiIHRzaGFi dHhoYWlzIGtvaiBsbyBsdXMgIldvdWxkIFZpc2lvbiIgcHViIGt1diBwYXViIHRoaWFiIHNvaiwg dHhoYWlzIGhhaXMgY2FzIHRoaWFiIHNhdSBsaSBjYXMgdGlhZyBuZSwgdHVzIG5lZWcgdHhhd2og TnRzZSBhd2QuLg0KPiANCj4gDQo+IA0KPiA+IERhaW0gbnRhd3YgdWFzIG11YWIgdHhoYWlzIHVh IGx1cyBGYWIgS2lzIHllZWogeW9nIEthdWIgTGlzIHR4aGFpcyBueW9iIFZpYiANCj4gDQo+ID4g TmFpcywgdHVzIG11YWIgZGFpbSBudGF3diByYXUgS2F1YiBMaXMgVHhoYWlzIG1hcyB5b2cgTWFq IE5hbyBCZWUgWWFuZyB1YXMgDQo+IA0KPiA+IHlvZyBDb2wgTnR4aG9vdiBUc3d2IFlhaiB0dXMg a3d2IG11YWIgcmF1IEthdWIgVHhoYWlzIG50YWcuDQo+IA0KPiBMZWVqIHR3ZyB5b2cgTWFqIE5h byBCZWUgWWFuZyBuYWI/IEhsYSBkaGF1IE5hamtob29tIGxhd20gY2VzIG5laiB0ZWogbnl1YWcg WGFhYiBoYW10c2lzIHBvb2IgdGFnIGxhd20gbGVzIGVzLiBOd3MgbXVhaiBxYWJudHhoaWFiIGRh YiB0c2kgZXMgdGhpYWoga29tIEthdWIgdHhoYWlzIG1haj8gSGFpcyBsdXMgbWFzIGhhaXMga29t IG11YWogcGF1cyBtdWFqIG50c2lzIHRoaWFiIHBvYi4gTnlvYi1iIGVzIEthdWIgY2lhbGkgbGFt IHR4aGFpcyBudGF3IHJhdSB0dXMgdWIgdHVzIG5vIG50YWc/IFlvZyBrb2ogbnJvZyBud3Mgbm9q bnlvYiB1YWtlIHRpbSBWaWJuYWlzIG5vIGtvaiBwYXViIEthdWIgdWEgZGFidHNpIHRpZCB0aGlh YiBtYWo/IA0KPiANCj4gDQo+IA0KPiA+IFlvZyB5dWF2IGhhaXMgcWhvdiBoYWlzIGx1cyBoYWlz IGx1cyBuY2hhdiBtYXMg4Lqt4Lqy4LqI4Lqy4LqZLVRzZWVtWWVlaiBrb2ogeW9nIGliIHR1ZyB1 YXMgIzEgdWFzIGhhaXMgbmNoYXYgdHNoYWogcGxhd3MgdHNpIG11YWogbHdtIHR1cyB5dWF2IHBp diB0YXUgbGkgbGF3bSBsb3MgbWFzLCAgDQo+IA0KPiBRaG92IGt1diBoYWlzIGx1cyBOQ0hBViBt YXMgbXVhaiByZWFzb24gb3YsIGt1diB0c3VhcyBoYWlzIHRpdiB0aGFpdiBrdXYgdGhpYWIga3V2 IHBhYnBhd2cgeHdiIGxhaXYuIEhvcyBrb2ogbWFzIHRoaWFqIGNlbSBtYXNwaGFiIG1hc2xpIGxp IHRlaiBuaWFnIGRldiBkaHVhcyBkZWprdWIgbGkgbmF3ai4gU2ViIHRzYW0gbm8ga29qIHR4YXdt IHNpdiB0aWcgbG9vcyBtdXMgY2VtIFRzd3ZQaGVlaiBMaXMgdGhpYWIgTGVlIFBhbyBZYW5nIGxh d3YgbGF3bSBsYXdtIG5lLiBLb2ogcGhlZWogY2VtIGxhd3YgdGF1IGRhYnRzaSBtYWo/IFVhIGNh cyBrb2ogaG8gdHNpcyB0dWFqIG5yb2cgbGF3diBzaWIgdHhlZWIgdGVqIG55dWFnIG55aWFqIG50 YXdkIG5vaiBtYWo/IExvcyB5b2cga2hpYi1iIGtvaiBsaSBuYWI/DQo+IA0KPiANCj4gDQo+IA0K PiANCj4gPiB4YXYgcGF1YiB0dXMgbmVlZyBucGxvbSBtb2ogbWFzIGtvaiB0ZWcgcm92IG11cyBu dHNpYSB0dXMgbmVlZyB1YSBsaSBrb2ogdGlqID4gbGF1ZyBZZWVqIFBhaiBUc2FiIExpcyBtYXMg dGhpYWogeW9nIHBsaG9tIG1vaiB0aWFnIHRpYWcgbGkgbGF1cywgbXVhYiBYYWIgDQo+IA0KPiA+ IENob2IgcmF1IE1hdW0gRGV2IGx1YiBwaW0gbWFzIHRoaWFqIHlvZyBuZWVnIHBsaG9tIG1vaiBw b2IsIERldiBwdWFzIHRhdSB1YSANCj4gDQo+ID4gdHhoYXVtIHJhdSBZZWVqIExpcyBubz8gVWEg Y2FzIGhvIHRzaSBjb2ogbXVzIGNob2IgcGltIGRldiByYXUgcGVtIExvb2ogQ2VlYiwgPiBlcyB0 c2VlbSBjb2ogbXVzIGNob2IgcmF1IHB1YWcgdGltIFBoYW0gUWhhdW0gbm8uDQo+IA0KPiBOZXYt diB0eGF3bSBzaXYgcm92IERBRyBkdWEgbGF3bSB0aGlhYiBuZXYuIFR3ZyBoYWlzIHJhdSBrb2og dGlhcyBrdXYgdGlqbGF1ZyBZZWVqIG11YWIgWEFiIGNob2IgbWF1bWRldiBwaW0gdGltIFBoYW0g UWhhdW0gbmFiPyBOaWFnIFlUSyBOcGxvYiBDaWFiIGF3ZC4uLg0KPiANCj4gIA0KPiANCj4gPiBU ZWogbHVzIFZham5jdWFiIGhhaXMgbG9zIHNhdW0geWVlaiBoYWlzIHRhdSB5b2cgbHVzIHNpdiB0 YXUgbGF3bSwgcWhvdiB0c2VlYiA+IHRpYWcgbWFzIGtvaiB0YXVnIGtldiBrb2ogeXVhdiB0YXUg eHl1YXMga29qIHR1cyBobmVldiB0YXcgc2FpYiBrb2ogdHN1aiBsaSANCj4gDQo+ID4gY2FzIHRo aWFiLCBsaSBtYW0gaGFpcyBsdWFnIHRlaiwgbnRpYWogdGViIE5lZWcgc2F1IGtlZWIga3dtIGhh dXYgdHhodWEgaGFpdiA+IG55aWFzIHllZWogc2F1IHJhdSBueWlhcyBzYWIgem9vIHRzaGFqIHNh ZC4NCj4gDQo+IFlvZyBsYXdtLCB0b3MgbGF3diBwaGVlaiBpYiBzaWogbXVhYiB0aGFpcyBraGVq IGtoZW0gaWIgbHdtIGxvcyB2aW0gbmVqIHllZWogdHNpcyBsZWVzIHBhdWIgdHhvZyBxaG92ICIg SGxhIGRlaiB5dWF2IHRhdSBobGUga2hhdSwgaGxhdGViIGhsYWNoYXcgeXVhdiB0YXUgaGxlIG1v bSIgbGkgbmUgeW9tLg0KPiANCj4gDQo+IA0KPiBLYXYgdHNpaiA2c2lhYiBudHNvIGNlbSBudGFn IG5hd2IgeWF3ZyBobG9iIFlUSyBEQUcgbmF3Yi4gS3V2IHNhaWIgdGVqIGtvaiBzYXUtYXUgbHVz IE5wbG9nIHJhdSBOcGxvZyB0d20gbnRhd2QgeWVlaiBvayBsYXdtIG50YWcgb3YuLi4uDQo+IA0K PiANCj4gDQo+IA0KPiANCj4gS3V2IHl1YXYgbXVzIHNhaWIgRm9vdGJhbGwgbGFxd20gb3MuLi4N Cj4gDQo+IA0KPiANCj4gDQo+IA0KPiANCj4gDQo+IFRzZWVtWWVlai4NCg0KDQrguq3gurLguojg urLgupktVHNlZW1ZZWVqLCANCg0KPiBTdWIgS2F1YiBuZWIgbmltIG55b2IgdWFrZSB0YXUgbnRh dSB4eW9vIG55b2IgTm9vbXFoYWlzIG9zPyBLb2ogcGFiIHRzaGFidHhoYWlzIGtvaiBsbyBsdXMg IldvdWxkIFZpc2lvbiIgcHViIGt1diBwYXViIHRoaWFiIHNvaiwgdHhoYWlzIGhhaXMgY2FzIHRo aWFiIHNhdSBsaSBjYXMgdGlhZyBuZSwgdHVzIG5lZWcgdHhhd2ogTnRzZSBhd2QuLg0KDQpYeW9v IDE5NzUgbnRhd2Qga29qIHRzZWVtIHRhYiB0b20gbnJvZyBucGxvZyBsaWFiIHNpYiB6b2cgbnRz b3MgZGhpYSBoYXVqIGx3bSByYXUg4Lqe4Lqx4LqB4LuB4Lql4Lqw4Lql4Lqx4LqULXB3IHRzYXVn IHpvZyBucmlzIGthaiBzaWFiIGx1ZyB0aW0gbnBsb2csIHRhYiB0eGF3bSBxaGlhIHR4b2cgIldv cmxkIFZpc2lvbiIgbG9zIGtvaiB5dWF2IHRzaSBwYXViIGthaiEgbHViIGNhaWogbnRhd2Qga29q IHRzZWVtIHRzYXVnIHpvZyB0aW0gbnBsb2cgdGF1IHNhd3YgbmUsIGx1YiBjYWlqIG50YXdkIGt1 diB0c2kgeW9nIHl1YXYgdWEgbnVtIHRhcyBsaSByYXUgbHVhZyBrdXYgdHN1YXMgbG9zIHRpYiBs d20gdGhhdW0geHViIHRoYXdqIHVhcyBuZWVnIGxvcyB0c2hpYWIgbnRhd2QgeHdiLCBrb2ogcHVh cyBwYXViIGxvIGx1cyBIbW9vYiBoYWlzIHRpYXMgIm1lIG50c2lzIiBuby4NCg0KS2F1YiBMaXMg dHNpIHRhdSBueW9iIE5vb20gUWhhaXMsIGt1diBwYXViIG1hcyBLYXViIG55b2IgVmliIE5haXMs IHFob3YgdWFzIHBlYiB0YXdnIHJvZyBsb3MgbnlvYiB1YSBrZSB5b2cgbnlvYiBQaHd2IFhhbSB1 YXMgdHVhaiB0aW0gcGhhdiBraGViIG50c2lhIG50c29vdiB0aW0gc2FiIGhudWIgcG9vYiB1YXMg eW9nIGx1YiByb29iIHVhcyBzaWFiIGR1YSBjb3YgbnlvYiB0aGFqIHRzYW0gbnRhd2QuIEtvaiBy b3YgbXVzIG51ZyBzYWliIEthdWIgcHVhcyB0YXUgbG9zIG55b2IgdGhhaiBudGF3ZCB4d2IgbWFz Lg0KDQo+IFlvZyBrb2ogbnJvZyBud3Mgbm9qbnlvYiB1YWtlIHRpbSBWaWJuYWlzIG5vIGtvaiBw YXViIEthdWIgdWEgZGFidHNpIHRpZCB0aGlhYiBtYWo/IA0KDQpSYXdzIGxpIGt1diBwYXViIG1h cyBLYXViIHFoaWEgbnRhd3YgcmF1IGNvdiB0dWIgbnR4aGFpcyBobHVhcyB4d2IgbHdtIHlhbSBr dXYgaG8gdHNpIHBhdWIgdHhvZyBsYXdtIC4NCg0KTHViIENhaWogMTk3NSBudGF3ZCBrb2ogdHNl ZW0gdGFiIHRvbSBucm9nIG5wbG9nIGxpYWIgdWEgbXVhaiBjZWVtIGhlZXYgaGxvIHJhdSBsYXd2 IHNhYizguq3gurLguojgurLgupnguoHgu43gu4jguoTgurvguofguq7gurngu4nguqLgurngu4jg u4HguqXgu4nguqfguqfgu4jgurIt4Lqe4Lqy4LqN4Lqr4Lql4Lqx4LqH4LqX4Lq14LuI4Lqe4Lqx 4LqB4Lqb4Lqw4LqK4Lqy4LqK4Lq74LqZ4Lqb4Lqw4LqV4Lq04Lqn4Lqx4LqU4Lql4Lqy4Lqn4LqC 4Lqy4LqN4LqK4Lqy4LqU4LuE4LqU4LuJ4LqC4Lq34LuJ4LqZ4LqE4Lqt4LqH4Lqt4LuN4Lqy4LqZ 4Lqy4LqU4LuB4Lql4LuJ4LqnLOC6nuC6p+C6geC7gOC6guC6u+C6siDguoHgu43gu4jguqXgurXg u4nguqHgupTgurPgu4DgupngurXgupngupngurDgu4Lguo3guprgurLguo3gupvgurLguprgupvg urLguqHgupvgurDguorgurLguorgurvgupnguprgurHgupngupTgurLguorgurvgupnguorgurLg upTguqLgu4jgurLguofgu4LguqvgupTguq7gu4ngurLguo3gupfgurLguqPgurjgupngu4LgupTg uo3guqHgurXguoHguq3guofgupfgurDguqvgurLgupnguqfgur3gupTgupngurLguqHgupXgu4jg urLguofgupTgu4ngurLguqct4LqI4LuN4Lqy4LqZ4Lqt4LqZ4Lqt4Lqx4LqZ4Lqh4Lqw4Lqr4Lqy 4LqZ4Lqq4Lqy4LqZ4Lqb4Lqw4Lqq4Lq74Lqh4LqB4Lqx4LqZ4LuC4LqU4LqN4LqB4Lq74LqHLiDg uo3gu4nguq3gupnguqfgu4jgurLguqPgurHgupbguprgurLgupngupzgurDgu4DgupTgurHgupTg uoHgurLgupkt4LuE4LqU4LuJ4Lqb4Lqw4LqV4Lq04Lqa4Lqx4LqU4LqZ4Lqw4LuC4LqN4Lqa4Lqy 4LqN4LuA4LqC4Lqx4LqZ4LqC4LuJ4Lqy4LqX4LuN4Lqy4Lql4Lqy4LqNLeC7geC6peC6sC0g4Lqb 4Lqy4Lqa4Lqb4Lqy4Lqh4Lqb4Lqw4LqK4Lqy4LqK4Lq74LqZ4Lqa4Lqx4LqZ4LqU4Lqy4LqK4Lq7 4LqZ4LqK4Lqy4LqULeC7guC6lOC6jeC6quC6sOC7gOC6nuC6o+C6suC6sOC7geC6oeC7iOC6meC6 iuC6u+C6meC7gOC6nOC6u+C7iOC6suC6oeC6u+C7ieC6h+C6l+C6teC7iOC6leC6u+C6geC7gOC6 m+C6seC6meC7gOC6m+C6u+C7ieC6suC7neC6suC6jS3guoLgu4ngurLguqXgu4ngurLguofgu4Dg upzgurvgu4jgurLgup7gurHgupnguoLguq3guofgup7guqfguoHgu4DguoLgurvgurIuIOC6quC6 sOC6meC6seC7ieC6meC6iuC6suC6p+C6oeC6u+C7ieC6h+C6iOC6t+C7iOC6h+C6iOC7jeC6suC7 gOC6m+C6seC6meC6leC7ieC6reC6h+C6peC6uOC6geC6ruC6t+C6guC6t+C7ieC6meC6leC7jeC7 iOC6quC6ueC7ieC7gOC6nuC6t+C7iOC6reC6m+C7ieC6reC6h+C6geC6seC6meC6leC6u+C6meC7 gOC6reC6h+C6leC6seC7ieC6h+C7geC6leC7iOC6m+C6tS0xOTc1LeC7gOC6m+C6seC6meC6leC6 u+C7ieC6meC6oeC6si4g4LuD4LqZ4LuA4Lqn4Lql4Lqy4LqZ4Lqx4LuJ4LqZ4Lqt4Lqy4LqI4Lqy 4LqZIOC6geC7jeC6suC6peC6seC6h+C6oeC6teC6hOC6p+C6suC6oeC6quC6peC6suC6lOC6quC7 iOC6reC6h+C7g+C6qi3gu4HguqXgurAt4Lqr4LuJ4Lqy4Lqn4Lqr4Lqy4LqZLeC6ouC7iOC6suC6 h+C7gOC6reC6u+C6suC6iOC6tOC6h+C7gOC6reC6u+C6suC6iOC6seC6h+C6geC6seC6muC6nuC6 p+C6geC6nuC6seC6geC6m+C6sOC6iuC6suC6iuC6u+C6meC6m+C6sOC6leC6tOC6p+C6seC6lOC6 peC6suC6p+C6guC6suC6jeC6iuC6suC6lC3gupTgu4nguqfguo3guoTguqfgurLguqHguqvguqHg urngu4jguofguqvguqHgurHgu4ngupngupvgurLgupbgurDgu5zgurLguoLguq3guofguq3gurLg uojgurLgupnguqLgu4jgurLguofguqrgurjgupTguoLgurXgupQt4LuB4LqV4LuI4LuA4LqW4Lq1 4LqH4LqX4Lq14LuI4Lqq4Lq44LqU4LqB4LuN4LuI4LuA4Lql4Lq14LqN4Lqr4LqZ4Lq14Lqu4LuJ 4Lqt4LqZ4LuE4Lqb4LuA4Lqe4Lq04LuI4LqH4LuA4Lqi4Lqx4LqZ4LqE4Lq34Lud4Lq54LuI4Lqe 4Lqn4LqB4LuA4LqX4Lq74LuI4Lqy4LqZ4Lqx4LuJ4LqZLg0KDQo+IEhvcyBrb2ogbWFzIHRoaWFq IGNlbSBtYXNwaGFiIG1hc2xpIGxpIHRlaiBuaWFnIGRldiBkaHVhcyBkZWprdWIgbGkgbmF3ai4g U2ViIHRzYW0gbm8ga29qIHR4YXdtIHNpdiB0aWcgbG9vcyBtdXMgY2VtIFRzd3ZQaGVlaiBMaXMg dGhpYWIgTGVlIFBhbyBZYW5nIGxhd3YgbGF3bSBsYXdtIG5lLiANCg0KS3V2IHRzaSB0YXUgY2Vt IGxpIGxhaXYsIGt1diB0c3VhcyB0aWFzIHVhIGNhcyBMZWUgUG92IFlhaiBsYXd2IHVhIHBsYXVi IHh5dWFtIHBoYWosIHR3YiBtdWFiIGhhaXMgcGxhdWIgbnR1ZyB0aWF2IHRhZyBsYXdtIGxvcyB0 c2VlbSByb3YgbXVhYiBsb3MgaGFpcyBkdWEsIHVhIGNhcyB0c2kgcGF1YiB0eGFqIHFob3YgbXVh ZyByYXUgbmVlZyBudGlhaiB0ZWIgaGFpcyBIbW9vYiBsdWIgcGxodSB1YXMgbnlpYW0gcGxhdWIg bnR1ZyB4d2Igbm92IG92LiBIb3MgVHN3diBQaGVlaiBMaXMgbGF3diBsb3MgdWEgY2FzIHl1c3Yg Y29qIHRzaSBuY2FqIHhhdiBub2oga2hlZWogeHdiIHRoaWFiIG5vIG92IHRzaSB0YXUgY2VtIGxp IGtvaiBjZW0ga3V2IGxhaXYsIGtvaiB0c2kgcGF1YiB0aWFzIGhudWIgbm8gdGhhdW0gNTowMFBN IG5vIGxhd3YgdHNlZW0gdGFiIHRvbSB5dWF2IHNpYiB0aGFtIGtldiB0eGhpbSBraG8gdHUgcGxh dWIgbnR1ZyB0eG9nIG50YXdtIDMgbHViIGhvb20gaGF1bSBzaWIgdHhlZWIgbm9qIDMgY2F1ZyBz YWliIHRlaiB0ZWogeHdtIHR4aGVlaiB1YXMga3V2IGhhaXMgbG9zIHNhdW0gcmF1IGhhdXYgSG1v bmcgVmlsbGFnZSBudGF3ZCBwdWFzIHl1YXYgbXVhaiBjaGF3IGhhdW0geGVlYiB0YXVzIG5vLiBU ZWogeHdtIHR4aGVlaiBIbW9vYiBuaWFqIGhudWIgdWEgcGxhdWIgbnR1ZyBubyB5b2cgdHNlZW0g dHNpIHB1YiBoYWlzIHRoaWFiIGNlcyBwZWIgdHNpIHRhcyB5dWF2IHR1YWogaGFpcyBsdXMgcmF1 IGhhdXYgU0NIIG5vIGxpISEhISAgDQoNCj4gS29qIHBoZWVqIGNlbSBsYXd2IHRhdSBkYWJ0c2kg bWFqPyBVYSBjYXMga29qIGhvIHRzaXMgdHVhaiBucm9nIGxhd3Ygc2liIHR4ZWViIHRlaiBueXVh ZyBueWlhaiBudGF3ZCBub2ogbWFqPyBMb3MgeW9nIGtoaWItYiBrb2ogbGkgbmFiPw0KDQpMYXd2 IGxvcyBrdXYgdHNpIHRhdSBjZW0gc2liIHR4ZWViIG5vaiBsb3Mga3V2IHRzaSBueWlhbSB1YSwg a2hpYiBsb3Mga3V2IHllZWogdHNpIGtoaWIgbGksIHRhYiBzaXMgcWhvdiB0c2VlYiB5b2cga3V2 IHhhdiBrb20gc2F3diBkYXdzIHNpYiBoYXVtIHhlZWIgeHdiIG92Lg0KDQoNCllUSw0KDQoNCg== Yawg hlob YTK nplob khib awd , Xyoo 1975 ntawd koj tseem tab tom nrog nplog liab sib zog ntsos dhia hauj lwm > rau ພັກແລະລັດ- pw tsaug zog nris kaj siab lug tim nplog , tab txawm qhia txog " World Vision " los koj yuav tsi paub kaj !
 
-Yawg hlob YTK nplob khib awd ,
-Xyoo 1975 ntawd koj tseem tab tom nrog nplog liab sib zog ntsos dhia hauj lwm > rau ພັກແລະລັດ- pw tsaug zog nris kaj siab lug tim nplog , tab txawm qhia txog
-" World Vision " los koj yuav tsi paub kaj !
-Yog lub Org . " World Vision " mas yamli kuv kuj hnov dua lawm thiab las mas , spelling los nyaj tau thiab ov , tabsis , koj tus ua HLOB tsuas nros koj txawj - j ntawv es muab sau tias : " would vision " nos ua rau kuv ua mem muj quv lawm xwb os Hahaha .. yawg hlob YTK , tus neeg khavtheeb ua txawj - j ntawv Fabkis thiab ntawv Mekas awd ... World Vision yeej xub tuaj taab rau Vientiane uantej tebchaws tawg lawm os , kuv tsuas ib nyuag khob seb koj puas pom tias koj sau tsis yog lawm xwb nav . Ua ib tug nav kasmoos se , yuav tsum paub luag li yus li CORRECT SPELLING mass thiaj tsis yuam kev laiv . Kuv saib koj tej lus mas luag ntsiab tau thuam twg lawm mam DAG ub DAG no li xwb as . Tib yam li koj hais tias YT & DYD yog tib qhabnab naj ? Hahaha .. DAG awd ...
-Kaub Lis tsi tau nyob Noom Qhais , kuv paub mas Kaub nyob Vib Nais , qhov uas
-peb tawg rog los nyob ua ke yog nyob Phwv Xam uas tuaj tim phav kheb ntsia
-ntsoov tim sab hnub poob uas yog lub roob uas siab dua cov nyob thaj tsam
-ntawd . Koj rov mus nug saib Kaub puas tau los nyob thaj ntawd xwb mas .
+Yog lub Org . "
+World Vision " mas yamli kuv kuj hnov dua lawm thiab las mas , spelling los nyaj tau thiab ov , tabsis , koj tus ua HLOB tsuas nros koj txawj - j ntawv es muab sau tias : " would vision " nos ua rau kuv ua mem muj quv lawm xwb os Hahaha ..
+yawg hlob YTK , tus neeg khavtheeb ua txawj - j ntawv Fabkis thiab ntawv Mekas awd ...
+World Vision yeej xub tuaj taab rau Vientiane uantej tebchaws tawg lawm os , kuv tsuas ib nyuag khob seb koj puas pom tias koj sau tsis yog lawm xwb nav .
+Ua ib tug nav kasmoos se , yuav tsum paub luag li yus li CORRECT SPELLING mass thiaj tsis yuam kev laiv .
+Kuv saib koj tej lus mas luag ntsiab tau thuam twg lawm mam DAG ub DAG no li xwb as .
+Tib yam li koj hais tias YT & DYD yog tib qhabnab naj ?
+Hahaha ..
+DAG awd ...
+
+Kaub Lis tsi tau nyob Noom Qhais , kuv paub mas Kaub nyob Vib Nais , qhov uas peb tawg rog los nyob ua ke yog nyob Phwv Xam uas tuaj tim phav kheb ntsia ntsoov tim sab hnub poob uas yog lub roob uas siab dua cov nyob thaj tsam ntawd .
+Koj rov mus nug saib Kaub puas tau los nyob thaj ntawd xwb mas .
+
 Koj twb hais tias koj kawm ntawv nyob college Samthong no las sav , uacas , tsam no ho hais tias koj nrog Kaub nyob Phwv Xam no naj ?
-Lub Caij 1975 ntawd koj tseem tab tom nrog nplog liab ua muaj ceem heev hlo
-rau lawvsab ,
-Ua tiag laud ... Ntaj nyob saud , hlua nyob hauv diam las as . Luag yog cov yeej lawm nav . Yog tsis kam nrog luag ua ces kawg raug mus kawm xwb . Es koj tus ua hlob pom xeeb taujtab lawv txog tav no , ho tau dabtsi thiab naj ? Ntshais tau VP 2 tee nyuag kua fwjtxwv yaim xwb paub . Hais txog qhov koomtes nrog NplogLiab mas niaj hnub nim no qas Hmoob qas Nplog hajyam rov mus UA NplogLiab thiab HmoobLiab coob tim ua coob lawm os yawg , kuv los twb yuav rov mus UA HmoobLiab xyoo no thiab laiv . Hahaha ... Txhob qw - w es nrog kuv mus xwb mas .
-Koj tsi paub tias hnub no thaum 5 : 00PM no lawv tseem tab tom yuav sib tham
-kev txhim kho tu plaub ntug txog ntawm 3 lub hoom haum sib txeeb noj 3 caug
-saib tej tej xwm txheej uas kuv hais los saum rau hauv Hmong Village ntawd
-puas yuav muaj chaw haum xeeb taus no . Tej xwm txheej Hmoob niaj hnub ua
-plaub ntug no yog tseem tsi pub hais thiab ces peb tsi tas yuav tuaj hais
-lus rau hauv SCH no li !!!!
-Koj pheej mus quavntsej mloog ua tus tsi naj ? Txog caij hloov nws mam fim txawj hloov nws xwb nav . Koj saib nej tus niamNtxhoov twb rov mus koom Tswv Pheej lawm thiab ne . Koj saib peb lub 30 nyob Sacramento no ne , thaum 1998 - 2008 lolus mas sawvdaws yeej npav qhov sib txeeb yawg hlob lub xubntiag xwb , tabsis , qhov tseeb tiag ces yog daim $ xwb ne . Uamus ualos , txog xyoo 2009 , tog pro - VP ntog twj ywm lawm ces , Meskas ciali hu yawm qub uas xub signed contract rov mus txais ua tauj lawm xwb . Plaub ntug tav le hov xwb moj ... Cov niag CobFab los ntog tsa taw hlo xyoo no lawm thiab ces kawg sd zoo siab rov los koom tib lub lawm xwb . Txawm ua tib lub xwb los , xyov tom ntej no pua yuav mus tau thiab ov . Raws kuv ntsia mas yam niag zoo twb ze - e qhov ciaj quav poj lawm sub as .
-Lawv los kuv tsi tau cem sib txeeb noj los kuv tsi nyiam ua , khib los kuv
-yeej tsi khib li , tab sis qhov tseeb yog kuv xav kom sawv daws sib haum
-xeeb xwb ov .
-Hais lus tuaj 1 tog cem 1 tog li ko es tseem pheej tias xav kom sd haum xeeb li cas tau naj ? Kuv twb tias txog caij hloov nws mam fim txawj hloov nws xwb no ne .
+
+Lub Caij 1975 ntawd koj tseem tab tom nrog nplog liab ua muaj ceem heev hlo rau lawvsab , Ua tiag laud ...
+Ntaj nyob saud , hlua nyob hauv diam las as .
+Luag yog cov yeej lawm nav .
+Yog tsis kam nrog luag ua ces kawg raug mus kawm xwb .
+Es koj tus ua hlob pom xeeb taujtab lawv txog tav no , ho tau dabtsi thiab naj ?
+Ntshais tau VP 2 tee nyuag kua fwjtxwv yaim xwb paub .
+Hais txog qhov koomtes nrog NplogLiab mas niaj hnub nim no qas Hmoob qas Nplog hajyam rov mus UA NplogLiab thiab HmoobLiab coob tim ua coob lawm os yawg , kuv los twb yuav rov mus UA HmoobLiab xyoo no thiab laiv .
+Hahaha ...
+Txhob qw - w es nrog kuv mus xwb mas .
+
+Koj tsi paub tias hnub no thaum 5 : 00PM no lawv tseem tab tom yuav sib tham kev txhim kho tu plaub ntug txog ntawm 3 lub hoom haum sib txeeb noj 3 caug saib tej tej xwm txheej uas kuv hais los saum rau hauv Hmong Village ntawd puas yuav muaj chaw haum xeeb taus no .
+Tej xwm txheej Hmoob niaj hnub ua plaub ntug no yog tseem tsi pub hais thiab ces peb tsi tas yuav tuaj hais lus rau hauv SCH no li !!!!
+
+Koj pheej mus quavntsej mloog ua tus tsi naj ?
+Txog caij hloov nws mam fim txawj hloov nws xwb nav .
+Koj saib nej tus niamNtxhoov twb rov mus koom Tswv Pheej lawm thiab ne .
+Koj saib peb lub 30 nyob Sacramento no ne , thaum 1998 - 2008 lolus mas sawvdaws yeej npav qhov sib txeeb yawg hlob lub xubntiag xwb , tabsis , qhov tseeb tiag ces yog daim $ xwb ne .
+Uamus ualos , txog xyoo 2009 , tog pro - VP ntog twj ywm lawm ces , Meskas ciali hu yawm qub uas xub signed contract rov mus txais ua tauj lawm xwb .
+Plaub ntug tav le hov xwb moj ...
+Cov niag CobFab los ntog tsa taw hlo xyoo no lawm thiab ces kawg sd zoo siab rov los koom tib lub lawm xwb .
+Txawm ua tib lub xwb los , xyov tom ntej no pua yuav mus tau thiab ov .
+Raws kuv ntsia mas yam niag zoo twb ze - e qhov ciaj quav poj lawm sub as .
+
+Lawv los kuv tsi tau cem sib txeeb noj los kuv tsi nyiam ua , khib los kuv yeej tsi khib li , tab sis qhov tseeb yog kuv xav kom sawv daws sib haum xeeb xwb ov .
+
+Hais lus tuaj 1 tog cem 1 tog li ko es tseem pheej tias xav kom sd haum xeeb li cas tau naj ?
+Kuv twb tias txog caij hloov nws mam fim txawj hloov nws xwb no ne .
+
 TseemYeej .
 
-Tijlaug Yajtshajkoob & Uncle TseemYeej ;
-Lub May 2013 dhaus los no neb nyuam qhuav sib nraus tag , Thorn cheem neb , neb ua Thorn tu siab nrho lawm .  Hnub no neb tseem yuav rov sib nraus duas los ?
-Vajncuab5
+Tijlaug Yajtshajkoob & Uncle TseemYeej ; Lub May 2013 dhaus los no neb nyuam qhuav sib nraus tag , Thorn cheem neb , neb ua Thorn tu siab nrho lawm .
+Hnub no neb tseem yuav rov sib nraus duas los ?
 
-cov heev nyuj no mas yuav kom thim loo tauvhau tig loo mus nws ib ceg ntuj kom txhob sib nraus mas seb puas yog thaum nws ntsib phaw MEVES xwb laud . yog ntsib heev nyuj ib yam xwb mas NRAUS 101% tsam no lawv hov kub ntse2 lawm mas lawv xav CHOB kiag tus sab tod muab nws kwv thiab nyom kiag kom nws dhia tawm . saib yo9utube kuv twb pom hmoob meskas mus yug nyuj sib nrau tim ub coovb tus . muah npe mus yug nyuj sib nrau xwb tiag2 mas mus coj cov mos 22  li 12 - 17 coj mus lawm nram VT coj mus pw HOTEL ib ob week mamli rov mus saib nyuj ib nyug lwm xwb mas cov 12 - 17 tus NRUJ2 CEEV2 mas yog tus #1 kawg . kuv twb pom lawv mus yees tau VDO hmoob coj cov mos2 nruj2/ceev2 mus THEEV nram HOTEL lawv ham tsis tau txhua yamli lawv nyiam . ib xyoo twg ntshe kuv yuav mus nrog lawv yug nyuj sib nraus tim ub thian ho lawv mus yug cov nyuj 4 tes taw kuv mus yug cov 2 txais taw xwb . nej TXHOB txeeb tus 22 li tus no xwb mas :
-http ://www . youtube . com/watch ? v=RCwOQpWIxmE
-nws tias nws tiav nkaujlawm yuav DAJ yuav DEEVlos tau ywj lub siab tabsis kom LAV xwb nws tsis ntshai yuav lwj yuav liam . nws paub t ias tsislam tawg los yog nrwb pleb li lawm .
+Vajncuab5 cov heev nyuj no mas yuav kom thim loo tauvhau tig loo mus nws ib ceg ntuj kom txhob sib nraus mas seb puas yog thaum nws ntsib phaw MEVES xwb laud .
+yog ntsib heev nyuj ib yam xwb mas NRAUS 101% tsam no lawv hov kub ntse2 lawm mas lawv xav CHOB kiag tus sab tod muab nws kwv thiab nyom kiag kom nws dhia tawm .
+saib yo9utube kuv twb pom hmoob meskas mus yug nyuj sib nrau tim ub coovb tus .
+muah npe mus yug nyuj sib nrau xwb tiag2 mas mus coj cov mos 22 li 12 - 17 coj mus lawm nram VT coj mus pw HOTEL ib ob week mamli rov mus saib nyuj ib nyug lwm xwb mas cov 12 - 17 tus NRUJ2 CEEV2 mas yog tus #1 kawg .
+kuv twb pom lawv mus yees tau VDO hmoob coj cov mos2 nruj2/ceev2 mus THEEV nram HOTEL lawv ham tsis tau txhua yamli lawv nyiam .
+ib xyoo twg ntshe kuv yuav mus nrog lawv yug nyuj sib nraus tim ub thian ho lawv mus yug cov nyuj 4 tes taw kuv mus yug cov 2 txais taw xwb .
+nej TXHOB txeeb tus 22 li tus no xwb mas : http ://www . website . net/watch ?
+v=RCwOQpWIxmE nws tias nws tiav nkaujlawm yuav DAJ yuav DEEVlos tau ywj lub siab tabsis kom LAV xwb nws tsis ntshai yuav lwj yuav liam .
+nws paub tias tsislam tawg los yog nrwb pleb li lawm .
 
-tus no los PUV2 tuaj lawm ntxim li yuav zoo khawm zoo tawb kawg . kuv mus yug nyuj sib nraus tim ub mas kuv mus yug hom zoo li no xwb laud :
-http ://www . youtube . com/watch ? v=TUVeJDrUzFs
+tus no los PUV2 tuaj lawm ntxim li yuav zoo khawm zoo tawb kawg .
+kuv mus yug nyuj sib nraus tim ub mas kuv mus yug hom zoo li no xwb laud : http ://www . website . net/watch ?
+v=TUVeJDrUzFs ອາຈານ- TseemYeej , Koj twb hais tias koj tsi txawj Dag li no neb ua cas lub koom haum World Vision ntawd txawm siv tuaj rau hauv nplog ua ntej tawg teb chaws lawm no , koj sim qhia kuv saib lub ກະຊວງ- nplog hu li cas yog lub muaj feem xyuam nrog lub World Vision ntawd los saib xyuas txog fab tib neeg tawg rog los sis tau kev txom nyem nab .
 
-ອາຈານ- TseemYeej ,
-Koj twb hais tias koj tsi txawj Dag li no neb ua cas lub koom haum World Vision ntawd txawm siv tuaj rau hauv nplog ua ntej tawg teb chaws lawm no , koj sim qhia kuv saib lub ກະຊວງ- nplog hu li cas yog lub muaj feem xyuam nrog lub World Vision ntawd los saib xyuas txog fab tib neeg tawg rog los sis tau kev txom nyem  nab .
-YTK
+YTK Kwv Vajncuab , Yog neeg paub tab thim xav ces tsi lam yuav tsoo pam thawj ib zaug , tsi hais leej twg muaj qee qhov kuj yuav yuam kev me ntsi los kuj muaj , tab sis tsuav yog hais raws li qhov lawv yeej ua muaj lawm tsi tau ntxo leej twg tsuas yog yuam kev tus neeg xwb mam tshab txhais mus rau qhov uas yog tus neeg xwb twb tau lawm , tsi tas yuav khav theeb tias paub paub li ntawd .
 
-Kwv Vajncuab ,
-Yog neeg paub tab thim xav ces tsi lam yuav tsoo pam thawj ib zaug , tsi hais leej twg muaj qee qhov kuj yuav yuam kev me ntsi los kuj muaj , tab sis tsuav yog hais raws li qhov lawv yeej ua muaj lawm tsi tau ntxo leej twg tsuas yog yuam kev tus neeg xwb mam tshab txhais mus rau qhov uas yog tus neeg xwb twb tau lawm , tsi tas yuav khav theeb tias paub paub li ntawd .
-YTK
+YTK Tus brother VajNcuab , 2 tus txiv nyuj sam , YTK thiab TY no mas raws li kuv tau tuaj observed mas nkawv 2 niag kub npub ib yam nkaus xwb .
+Ib sij tso pam thawj ib zaug , tab sis lam tso pam thawj qhuav xwb twb tsis chob dab tsi li .
+Uj sim , uj sim .....
+Luag tej phaw nyuj kub zuag tiag yeej tsis lam tuaj ua li 2 tug no .
+2 tug txiv nyuj sam no mas kuv xav tias tej tsam tsis muaj neeg lawm ntshe 1 tug tseem nce 1 tug pob tw ua mos mos thiab los tsis paub thiab ov hiv ...
+hiv ....
+hiv .....
 
-Tus brother VajNcuab , 2 tus txiv nyuj sam , YTK thiab TY no mas raws li kuv tau tuaj observed mas nkawv 2 niag kub npub ib yam nkaus xwb .  Ib sij tso pam thawj ib zaug , tab sis lam tso pam thawj qhuav xwb twb tsis chob dab tsi li . Uj sim , uj sim .....   Luag tej phaw nyuj kub zuag tiag yeej tsis lam tuaj ua li 2 tug no .  2 tug txiv nyuj sam no mas kuv xav tias tej tsam tsis muaj neeg lawm ntshe 1 tug tseem nce 1 tug pob tw ua mos mos thiab los tsis paub thiab ov hiv ... hiv .... hiv .....
+RUAM tsab NTSE ces yog li no tiag , koj sim mus nyeem World Vision qhov statement no mas : " World Vision first entered the Lao PDR in 1968 when activities included building and repairing hundreds of schools , many health stations and facilities , as well as roads and water systems ; training and capacity building of thousands of health , education , rural development and agriculture staff of the Lao government , and benefiting millions of villages with flood relief and community rehabilitation programs ."
+Yog xav nyeem ntxiv mus tshawb luag li ntaub ntawv kom meej nawb .
 
-RUAM tsab NTSE  ces yog li no tiag , koj sim mus nyeem World Vision  qhov statement no mas :
-" World Vision first entered the Lao PDR in 1968 when activities included building and repairing hundreds of schools , many health stations and facilities , as well as roads and water systems ; training and capacity building of thousands of health , education , rural development and agriculture staff of the Lao government , and benefiting millions of villages with flood relief and community rehabilitation programs ." Yog xav nyeem ntxiv mus tshawb luag li ntaub ntawv kom meej nawb .
-Koj xav tias ntshe koj yog thawj tug no pob ? Hahaha ... Kuv tsis yog neeg thov khawv , thiaj tsis tau khoom dawb ntawm lawv xwb , tabsis yeej paub tias muaj nyob Nplogteb uantej tebchaws tawg lawm nav .
+Koj xav tias ntshe koj yog thawj tug no pob ?
+Hahaha ...
+Kuv tsis yog neeg thov khawv , thiaj tsis tau khoom dawb ntawm lawv xwb , tabsis yeej paub tias muaj nyob Nplogteb uantej tebchaws tawg lawm nav .
+
 Ua cas tsis teb kuv tias koj kawm ntawv nyob Samthong los yog koj nrog Kaub Lis nyob Phuv XAm lawm naj ?
+
 TseemYeej .
 
-VajNcuab ,
-Yam twg kuv tsis paub , kuv tsis lam tau lam hais nawb . Yawg hlob YTK claim tias nws kawm ntawv nyob college SAmthong no ua cas tsam no ho los hais tias nws nrog Kaub Lis nyob Phuv Xam  no thiab maj ?
-Hais txog World Vision mas nws tsuas nros nws sau li no ne : " would vision ". Yog li kuv thiaj nug nws , nws tseem cav muaj phlus nug hais tias : " ua cas lub koom haum World Vision ntawd txawm siv tuaj rau hauv nplog ua ntej tawg teb chaws lawm no , koj sim qhia kuv saib lub ກະຊວງ- nplog hu li cas yog lub muaj feem xyuam nrog lub World Vision ntawd "
-YT & DYD were not 1 qhabnab caum nom Hmoob tawm nawb . Thaum ntawd DYD tseem ua nom Montri Pasom Kanhmuang , nws tsis lam yuav cev voj hlua khi nws caj dab ib zaug . YT tseem kawm ntawv nyob second xwb nav .
-Yam twg muaj li mam hais thiaj yog , txhob lam tau lam phlom moj , lam tau lam muab nyuj qua xyaw nees zis li ntawd . Koj tus kheej twb nug information ntawm kuv ntau zaus thiab ne , kuv tsis lam muab WRONG INFORMATION rau leej twg ib zaug li nawb .
+VajNcuab , Yam twg kuv tsis paub , kuv tsis lam tau lam hais nawb .
+Yawg hlob YTK claim tias nws kawm ntawv nyob college SAmthong no ua cas tsam no ho los hais tias nws nrog Kaub Lis nyob Phuv Xam no thiab maj ?
+
+Hais txog World Vision mas nws tsuas nros nws sau li no ne : " would vision ".
+Yog li kuv thiaj nug nws , nws tseem cav muaj phlus nug hais tias : " ua cas lub koom haum World Vision ntawd txawm siv tuaj rau hauv nplog ua ntej tawg teb chaws lawm no , koj sim qhia kuv saib lub ກະຊວງ- nplog hu li cas yog lub muaj feem xyuam nrog lub World Vision ntawd " YT & DYD were not 1 qhabnab caum nom Hmoob tawm nawb .
+Thaum ntawd DYD tseem ua nom Montri Pasom Kanhmuang , nws tsis lam yuav cev voj hlua khi nws caj dab ib zaug .
+YT tseem kawm ntawv nyob second xwb nav .
+
+Yam twg muaj li mam hais thiaj yog , txhob lam tau lam phlom moj , lam tau lam muab nyuj qua xyaw nees zis li ntawd .
+Koj tus kheej twb nug information ntawm kuv ntau zaus thiab ne , kuv tsis lam muab WRONG INFORMATION rau leej twg ib zaug li nawb .
+
 TseemYeej .
 
-Tijlaug Yajtshajkoob ;
-Koj lub npe Yajtshajkoob yog npe cuav thiab yog npe pojntxoog , Uncle TseemYeej txawm cem koj los yawg tsis paub koj zoo , yawg lam nyem phom rau sau ntuj xwb .  Txawm Uncle TseemYeej hais los yuav tsis mob koj .  Uncle TseemYeej mas koj yeej tua kiag duab pliag ntag , txawm li ntawd los zoo li twb tsis khaus yawg .
-Uncle TseemYeej ;
-Ntawm Yaj Thoj ( YT ) thiab Dr . Yang Dao ( YD ) mas yeej yog li koj hais , Dr . Yang Dao hla dej Naj Khoom rau Thaibteb thaum May 15 , 1975 thaum 3 . 00 AM tsis tau kaj ntug thiab tuaj nyob Nam Phong los Hmoob tseem liam hais tias July 1975 Yang Dao tseem dag kom Hmoob txhobkhiav nyob Looj Ceeb , Phav Kheb , Moos Cab & Nas Xus . Qhov hais tias Dr . Yang Dao tuaj Pathet Lao tog tawm tsam cov nomtswv tog Vientiane mas tsis muaj tseeb .
+Tijlaug Yajtshajkoob ; Koj lub npe Yajtshajkoob yog npe cuav thiab yog npe pojntxoog , Uncle TseemYeej txawm cem koj los yawg tsis paub koj zoo , yawg lam nyem phom rau sau ntuj xwb .
+Txawm Uncle TseemYeej hais los yuav tsis mob koj .
+Uncle TseemYeej mas koj yeej tua kiag duab pliag ntag , txawm li ntawd los zoo li twb tsis khaus yawg .
+
+Uncle TseemYeej ; Ntawm Yaj Thoj ( YT ) thiab Dr .
+Yang Dao ( YD ) mas yeej yog li koj hais , Dr .
+Yang Dao hla dej Naj Khoom rau Thaibteb thaum May 15 , 1975 thaum 3 . 00 AM tsis tau kaj ntug thiab tuaj nyob Nam Phong los Hmoob tseem liam hais tias July 1975 Yang Dao tseem dag kom Hmoob txhobkhiav nyob Looj Ceeb , Phav Kheb , Moos Cab & Nas Xus .
+Qhov hais tias Dr .
+Yang Dao tuaj Pathet Lao tog tawm tsam cov nomtswv tog Vientiane mas tsis muaj tseeb .
+
 Ntawm Yaj Thoj mas June 1975 cov Pathet Lao tim Sam Sem tuaj txog Nam Tao thiab tuaj nyob hauv Tojxeem Lis Xeem Thoj tsev , Tojxeem Lis Xeem thiaj khiav los mus rau Phwvnyawm , tabsi thaum lawv los txog Phwv Yais , Suav Ntxawg Thoj lawv yuav ntes Txooj Zeb Thoj vim Txooj Zeb muaj ib rab yaj phom 38 , yog li lawv thiaj khiav rov qab los ua Cob Fab nyob Phou Kong Kho , Yaj Thoj txiv lawv thiaj los nyob rau Roob Ncaib , Yaj Thoj thiaj los ua Khabnab Tojxeem Pham Neeb txog hnub yawg qiv kauv txhais los rau Thaib .
+
 Vajncuab5

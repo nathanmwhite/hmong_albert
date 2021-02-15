@@ -1,14 +1,9 @@
-kuv pom zoo qhov lawv build dam thiab vim xuam ntau cov chaw lawv
-build no nws tsis zoo ua noj ua haus , tsuas yog toj roob thiab kwj ha
-ntau xwb ces lawv thiaj li ua dam rau kom  lawv tau ntses lwj noj
-thiab tau fais fab muag rau lwm tebchaws . qhov kuv tsis pom zoo mas
-yog lawv tau nyiaj tsis coj los xab xam pab rau cov pej xeem . kuv kuj
-tsis tau ncig mus saib kom tag nrho tab sis kuv kuj mus saib tej co
-lawm thiab nws yeej tsis zoo ua noj ab tsi li , ua teb li hmoob ua ces
-kuj muaj tej qho kuj zoo thiab hos dua li ces yeej yog ntxab ntau xwb .
-thiab qhov tseeb tiag ces cov dam no yog own by foreigner thiab build
-by foreigner xwb yog li nplog liab twb tsis muaj feem cuam nyob rau
-hauv li . nyab laj tuaj build rau nyab laj siv xwb hos nplog ces heev
-kwg los tsuas tau qhov tax xwb . dua li ces nyab laj thiab thaib nqa du
-lug lawm .
+kuv pom zoo qhov lawv build dam thiab vim xuam ntau cov chaw lawv build no nws tsis zoo ua noj ua haus , tsuas yog toj roob thiab kwj ha ntau xwb ces lawv thiaj li ua dam rau kom lawv tau ntses lwj noj thiab tau fais fab muag rau lwm tebchaws .
+qhov kuv tsis pom zoo mas yog lawv tau nyiaj tsis coj los xab xam pab rau cov pej xeem .
+kuv kuj tsis tau ncig mus saib kom tag nrho tab sis kuv kuj mus saib tej co lawm thiab nws yeej tsis zoo ua noj ab tsi li , ua teb li hmoob ua ces kuj muaj tej qho kuj zoo thiab hos dua li ces yeej yog ntxab ntau xwb .
+
+thiab qhov tseeb tiag ces cov dam no yog own by foreigner thiab build by foreigner xwb yog li nplog liab twb tsis muaj feem cuam nyob rau hauv li .
+nyab laj tuaj build rau nyab laj siv xwb hos nplog ces heev kwg los tsuas tau qhov tax xwb .
+dua li ces nyab laj thiab thaib nqa du lug lawm .
+
 amen
