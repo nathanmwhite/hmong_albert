@@ -533,6 +533,19 @@ def preprocess_texts(filenames, filepath):
         f.close()
         data = [l.strip() for l in data]
         # find paragraphs based on [.!?] or combinations [."!"?"]
+        while True:
+            # file is in fact empty
+            if len(data) == 0:
+                empty = True
+                break
+            # truncate if final line is empty
+            elif len(data[-1]) == 0:
+                data = data[:-1]
+            else:
+                empty = False
+                break
+        if empty == True:
+            continue
         paras = split_paragraphs(data)
         # join content within paragraphs and split on [.!?] and [."!"?"]
         paras = [' '.join(p) for p in paras]
