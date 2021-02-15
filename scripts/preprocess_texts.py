@@ -509,16 +509,10 @@ def insert_lines(data_in):
     flattened_data = [line for series in spaced_data for line in series]
     return flattened_data
 
-def preprocess_texts(filenames):
-    # e.g. /home/nathan/python_workspace/git_clones/hmong_albert/albert_raw_data/pretrain/med_like/disabilityrightsCA
-    dirname = os.path.dirname(filenames[0])
-    # e.g. pretrain/med_like/disabilityrightsCA
-    relative_path = os.path.relpath(dirname, 'albert_raw_data')
-    if relative_path = '':
-        raise FileNotFoundError('Raw data folder "albert_raw_data" not found in filepath provided.')
+def preprocess_texts(filenames, filepath):
     processed_data_path = 'albert_first_preprocess'
     # e.g. albert_first_preprocess/pretrain/med_like/disabilityrightsCA
-    target_path = processed_data_path + os.path.sep + relative_path
+    target_path = re.sub('albert_raw_data', processed_data_path, filepath)
 
     for file in filenames:
         if os.path.isdir(file):
@@ -535,14 +529,17 @@ def preprocess_texts(filenames):
         # insert extra line after each paragraph
         final_lines = insert_lines(lines)
         # save output data to file
+        output_path = target_path + os.path.sep + file
         try:
-            out_f = open(target_path + os.path.sep + file, 'w')
+            out_f = open(output_path, 'w')
         except OSError:
-            pass
-        for line in final_lines:
-            out_f.write(line)
-            out_f.write('\n')
-        out_f.close()
+            print("OSError: path " + target_path + " does not exist.")
+            raise
+        else:
+            for line in final_lines:
+                out_f.write(line)
+                out_f.write('\n')
+            out_f.close()
 
 def single_process_text(filename):
     f = open(filename, 'r')
@@ -563,4 +560,4 @@ if __name__ == "__main__":
         print("The filepath %s does not refer to a folder that exists.", filepath)
     else:
         files = os.listdir(filepath)
-        preprocess_texts(files)
+        preprocess_texts(files, filepath)
