@@ -1,11 +1,10 @@
 #!/bin/bash
-#SBATCH -N 2
+#SBATCH -N 3
 #SBATCH --job-name=hmong_albert_pretrain
-#SBATCH -n 8
-#SBATCH -c 1
-#SBATCH --mem=100000
+#SBATCH -n 6
+#SBATCH --mem=50000
 #SBATCH --partition=gpu
-#SBATCH --gres=gpu:tesla-smx2:8
+#SBATCH --gres=gpu:tesla:2
 #SBATCH -e pretraining_error.txt
 
 # run_pretraining.sh
@@ -67,10 +66,9 @@ fi
 srun -n3 --mpi=pmix_v2 python3 -m albert.run_pretraining \
 	--input_file=$CASED_INPUT \
 	--output_dir=$CASED_OUTPUT \
-	--init_checkpoint=None \
 	--albert_config_file=albert_config.json \
 	--do_train \
-	--do_eval
+	--do_eval \
 	--train_batch_size=4096 \
 	--eval_batch_size=64 \
 	--max_seq_length=128 \
