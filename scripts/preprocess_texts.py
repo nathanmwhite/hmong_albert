@@ -356,6 +356,7 @@ def fix_line(line_in):
     line = re.sub('www *\. *dss *\. *cahwnet *\. *gov', 'www.website.net', line)
     line = re.sub('www ?\. ?[A-Za-z]{1,} ?\.( ?(ca|mn|wi) ?\.)? ?(htm|net|com|org|edu|gov)', 'www.website.net', line)
     line = re.sub('http[A-Za-z0-9.\-/: ]+?(net|NET|com|COM|org|ORG|edu|EDU|gov|GOV|us|US)', 'http://www.website.net', line)
+    line = re.sub('www[A-Za-z0-9.\-/: ]+?(net|NET|com|COM|org|ORG|edu|EDU|gov|GOV|us|US)', 'www.website.net', line)
     line = re.sub('www[A-Za-z0-9.\-/: ]+?(net|NET|com|COM|org|ORG|edu|EDU|gov|GOV|us|US)[A-Za-z0-9.\-/: ]+?(htm|HTM|html|HTML|pdf|PDF)', 'www.website.net', line)
     line = re.sub('[A-Za-z0-9]{1,}( \. [A-Za-z0-9]{1,})*@[A-Za-z0-9]{1,} ?\. ?((ca|mn|wi) ?\. ?)? (htm|net|com|org|edu|gov|pdf|us)', 'email@website.net', line)
 
