@@ -25,6 +25,12 @@ __author__ = "Nathan M. White"
 __author_email__ = "nathan.white1@my.jcu.edu.au"
 
 def fix_line(line_in):
+    """
+    fix_line preprocesses a line to ensure spacing errors are removed
+        and legal and website references are simplified
+    @param line_in : string to preprocess
+    returns : string that has undergone preprocessing
+    """
     line = line_in
     # fix website addresses -- pull in from other sources
     line = re.sub(' ht ml ', ' html ', line)
@@ -421,11 +427,13 @@ def split_paragraphs(data_in):
 
     return paras
 
-def split_sentences(paras_in):
+def split_sentences(paras_in, fix_line=False):
     """
     split_sentences splits paragraphs into sentences based on
     positions of punctuation.
     @param paras_in : list of strings representing paragraphs
+    @param fix_line : boolean indicating whether line should be processed
+        by fix_line function
     returns : list of lists where each list is a paragraph
         containing sentences as strings
     """
@@ -433,7 +441,8 @@ def split_sentences(paras_in):
     for item in paras_in:
         current_para = []
         remaining_line = item
-        remaining_line = fix_line(remaining_line)
+        if fix_line:
+            remaining_line = fix_line(remaining_line)
         while True:
             re_to_match = '(?<![1-9])(?<![1-9] )(?<! [1-9] )(?<! [A-Fa-fv] )(?<! [A-Fa-fv])(?<!^[A-Fa-f])(?<!^[A-Fa-f] )(?<!www)[.!?]{1,} ?\)?"?(?!(htm|net|com|org|edu|gov|pdf|asp))'
             found = re.search(re_to_match, remaining_line)
@@ -567,6 +576,11 @@ def preprocess_texts(filenames, filepath):
             out_f.close()
 
 def single_process_text(filename):
+    """
+    single_process_text preprocesses a single file
+    @param filename : the path to the file to be preprocessed
+    returns : a list of preprocessed lines
+    """
     f = open(filename, 'r')
     data = f.readlines()
     data = [l.strip() for l in data]
