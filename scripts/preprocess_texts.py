@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # Text preprocessing script for Hmong ALBERT project
-# Copyright (c) 2021 Hmong Medical Corpus Project
+# Copyright (c) 2021 Nathan M. White, as part of the Hmong Medical Corpus project
 # Author : Nathan M. White <nathan.white1@my.jcu.edu.au>
 """
 This script preprocesses texts for use with ALBERT.
@@ -15,7 +15,31 @@ import string
 import sys
 
 # Copyright notice
-__copyright__ = "Copyright (c) 2021 Hmong Medical Corpus Project"
+__copyright__ = "Copyright (c) 2021 Nathan M. White, as part of the Hmong Medical Corpus project"
+
+# License
+__license__ = """MIT License
+
+Copyright (c) 2021 Nathan M. White
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+"""
 
 # project_url
 __url__ = "https://corpus.ap-southeast-2.elasticbeanstalk.com/hminterface"
